@@ -1,0 +1,925 @@
+{
+  "data": [
+    {
+      "title": "round 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "wuhan open",
+      "date": {
+        "day": "08/10/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      ]
+    },
+    {
+      "title": "match",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "08/10/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "chelsea - real madrid",
+      "teams": {
+        "home": "chelsea",
+        "away": "real madrid"
+      },
+      "sport": "soccer (w)",
+      "competition": "champions league",
+      "date": {
+        "day": "08/10/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "match",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "09/10/2024",
+        "time": "06:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "quarters",
+      "teams": {
+        "home": "quarters"
+      },
+      "sport": "snooker",
+      "competition": "wuhan open",
+      "date": {
+        "day": "09/10/2024",
+        "time": "08:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      ]
+    },
+    {
+      "title": "round 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "wuhan open",
+      "date": {
+        "day": "09/10/2024",
+        "time": "08:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      ]
+    },
+    {
+      "title": "match",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "09/10/2024",
+        "time": "08:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "match",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "09/10/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+      ]
+    },
+    {
+      "title": "match",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "09/10/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "quarters",
+      "teams": {
+        "home": "quarters"
+      },
+      "sport": "snooker",
+      "competition": "wuhan open",
+      "date": {
+        "day": "09/10/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      ]
+    },
+    {
+      "title": "round 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "wuhan open",
+      "date": {
+        "day": "09/10/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      ]
+    },
+    {
+      "title": "match",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "09/10/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "napoca - valencia",
+      "teams": {
+        "home": "napoca",
+        "away": "valencia"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "09/10/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+      ]
+    },
+    {
+      "title": "monaco - maccabi",
+      "teams": {
+        "home": "monaco",
+        "away": "maccabi"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "09/10/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "red star - baskonia",
+      "teams": {
+        "home": "red star",
+        "away": "baskonia"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "09/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      ]
+    },
+    {
+      "title": "gran canaria - bahcesehir koleji",
+      "teams": {
+        "home": "gran canaria",
+        "away": "bahcesehir koleji"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "09/10/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+      ]
+    },
+    {
+      "title": "manchester city - barcelona",
+      "teams": {
+        "home": "manchester city",
+        "away": "barcelona"
+      },
+      "sport": "soccer (w)",
+      "competition": "champions league",
+      "date": {
+        "day": "09/10/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "quarters",
+      "teams": {
+        "home": "quarters"
+      },
+      "sport": "snooker",
+      "competition": "wuhan open",
+      "date": {
+        "day": "10/10/2024",
+        "time": "08:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      ]
+    },
+    {
+      "title": "quarters 1",
+      "teams": {
+        "home": "quarters 1"
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "10/10/2024",
+        "time": "09:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "quarters 2",
+      "teams": {
+        "home": "quarters 2"
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "10/10/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "draw",
+      "teams": {
+        "home": "draw"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "10/10/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+      ]
+    },
+    {
+      "title": "quarters",
+      "teams": {
+        "home": "quarters"
+      },
+      "sport": "snooker",
+      "competition": "wuhan open",
+      "date": {
+        "day": "10/10/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      ]
+    },
+    {
+      "title": "efes - fenerbahce",
+      "teams": {
+        "home": "efes",
+        "away": "fenerbahce"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "10/10/2024",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      ]
+    },
+    {
+      "title": "asvel - virtus",
+      "teams": {
+        "home": "asvel",
+        "away": "virtus"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "10/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+      ]
+    },
+    {
+      "title": "panathinaikos - bayern munich",
+      "teams": {
+        "home": "panathinaikos",
+        "away": "bayern munich"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "10/10/2024",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "barcelona - aalborg",
+      "teams": {
+        "home": "barcelona",
+        "away": "aalborg"
+      },
+      "sport": "handball",
+      "competition": "champions league",
+      "date": {
+        "day": "10/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "real madrid - partizan",
+      "teams": {
+        "home": "real madrid",
+        "away": "partizan"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "10/10/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+      ]
+    },
+    {
+      "title": "ecuador - paraguay",
+      "teams": {
+        "home": "ecuador",
+        "away": "paraguay"
+      },
+      "sport": "soccer",
+      "competition": "conmebol classification",
+      "date": {
+        "day": "10/10/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+        "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393",
+        "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"
+      ]
+    },
+    {
+      "title": "venezuela - argentina",
+      "teams": {
+        "home": "venezuela",
+        "away": "argentina"
+      },
+      "sport": "soccer",
+      "competition": "conmebol classification",
+      "date": {
+        "day": "10/10/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
+        "acestream://931b1984badcb821df7b47a66ac0835ac871b51c",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+      ]
+    },
+    {
+      "title": "chile - brazil",
+      "teams": {
+        "home": "chile",
+        "away": "brazil"
+      },
+      "sport": "soccer",
+      "competition": "conmebol classification",
+      "date": {
+        "day": "11/10/2024",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
+        "acestream://931b1984badcb821df7b47a66ac0835ac871b51c",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+      ]
+    },
+    {
+      "title": "seahawks - 49ers",
+      "teams": {
+        "home": "seahawks",
+        "away": "49ers"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "11/10/2024",
+        "time": "02:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      ]
+    },
+    {
+      "title": "wuan - quarters",
+      "teams": {
+        "home": "wuan",
+        "away": "quarters"
+      },
+      "sport": "tennis",
+      "competition": "wta world tour",
+      "date": {
+        "day": "11/10/2024",
+        "time": "05:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+      ]
+    },
+    {
+      "title": "semifinals",
+      "teams": {
+        "home": "semifinals"
+      },
+      "sport": "snooker",
+      "competition": "wuhan open",
+      "date": {
+        "day": "11/10/2024",
+        "time": "08:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      ]
+    },
+    {
+      "title": "sevilla masters - day 1",
+      "teams": {
+        "home": "sevilla masters",
+        "away": "day 1"
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "11/10/2024",
+        "time": "09:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "quarters 3",
+      "teams": {
+        "home": "quarters 3"
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "11/10/2024",
+        "time": "09:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "estoril - fp1",
+      "teams": {
+        "home": "estoril",
+        "away": "fp1"
+      },
+      "sport": "motogp",
+      "competition": "superbike worldcup",
+      "date": {
+        "day": "11/10/2024",
+        "time": "10:20",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "wuhan - quarters",
+      "teams": {
+        "home": "wuhan",
+        "away": "quarters"
+      },
+      "sport": "tennis",
+      "competition": "wta world tour",
+      "date": {
+        "day": "11/10/2024",
+        "time": "10:50",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+      ]
+    },
+    {
+      "title": "quarters 4",
+      "teams": {
+        "home": "quarters 4"
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "11/10/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "semifinals",
+      "teams": {
+        "home": "semifinals"
+      },
+      "sport": "snooker",
+      "competition": "wuhan open",
+      "date": {
+        "day": "11/10/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      ]
+    },
+    {
+      "title": "estoril - fp2",
+      "teams": {
+        "home": "estoril",
+        "away": "fp2"
+      },
+      "sport": "motogp",
+      "competition": "superbike worldcup",
+      "date": {
+        "day": "11/10/2024",
+        "time": "13:50",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "sevilla masters - day 1",
+      "teams": {
+        "home": "sevilla masters",
+        "away": "day 1"
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "11/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "faulcombrigde - quarters 1",
+      "teams": {
+        "home": "faulcombrigde",
+        "away": "quarters 1"
+      },
+      "sport": "tennis",
+      "competition": "atp challenger tour",
+      "date": {
+        "day": "11/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+      ]
+    },
+    {
+      "title": "valencia - quarters",
+      "teams": {
+        "home": "valencia",
+        "away": "quarters"
+      },
+      "sport": "tennis",
+      "competition": "atp challenger tour",
+      "date": {
+        "day": "11/10/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://c373da9e901d414b7384e671112e64d5a2310c29"
+      ]
+    },
+    {
+      "title": "faulcombrigde - quarters 2",
+      "teams": {
+        "home": "faulcombrigde",
+        "away": "quarters 2"
+      },
+      "sport": "tennis",
+      "competition": "atp challenger tour",
+      "date": {
+        "day": "11/10/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+      ]
+    },
+    {
+      "title": "valencia - quarters",
+      "teams": {
+        "home": "valencia",
+        "away": "quarters"
+      },
+      "sport": "tennis",
+      "competition": "atp challenger tour",
+      "date": {
+        "day": "11/10/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://c373da9e901d414b7384e671112e64d5a2310c29"
+      ]
+    },
+    {
+      "title": "faulcombrigde - quarters 3",
+      "teams": {
+        "home": "faulcombrigde",
+        "away": "quarters 3"
+      },
+      "sport": "tennis",
+      "competition": "atp challenger tour",
+      "date": {
+        "day": "11/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+      ]
+    },
+    {
+      "title": "olympiacos - zalgiris",
+      "teams": {
+        "home": "olympiacos",
+        "away": "zalgiris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "11/10/2024",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "barcelona - alba",
+      "teams": {
+        "home": "barcelona",
+        "away": "alba"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "11/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+      ]
+    },
+    {
+      "title": "milan - paris",
+      "teams": {
+        "home": "milan",
+        "away": "paris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "11/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
+      ]
+    },
+    {
+      "title": "tenerife - zaragoza",
+      "teams": {
+        "home": "tenerife",
+        "away": "zaragoza"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "11/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
+      ]
+    },
+    {
+      "title": "burgos - estudiantes",
+      "teams": {
+        "home": "burgos",
+        "away": "estudiantes"
+      },
+      "sport": "basketball",
+      "competition": "feb",
+      "date": {
+        "day": "11/10/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+      ]
+    },
+    {
+      "title": "faulcombrigde - quarters 4",
+      "teams": {
+        "home": "faulcombrigde",
+        "away": "quarters 4"
+      },
+      "sport": "tennis",
+      "competition": "atp challenger tour",
+      "date": {
+        "day": "11/10/2024",
+        "time": "22:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+      ]
+    },
+    {
+      "title": "peru - uruguay",
+      "teams": {
+        "home": "peru",
+        "away": "uruguay"
+      },
+      "sport": "soccer",
+      "competition": "conmebol classification",
+      "date": {
+        "day": "12/10/2024",
+        "time": "03:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
+        "acestream://931b1984badcb821df7b47a66ac0835ac871b51c",
+        "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393",
+        "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"
+      ]
+    }
+  ],
+  "updated": 1728396818784
+}
