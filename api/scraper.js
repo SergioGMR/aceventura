@@ -1,8 +1,8 @@
-import initializeBrowser from '../src/browser';
-import navigateToMatchesPage from '../src/pageNavigation';
-import extractMatchData from '../src/matchExtractor';
-import extractAceStreamLinks from '../src/acestreamExtractor';
-import writeDataToFile from '../src/dataWriter';
+import initializeBrowser from '../src/browser.js';
+import navigateToMatchesPage from '../src/pageNavigation.js';
+import extractMatchData from '../src/matchExtractor.js';
+import extractAceStreamLinks from '../src/acestreamExtractor.js';
+import writeDataToFile from '../src/dataWriter.js';
 
 export default async function handler(req, res) {
     const url = 'https://duckhub.net';
