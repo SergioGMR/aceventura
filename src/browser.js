@@ -1,8 +1,14 @@
-const { firefox } = require('playwright');
+import playwright from "playwright-core";
 
 async function initializeBrowser() {
     try {
-        const browser = await firefox.launch({ headless: true, ignoreHTTPSErrors: true, args: ['--no-sandbox'] });
+        const executablePath = await playwright.firefox.executablePath()
+        const browser = await playwright.firefox.launch({
+            executablePath,
+            headless: true,
+            ignoreHTTPSErrors: true,
+            args: playwright.firefox.args
+        });
         const context = await browser.newContext({
             userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
         })
@@ -17,4 +23,4 @@ async function initializeBrowser() {
     }
 }
 
-module.exports = { initializeBrowser };
+export default initializeBrowser

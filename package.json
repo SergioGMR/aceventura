@@ -1,6 +1,7 @@
 {
   "name": "aceventura",
   "version": "1.0.0",
+  "type": "module",
   "description": "A project to scrape AceStream data using Playwright and save it to a JSON file.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +11,7 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
-    "playwright": "^1.27.0"
+    "playwright-core": "^1.48.0"
   },
   "repository": {
     "type": "git",

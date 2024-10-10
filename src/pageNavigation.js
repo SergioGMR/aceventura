@@ -9,5 +9,4 @@ async function navigateToMatchesPage(page, url, loaderSelector, buttonClickSelec
         throw error;
     }
 }
-
-module.exports = { navigateToMatchesPage };
+export default navigateToMatchesPage

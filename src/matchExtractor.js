@@ -26,4 +26,4 @@ async function extractMatchData(element, cardSelectors) {
     }
 }
 
-module.exports = { extractMatchData };
+export default extractMatchData

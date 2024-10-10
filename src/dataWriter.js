@@ -23,4 +23,4 @@ function writeDataToFile(matches) {
     }
 }
 
-module.exports = { writeDataToFile };
+export default writeDataToFile;

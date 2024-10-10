@@ -40,4 +40,4 @@ async function extractAceStreamLinks(element, cardButtonSelector, page, loaderSe
     }
 }
 
-module.exports = { extractAceStreamLinks };
+export default extractAceStreamLinks;
