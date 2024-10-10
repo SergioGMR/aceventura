@@ -1,7 +1,7 @@
-import initializeBrowser from '../src/browserInitializer';
-import navigateToMatchesPage from '../src/pageNavigator';
-import extractMatchData from '../src/matchDataExtractor';
-import extractAceStreamLinks from '../src/aceStreamLinkExtractor';
+import initializeBrowser from '../src/browser';
+import navigateToMatchesPage from '../src/pageNavigation';
+import extractMatchData from '../src/matchExtractor';
+import extractAceStreamLinks from '../src/acestreamExtractor';
 import writeDataToFile from '../src/dataWriter';
 
 export default async function handler(req, res) {
