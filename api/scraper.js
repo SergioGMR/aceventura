@@ -1,10 +1,10 @@
-const { initializeBrowser } = require('./src/browser');
-const { navigateToMatchesPage } = require('./src/pageNavigation');
-const { extractMatchData } = require('./src/matchExtractor');
-const { extractAceStreamLinks } = require('./src/acestreamExtractor');
-const { writeDataToFile } = require('./src/dataWriter');
+import initializeBrowser from '../src/browserInitializer';
+import navigateToMatchesPage from '../src/pageNavigator';
+import extractMatchData from '../src/matchDataExtractor';
+import extractAceStreamLinks from '../src/aceStreamLinkExtractor';
+import writeDataToFile from '../src/dataWriter';
 
-const main = async () => {
+export default async function handler(req, res) {
     const url = 'https://duckhub.net';
     const loaderSelector = '#loader';
     const buttonClickSelector = 'body > div.menu > div > label:nth-child(3)';
@@ -20,25 +20,18 @@ const main = async () => {
     try {
         const { browser, page } = await initializeBrowser();
         await navigateToMatchesPage(page, url, loaderSelector, buttonClickSelector);
-
         const matches = [];
         const elements = await page.$$(cardSelectors.card);
-
         for (const element of elements) {
             const match = await extractMatchData(element, cardSelectors);
-            const channels = await extractAceStreamLinks(element, cardSelectors.button, page, loaderSelector);
+            const channels = await extractAceStreamLinks(element, cardSelectors.button, page);
             match.channels = channels;
             matches.push(match);
-            // console.log({ matches })
         }
-
-        // Escribe los datos en data.json
         writeDataToFile(matches);
-
         await browser.close();
+        res.status(200).send("Scraping done!");
     } catch (error) {
-        console.error("Error in the main process: ", error);
+        res.status(500).send("Error occurred: " + error.message);
     }
-};
-
-main();
+}

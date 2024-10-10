@@ -1,4 +1,4 @@
-async function extractAceStreamLinks(element, cardButtonSelector, page) {
+async function extractAceStreamLinks(element, cardButtonSelector, page, loaderSelector) {
     try {
         const buttons = await element.$$(cardButtonSelector);
         const aceStreamChannels = [];
@@ -9,7 +9,7 @@ async function extractAceStreamLinks(element, cardButtonSelector, page) {
                 button.click()
             ]);
 
-            await newPage.waitForLoadState();
+            await newPage.waitForSelector(loaderSelector, { state: 'hidden' });
 
             const aceStreamLinks = await newPage.evaluate(() => {
                 const scripts = Array.from(document.scripts);
