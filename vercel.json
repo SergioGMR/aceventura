@@ -1,6 +1,3 @@
 {
-    "version": 2,
-    "env": {
-        "PLAYWRIGHT_BROWSERS_PATH": "0"
-    }
+    "version": 2
 }
