@@ -1,4 +1,3 @@
-import { VercelRequest, VercelResponse } from '@vercel/node';
 import { promises as fs } from 'fs';
 import { join } from 'path';
 
