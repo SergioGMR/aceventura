@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "bun install playwright@next"
+    "postinstall": "bunx playwright install"
   },
   "dependencies": {
     "fs": "^0.0.1-security",
