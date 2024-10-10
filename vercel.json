@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "builds": {
+        "env": {
+            "PLAYWRIGHT_BROWSERS_PATH": "0"
+        }
+    }
+}
