@@ -61,6 +61,3 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
         force: true
-        commit_message: "Update data.json via GitHub Actions"
-        files: |
-          data/data.json
