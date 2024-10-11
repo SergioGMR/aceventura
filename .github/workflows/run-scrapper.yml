@@ -1,0 +1,61 @@
+name: Run Playwright Script Daily with Bun
+
+# Controla cuándo se ejecutará el workflow.
+on:
+  schedule:
+    # Ejecutar todos los días a las 05:00 AM (horario UTC).
+    - cron: '0 5 * * *'
+
+  # Permite ejecutar manualmente este workflow desde GitHub Actions.
+  workflow_dispatch:
+
+jobs:
+  run-playwright:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Descarga el repositorio.
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # 2. Instala Bun.
+    - name: Install Bun
+      run: |
+        curl -fsSL https://bun.sh/install | bash
+        echo "::add-path::/home/runner/.bun/bin"
+
+    # 3. Instala las dependencias del sistema necesarias para Playwright.
+    - name: Install system dependencies for Playwright
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y \
+          libnss3 \
+          libatk1.0-0 \
+          libatk-bridge2.0-0 \
+          libcups2 \
+          libxkbcommon-x11-0 \
+          libxcomposite1 \
+          libxrandr2 \
+          libgbm1 \
+          libasound2 \
+          libpangocairo-1.0-0 \
+          libgtk-3-0 \
+          libxshmfence1 \
+          libxdamage1 \
+          libxinerama1
+
+    # 4. Instala las dependencias usando Bun.
+    - name: Install dependencies with Bun
+      run: bun install
+
+    # 5. Instala los navegadores de Playwright.
+    - name: Install Playwright browsers
+      run: bunx playwright install
+
+    # 6. Instalar las posibles dependencias de playwright
+    - name: Install playwright dependencies
+      run: bunx playwright install-deps
+
+    # 7. Ejecuta el script .js usando Bun.
+    - name: Run Playwright script
+      run: bun run index.js
