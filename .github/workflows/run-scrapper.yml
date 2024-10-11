@@ -54,10 +54,12 @@ jobs:
     - name: Run Playwright script
       run: bun run index.js
 
-    # 8. Commit and push changes using GitHub Action.
-    - name: Commit and Push changes
-      uses: ad-m/github-push-action@v0.6.0
+    # 8. Commit & Push changes
+    - name: Commit & Push changes
+      uses: actions-js/push@v1.5
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
+        commit_message: "Auto commit test"
+        files: test.txt
+        target_branch: main
         force: true
