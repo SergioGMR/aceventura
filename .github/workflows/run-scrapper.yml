@@ -22,7 +22,7 @@ jobs:
     - name: Install Bun
       run: |
         curl -fsSL https://bun.sh/install | bash
-        echo "::add-path::/home/runner/.bun/bin"
+        echo "/home/runner/.bun/bin" >> $GITHUB_PATH
 
     # 3. Instala las dependencias del sistema necesarias para Playwright.
     - name: Install system dependencies for Playwright
