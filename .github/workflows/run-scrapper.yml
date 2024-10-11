@@ -17,6 +17,8 @@ jobs:
     # 1. Descarga el repositorio.
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        persist-credentials: false # Desactiva el uso de credenciales persistentes.
 
     # 2. Instala Bun.
     - name: Install Bun
@@ -52,10 +54,29 @@ jobs:
     - name: Install Playwright browsers
       run: bunx playwright install
 
-    # 6. Instalar las posibles dependencias de playwright
-    - name: Install playwright dependencies
+    # 6. Instala las posibles dependencias del sistema para Playwright.
+    - name: Install Playwright system dependencies
       run: bunx playwright install-deps
 
     # 7. Ejecuta el script .js usando Bun.
     - name: Run Playwright script
       run: bun run index.js
+
+    # 8. Configurar Git para el commit.
+    - name: Configure Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+    # 9. Realiza commit de los cambios generados (data.json).
+    - name: Commit changes
+      run: |
+        git add data/data.json
+        git commit -m "Update data.json via GitHub Actions"
+
+    # 10. Push de los cambios al repositorio.
+    - name: Push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git push origin HEAD:main
