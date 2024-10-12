@@ -1,43 +1,6 @@
 {
   "data": [
     {
-      "title": "cadiz - malaga",
-      "teams": {
-        "home": "cadiz",
-        "away": "malaga"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "12/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
-        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
-      ]
-    },
-    {
-      "title": "eibar - eldense",
-      "teams": {
-        "home": "eibar",
-        "away": "eldense"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "12/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
-        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
-      ]
-    },
-    {
       "title": "tenaglia - soto",
       "teams": {
         "home": "tenaglia",
@@ -154,8 +117,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
       ]
     },
     {
@@ -171,8 +133,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0",
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"
       ]
     },
     {
@@ -728,5 +690,5 @@
       ]
     }
   ],
-  "updated": 1728759895245
+  "updated": 1728761655362
 }
