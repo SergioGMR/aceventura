@@ -1,10 +1,10 @@
-name: Run Playwright Script Daily with Bun
+name: Ejecutar Script de Playwright Diariamente con Bun
 
 # Controla cuándo se ejecutará el workflow.
 on:
   schedule:
-    # Ejecutar todos los días a las 05:00 AM (horario UTC).
-    - cron: '0 5 * * *'
+    # Ejecuta el trabajo cada 30 minutos
+    - cron: '*/30 * * * *'
 
   # Permite ejecutar manualmente este workflow desde GitHub Actions.
   workflow_dispatch:
@@ -14,48 +14,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # 1. Checkout the repository.
-    - name: Checkout repository
+    # 1. Checkout del repositorio.
+    - name: Checkout del repositorio
       uses: actions/checkout@v3
 
-    # 2. Cache Bun installation.
-    - name: Cache Bun dependencies
-      uses: actions/cache@v3
-      with:
-        path: ~/.bun
-        key: ${{ runner.os }}-bun-${{ hashFiles('bun.lockb') }}
-        restore-keys: |
-          ${{ runner.os }}-bun-
-
-    # 3. Cache Playwright browsers.
-    - name: Cache Playwright browsers
-      uses: actions/cache@v3
-      with:
-        path: ~/.cache/ms-playwright
-        key: ${{ runner.os }}-playwright-${{ hashFiles('package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-playwright-
-
-    # 4. Install Bun.
-    - name: Install Bun
+    # 2. Instalar Bun.
+    - name: Instalar Bun
       run: |
         curl -fsSL https://bun.sh/install | bash
         echo "/home/runner/.bun/bin" >> $GITHUB_PATH
 
-    # 5. Install dependencies with Bun.
-    - name: Install dependencies with Bun
+    # 3. Instalar dependencias con Bun.
+    - name: Instalar dependencias con Bun
       run: bun install
 
-    # 6. Install Playwright browsers.
-    - name: Install Playwright browsers
+    # 4. Instalar navegadores de Playwright.
+    - name: Instalar navegadores de Playwright
       run: bunx playwright install
 
-    # 7. Run the script using Bun.
-    - name: Run Playwright script
+    # 5. Ejecutar el script usando Bun.
+    - name: Ejecutar script de Playwright
       run: bun run index.js
 
-    # 8. Commit & Push changes
-    - name: Commit & Push changes
+    # 6. Commit y Push de los cambios
+    - name: Commit y Push de los cambios
       uses: actions-js/push@v1.5
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
