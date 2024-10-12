@@ -1,4 +1,903 @@
 {
-  "data": [],
-  "updated": 1728709364090
+  "data": [
+    {
+      "title": "tenerife - levante",
+      "teams": {
+        "home": "tenerife",
+        "away": "levante"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "12/10/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "final",
+      "teams": {
+        "home": "final"
+      },
+      "sport": "snooker",
+      "competition": "wuham open",
+      "date": {
+        "day": "12/10/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      ]
+    },
+    {
+      "title": "semifinal 2",
+      "teams": {
+        "home": "semifinal 2"
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "12/10/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "racing 92 - rc toulon",
+      "teams": {
+        "home": "racing 92",
+        "away": "rc toulon"
+      },
+      "sport": "rugby",
+      "competition": "top 14 rugby",
+      "date": {
+        "day": "12/10/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      ]
+    },
+    {
+      "title": "abanca - madrid cff",
+      "teams": {
+        "home": "abanca",
+        "away": "madrid cff"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "12/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+      ]
+    },
+    {
+      "title": "faulcombridge - semifinal 1",
+      "teams": {
+        "home": "faulcombridge",
+        "away": "semifinal 1"
+      },
+      "sport": "tennis",
+      "competition": "atp challenger tour",
+      "date": {
+        "day": "12/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+      ]
+    },
+    {
+      "title": "cartagena - racing ferrol",
+      "teams": {
+        "home": "cartagena",
+        "away": "racing ferrol"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "12/10/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"
+      ]
+    },
+    {
+      "title": "baskonia - ucam murcia",
+      "teams": {
+        "home": "baskonia",
+        "away": "ucam murcia"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "12/10/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112"
+      ]
+    },
+    {
+      "title": "unicaja - lleida",
+      "teams": {
+        "home": "unicaja",
+        "away": "lleida"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "12/10/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      ]
+    },
+    {
+      "title": "faulcombridge - semifinal 2",
+      "teams": {
+        "home": "faulcombridge",
+        "away": "semifinal 2"
+      },
+      "sport": "tennis",
+      "competition": "atp challenger tour",
+      "date": {
+        "day": "12/10/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "cadiz - malaga",
+      "teams": {
+        "home": "cadiz",
+        "away": "malaga"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "12/10/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5",
+        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
+      ]
+    },
+    {
+      "title": "eibar - eldense",
+      "teams": {
+        "home": "eibar",
+        "away": "eldense"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "12/10/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0",
+        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"
+      ]
+    },
+    {
+      "title": "tenaglia - soto",
+      "teams": {
+        "home": "tenaglia",
+        "away": "soto"
+      },
+      "sport": "boxing",
+      "competition": "bkfc connor mcgregor",
+      "date": {
+        "day": "12/10/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
+      ]
+    },
+    {
+      "title": "spain - denmark",
+      "teams": {
+        "home": "spain",
+        "away": "denmark"
+      },
+      "sport": "soccer",
+      "competition": "uefa nations league",
+      "date": {
+        "day": "12/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
+        "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
+      ]
+    },
+    {
+      "title": "andorra - coruña",
+      "teams": {
+        "home": "andorra",
+        "away": "coruña"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "12/10/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555",
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112"
+      ]
+    },
+    {
+      "title": "girona - granada",
+      "teams": {
+        "home": "girona",
+        "away": "granada"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "12/10/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      ]
+    },
+    {
+      "title": "royval - taira [prelims]",
+      "teams": {
+        "home": "royval",
+        "away": "taira [prelims]"
+      },
+      "sport": "mma",
+      "competition": "ufc fight night",
+      "date": {
+        "day": "12/10/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "royval - taira",
+      "teams": {
+        "home": "royval",
+        "away": "taira"
+      },
+      "sport": "mma",
+      "competition": "ufc fight night",
+      "date": {
+        "day": "13/10/2024",
+        "time": "03:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://c373da9e901d414b7384e671112e64d5a2310c29"
+      ]
+    },
+    {
+      "title": "final",
+      "teams": {
+        "home": "final"
+      },
+      "sport": "tennis",
+      "competition": "shanghai tournament",
+      "date": {
+        "day": "13/10/2024",
+        "time": "10:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://c373da9e901d414b7384e671112e64d5a2310c29",
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "aragon",
+      "teams": {
+        "home": "aragon"
+      },
+      "sport": "motogp",
+      "competition": "fim juniorgp world championship",
+      "date": {
+        "day": "13/10/2024",
+        "time": "10:45",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0",
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"
+      ]
+    },
+    {
+      "title": "estoril - superpole race",
+      "teams": {
+        "home": "estoril",
+        "away": "superpole race"
+      },
+      "sport": "motogp",
+      "competition": "superbike worldcup",
+      "date": {
+        "day": "13/10/2024",
+        "time": "11:45",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639"
+      ]
+    },
+    {
+      "title": "eibar - athletic club",
+      "teams": {
+        "home": "eibar",
+        "away": "athletic club"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "13/10/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "valencia - granada",
+      "teams": {
+        "home": "valencia",
+        "away": "granada"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "13/10/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd"
+      ]
+    },
+    {
+      "title": "bilbao - real madrid",
+      "teams": {
+        "home": "bilbao",
+        "away": "real madrid"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "13/10/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
+      ]
+    },
+    {
+      "title": "manresa - gran canaria",
+      "teams": {
+        "home": "manresa",
+        "away": "gran canaria"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "13/10/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112"
+      ]
+    },
+    {
+      "title": "estoril - race 2",
+      "teams": {
+        "home": "estoril",
+        "away": "race 2"
+      },
+      "sport": "motogp",
+      "competition": "superbike worldcup",
+      "date": {
+        "day": "13/10/2024",
+        "time": "13:15",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "huesca - albacete",
+      "teams": {
+        "home": "huesca",
+        "away": "albacete"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "13/10/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+      ]
+    },
+    {
+      "title": "aragon",
+      "teams": {
+        "home": "aragon"
+      },
+      "sport": "motogp",
+      "competition": "fim juniorgp world championship",
+      "date": {
+        "day": "13/10/2024",
+        "time": "14:45",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+      ]
+    },
+    {
+      "title": "bears - jaguars",
+      "teams": {
+        "home": "bears",
+        "away": "jaguars"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "13/10/2024",
+        "time": "15:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+      ]
+    },
+    {
+      "title": "harlequins - saracens",
+      "teams": {
+        "home": "harlequins",
+        "away": "saracens"
+      },
+      "sport": "rugby",
+      "competition": "gallagher premiership rugby",
+      "date": {
+        "day": "13/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      ]
+    },
+    {
+      "title": "sevilla - levante badalona",
+      "teams": {
+        "home": "sevilla",
+        "away": "levante badalona"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "13/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "racing - levante",
+      "teams": {
+        "home": "racing",
+        "away": "levante"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "13/10/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
+        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
+      ]
+    },
+    {
+      "title": "rio breogan - valencia",
+      "teams": {
+        "home": "rio breogan",
+        "away": "valencia"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "13/10/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "zaragoza - joventut",
+      "teams": {
+        "home": "zaragoza",
+        "away": "joventut"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "13/10/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+      ]
+    },
+    {
+      "title": "faulcombridge cup - final",
+      "teams": {
+        "home": "faulcombridge cup",
+        "away": "final"
+      },
+      "sport": "tennis",
+      "competition": "atp challenger tour",
+      "date": {
+        "day": "13/10/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+      ]
+    },
+    {
+      "title": "valencia - final",
+      "teams": {
+        "home": "valencia",
+        "away": "final"
+      },
+      "sport": "tennis",
+      "competition": "atp challenger tour",
+      "date": {
+        "day": "13/10/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      ]
+    },
+    {
+      "title": "barcelona - espanyol",
+      "teams": {
+        "home": "barcelona",
+        "away": "espanyol"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "13/10/2024",
+        "time": "17:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "tenerife - barcelona",
+      "teams": {
+        "home": "tenerife",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "13/10/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      ]
+    },
+    {
+      "title": "burgos - mirandes",
+      "teams": {
+        "home": "burgos",
+        "away": "mirandes"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "13/10/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
+        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
+      ]
+    },
+    {
+      "title": "granada - cordoba",
+      "teams": {
+        "home": "granada",
+        "away": "cordoba"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "13/10/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
+      ]
+    },
+    {
+      "title": "tenerife - barcelona",
+      "teams": {
+        "home": "tenerife",
+        "away": "barcelona"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "13/10/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+      ]
+    },
+    {
+      "title": "ravens - commanders",
+      "teams": {
+        "home": "ravens",
+        "away": "commanders"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "13/10/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a",
+        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
+      ]
+    },
+    {
+      "title": "red zone - stage 6",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "13/10/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+      ]
+    },
+    {
+      "title": "real madrid - atletico de madrid",
+      "teams": {
+        "home": "real madrid",
+        "away": "atletico de madrid"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "13/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "elche - deportivo",
+      "teams": {
+        "home": "elche",
+        "away": "deportivo"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "13/10/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
+      ]
+    },
+    {
+      "title": "cowboys - lions",
+      "teams": {
+        "home": "cowboys",
+        "away": "lions"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "13/10/2024",
+        "time": "22:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      ]
+    },
+    {
+      "title": "red zone - stage 6",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "13/10/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+      ]
+    },
+    {
+      "title": "giants - bengals",
+      "teams": {
+        "home": "giants",
+        "away": "bengals"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "14/10/2024",
+        "time": "02:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+      ]
+    },
+    {
+      "title": "sevilla masters - day 4",
+      "teams": {
+        "home": "sevilla masters",
+        "away": "day 4"
+      },
+      "sport": "paddle",
+      "competition": "a1 paddle",
+      "date": {
+        "day": "14/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+      ]
+    },
+    {
+      "title": "sporting - castellon",
+      "teams": {
+        "home": "sporting",
+        "away": "castellon"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "14/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
+      ]
+    },
+    {
+      "title": "jets - bills",
+      "teams": {
+        "home": "jets",
+        "away": "bills"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+      ]
+    }
+  ],
+  "updated": 1728741339718
 }
