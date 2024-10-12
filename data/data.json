@@ -1,23 +1,6 @@
 {
   "data": [
     {
-      "title": "tenaglia - soto",
-      "teams": {
-        "home": "tenaglia",
-        "away": "soto"
-      },
-      "sport": "boxing",
-      "competition": "bkfc connor mcgregor",
-      "date": {
-        "day": "12/10/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
-    },
-    {
       "title": "spain - denmark",
       "teams": {
         "home": "spain",
@@ -117,7 +100,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
       ]
     },
     {
@@ -133,8 +117,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0",
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
       ]
     },
     {
@@ -690,5 +673,5 @@
       ]
     }
   ],
-  "updated": 1728761655362
+  "updated": 1728763524774
 }
