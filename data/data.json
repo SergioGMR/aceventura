@@ -84,9 +84,7 @@
         "time": "18:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
-      ]
+      "channels": []
     },
     {
       "title": "faulcombridge - semifinal 2",
@@ -833,5 +831,5 @@
       ]
     }
   ],
-  "updated": 1728749120142
+  "updated": 1728751117464
 }
