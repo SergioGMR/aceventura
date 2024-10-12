@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "title": "cartagena - racing ferrol",
-      "teams": {
-        "home": "cartagena",
-        "away": "racing ferrol"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "12/10/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
-        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
-      ]
-    },
-    {
       "title": "baskonia - ucam murcia",
       "teams": {
         "home": "baskonia",
@@ -103,7 +85,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"
+        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
+        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
       ]
     },
     {
@@ -120,7 +103,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
       ]
     },
     {
@@ -137,8 +120,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
-        "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
+        "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+        "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555"
       ]
     },
     {
@@ -155,7 +138,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555",
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
         "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
       ]
     },
@@ -797,5 +780,5 @@
       ]
     }
   ],
-  "updated": 1728752703521
+  "updated": 1728754472301
 }
