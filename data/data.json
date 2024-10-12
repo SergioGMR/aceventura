@@ -1,22 +1,6 @@
 {
   "data": [
     {
-      "title": "final",
-      "teams": {
-        "home": "final"
-      },
-      "sport": "snooker",
-      "competition": "wuham open",
-      "date": {
-        "day": "12/10/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
-      ]
-    },
-    {
       "title": "semifinal 2",
       "teams": {
         "home": "semifinal 2"
@@ -117,8 +101,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112"
       ]
     },
     {
@@ -135,7 +118,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
       ]
     },
     {
@@ -152,7 +135,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
       ]
     },
     {
@@ -169,9 +152,9 @@
         "zone": "cet"
       },
       "channels": [
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5",
         "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
-        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
       ]
     },
     {
@@ -188,7 +171,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0",
         "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
       ]
     },
@@ -883,5 +866,5 @@
       ]
     }
   ],
-  "updated": 1728741902517
+  "updated": 1728743704250
 }
