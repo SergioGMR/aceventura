@@ -1,41 +1,6 @@
 {
   "data": [
     {
-      "title": "andorra - coruña",
-      "teams": {
-        "home": "andorra",
-        "away": "coruña"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "12/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
-      ]
-    },
-    {
-      "title": "girona - granada",
-      "teams": {
-        "home": "girona",
-        "away": "granada"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "12/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
-      ]
-    },
-    {
       "title": "royval - taira [prelims]",
       "teams": {
         "home": "royval",
@@ -99,7 +64,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
       ]
     },
     {
@@ -116,7 +82,6 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
         "acestream://8ca07071b39185431f8e940ec98d1add9e561639"
       ]
     },
@@ -134,7 +99,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd"
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
       ]
     },
     {
@@ -151,7 +116,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+        "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd"
       ]
     },
     {
@@ -186,8 +151,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112"
       ]
     },
     {
@@ -655,5 +620,5 @@
       ]
     }
   ],
-  "updated": 1728768858087
+  "updated": 1728770706351
 }
