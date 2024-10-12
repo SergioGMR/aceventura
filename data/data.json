@@ -102,9 +102,7 @@
         "time": "19:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "spain - denmark",
@@ -780,5 +778,5 @@
       ]
     }
   ],
-  "updated": 1728754472301
+  "updated": 1728756354241
 }
