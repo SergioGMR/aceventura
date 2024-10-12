@@ -1,58 +1,6 @@
 {
   "data": [
     {
-      "title": "baskonia - ucam murcia",
-      "teams": {
-        "home": "baskonia",
-        "away": "ucam murcia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "12/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
-      ]
-    },
-    {
-      "title": "unicaja - lleida",
-      "teams": {
-        "home": "unicaja",
-        "away": "lleida"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "12/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
-      ]
-    },
-    {
-      "title": "faulcombridge - semifinal 2",
-      "teams": {
-        "home": "faulcombridge",
-        "away": "semifinal 2"
-      },
-      "sport": "tennis",
-      "competition": "atp challenger tour",
-      "date": {
-        "day": "12/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
-      ]
-    },
-    {
       "title": "cadiz - malaga",
       "teams": {
         "home": "cadiz",
@@ -780,5 +728,5 @@
       ]
     }
   ],
-  "updated": 1728758244098
+  "updated": 1728759895245
 }
