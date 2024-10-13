@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "title": "racing - levante",
-      "teams": {
-        "home": "racing",
-        "away": "levante"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "13/10/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
-        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
-      ]
-    },
-    {
       "title": "rio breogan - valencia",
       "teams": {
         "home": "rio breogan",
@@ -118,6 +100,7 @@
         "zone": "cet"
       },
       "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
         "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
       ]
     },
@@ -135,8 +118,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
-        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
+        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"
       ]
     },
     {
@@ -358,5 +340,5 @@
       ]
     }
   ],
-  "updated": 1728839100614
+  "updated": 1728840841488
 }
