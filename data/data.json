@@ -1,23 +1,6 @@
 {
   "data": [
     {
-      "title": "bears - jaguars",
-      "teams": {
-        "home": "bears",
-        "away": "jaguars"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "13/10/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
-      ]
-    },
-    {
       "title": "harlequins - saracens",
       "teams": {
         "home": "harlequins",
@@ -100,7 +83,9 @@
         "time": "17:00",
         "zone": "cet"
       },
-      "channels": []
+      "channels": [
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+      ]
     },
     {
       "title": "faulcombridge cup - final",
@@ -409,5 +394,5 @@
       ]
     }
   ],
-  "updated": 1728835506063
+  "updated": 1728837433673
 }
