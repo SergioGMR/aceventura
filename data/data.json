@@ -1,41 +1,6 @@
 {
   "data": [
     {
-      "title": "harlequins - saracens",
-      "teams": {
-        "home": "harlequins",
-        "away": "saracens"
-      },
-      "sport": "rugby",
-      "competition": "gallagher premiership rugby",
-      "date": {
-        "day": "13/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
-      ]
-    },
-    {
-      "title": "sevilla - levante badalona",
-      "teams": {
-        "home": "sevilla",
-        "away": "levante badalona"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "13/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
-    },
-    {
       "title": "racing - levante",
       "teams": {
         "home": "racing",
@@ -153,7 +118,6 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
         "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
       ]
     },
@@ -394,5 +358,5 @@
       ]
     }
   ],
-  "updated": 1728837433673
+  "updated": 1728839100614
 }
