@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - espanyol",
-      "teams": {
-        "home": "barcelona",
-        "away": "espanyol"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "13/10/2024",
-        "time": "17:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
-        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
-      ]
-    },
-    {
       "title": "tenerife - barcelona",
       "teams": {
         "home": "tenerife",
@@ -87,6 +69,7 @@
       },
       "channels": [
         "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
         "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
       ]
     },
@@ -104,8 +87,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a",
-        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
       ]
     },
     {
@@ -122,7 +104,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
+        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78",
         "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
       ]
     },
@@ -272,5 +254,5 @@
       ]
     }
   ],
-  "updated": 1728842737967
+  "updated": 1728844623697
 }
