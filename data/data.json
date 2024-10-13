@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "title": "estoril - race 2",
-      "teams": {
-        "home": "estoril",
-        "away": "race 2"
-      },
-      "sport": "motogp",
-      "competition": "superbike worldcup",
-      "date": {
-        "day": "13/10/2024",
-        "time": "13:15",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
-        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
-      ]
-    },
-    {
       "title": "huesca - albacete",
       "teams": {
         "home": "huesca",
@@ -120,8 +102,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
-        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
+        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"
       ]
     },
     {
@@ -138,7 +119,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
       ]
     },
     {
@@ -155,7 +136,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
       ]
     },
     {
@@ -465,5 +446,5 @@
       ]
     }
   ],
-  "updated": 1728828286650
+  "updated": 1728830073860
 }
