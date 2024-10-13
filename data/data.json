@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - atletico de madrid",
-      "teams": {
-        "home": "real madrid",
-        "away": "atletico de madrid"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "13/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
-        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
-      ]
-    },
-    {
       "title": "elche - deportivo",
       "teams": {
         "home": "elche",
@@ -86,8 +68,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
       ]
     },
     {
@@ -104,7 +86,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0",
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
         "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
       ]
     },
@@ -145,5 +127,5 @@
       ]
     }
   ],
-  "updated": 1728851641445
+  "updated": 1728853548766
 }
