@@ -82,7 +82,9 @@
         "time": "12:00",
         "zone": "cet"
       },
-      "channels": []
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
     },
     {
       "title": "bilbao - real madrid",
@@ -585,5 +587,5 @@
       ]
     }
   ],
-  "updated": 1728792365339
+  "updated": 1728794257372
 }
