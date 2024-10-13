@@ -1,79 +1,6 @@
 {
   "data": [
     {
-      "title": "tenerife - barcelona",
-      "teams": {
-        "home": "tenerife",
-        "away": "barcelona"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "13/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
-      ]
-    },
-    {
-      "title": "burgos - mirandes",
-      "teams": {
-        "home": "burgos",
-        "away": "mirandes"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "13/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
-        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
-      ]
-    },
-    {
-      "title": "granada - cordoba",
-      "teams": {
-        "home": "granada",
-        "away": "cordoba"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "13/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
-        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
-      ]
-    },
-    {
-      "title": "tenerife - barcelona",
-      "teams": {
-        "home": "tenerife",
-        "away": "barcelona"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "13/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
-        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
-      ]
-    },
-    {
       "title": "ravens - commanders",
       "teams": {
         "home": "ravens",
@@ -87,6 +14,7 @@
         "zone": "cet"
       },
       "channels": [
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a",
         "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
       ]
     },
@@ -254,5 +182,5 @@
       ]
     }
   ],
-  "updated": 1728846302436
+  "updated": 1728848027896
 }
