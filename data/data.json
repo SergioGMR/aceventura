@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "title": "elche - deportivo",
-      "teams": {
-        "home": "elche",
-        "away": "deportivo"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "13/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
-        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
-      ]
-    },
-    {
       "title": "cowboys - lions",
       "teams": {
         "home": "cowboys",
@@ -87,6 +69,7 @@
         "zone": "cet"
       },
       "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
         "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
       ]
     },
@@ -104,7 +87,6 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
         "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
       ]
     },
@@ -127,5 +109,5 @@
       ]
     }
   ],
-  "updated": 1728855229039
+  "updated": 1728857060284
 }
