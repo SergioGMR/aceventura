@@ -1,74 +1,6 @@
 {
   "data": [
     {
-      "title": "rio breogan - valencia",
-      "teams": {
-        "home": "rio breogan",
-        "away": "valencia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "13/10/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
-      ]
-    },
-    {
-      "title": "zaragoza - joventut",
-      "teams": {
-        "home": "zaragoza",
-        "away": "joventut"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "13/10/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
-      ]
-    },
-    {
-      "title": "faulcombridge cup - final",
-      "teams": {
-        "home": "faulcombridge cup",
-        "away": "final"
-      },
-      "sport": "tennis",
-      "competition": "atp challenger tour",
-      "date": {
-        "day": "13/10/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
-      ]
-    },
-    {
-      "title": "valencia - final",
-      "teams": {
-        "home": "valencia",
-        "away": "final"
-      },
-      "sport": "tennis",
-      "competition": "atp challenger tour",
-      "date": {
-        "day": "13/10/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
-      ]
-    },
-    {
       "title": "barcelona - espanyol",
       "teams": {
         "home": "barcelona",
@@ -118,7 +50,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"
+        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
+        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
       ]
     },
     {
@@ -154,7 +87,6 @@
       },
       "channels": [
         "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
-        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
         "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
       ]
     },
@@ -340,5 +272,5 @@
       ]
     }
   ],
-  "updated": 1728840841488
+  "updated": 1728842737967
 }
