@@ -82,7 +82,9 @@
         "time": "12:00",
         "zone": "cet"
       },
-      "channels": []
+      "channels": [
+        "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd"
+      ]
     },
     {
       "title": "valencia - granada",
@@ -97,9 +99,7 @@
         "time": "12:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "bilbao - real madrid",
@@ -115,7 +115,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd",
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
         "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
       ]
     },
@@ -602,5 +602,5 @@
       ]
     }
   ],
-  "updated": 1728778853248
+  "updated": 1728780557053
 }
