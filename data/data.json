@@ -1,23 +1,6 @@
 {
   "data": [
     {
-      "title": "royval - taira [prelims]",
-      "teams": {
-        "home": "royval",
-        "away": "taira [prelims]"
-      },
-      "sport": "mma",
-      "competition": "ufc fight night",
-      "date": {
-        "day": "12/10/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://c373da9e901d414b7384e671112e64d5a2310c29"
-      ]
-    },
-    {
       "title": "royval - taira",
       "teams": {
         "home": "royval",
@@ -99,9 +82,7 @@
         "time": "12:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd"
-      ]
+      "channels": []
     },
     {
       "title": "valencia - granada",
@@ -116,7 +97,9 @@
         "time": "12:00",
         "zone": "cet"
       },
-      "channels": []
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
     },
     {
       "title": "bilbao - real madrid",
@@ -132,8 +115,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
-        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+        "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd",
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
       ]
     },
     {
@@ -619,5 +602,5 @@
       ]
     }
   ],
-  "updated": 1728776066474
+  "updated": 1728778853248
 }
