@@ -155,7 +155,7 @@
       "channels": [
         "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f",
         "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
       ]
     },
     {
@@ -171,8 +171,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0",
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"
       ]
     },
     {
@@ -189,7 +189,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
       ]
     },
     {
@@ -206,8 +206,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce",
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112"
       ]
     },
     {
@@ -224,7 +224,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
       ]
     },
     {
@@ -241,8 +241,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
-        "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
+        "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"
       ]
     },
     {
@@ -586,5 +586,5 @@
       ]
     }
   ],
-  "updated": 1728806768964
+  "updated": 1728808600719
 }
