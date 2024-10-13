@@ -99,9 +99,7 @@
         "time": "12:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "bilbao - real madrid",
@@ -117,8 +115,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
-        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
       ]
     },
     {
@@ -135,8 +133,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112"
       ]
     },
     {
@@ -153,8 +151,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
-        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639"
       ]
     },
     {
@@ -171,9 +169,9 @@
         "zone": "cet"
       },
       "channels": [
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f",
         "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
-        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
       ]
     },
     {
@@ -189,8 +187,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0",
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"
       ]
     },
     {
@@ -604,5 +602,5 @@
       ]
     }
   ],
-  "updated": 1728787972413
+  "updated": 1728789118455
 }
