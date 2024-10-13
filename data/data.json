@@ -1,23 +1,6 @@
 {
   "data": [
     {
-      "title": "aragon",
-      "teams": {
-        "home": "aragon"
-      },
-      "sport": "motogp",
-      "competition": "fim juniorgp world championship",
-      "date": {
-        "day": "13/10/2024",
-        "time": "14:45",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
-      ]
-    },
-    {
       "title": "bears - jaguars",
       "teams": {
         "home": "bears",
@@ -426,5 +409,5 @@
       ]
     }
   ],
-  "updated": 1728833747534
+  "updated": 1728835506063
 }
