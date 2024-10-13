@@ -68,6 +68,7 @@
         "zone": "cet"
       },
       "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
         "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
         "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
       ]
@@ -86,7 +87,6 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
         "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
       ]
     },
@@ -127,5 +127,5 @@
       ]
     }
   ],
-  "updated": 1728853548766
+  "updated": 1728855229039
 }
