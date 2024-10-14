@@ -53,7 +53,915 @@
         "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
         "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
       ]
+    },
+    {
+      "title": "sevilla open - day 5",
+      "teams": {
+        "home": "sevilla open",
+        "away": "day 5"
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "15/10/2024",
+        "time": "09:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+      ]
+    },
+    {
+      "title": "sevilla open - day 5",
+      "teams": {
+        "home": "sevilla open",
+        "away": "day 5"
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "15/10/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+      ]
+    },
+    {
+      "title": "sevilla open - day 5",
+      "teams": {
+        "home": "sevilla open",
+        "away": "day 5"
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "15/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "granollers - montpellier",
+      "teams": {
+        "home": "granollers",
+        "away": "montpellier"
+      },
+      "sport": "handball",
+      "competition": "champions league",
+      "date": {
+        "day": "15/10/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "tel aviv - gran canaria",
+      "teams": {
+        "home": "tel aviv",
+        "away": "gran canaria"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "15/10/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+      ]
+    },
+    {
+      "title": "fenerbahce - red star",
+      "teams": {
+        "home": "fenerbahce",
+        "away": "red star"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
+      ]
+    },
+    {
+      "title": "maccabi - efes",
+      "teams": {
+        "home": "maccabi",
+        "away": "efes"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+      ]
+    },
+    {
+      "title": "partizan - bayern munich",
+      "teams": {
+        "home": "partizan",
+        "away": "bayern munich"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
+      ]
+    },
+    {
+      "title": "virtus - zalgiris",
+      "teams": {
+        "home": "virtus",
+        "away": "zalgiris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+      ]
+    },
+    {
+      "title": "sevilla open - day 5",
+      "teams": {
+        "home": "sevilla open",
+        "away": "day 5"
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "olympiacos - milan",
+      "teams": {
+        "home": "olympiacos",
+        "away": "milan"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "baskonia - real madrid",
+      "teams": {
+        "home": "baskonia",
+        "away": "real madrid"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+      ]
+    },
+    {
+      "title": "paris - panathinaikos",
+      "teams": {
+        "home": "paris",
+        "away": "panathinaikos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+      ]
+    },
+    {
+      "title": "ademar - velenje",
+      "teams": {
+        "home": "ademar",
+        "away": "velenje"
+      },
+      "sport": "handball",
+      "competition": "champions league",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "torrelavega - nexe",
+      "teams": {
+        "home": "torrelavega",
+        "away": "nexe"
+      },
+      "sport": "handball",
+      "competition": "champions league",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+      ]
+    },
+    {
+      "title": "spain - serbia",
+      "teams": {
+        "home": "spain",
+        "away": "serbia"
+      },
+      "sport": "soccer",
+      "competition": "uefa nations league",
+      "date": {
+        "day": "15/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+        "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555"
+      ]
+    },
+    {
+      "title": "colombia - chile",
+      "teams": {
+        "home": "colombia",
+        "away": "chile"
+      },
+      "sport": "soccer",
+      "competition": "conmebol classification",
+      "date": {
+        "day": "15/10/2024",
+        "time": "22:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
+        "acestream://931b1984badcb821df7b47a66ac0835ac871b51c",
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+      ]
+    },
+    {
+      "title": "paraguay - venezuela",
+      "teams": {
+        "home": "paraguay",
+        "away": "venezuela"
+      },
+      "sport": "soccer",
+      "competition": "conmebol classification",
+      "date": {
+        "day": "16/10/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://f2df4f96b23388b45e75d848a48a510cf8af560f"
+      ]
+    },
+    {
+      "title": "uruguay - ecuador",
+      "teams": {
+        "home": "uruguay",
+        "away": "ecuador"
+      },
+      "sport": "soccer",
+      "competition": "conmebol classification",
+      "date": {
+        "day": "16/10/2024",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
+        "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+      ]
+    },
+    {
+      "title": "argentina - bolivia",
+      "teams": {
+        "home": "argentina",
+        "away": "bolivia"
+      },
+      "sport": "soccer",
+      "competition": "conmebol classification",
+      "date": {
+        "day": "16/10/2024",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393",
+        "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+      ]
+    },
+    {
+      "title": "brazil - peru",
+      "teams": {
+        "home": "brazil",
+        "away": "peru"
+      },
+      "sport": "soccer",
+      "competition": "conmebol classification",
+      "date": {
+        "day": "16/10/2024",
+        "time": "02:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
+        "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"
+      ]
+    },
+    {
+      "title": "sevilla open - round of 16",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "16/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "zagreb - barcelona",
+      "teams": {
+        "home": "zagreb",
+        "away": "barcelona"
+      },
+      "sport": "handball",
+      "competition": "champions league",
+      "date": {
+        "day": "16/10/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "sevilla open - round of 16",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "16/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "barcelona - monaco",
+      "teams": {
+        "home": "barcelona",
+        "away": "monaco"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "16/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+      ]
+    },
+    {
+      "title": "barcelona - hammarby",
+      "teams": {
+        "home": "barcelona",
+        "away": "hammarby"
+      },
+      "sport": "handball",
+      "competition": "champions league",
+      "date": {
+        "day": "16/10/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "sevilla open - round of 16",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "17/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "real madrid - celtic",
+      "teams": {
+        "home": "real madrid",
+        "away": "celtic"
+      },
+      "sport": "soccer (w)",
+      "competition": "champions league",
+      "date": {
+        "day": "17/10/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "valencia - reyer venezia",
+      "teams": {
+        "home": "valencia",
+        "away": "reyer venezia"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "17/10/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "alba - fenerbahce",
+      "teams": {
+        "home": "alba",
+        "away": "fenerbahce"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "17/10/2024",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+      ]
+    },
+    {
+      "title": "maccabi - partizan",
+      "teams": {
+        "home": "maccabi",
+        "away": "partizan"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "17/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+      ]
+    },
+    {
+      "title": "sevilla open - round of 16",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "17/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "milan - zalgiris",
+      "teams": {
+        "home": "milan",
+        "away": "zalgiris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "17/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
+      ]
+    },
+    {
+      "title": "bayern munich - paris",
+      "teams": {
+        "home": "bayern munich",
+        "away": "paris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "17/10/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+      ]
+    },
+    {
+      "title": "real madrid - panathinaikos",
+      "teams": {
+        "home": "real madrid",
+        "away": "panathinaikos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "17/10/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+      ]
+    },
+    {
+      "title": "free training 1",
+      "teams": {
+        "home": "free training 1"
+      },
+      "sport": "motogp",
+      "competition": "australia gp",
+      "date": {
+        "day": "18/10/2024",
+        "time": "00:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "saints - broncos",
+      "teams": {
+        "home": "saints",
+        "away": "broncos"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "18/10/2024",
+        "time": "02:20",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      ]
+    },
+    {
+      "title": "training",
+      "teams": {
+        "home": "training"
+      },
+      "sport": "motogp",
+      "competition": "australia gp",
+      "date": {
+        "day": "18/10/2024",
+        "time": "04:15",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+      ]
+    },
+    {
+      "title": "jerez - fp1",
+      "teams": {
+        "home": "jerez",
+        "away": "fp1"
+      },
+      "sport": "motogp",
+      "competition": "superbike worldcup",
+      "date": {
+        "day": "18/10/2024",
+        "time": "10:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+      ]
+    },
+    {
+      "title": "jerez - fp2",
+      "teams": {
+        "home": "jerez",
+        "away": "fp2"
+      },
+      "sport": "motogp",
+      "competition": "superbike worldcup",
+      "date": {
+        "day": "18/10/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+      ]
+    },
+    {
+      "title": "sevilla open - round of 16",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "18/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "monaco - virtus",
+      "teams": {
+        "home": "monaco",
+        "away": "virtus"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "18/10/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+      ]
+    },
+    {
+      "title": "efes - olympiacos",
+      "teams": {
+        "home": "efes",
+        "away": "olympiacos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "18/10/2024",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      ]
+    },
+    {
+      "title": "fp1",
+      "teams": {
+        "home": "fp1"
+      },
+      "sport": "f1",
+      "competition": "united states gp",
+      "date": {
+        "day": "18/10/2024",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5789ca155323664edd293b848606688edf803f4d",
+        "acestream://9dad717d99b29a05672166258a77c25b57713dd5",
+        "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
+      ]
+    },
+    {
+      "title": "red star - barcelona",
+      "teams": {
+        "home": "red star",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "18/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      ]
+    },
+    {
+      "title": "sevilla open - round of 16",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "18/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
+    },
+    {
+      "title": "asvel - baskonia",
+      "teams": {
+        "home": "asvel",
+        "away": "baskonia"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "18/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+      ]
+    },
+    {
+      "title": "alaves - valladolid",
+      "teams": {
+        "home": "alaves",
+        "away": "valladolid"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "18/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://1960a9be8ae9e8c755330218eac4c5805466290a",
+        "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
+      ]
+    },
+    {
+      "title": "cordoba - cartagena",
+      "teams": {
+        "home": "cordoba",
+        "away": "cartagena"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "18/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
+      ]
+    },
+    {
+      "title": "classification sprint",
+      "teams": {
+        "home": "classification sprint"
+      },
+      "sport": "f1",
+      "competition": "united states gp",
+      "date": {
+        "day": "18/10/2024",
+        "time": "23:30",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://5789ca155323664edd293b848606688edf803f4d",
+        "acestream://9dad717d99b29a05672166258a77c25b57713dd5",
+        "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
+      ]
+    },
+    {
+      "title": "osaka - semifinals",
+      "teams": {
+        "home": "osaka",
+        "away": "semifinals"
+      },
+      "sport": "tennis",
+      "competition": "wta world tour",
+      "date": {
+        "day": "19/10/2024",
+        "time": "04:00",
+        "zone": "cet"
+      },
+      "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+      ]
     }
   ],
-  "updated": 1728913033501
+  "updated": 1728914752476
 }
