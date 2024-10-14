@@ -68,8 +68,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"
       ]
     },
     {
@@ -86,7 +85,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
       ]
     },
     {
@@ -120,8 +119,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
-        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
       ]
     },
     {
@@ -138,7 +137,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
       ]
     },
     {
@@ -155,7 +154,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+        "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
       ]
     },
     {
@@ -172,7 +171,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
       ]
     },
     {
@@ -189,7 +188,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
       ]
     },
     {
@@ -206,7 +205,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
       ]
     },
     {
@@ -223,7 +222,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
       ]
     },
     {
@@ -240,8 +239,8 @@
         "zone": "cet"
       },
       "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
         "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
         "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
       ]
     },
@@ -945,5 +944,5 @@
       ]
     }
   ],
-  "updated": 1728929198859
+  "updated": 1728931146589
 }
