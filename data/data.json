@@ -84,7 +84,9 @@
         "time": "18:30",
         "zone": "cet"
       },
-      "channels": []
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
     },
     {
       "title": "tel aviv - gran canaria",
@@ -100,7 +102,6 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
         "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
       ]
     },
@@ -220,9 +221,9 @@
         "zone": "cet"
       },
       "channels": [
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
         "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
       ]
     },
     {
@@ -925,5 +926,5 @@
       ]
     }
   ],
-  "updated": 1728945422453
+  "updated": 1728947127581
 }
