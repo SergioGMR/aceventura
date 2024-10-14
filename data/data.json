@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "title": "sevilla masters - day 4",
-      "teams": {
-        "home": "sevilla masters",
-        "away": "day 4"
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "14/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
-      ]
-    },
-    {
       "title": "sporting - castellon",
       "teams": {
         "home": "sporting",
@@ -68,7 +50,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
       ]
     },
     {
@@ -85,7 +68,6 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
         "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"
       ]
     },
@@ -103,7 +85,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
       ]
     },
     {
@@ -137,8 +119,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
       ]
     },
     {
@@ -962,5 +944,5 @@
       ]
     }
   ],
-  "updated": 1728923950844
+  "updated": 1728925549486
 }
