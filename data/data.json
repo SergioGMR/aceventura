@@ -102,9 +102,7 @@
         "time": "18:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "tel aviv - gran canaria",
@@ -945,5 +943,5 @@
       ]
     }
   ],
-  "updated": 1728938130163
+  "updated": 1728939917389
 }
