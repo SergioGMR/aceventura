@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "title": "red zone - stage 6",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "13/10/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
-        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
-      ]
-    },
-    {
       "title": "giants - bengals",
       "teams": {
         "home": "giants",
@@ -69,7 +51,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"
+        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
+        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
       ]
     },
     {
@@ -86,10 +69,10 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
       ]
     }
   ],
-  "updated": 1728862520560
+  "updated": 1728865176852
 }
