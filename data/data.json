@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "title": "sporting - castellon",
-      "teams": {
-        "home": "sporting",
-        "away": "castellon"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "14/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
-        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
-      ]
-    },
-    {
       "title": "jets - bills",
       "teams": {
         "home": "jets",
@@ -102,7 +84,9 @@
         "time": "18:30",
         "zone": "cet"
       },
-      "channels": []
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
     },
     {
       "title": "tel aviv - gran canaria",
@@ -943,5 +927,5 @@
       ]
     }
   ],
-  "updated": 1728939917389
+  "updated": 1728941692125
 }
