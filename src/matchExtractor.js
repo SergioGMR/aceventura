@@ -3,7 +3,7 @@ async function extractMatchData(element, cardSelectors) {
         let titleText = await element.$eval(cardSelectors.title, el => el.textContent.trim().toLowerCase());
         titleText = titleText.replace(/\s*-\s*/, ' - ');
 
-        const exclusionKeywords = ['matches', 'match', 'round', 'stage', 'zone', 'final', 'semifinal'];
+        const exclusionKeywords = ['matches', 'match', 'round', 'stage', 'zone', 'final', 'semifinal', 'day'];
         const containsExclusion = exclusionKeywords.some(keyword => titleText.includes(keyword));
 
         const [homeTeam, awayTeam] = containsExclusion ? [null, null] : titleText.split(' - ').map(t => t.trim());
