@@ -117,9 +117,7 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
-      ]
+      "channels": []
     },
     {
       "title": "virtus - zalgiris",
@@ -891,5 +889,5 @@
       ]
     }
   ],
-  "updated": 1729004745868
+  "updated": 1729006557075
 }
