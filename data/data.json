@@ -19,23 +19,6 @@
       ]
     },
     {
-      "title": "granollers - montpellier",
-      "teams": {
-        "home": "granollers",
-        "away": "montpellier"
-      },
-      "sport": "handball",
-      "competition": "champions league",
-      "date": {
-        "day": "15/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
-    },
-    {
       "title": "tel aviv - gran canaria",
       "teams": {
         "home": "tel aviv",
@@ -100,7 +83,9 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": []
+      "channels": [
+        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
+      ]
     },
     {
       "title": "virtus - zalgiris",
@@ -116,7 +101,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
       ]
     },
     {
@@ -133,7 +118,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
       ]
     },
     {
@@ -150,7 +135,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
       ]
     },
     {
@@ -167,9 +152,9 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
         "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
       ]
     },
     {
@@ -186,7 +171,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
       ]
     },
     {
@@ -203,8 +188,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a",
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639"
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
       ]
     },
     {
@@ -221,8 +206,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f",
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
       ]
     },
     {
@@ -239,8 +224,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
-        "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"
+        "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+        "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555"
       ]
     },
     {
@@ -257,10 +242,10 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555",
         "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
         "acestream://931b1984badcb821df7b47a66ac0835ac871b51c",
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
       ]
     },
     {
@@ -277,7 +262,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+        "acestream://f2df4f96b23388b45e75d848a48a510cf8af560f"
       ]
     },
     {
@@ -294,7 +279,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://f2df4f96b23388b45e75d848a48a510cf8af560f",
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
         "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
         "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
         "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
@@ -872,5 +857,5 @@
       ]
     }
   ],
-  "updated": 1729019133312
+  "updated": 1729020864482
 }
