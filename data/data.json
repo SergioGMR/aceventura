@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "title": "colombia - chile",
-      "teams": {
-        "home": "colombia",
-        "away": "chile"
-      },
-      "sport": "soccer",
-      "competition": "conmebol classification",
-      "date": {
-        "day": "15/10/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
-        "acestream://931b1984badcb821df7b47a66ac0835ac871b51c",
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
-        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
-      ]
-    },
-    {
       "title": "paraguay - venezuela",
       "teams": {
         "home": "paraguay",
@@ -53,7 +33,8 @@
       "channels": [
         "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
         "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
+        "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
       ]
     },
     {
@@ -70,9 +51,9 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24",
         "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393",
-        "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"
+        "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
       ]
     },
     {
@@ -628,5 +609,5 @@
       ]
     }
   ],
-  "updated": 1729033529522
+  "updated": 1729035297325
 }
