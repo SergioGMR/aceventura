@@ -84,9 +84,7 @@
         "time": "18:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "tel aviv - gran canaria",
@@ -102,7 +100,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
       ]
     },
     {
@@ -119,7 +118,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+        "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
       ]
     },
     {
@@ -136,7 +135,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
       ]
     },
     {
@@ -153,7 +152,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
       ]
     },
     {
@@ -170,7 +169,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
       ]
     },
     {
@@ -926,5 +925,5 @@
       ]
     }
   ],
-  "updated": 1728975977443
+  "updated": 1728977740681
 }
