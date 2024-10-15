@@ -100,9 +100,7 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
-      ]
+      "channels": []
     },
     {
       "title": "partizan - bayern munich",
@@ -117,7 +115,9 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": []
+      "channels": [
+        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+      ]
     },
     {
       "title": "virtus - zalgiris",
@@ -133,7 +133,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
       ]
     },
     {
@@ -889,5 +889,5 @@
       ]
     }
   ],
-  "updated": 1729006557075
+  "updated": 1729008383866
 }
