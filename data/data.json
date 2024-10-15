@@ -19,21 +19,6 @@
       ]
     },
     {
-      "title": "sevilla open - day 5",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "15/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "granollers - montpellier",
       "teams": {
         "home": "granollers",
@@ -132,9 +117,7 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
-      ]
+      "channels": []
     },
     {
       "title": "sevilla open - day 5",
@@ -150,7 +133,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
       ]
     },
     {
@@ -889,5 +872,5 @@
       ]
     }
   ],
-  "updated": 1729010442231
+  "updated": 1729011912298
 }
