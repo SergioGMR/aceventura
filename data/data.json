@@ -67,7 +67,9 @@
         "time": "16:00",
         "zone": "cet"
       },
-      "channels": []
+      "channels": [
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      ]
     },
     {
       "title": "granollers - montpellier",
@@ -100,7 +102,6 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
         "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
       ]
     },
@@ -152,7 +153,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
       ]
     },
     {
@@ -169,7 +170,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
       ]
     },
     {
@@ -186,7 +187,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
       ]
     },
     {
@@ -203,7 +204,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
       ]
     },
     {
@@ -220,9 +221,9 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
         "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
       ]
     },
     {
@@ -239,7 +240,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
       ]
     },
     {
@@ -256,8 +257,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a",
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639"
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
       ]
     },
     {
@@ -925,5 +926,5 @@
       ]
     }
   ],
-  "updated": 1728961889365
+  "updated": 1728963514260
 }
