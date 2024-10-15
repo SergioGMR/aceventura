@@ -117,7 +117,9 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": []
+      "channels": [
+        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+      ]
     },
     {
       "title": "sevilla open - day 5",
@@ -132,9 +134,7 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "olympiacos - milan",
@@ -872,5 +872,5 @@
       ]
     }
   ],
-  "updated": 1729015598041
+  "updated": 1729017551895
 }
