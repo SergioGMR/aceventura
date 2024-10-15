@@ -28,24 +28,6 @@
       "competition": "a1 paddel",
       "date": {
         "day": "15/10/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
-      ]
-    },
-    {
-      "title": "sevilla open - day 5",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "15/10/2024",
         "time": "16:00",
         "zone": "cet"
       },
@@ -84,7 +66,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
       ]
     },
     {
@@ -134,9 +117,7 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
-      ]
+      "channels": []
     },
     {
       "title": "virtus - zalgiris",
@@ -908,5 +889,5 @@
       ]
     }
   ],
-  "updated": 1728999473489
+  "updated": 1729001126749
 }
