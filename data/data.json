@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "zagreb - barcelona",
-      "teams": {
-        "home": "zagreb",
-        "away": "barcelona"
-      },
-      "sport": "handball",
-      "competition": "champions league",
-      "date": {
-        "day": "16/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sevilla open - round of 16",
       "teams": {
         "home": null,
@@ -432,5 +417,5 @@
       "channels": []
     }
   ],
-  "updated": 1729105474309
+  "updated": 1729107254619
 }
