@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "title": "brazil - peru",
-      "teams": {
-        "home": "brazil",
-        "away": "peru"
-      },
-      "sport": "soccer",
-      "competition": "conmebol classification",
-      "date": {
-        "day": "16/10/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
-        "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"
-      ]
-    },
-    {
       "title": "sevilla open - round of 16",
       "teams": {
         "home": null,
@@ -69,6 +51,7 @@
         "zone": "cet"
       },
       "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
         "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
         "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
       ]
@@ -552,5 +535,5 @@
       ]
     }
   ],
-  "updated": 1729048309329
+  "updated": 1729049927160
 }
