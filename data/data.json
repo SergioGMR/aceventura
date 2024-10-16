@@ -52,7 +52,8 @@
       },
       "channels": [
         "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
+        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
+        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
       ]
     },
     {
@@ -69,8 +70,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
-        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
       ]
     },
     {
@@ -87,7 +87,7 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
         "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
       ]
     },
@@ -534,5 +534,5 @@
       ]
     }
   ],
-  "updated": 1729078457931
+  "updated": 1729080469888
 }
