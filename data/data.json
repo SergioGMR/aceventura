@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "sevilla open - round of 16",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "16/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "zagreb - barcelona",
       "teams": {
         "home": "zagreb",
@@ -447,5 +432,5 @@
       "channels": []
     }
   ],
-  "updated": 1729096738850
+  "updated": 1729098297825
 }
