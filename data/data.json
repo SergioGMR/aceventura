@@ -1,23 +1,6 @@
 {
   "data": [
     {
-      "title": "paraguay - venezuela",
-      "teams": {
-        "home": "paraguay",
-        "away": "venezuela"
-      },
-      "sport": "soccer",
-      "competition": "conmebol classification",
-      "date": {
-        "day": "16/10/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://f2df4f96b23388b45e75d848a48a510cf8af560f"
-      ]
-    },
-    {
       "title": "uruguay - ecuador",
       "teams": {
         "home": "uruguay",
@@ -70,6 +53,7 @@
         "zone": "cet"
       },
       "channels": [
+        "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
         "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"
       ]
     },
@@ -87,7 +71,6 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
         "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
         "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
       ]
@@ -608,5 +591,5 @@
       ]
     }
   ],
-  "updated": 1729042363033
+  "updated": 1729045733920
 }
