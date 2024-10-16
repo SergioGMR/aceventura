@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "title": "uruguay - ecuador",
-      "teams": {
-        "home": "uruguay",
-        "away": "ecuador"
-      },
-      "sport": "soccer",
-      "competition": "conmebol classification",
-      "date": {
-        "day": "16/10/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": [
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
-        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2",
-        "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
-      ]
-    },
-    {
       "title": "argentina - bolivia",
       "teams": {
         "home": "argentina",
@@ -71,6 +51,7 @@
         "zone": "cet"
       },
       "channels": [
+        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
         "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
         "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
       ]
@@ -591,5 +572,5 @@
       ]
     }
   ],
-  "updated": 1729045733920
+  "updated": 1729047129176
 }
