@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - hammarby",
-      "teams": {
-        "home": "barcelona",
-        "away": "hammarby"
-      },
-      "sport": "handball",
-      "competition": "champions league",
-      "date": {
-        "day": "16/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sevilla open - round of 16",
       "teams": {
         "home": null,
@@ -387,5 +372,5 @@
       "channels": []
     }
   ],
-  "updated": 1729114467092
+  "updated": 1729116299340
 }
