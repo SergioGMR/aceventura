@@ -70,7 +70,6 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
         "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"
       ]
     },
@@ -609,5 +608,5 @@
       ]
     }
   ],
-  "updated": 1729039767257
+  "updated": 1729042363033
 }
