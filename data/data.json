@@ -13,11 +13,7 @@
         "time": "16:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "zagreb - barcelona",
@@ -32,10 +28,7 @@
         "time": "18:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
-        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
-      ]
+      "channels": []
     },
     {
       "title": "sevilla open - round of 16",
@@ -50,11 +43,7 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "barcelona - monaco",
@@ -69,9 +58,7 @@
         "time": "20:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
-      ]
+      "channels": []
     },
     {
       "title": "barcelona - hammarby",
@@ -86,10 +73,7 @@
         "time": "21:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
-        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
-      ]
+      "channels": []
     },
     {
       "title": "sevilla open - round of 16",
@@ -104,11 +88,7 @@
         "time": "16:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "real madrid - celtic",
@@ -123,10 +103,7 @@
         "time": "18:45",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
-        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
-      ]
+      "channels": []
     },
     {
       "title": "valencia - reyer venezia",
@@ -141,11 +118,7 @@
         "time": "19:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
-      ]
+      "channels": []
     },
     {
       "title": "alba - fenerbahce",
@@ -160,9 +133,7 @@
         "time": "19:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
-      ]
+      "channels": []
     },
     {
       "title": "maccabi - partizan",
@@ -177,9 +148,7 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
-      ]
+      "channels": []
     },
     {
       "title": "sevilla open - round of 16",
@@ -194,11 +163,7 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "milan - zalgiris",
@@ -213,9 +178,7 @@
         "time": "20:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
-      ]
+      "channels": []
     },
     {
       "title": "bayern munich - paris",
@@ -230,9 +193,7 @@
         "time": "20:45",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
-      ]
+      "channels": []
     },
     {
       "title": "real madrid - panathinaikos",
@@ -247,9 +208,7 @@
         "time": "20:45",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
-      ]
+      "channels": []
     },
     {
       "title": "free training 1",
@@ -263,10 +222,7 @@
         "time": "00:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
-        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
-      ]
+      "channels": []
     },
     {
       "title": "saints - broncos",
@@ -281,10 +237,7 @@
         "time": "02:20",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
-      ]
+      "channels": []
     },
     {
       "title": "training",
@@ -298,10 +251,7 @@
         "time": "04:15",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
-        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
-      ]
+      "channels": []
     },
     {
       "title": "jerez - fp1",
@@ -316,10 +266,7 @@
         "time": "10:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
-      ]
+      "channels": []
     },
     {
       "title": "jerez - fp2",
@@ -334,10 +281,7 @@
         "time": "14:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
-      ]
+      "channels": []
     },
     {
       "title": "sevilla open - round of 16",
@@ -352,9 +296,7 @@
         "time": "16:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "monaco - virtus",
@@ -369,9 +311,7 @@
         "time": "19:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
-      ]
+      "channels": []
     },
     {
       "title": "efes - olympiacos",
@@ -386,9 +326,7 @@
         "time": "19:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
-      ]
+      "channels": []
     },
     {
       "title": "fp1",
@@ -402,11 +340,7 @@
         "time": "19:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://5789ca155323664edd293b848606688edf803f4d",
-        "acestream://9dad717d99b29a05672166258a77c25b57713dd5",
-        "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
-      ]
+      "channels": []
     },
     {
       "title": "red star - barcelona",
@@ -421,10 +355,7 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-        "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
-      ]
+      "channels": []
     },
     {
       "title": "sevilla open - round of 16",
@@ -439,9 +370,7 @@
         "time": "20:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
-      ]
+      "channels": []
     },
     {
       "title": "asvel - baskonia",
@@ -456,10 +385,7 @@
         "time": "20:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
-        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
-      ]
+      "channels": []
     },
     {
       "title": "alaves - valladolid",
@@ -474,10 +400,7 @@
         "time": "20:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://1960a9be8ae9e8c755330218eac4c5805466290a",
-        "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
-      ]
+      "channels": []
     },
     {
       "title": "cordoba - cartagena",
@@ -492,10 +415,7 @@
         "time": "20:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
-        "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
-      ]
+      "channels": []
     },
     {
       "title": "classification sprint",
@@ -509,11 +429,7 @@
         "time": "23:30",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://5789ca155323664edd293b848606688edf803f4d",
-        "acestream://9dad717d99b29a05672166258a77c25b57713dd5",
-        "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
-      ]
+      "channels": []
     },
     {
       "title": "osaka - semifinals",
@@ -528,11 +444,8 @@
         "time": "04:00",
         "zone": "cet"
       },
-      "channels": [
-        "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
-        "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
-      ]
+      "channels": []
     }
   ],
-  "updated": 1729080469888
+  "updated": 1729084174451
 }
