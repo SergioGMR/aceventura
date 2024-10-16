@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - monaco",
-      "teams": {
-        "home": "barcelona",
-        "away": "monaco"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "16/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "barcelona - hammarby",
       "teams": {
         "home": "barcelona",
@@ -402,5 +387,5 @@
       "channels": []
     }
   ],
-  "updated": 1729112690288
+  "updated": 1729114467092
 }
