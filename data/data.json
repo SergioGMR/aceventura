@@ -70,7 +70,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
+        "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
       ]
     },
     {
@@ -87,8 +88,8 @@
         "zone": "cet"
       },
       "channels": [
-        "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
-        "acestream://8ca07071b39185431f8e940ec98d1add9e561639"
+        "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+        "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"
       ]
     },
     {
@@ -534,5 +535,5 @@
       ]
     }
   ],
-  "updated": 1729060759909
+  "updated": 1729062343348
 }
