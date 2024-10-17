@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "alba - fenerbahce",
-      "teams": {
-        "home": "alba",
-        "away": "fenerbahce"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "17/10/2024",
-        "time": "19:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "nadal - alcaraz",
       "teams": {
         "home": "nadal",
@@ -342,5 +327,5 @@
       "channels": []
     }
   ],
-  "updated": 1729195514671
+  "updated": 1729197283592
 }
