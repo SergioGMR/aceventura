@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - celtic",
-      "teams": {
-        "home": "real madrid",
-        "away": "celtic"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "17/10/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "valencia - reyer venezia",
-      "teams": {
-        "home": "valencia",
-        "away": "reyer venezia"
-      },
-      "sport": "basketball",
-      "competition": "eurocup",
-      "date": {
-        "day": "17/10/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "alba - fenerbahce",
       "teams": {
         "home": "alba",
@@ -372,5 +342,5 @@
       "channels": []
     }
   ],
-  "updated": 1729193646994
+  "updated": 1729195514671
 }
