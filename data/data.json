@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "sevilla open - round of 16",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "17/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - celtic",
       "teams": {
         "home": "real madrid",
@@ -372,5 +357,5 @@
       "channels": []
     }
   ],
-  "updated": 1729183124769
+  "updated": 1729184680290
 }
