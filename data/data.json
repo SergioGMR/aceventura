@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "milan - zalgiris",
-      "teams": {
-        "home": "milan",
-        "away": "zalgiris"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "17/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bayern munich - paris",
       "teams": {
         "home": "bayern munich",
@@ -282,5 +267,5 @@
       "channels": []
     }
   ],
-  "updated": 1729199088876
+  "updated": 1729200837099
 }
