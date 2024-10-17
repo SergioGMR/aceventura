@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "title": "djokovic - sinner",
+      "teams": {
+        "home": "djokovic",
+        "away": "sinner"
+      },
+      "sport": "tennis",
+      "competition": "six kings slam 2024",
+      "date": {
+        "day": "17/10/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "real madrid - celtic",
       "teams": {
         "home": "real madrid",
@@ -41,6 +56,21 @@
       "date": {
         "day": "17/10/2024",
         "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "nadal - alcaraz",
+      "teams": {
+        "home": "nadal",
+        "away": "alcaraz"
+      },
+      "sport": "tennis",
+      "competition": "six kings slam 2024",
+      "date": {
+        "day": "17/10/2024",
+        "time": "20:00",
         "zone": "cet"
       },
       "channels": []
@@ -357,5 +387,5 @@
       "channels": []
     }
   ],
-  "updated": 1729186483350
+  "updated": 1729188340907
 }
