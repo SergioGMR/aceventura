@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "djokovic - sinner",
-      "teams": {
-        "home": "djokovic",
-        "away": "sinner"
-      },
-      "sport": "tennis",
-      "competition": "six kings slam 2024",
-      "date": {
-        "day": "17/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - celtic",
       "teams": {
         "home": "real madrid",
@@ -387,5 +372,5 @@
       "channels": []
     }
   ],
-  "updated": 1729191894199
+  "updated": 1729193646994
 }
