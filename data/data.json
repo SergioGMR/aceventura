@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "bayern munich - paris",
-      "teams": {
-        "home": "bayern munich",
-        "away": "paris"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "17/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real madrid - panathinaikos",
-      "teams": {
-        "home": "real madrid",
-        "away": "panathinaikos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "17/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "free training 1",
       "teams": {
         "home": "free training 1"
@@ -267,5 +237,5 @@
       "channels": []
     }
   ],
-  "updated": 1729200837099
+  "updated": 1729202693771
 }
