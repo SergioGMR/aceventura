@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "efes - olympiacos",
-      "teams": {
-        "home": "efes",
-        "away": "olympiacos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "18/10/2024",
-        "time": "19:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fp1",
-      "teams": {
-        "home": "fp1"
-      },
-      "sport": "f1",
-      "competition": "united states gp",
-      "date": {
-        "day": "18/10/2024",
-        "time": "19:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red star - barcelona",
       "teams": {
         "home": "red star",
@@ -1420,5 +1391,5 @@
       "channels": []
     }
   ],
-  "updated": 1729281949565
+  "updated": 1729283697444
 }
