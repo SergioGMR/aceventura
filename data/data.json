@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "sevilla open - round of 16",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "18/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "monaco - virtus",
       "teams": {
         "home": "monaco",
@@ -1450,5 +1435,5 @@
       "channels": []
     }
   ],
-  "updated": 1729269517766
+  "updated": 1729271138056
 }
