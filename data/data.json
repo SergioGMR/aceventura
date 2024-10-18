@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "monaco - virtus",
-      "teams": {
-        "home": "monaco",
-        "away": "virtus"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "18/10/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "efes - olympiacos",
       "teams": {
         "home": "efes",
@@ -1435,5 +1420,5 @@
       "channels": []
     }
   ],
-  "updated": 1729280052406
+  "updated": 1729281949565
 }
