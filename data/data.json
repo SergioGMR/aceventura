@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "training",
-      "teams": {
-        "home": "training"
-      },
-      "sport": "motogp",
-      "competition": "australia gp",
-      "date": {
-        "day": "18/10/2024",
-        "time": "04:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "jerez - fp1",
       "teams": {
         "home": "jerez",
@@ -208,5 +194,5 @@
       "channels": []
     }
   ],
-  "updated": 1729227930191
+  "updated": 1729229772977
 }
