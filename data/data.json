@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "free training 1",
-      "teams": {
-        "home": "free training 1"
-      },
-      "sport": "motogp",
-      "competition": "australia gp",
-      "date": {
-        "day": "18/10/2024",
-        "time": "00:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "saints - broncos",
       "teams": {
         "home": "saints",
@@ -237,5 +223,5 @@
       "channels": []
     }
   ],
-  "updated": 1729212529388
+  "updated": 1729215127587
 }
