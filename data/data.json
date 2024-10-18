@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "jerez - fp1",
-      "teams": {
-        "home": "jerez",
-        "away": "fp1"
-      },
-      "sport": "motogp",
-      "competition": "superbike worldcup",
-      "date": {
-        "day": "18/10/2024",
-        "time": "10:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "jerez - fp2",
       "teams": {
         "home": "jerez",
@@ -194,5 +179,5 @@
       "channels": []
     }
   ],
-  "updated": 1729249475356
+  "updated": 1729251217151
 }
