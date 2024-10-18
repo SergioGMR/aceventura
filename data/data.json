@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "saints - broncos",
-      "teams": {
-        "home": "saints",
-        "away": "broncos"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "18/10/2024",
-        "time": "02:20",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "training",
       "teams": {
         "home": "training"
@@ -223,5 +208,5 @@
       "channels": []
     }
   ],
-  "updated": 1729221011303
+  "updated": 1729222694711
 }
