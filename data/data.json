@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "jerez - fp2",
-      "teams": {
-        "home": "jerez",
-        "away": "fp2"
-      },
-      "sport": "motogp",
-      "competition": "superbike worldcup",
-      "date": {
-        "day": "18/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sevilla open - round of 16",
       "teams": {
         "home": null,
@@ -1465,5 +1450,5 @@
       "channels": []
     }
   ],
-  "updated": 1729262177975
+  "updated": 1729263944529
 }
