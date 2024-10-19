@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "sprint",
-      "teams": {
-        "home": "sprint"
-      },
-      "sport": "f1",
-      "competition": "united states gp",
-      "date": {
-        "day": "19/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "celta - real madrid",
       "teams": {
         "home": "celta",
@@ -852,5 +838,5 @@
       "channels": []
     }
   ],
-  "updated": 1729370098391
+  "updated": 1729371922937
 }
