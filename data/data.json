@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "jerez - race 1",
-      "teams": {
-        "home": "jerez",
-        "away": "race 1"
-      },
-      "sport": "motogp",
-      "competition": "superbike worldcup",
-      "date": {
-        "day": "19/10/2024",
-        "time": "13:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "athletic club - espanyol",
-      "teams": {
-        "home": "athletic club",
-        "away": "espanyol"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stockholm tournament - semifinal 1",
       "teams": {
         "home": null,
@@ -1197,5 +1167,5 @@
       "channels": []
     }
   ],
-  "updated": 1729348496876
+  "updated": 1729350287163
 }
