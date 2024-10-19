@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "palencia - estudiantes",
-      "teams": {
-        "home": "palencia",
-        "away": "estudiantes"
-      },
-      "sport": "basketball",
-      "competition": "feb",
-      "date": {
-        "day": "19/10/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "coruña - unicaja",
-      "teams": {
-        "home": "coruña",
-        "away": "unicaja"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sprint",
       "teams": {
         "home": "sprint"
@@ -882,5 +852,5 @@
       "channels": []
     }
   ],
-  "updated": 1729366436984
+  "updated": 1729368301888
 }
