@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "amberes tournament - semifinal 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "atp world tour",
-      "date": {
-        "day": "19/10/2024",
-        "time": "17:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "badalona - rio breogan",
       "teams": {
         "home": "badalona",
@@ -1032,5 +1017,5 @@
       "channels": []
     }
   ],
-  "updated": 1729361142908
+  "updated": 1729363028022
 }
