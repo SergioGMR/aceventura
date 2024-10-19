@@ -1,111 +1,6 @@
 {
   "data": [
     {
-      "title": "harlequins - bath",
-      "teams": {
-        "home": "harlequins",
-        "away": "bath"
-      },
-      "sport": "rugby",
-      "competition": "gallagher premiership rugby",
-      "date": {
-        "day": "19/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bournemouth - arsenal",
-      "teams": {
-        "home": "bournemouth",
-        "away": "arsenal"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "girona - real sociedad",
-      "teams": {
-        "home": "girona",
-        "away": "real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "castellon - levante",
-      "teams": {
-        "home": "castellon",
-        "away": "levante"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "19/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granada - tenerife",
-      "teams": {
-        "home": "granada",
-        "away": "tenerife"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "19/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sevilla - espanyol",
-      "teams": {
-        "home": "sevilla",
-        "away": "espanyol"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "nadal - djokovic",
-      "teams": {
-        "home": "nadal",
-        "away": "djokovic"
-      },
-      "sport": "tennis",
-      "competition": "six kings slam 2024",
-      "date": {
-        "day": "19/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "palencia - estudiantes",
       "teams": {
         "home": "palencia",
@@ -987,5 +882,5 @@
       "channels": []
     }
   ],
-  "updated": 1729364738296
+  "updated": 1729366436984
 }
