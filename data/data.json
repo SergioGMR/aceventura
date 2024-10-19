@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "gran canaria - bilbao",
-      "teams": {
-        "home": "gran canaria",
-        "away": "bilbao"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "murcia - zaragoza",
-      "teams": {
-        "home": "murcia",
-        "away": "zaragoza"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mirandes - eibar",
-      "teams": {
-        "home": "mirandes",
-        "away": "eibar"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "19/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "hernandez - pereira [prelims]",
       "teams": {
         "home": "hernandez",
@@ -808,5 +763,5 @@
       "channels": []
     }
   ],
-  "updated": 1729373626651
+  "updated": 1729375549208
 }
