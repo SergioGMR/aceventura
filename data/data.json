@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "deportivo - eldense",
-      "teams": {
-        "home": "deportivo",
-        "away": "eldense"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "19/10/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "malaga - real oviedo",
-      "teams": {
-        "home": "malaga",
-        "away": "real oviedo"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "19/10/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "amberes tournament - semifinal 2",
       "teams": {
         "home": null,
@@ -1062,5 +1032,5 @@
       "channels": []
     }
   ],
-  "updated": 1729357509527
+  "updated": 1729359270156
 }
