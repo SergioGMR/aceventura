@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stockholm tournament - semifinal 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "atp world tour",
-      "date": {
-        "day": "19/10/2024",
-        "time": "14:35",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "amberes tournament - semifinal 1",
       "teams": {
         "home": null,
@@ -1167,5 +1152,5 @@
       "channels": []
     }
   ],
-  "updated": 1729352051250
+  "updated": 1729353917263
 }
