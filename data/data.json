@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "badalona - rio breogan",
-      "teams": {
-        "home": "badalona",
-        "away": "rio breogan"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "stockholm tournament - semifinal 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "atp world tour",
-      "date": {
-        "day": "19/10/2024",
-        "time": "18:05",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "harlequins - bath",
       "teams": {
         "home": "harlequins",
@@ -1017,5 +987,5 @@
       "channels": []
     }
   ],
-  "updated": 1729363028022
+  "updated": 1729364738296
 }
