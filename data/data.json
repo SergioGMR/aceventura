@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "jerez - fp3 and superpole",
-      "teams": {
-        "home": "jerez",
-        "away": "fp3 and superpole"
-      },
-      "sport": "motogp",
-      "competition": "superbike worldcup",
-      "date": {
-        "day": "19/10/2024",
-        "time": "11:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "badalona - tenerife",
       "teams": {
         "home": "badalona",
@@ -1257,5 +1242,5 @@
       "channels": []
     }
   ],
-  "updated": 1729337659702
+  "updated": 1729339651422
 }
