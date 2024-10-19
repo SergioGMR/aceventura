@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "celta - real madrid",
-      "teams": {
-        "home": "celta",
-        "away": "real madrid"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "alcaraz - sinner [final]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "six kings slam 2024",
-      "date": {
-        "day": "19/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "gran canaria - bilbao",
       "teams": {
         "home": "gran canaria",
@@ -838,5 +808,5 @@
       "channels": []
     }
   ],
-  "updated": 1729371922937
+  "updated": 1729373626651
 }
