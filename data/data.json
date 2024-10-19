@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "classification sprint",
-      "teams": {
-        "home": "classification sprint"
-      },
-      "sport": "f1",
-      "competition": "united states gp",
-      "date": {
-        "day": "18/10/2024",
-        "time": "23:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "saturday to sprint",
       "teams": {
         "home": null,
@@ -1316,5 +1302,5 @@
       "channels": []
     }
   ],
-  "updated": 1729297133845
+  "updated": 1729298952884
 }
