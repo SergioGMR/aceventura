@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "tottenham - west ham",
-      "teams": {
-        "home": "tottenham",
-        "away": "west ham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "jerez - race 1",
       "teams": {
         "home": "jerez",
@@ -1212,5 +1197,5 @@
       "channels": []
     }
   ],
-  "updated": 1729346706220
+  "updated": 1729348496876
 }
