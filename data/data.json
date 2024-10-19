@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "badalona - tenerife",
-      "teams": {
-        "home": "badalona",
-        "away": "tenerife"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granada - real betis",
-      "teams": {
-        "home": "granada",
-        "away": "real betis"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/10/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "tottenham - west ham",
       "teams": {
         "home": "tottenham",
@@ -1242,5 +1212,5 @@
       "channels": []
     }
   ],
-  "updated": 1729341884553
+  "updated": 1729343279145
 }
