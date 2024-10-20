@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "atletico de madrid - leganes",
-      "teams": {
-        "home": "atletico de madrid",
-        "away": "leganes"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "racing ferrol - huesca",
-      "teams": {
-        "home": "racing ferrol",
-        "away": "huesca"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "20/10/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "granada - tenerife",
       "teams": {
         "home": "granada",
@@ -480,5 +450,5 @@
       "channels": []
     }
   ],
-  "updated": 1729443877016
+  "updated": 1729445676195
 }
