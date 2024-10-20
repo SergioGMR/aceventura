@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "49ers - chiefs",
-      "teams": {
-        "home": "49ers",
-        "away": "chiefs"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "20/10/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red zone - stage 7",
       "teams": {
         "home": null,
@@ -226,5 +211,5 @@
       "channels": []
     }
   ],
-  "updated": 1729465511043
+  "updated": 1729467226296
 }
