@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "osaka - final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "wta world tour",
-      "date": {
-        "day": "20/10/2024",
-        "time": "04:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "motogp - race",
       "teams": {
         "home": "motogp",
@@ -675,5 +660,5 @@
       "channels": []
     }
   ],
-  "updated": 1729398994722
+  "updated": 1729400704949
 }
