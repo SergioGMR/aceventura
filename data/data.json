@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "jerez - race 2",
-      "teams": {
-        "home": "jerez",
-        "away": "race 2"
-      },
-      "sport": "motogp",
-      "competition": "superbike worldcup",
-      "date": {
-        "day": "20/10/2024",
-        "time": "10:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "athletic club - valencia",
       "teams": {
         "home": "athletic club",
@@ -645,5 +630,5 @@
       "channels": []
     }
   ],
-  "updated": 1729424048932
+  "updated": 1729426034988
 }
