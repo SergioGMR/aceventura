@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "mallorca - rayo vallecano",
-      "teams": {
-        "home": "mallorca",
-        "away": "rayo vallecano"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cadiz - racing",
-      "teams": {
-        "home": "cadiz",
-        "away": "racing"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "20/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "wolves - manchester city",
       "teams": {
         "home": "wolves",
@@ -555,5 +525,5 @@
       "channels": []
     }
   ],
-  "updated": 1729434875679
+  "updated": 1729436673087
 }
