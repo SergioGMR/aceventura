@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - baskonia",
-      "teams": {
-        "home": "barcelona",
-        "away": "baskonia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "elche - sporting",
-      "teams": {
-        "home": "elche",
-        "away": "sporting"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "20/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "zaragoza - almeria",
-      "teams": {
-        "home": "zaragoza",
-        "away": "almeria"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "20/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red zone - stage 7",
       "teams": {
         "home": null,
@@ -375,5 +330,5 @@
       "channels": []
     }
   ],
-  "updated": 1729451053268
+  "updated": 1729452853778
 }
