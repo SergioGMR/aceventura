@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "red zone - stage 7",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "20/10/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "vikings - lions",
-      "teams": {
-        "home": "vikings",
-        "away": "lions"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "20/10/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "madrid cf - real madrid",
-      "teams": {
-        "home": "madrid cf",
-        "away": "real madrid"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 1",
       "teams": {
         "home": null,
@@ -330,5 +285,5 @@
       "channels": []
     }
   ],
-  "updated": 1729452853778
+  "updated": 1729454686285
 }
