@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "hernandez - pereira",
-      "teams": {
-        "home": "hernandez",
-        "away": "pereira"
-      },
-      "sport": "mma",
-      "competition": "ufc fight night",
-      "date": {
-        "day": "20/10/2024",
-        "time": "03:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "moto2 - race",
       "teams": {
         "home": "moto2",
@@ -705,5 +690,5 @@
       "channels": []
     }
   ],
-  "updated": 1729395580627
+  "updated": 1729397152018
 }
