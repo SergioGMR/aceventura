@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "wolves - manchester city",
-      "teams": {
-        "home": "wolves",
-        "away": "manchester city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "stockholm tournament - final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "atp world tour",
-      "date": {
-        "day": "20/10/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "jaguars - patriots",
       "teams": {
         "home": "jaguars",
@@ -525,5 +495,5 @@
       "channels": []
     }
   ],
-  "updated": 1729438535431
+  "updated": 1729440297375
 }
