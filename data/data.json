@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "classification",
-      "teams": {
-        "home": "classification"
-      },
-      "sport": "f1",
-      "competition": "united states gp",
-      "date": {
-        "day": "19/10/2024",
-        "time": "23:55",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "warm up",
       "teams": {
         "home": "warm up"
@@ -748,5 +734,5 @@
       "channels": []
     }
   ],
-  "updated": 1729385346709
+  "updated": 1729387943278
 }
