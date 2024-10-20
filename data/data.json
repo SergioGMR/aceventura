@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "liverpool - chelsea",
-      "teams": {
-        "home": "liverpool",
-        "away": "chelsea"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "17:20",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "villarreal - getafe",
       "teams": {
         "home": "villarreal",
@@ -405,5 +390,5 @@
       "channels": []
     }
   ],
-  "updated": 1729447521900
+  "updated": 1729449403561
 }
