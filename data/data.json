@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "north ireland open",
-      "date": {
-        "day": "20/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "race",
       "teams": {
         "home": "race"
@@ -285,5 +270,5 @@
       "channels": []
     }
   ],
-  "updated": 1729456420987
+  "updated": 1729458280764
 }
