@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "lleida - manresa",
-      "teams": {
-        "home": "lleida",
-        "away": "manresa"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real madrid - girona",
-      "teams": {
-        "home": "real madrid",
-        "away": "girona"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "hockenheimring - race 2",
       "teams": {
         "home": "hockenheimring",
@@ -600,5 +570,5 @@
       "channels": []
     }
   ],
-  "updated": 1729429672172
+  "updated": 1729431260904
 }
