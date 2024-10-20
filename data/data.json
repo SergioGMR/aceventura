@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "hernandez - pereira [prelims]",
-      "teams": {
-        "home": "hernandez",
-        "away": "pereira [prelims]"
-      },
-      "sport": "mma",
-      "competition": "ufc fight night",
-      "date": {
-        "day": "19/10/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "classification",
       "teams": {
         "home": "classification"
@@ -763,5 +748,5 @@
       "channels": []
     }
   ],
-  "updated": 1729380829289
+  "updated": 1729383653203
 }
