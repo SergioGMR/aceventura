@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "jaguars - patriots",
-      "teams": {
-        "home": "jaguars",
-        "away": "patriots"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "20/10/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atletico de madrid - leganes",
       "teams": {
         "home": "atletico de madrid",
@@ -495,5 +480,5 @@
       "channels": []
     }
   ],
-  "updated": 1729440297375
+  "updated": 1729442227906
 }
