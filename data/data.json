@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "villarreal - getafe",
-      "teams": {
-        "home": "villarreal",
-        "away": "getafe"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "barcelona - baskonia",
       "teams": {
         "home": "barcelona",
@@ -390,5 +375,5 @@
       "channels": []
     }
   ],
-  "updated": 1729449403561
+  "updated": 1729451053268
 }
