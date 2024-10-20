@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "race",
-      "teams": {
-        "home": "race"
-      },
-      "sport": "f1",
-      "competition": "united states gp",
-      "date": {
-        "day": "20/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "rochelais - bordeaux",
-      "teams": {
-        "home": "rochelais",
-        "away": "bordeaux"
-      },
-      "sport": "rugby",
-      "competition": "top 14 rugby",
-      "date": {
-        "day": "20/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barcelona - sevilla",
-      "teams": {
-        "home": "barcelona",
-        "away": "sevilla"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "49ers - chiefs",
       "teams": {
         "home": "49ers",
@@ -270,5 +226,5 @@
       "channels": []
     }
   ],
-  "updated": 1729460023363
+  "updated": 1729461882569
 }
