@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "granada - tenerife",
-      "teams": {
-        "home": "granada",
-        "away": "tenerife"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "valencia - andorra",
-      "teams": {
-        "home": "valencia",
-        "away": "andorra"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "levante - barcelona",
-      "teams": {
-        "home": "levante",
-        "away": "barcelona"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "liverpool - chelsea",
       "teams": {
         "home": "liverpool",
@@ -450,5 +405,5 @@
       "channels": []
     }
   ],
-  "updated": 1729445676195
+  "updated": 1729447521900
 }
