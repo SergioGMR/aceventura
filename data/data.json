@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "warm up",
-      "teams": {
-        "home": "warm up"
-      },
-      "sport": "motogp",
-      "competition": "australia gp",
-      "date": {
-        "day": "20/10/2024",
-        "time": "00:35",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "moto3 - race",
       "teams": {
         "home": "moto3",
@@ -734,5 +720,5 @@
       "channels": []
     }
   ],
-  "updated": 1729387943278
+  "updated": 1729391426625
 }
