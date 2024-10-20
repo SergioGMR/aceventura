@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "motogp - race",
-      "teams": {
-        "home": "motogp",
-        "away": "race"
-      },
-      "sport": "motogp",
-      "competition": "australia gp",
-      "date": {
-        "day": "20/10/2024",
-        "time": "05:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "jerez - race 2",
       "teams": {
         "home": "jerez",
@@ -660,5 +645,5 @@
       "channels": []
     }
   ],
-  "updated": 1729402502161
+  "updated": 1729404377894
 }
