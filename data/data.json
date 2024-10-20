@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "hockenheimring - race 2",
-      "teams": {
-        "home": "hockenheimring",
-        "away": "race 2"
-      },
-      "sport": "motor",
-      "competition": "dtm",
-      "date": {
-        "day": "20/10/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "mallorca - rayo vallecano",
       "teams": {
         "home": "mallorca",
@@ -570,5 +555,5 @@
       "channels": []
     }
   ],
-  "updated": 1729433080402
+  "updated": 1729434875679
 }
