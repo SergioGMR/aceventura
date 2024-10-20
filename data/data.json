@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "moto3 - race",
-      "teams": {
-        "home": "moto3",
-        "away": "race"
-      },
-      "sport": "motogp",
-      "competition": "australia gp",
-      "date": {
-        "day": "20/10/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "hernandez - pereira",
       "teams": {
         "home": "hernandez",
@@ -720,5 +705,5 @@
       "channels": []
     }
   ],
-  "updated": 1729392877257
+  "updated": 1729393999046
 }
