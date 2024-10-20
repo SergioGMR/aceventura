@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "athletic club - valencia",
-      "teams": {
-        "home": "athletic club",
-        "away": "valencia"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "eibar - deportivo abanca",
-      "teams": {
-        "home": "eibar",
-        "away": "deportivo abanca"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/10/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "lleida - manresa",
       "teams": {
         "home": "lleida",
@@ -630,5 +600,5 @@
       "channels": []
     }
   ],
-  "updated": 1729428291080
+  "updated": 1729429672172
 }
