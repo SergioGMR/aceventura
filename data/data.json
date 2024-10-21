@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "nottingham forest - crystal palace",
-      "teams": {
-        "home": "nottingham forest",
-        "away": "crystal palace"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "21/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "buccaners - ravens",
       "teams": {
         "home": "buccaners",
@@ -31,5 +16,5 @@
       "channels": []
     }
   ],
-  "updated": 1729546425694
+  "updated": 1729548272569
 }
