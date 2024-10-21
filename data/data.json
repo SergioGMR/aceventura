@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "red zone - stage 7",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "20/10/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "steelers - jets",
       "teams": {
         "home": "steelers",
@@ -211,5 +196,5 @@
       "channels": []
     }
   ],
-  "updated": 1729467226296
+  "updated": 1729469979517
 }
