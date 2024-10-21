@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "steelers - jets",
-      "teams": {
-        "home": "steelers",
-        "away": "jets"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "21/10/2024",
-        "time": "02:20",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "catalonia open - day 1",
       "teams": {
         "home": null,
@@ -196,5 +181,5 @@
       "channels": []
     }
   ],
-  "updated": 1729480345956
+  "updated": 1729481940451
 }
