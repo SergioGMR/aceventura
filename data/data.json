@@ -10,21 +10,6 @@
       "competition": "vienne tournament",
       "date": {
         "day": "21/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "matches",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "21/10/2024",
         "time": "18:00",
         "zone": "cet"
       },
@@ -121,5 +106,5 @@
       "channels": []
     }
   ],
-  "updated": 1729528722490
+  "updated": 1729530287723
 }
