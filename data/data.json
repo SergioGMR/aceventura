@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "north ireland open",
-      "date": {
-        "day": "21/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "matches",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "21/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "matches",
       "teams": {
         "home": null,
@@ -151,5 +121,5 @@
       "channels": []
     }
   ],
-  "updated": 1729521391167
+  "updated": 1729523096478
 }
