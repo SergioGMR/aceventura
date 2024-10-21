@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "valencia - las palmas",
-      "teams": {
-        "home": "valencia",
-        "away": "las palmas"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "21/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "albacete - burgos",
-      "teams": {
-        "home": "albacete",
-        "away": "burgos"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "21/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "nottingham forest - crystal palace",
       "teams": {
         "home": "nottingham forest",
@@ -61,5 +31,5 @@
       "channels": []
     }
   ],
-  "updated": 1729544671756
+  "updated": 1729546425694
 }
