@@ -10,21 +10,6 @@
       "competition": "a1 paddel",
       "date": {
         "day": "21/10/2024",
-        "time": "09:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "catalonia open - day 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "21/10/2024",
         "time": "13:00",
         "zone": "cet"
       },
@@ -181,5 +166,5 @@
       "channels": []
     }
   ],
-  "updated": 1729503336839
+  "updated": 1729505142366
 }
