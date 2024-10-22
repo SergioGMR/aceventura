@@ -1,20 +1,4 @@
 {
-  "data": [
-    {
-      "title": "buccaners - ravens",
-      "teams": {
-        "home": "buccaners",
-        "away": "ravens"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "22/10/2024",
-        "time": "02:15",
-        "zone": "cet"
-      },
-      "channels": []
-    }
-  ],
-  "updated": 1729565421098
+  "data": [],
+  "updated": 1729568245205
 }
