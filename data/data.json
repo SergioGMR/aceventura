@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "jarry - rune",
-      "teams": {
-        "home": "jarry",
-        "away": "rune"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "22/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "thiem - darderi",
-      "teams": {
-        "home": "thiem",
-        "away": "darderi"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "22/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "constanta - irun",
       "teams": {
         "home": "constanta",
@@ -1855,5 +1825,5 @@
       "channels": []
     }
   ],
-  "updated": 1729622317703
+  "updated": 1729623937208
 }
