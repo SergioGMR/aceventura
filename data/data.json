@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "north ireland open",
-      "date": {
-        "day": "22/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "nishikori - draper",
-      "teams": {
-        "home": "nishikori",
-        "away": "draper"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "22/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tsitsipas - cerundolo",
-      "teams": {
-        "home": "tsitsipas",
-        "away": "cerundolo"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "22/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "vojvodina - torrelavega",
       "teams": {
         "home": "vojvodina",
@@ -1735,5 +1690,5 @@
       "channels": []
     }
   ],
-  "updated": 1729629283826
+  "updated": 1729631115196
 }
