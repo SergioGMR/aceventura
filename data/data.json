@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "catalonia open - day 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "22/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "north ireland open",
-      "date": {
-        "day": "22/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "stricker - griekspoor",
-      "teams": {
-        "home": "stricker",
-        "away": "griekspoor"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "22/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "struff - de minaur",
-      "teams": {
-        "home": "struff",
-        "away": "de minaur"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "22/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - borussia dortmund",
       "teams": {
         "home": "real madrid",
@@ -1960,5 +1900,5 @@
       "channels": []
     }
   ],
-  "updated": 1729607804401
+  "updated": 1729609529134
 }
