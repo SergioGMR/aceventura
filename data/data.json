@@ -1,96 +1,6 @@
 {
   "data": [
     {
-      "title": "constanta - irun",
-      "teams": {
-        "home": "constanta",
-        "away": "irun"
-      },
-      "sport": "handball",
-      "competition": "champions league",
-      "date": {
-        "day": "22/10/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "gog - leon",
-      "teams": {
-        "home": "gog",
-        "away": "leon"
-      },
-      "sport": "handball",
-      "competition": "champions league",
-      "date": {
-        "day": "22/10/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granollers - bjerringbro",
-      "teams": {
-        "home": "granollers",
-        "away": "bjerringbro"
-      },
-      "sport": "handball",
-      "competition": "champions league",
-      "date": {
-        "day": "22/10/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "milan - brujas",
-      "teams": {
-        "home": "milan",
-        "away": "brujas"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "22/10/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "monaco - red star",
-      "teams": {
-        "home": "monaco",
-        "away": "red star"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "22/10/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real oviedo - mirandes",
-      "teams": {
-        "home": "real oviedo",
-        "away": "mirandes"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "22/10/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 1",
       "teams": {
         "home": null,
@@ -1825,5 +1735,5 @@
       "channels": []
     }
   ],
-  "updated": 1729625686673
+  "updated": 1729627548351
 }
