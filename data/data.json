@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "event",
-      "teams": {
-        "home": "event"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "23/10/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "celtics - knicks",
       "teams": {
         "home": "celtics",
@@ -1526,5 +1512,5 @@
       "channels": []
     }
   ],
-  "updated": 1729647149602
+  "updated": 1729650476100
 }
