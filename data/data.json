@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "ankara - valencia",
-      "teams": {
-        "home": "ankara",
-        "away": "valencia"
-      },
-      "sport": "basketball",
-      "competition": "eurocup",
-      "date": {
-        "day": "23/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atalanta - celtic",
       "teams": {
         "home": "atalanta",
@@ -1257,5 +1242,5 @@
       "channels": []
     }
   ],
-  "updated": 1729710287224
+  "updated": 1729712038093
 }
