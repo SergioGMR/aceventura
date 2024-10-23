@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "partiza - virtus",
-      "teams": {
-        "home": "partiza",
-        "away": "virtus"
-      },
-      "sport": "baseball",
-      "competition": "euroleague",
-      "date": {
-        "day": "23/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "cartagena - elche",
       "teams": {
         "home": "cartagena",
@@ -1137,5 +1122,5 @@
       "channels": []
     }
   ],
-  "updated": 1729717499109
+  "updated": 1729719229895
 }
