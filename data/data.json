@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "atletico mineiro - river plate",
-      "teams": {
-        "home": "atletico mineiro",
-        "away": "river plate"
-      },
-      "sport": "soccer",
-      "competition": "libertadores cup",
-      "date": {
-        "day": "23/10/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "lakers - timberwolves",
       "teams": {
         "home": "lakers",
@@ -1497,5 +1482,5 @@
       "channels": []
     }
   ],
-  "updated": 1729652995147
+  "updated": 1729654665344
 }
