@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "celtics - knicks",
-      "teams": {
-        "home": "celtics",
-        "away": "knicks"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "23/10/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atletico mineiro - river plate",
       "teams": {
         "home": "atletico mineiro",
@@ -1512,5 +1497,5 @@
       "channels": []
     }
   ],
-  "updated": 1729650476100
+  "updated": 1729651807038
 }
