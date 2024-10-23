@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "23/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "23/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "ankara - valencia",
       "teams": {
         "home": "ankara",
@@ -1287,5 +1257,5 @@
       "channels": []
     }
   ],
-  "updated": 1729708715424
+  "updated": 1729710287224
 }
