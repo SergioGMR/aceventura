@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "round 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "north ireland open",
-      "date": {
-        "day": "23/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "young boys - inter",
-      "teams": {
-        "home": "young boys",
-        "away": "inter"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "23/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "23/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "23/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "catalonia open - round of 16",
       "teams": {
         "home": null,
@@ -1452,5 +1392,5 @@
       "channels": []
     }
   ],
-  "updated": 1729694147995
+  "updated": 1729695933103
 }
