@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "sportin brague - glimt",
-      "teams": {
-        "home": "sportin brague",
-        "away": "glimt"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "23/10/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "galatasaray - elfsborg",
-      "teams": {
-        "home": "galatasaray",
-        "away": "elfsborg"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "23/10/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "match",
       "teams": {
         "home": null,
@@ -1317,5 +1287,5 @@
       "channels": []
     }
   ],
-  "updated": 1729703112562
+  "updated": 1729704914540
 }
