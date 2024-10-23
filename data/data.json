@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "lakers - timberwolves",
-      "teams": {
-        "home": "lakers",
-        "away": "timberwolves"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "23/10/2024",
-        "time": "04:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "catalonia open - round of 16",
       "teams": {
         "home": null,
@@ -1482,5 +1467,5 @@
       "channels": []
     }
   ],
-  "updated": 1729658222683
+  "updated": 1729659939657
 }
