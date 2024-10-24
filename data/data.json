@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "baskonia - alba",
-      "teams": {
-        "home": "baskonia",
-        "away": "alba"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "24/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "milan - efes",
-      "teams": {
-        "home": "milan",
-        "away": "efes"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "24/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barcelona - magdeburg",
-      "teams": {
-        "home": "barcelona",
-        "away": "magdeburg"
-      },
-      "sport": "handball",
-      "competition": "champions league",
-      "date": {
-        "day": "24/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - red star",
       "teams": {
         "home": "real madrid",
@@ -750,5 +705,5 @@
       "channels": []
     }
   ],
-  "updated": 1729803903548
+  "updated": 1729805635699
 }
