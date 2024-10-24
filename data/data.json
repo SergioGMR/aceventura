@@ -1,40 +1,25 @@
 {
   "data": [
     {
-      "title": "men - round of 16",
+      "title": "cobolli - de miñaur",
       "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "24/10/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
+        "home": "cobolli",
+        "away": "de miñaur"
       },
       "sport": "tennis",
       "competition": "vienne tournament",
       "date": {
         "day": "24/10/2024",
-        "time": "18:00",
+        "time": "17:30",
         "zone": "cet"
       },
       "channels": []
     },
     {
-      "title": "match",
+      "title": "stricker - rune",
       "teams": {
-        "home": null,
-        "away": null
+        "home": "stricker",
+        "away": "rune"
       },
       "sport": "tennis",
       "competition": "vienne tournament",
@@ -315,6 +300,21 @@
       "channels": []
     },
     {
+      "title": "kachanov - nakashima",
+      "teams": {
+        "home": "kachanov",
+        "away": "nakashima"
+      },
+      "sport": "tennis",
+      "competition": "vienne tournament",
+      "date": {
+        "day": "24/10/2024",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "round 3",
       "teams": {
         "home": null,
@@ -330,25 +330,10 @@
       "channels": []
     },
     {
-      "title": "match",
+      "title": "auger - perricard",
       "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "24/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
+        "home": "auger",
+        "away": "perricard"
       },
       "sport": "tennis",
       "competition": "vienne tournament",
@@ -731,7 +716,383 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "practice",
+      "teams": {
+        "home": "practice"
+      },
+      "sport": "motogp",
+      "competition": "thailand gp",
+      "date": {
+        "day": "25/10/2024",
+        "time": "08:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "catalonia open - round of 16",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "25/10/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters",
+      "teams": {
+        "home": "quarters"
+      },
+      "sport": "snooker",
+      "competition": "north ireland open",
+      "date": {
+        "day": "25/10/2024",
+        "time": "12:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "women - semifinal 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "25/10/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters 1",
+      "teams": {
+        "home": "quarters 1"
+      },
+      "sport": "tennis",
+      "competition": "basilea tournament",
+      "date": {
+        "day": "25/10/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters 1",
+      "teams": {
+        "home": "quarters 1"
+      },
+      "sport": "tennis",
+      "competition": "vienne tournament",
+      "date": {
+        "day": "25/10/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "catalonia open - round of 16",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "25/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "men - semifinal 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "25/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters 2",
+      "teams": {
+        "home": "quarters 2"
+      },
+      "sport": "tennis",
+      "competition": "basilea tournament",
+      "date": {
+        "day": "25/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters 2",
+      "teams": {
+        "home": "quarters 2"
+      },
+      "sport": "tennis",
+      "competition": "vienne tournament",
+      "date": {
+        "day": "25/10/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters 3",
+      "teams": {
+        "home": "quarters 3"
+      },
+      "sport": "tennis",
+      "competition": "basilea tournament",
+      "date": {
+        "day": "25/10/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters 3",
+      "teams": {
+        "home": "quarters 3"
+      },
+      "sport": "tennis",
+      "competition": "vienne tournament",
+      "date": {
+        "day": "25/10/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fenerbahce - panathinaikos",
+      "teams": {
+        "home": "fenerbahce",
+        "away": "panathinaikos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "25/10/2024",
+        "time": "19:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters",
+      "teams": {
+        "home": "quarters"
+      },
+      "sport": "snooker",
+      "competition": "north ireland open",
+      "date": {
+        "day": "25/10/2024",
+        "time": "19:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters 4",
+      "teams": {
+        "home": "quarters 4"
+      },
+      "sport": "tennis",
+      "competition": "basilea tournament",
+      "date": {
+        "day": "25/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters 4",
+      "teams": {
+        "home": "quarters 4"
+      },
+      "sport": "tennis",
+      "competition": "vienne tournament",
+      "date": {
+        "day": "25/10/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "barcelona - asvel",
+      "teams": {
+        "home": "barcelona",
+        "away": "asvel"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "25/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bayern munich - olympiacos",
+      "teams": {
+        "home": "bayern munich",
+        "away": "olympiacos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "25/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "free training 1",
+      "teams": {
+        "home": "free training 1"
+      },
+      "sport": "f1",
+      "competition": "mexico gp",
+      "date": {
+        "day": "25/10/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "leiceter - nottingham forest",
+      "teams": {
+        "home": "leiceter",
+        "away": "nottingham forest"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "25/10/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "spain - canada",
+      "teams": {
+        "home": "spain",
+        "away": "canada"
+      },
+      "sport": "soccer (w)",
+      "competition": "friendly match",
+      "date": {
+        "day": "25/10/2024",
+        "time": "22:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "free training 2",
+      "teams": {
+        "home": "free training 2"
+      },
+      "sport": "f1",
+      "competition": "mexico gp",
+      "date": {
+        "day": "26/10/2024",
+        "time": "00:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dodgers - yankees",
+      "teams": {
+        "home": "dodgers",
+        "away": "yankees"
+      },
+      "sport": "baseball",
+      "competition": "usa mlb",
+      "date": {
+        "day": "26/10/2024",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "knicks - pacers",
+      "teams": {
+        "home": "knicks",
+        "away": "pacers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "26/10/2024",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "free training 2 and qp",
+      "teams": {
+        "home": "free training 2 and qp"
+      },
+      "sport": "motogp",
+      "competition": "thailand gp",
+      "date": {
+        "day": "26/10/2024",
+        "time": "03:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tokyo - semifinal",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "wta world tour",
+      "date": {
+        "day": "26/10/2024",
+        "time": "05:00",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1729791297445
+  "updated": 1729793162814
 }
