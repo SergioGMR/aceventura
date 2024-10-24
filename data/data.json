@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "76ers - bucks",
-      "teams": {
-        "home": "76ers",
-        "away": "bucks"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "24/10/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "botafogo - peñarol",
       "teams": {
         "home": "botafogo",
@@ -958,5 +943,5 @@
       "channels": []
     }
   ],
-  "updated": 1729736860897
+  "updated": 1729738199768
 }
