@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "vikingur - brujas circle",
-      "teams": {
-        "home": "vikingur",
-        "away": "brujas circle"
-      },
-      "sport": "soccer",
-      "competition": "uefa conference league",
-      "date": {
-        "day": "24/10/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "men - round of 16",
       "teams": {
         "home": null,
@@ -748,5 +733,5 @@
       "channels": []
     }
   ],
-  "updated": 1729789478850
+  "updated": 1729791297445
 }
