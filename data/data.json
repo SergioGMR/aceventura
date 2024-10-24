@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "men - round of 16",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "24/10/2024",
-        "time": "11:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "catalonia open - round of 16",
       "teams": {
         "home": null,
@@ -913,5 +898,5 @@
       "channels": []
     }
   ],
-  "updated": 1729769646142
+  "updated": 1729771684036
 }
