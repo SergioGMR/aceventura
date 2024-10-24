@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "round 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "north ireland open",
-      "date": {
-        "day": "24/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "auger - perricard",
-      "teams": {
-        "home": "auger",
-        "away": "perricard"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "24/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "baskonia - alba",
       "teams": {
         "home": "baskonia",
@@ -780,5 +750,5 @@
       "channels": []
     }
   ],
-  "updated": 1729802099981
+  "updated": 1729803903548
 }
