@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "botafogo - peñarol",
-      "teams": {
-        "home": "botafogo",
-        "away": "peñarol"
-      },
-      "sport": "soccer",
-      "competition": "libertadores cup",
-      "date": {
-        "day": "24/10/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "women - round of 16",
       "teams": {
         "home": null,
@@ -943,5 +928,5 @@
       "channels": []
     }
   ],
-  "updated": 1729739373150
+  "updated": 1729741052874
 }
