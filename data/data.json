@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "kachanov - nakashima",
-      "teams": {
-        "home": "kachanov",
-        "away": "nakashima"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "24/10/2024",
-        "time": "19:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 3",
       "teams": {
         "home": null,
@@ -795,5 +780,5 @@
       "channels": []
     }
   ],
-  "updated": 1729800317890
+  "updated": 1729802099981
 }
