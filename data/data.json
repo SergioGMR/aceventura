@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stricker - rune",
-      "teams": {
-        "home": "stricker",
-        "away": "rune"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "24/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "djurgardens - guimares",
       "teams": {
         "home": "djurgardens",
@@ -1079,5 +1064,5 @@
       "channels": []
     }
   ],
-  "updated": 1729795116528
+  "updated": 1729796710684
 }
