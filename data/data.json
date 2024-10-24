@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "women - round of 16",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "24/10/2024",
-        "time": "09:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "men - round of 16",
       "teams": {
         "home": null,
@@ -928,5 +913,5 @@
       "channels": []
     }
   ],
-  "updated": 1729762496845
+  "updated": 1729764303360
 }
