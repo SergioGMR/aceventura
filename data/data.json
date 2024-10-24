@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "cruzeiro - atletico lanus",
-      "teams": {
-        "home": "cruzeiro",
-        "away": "atletico lanus"
-      },
-      "sport": "soccer",
-      "competition": "south america cup",
-      "date": {
-        "day": "23/10/2024",
-        "time": "23:50",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "76ers - bucks",
       "teams": {
         "home": "76ers",
@@ -973,5 +958,5 @@
       "channels": []
     }
   ],
-  "updated": 1729730933893
+  "updated": 1729733531553
 }
