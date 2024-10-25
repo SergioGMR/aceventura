@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "canadiens - rangers",
-      "teams": {
-        "home": "canadiens",
-        "away": "rangers"
-      },
-      "sport": "hockey",
-      "competition": "usa nhl",
-      "date": {
-        "day": "25/10/2024",
-        "time": "04:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "practice",
       "teams": {
         "home": "practice"
@@ -392,5 +377,5 @@
       "channels": []
     }
   ],
-  "updated": 1729832700536
+  "updated": 1729834594332
 }
