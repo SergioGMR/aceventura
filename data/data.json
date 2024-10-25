@@ -1,34 +1,6 @@
 {
   "data": [
     {
-      "title": "quarters 3",
-      "teams": {
-        "home": "quarters 3"
-      },
-      "sport": "tennis",
-      "competition": "basilea tournament",
-      "date": {
-        "day": "25/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "quarters 3",
-      "teams": {
-        "home": "quarters 3"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "25/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "fenerbahce - panathinaikos",
       "teams": {
         "home": "fenerbahce",
@@ -1475,5 +1447,5 @@
       "channels": []
     }
   ],
-  "updated": 1729881516061
+  "updated": 1729883094084
 }
