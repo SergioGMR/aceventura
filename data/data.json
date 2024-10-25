@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "mavericks - spurs",
-      "teams": {
-        "home": "mavericks",
-        "away": "spurs"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "25/10/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "rams - vikings",
       "teams": {
         "home": "rams",
@@ -466,5 +451,5 @@
       "channels": []
     }
   ],
-  "updated": 1729823286977
+  "updated": 1729824682770
 }
