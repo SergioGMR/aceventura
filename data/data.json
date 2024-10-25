@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "leiceter - nottingham forest",
-      "teams": {
-        "home": "leiceter",
-        "away": "nottingham forest"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "25/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "spain - canada",
       "teams": {
         "home": "spain",
@@ -1346,5 +1331,5 @@
       "channels": []
     }
   ],
-  "updated": 1729892096494
+  "updated": 1729893900985
 }
