@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - asvel",
-      "teams": {
-        "home": "barcelona",
-        "away": "asvel"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "25/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bayern munich - olympiacos",
-      "teams": {
-        "home": "bayern munich",
-        "away": "olympiacos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "25/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "free training 1",
-      "teams": {
-        "home": "free training 1"
-      },
-      "sport": "f1",
-      "competition": "mexico gp",
-      "date": {
-        "day": "25/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "leiceter - nottingham forest",
       "teams": {
         "home": "leiceter",
@@ -1390,5 +1346,5 @@
       "channels": []
     }
   ],
-  "updated": 1729890320553
+  "updated": 1729892096494
 }
