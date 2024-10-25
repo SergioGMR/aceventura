@@ -1,63 +1,6 @@
 {
   "data": [
     {
-      "title": "fenerbahce - panathinaikos",
-      "teams": {
-        "home": "fenerbahce",
-        "away": "panathinaikos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "25/10/2024",
-        "time": "19:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "quarters",
-      "teams": {
-        "home": "quarters"
-      },
-      "sport": "snooker",
-      "competition": "north ireland open",
-      "date": {
-        "day": "25/10/2024",
-        "time": "19:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "quarters 4",
-      "teams": {
-        "home": "quarters 4"
-      },
-      "sport": "tennis",
-      "competition": "basilea tournament",
-      "date": {
-        "day": "25/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "quarters 4",
-      "teams": {
-        "home": "quarters 4"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "25/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "barcelona - asvel",
       "teams": {
         "home": "barcelona",
@@ -1447,5 +1390,5 @@
       "channels": []
     }
   ],
-  "updated": 1729888510638
+  "updated": 1729890320553
 }
