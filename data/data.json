@@ -1,49 +1,6 @@
 {
   "data": [
     {
-      "title": "women - semifinal 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "25/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "quarters 1",
-      "teams": {
-        "home": "quarters 1"
-      },
-      "sport": "tennis",
-      "competition": "basilea tournament",
-      "date": {
-        "day": "25/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "quarters 1",
-      "teams": {
-        "home": "quarters 1"
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "25/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "catalonia open - round of 16",
       "teams": {
         "home": null,
@@ -1576,5 +1533,5 @@
       "channels": []
     }
   ],
-  "updated": 1729866998195
+  "updated": 1729868715148
 }
