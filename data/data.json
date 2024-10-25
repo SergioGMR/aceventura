@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "spain - canada",
-      "teams": {
-        "home": "spain",
-        "away": "canada"
-      },
-      "sport": "soccer (w)",
-      "competition": "friendly match",
-      "date": {
-        "day": "25/10/2024",
-        "time": "22:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "free training 2",
       "teams": {
         "home": "free training 2"
@@ -1331,5 +1316,5 @@
       "channels": []
     }
   ],
-  "updated": 1729895757164
+  "updated": 1729897563516
 }
