@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "free training 1",
-      "teams": {
-        "home": "free training 1"
-      },
-      "sport": "motogp",
-      "competition": "thailand gp",
-      "date": {
-        "day": "25/10/2024",
-        "time": "04:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "canadiens - rangers",
       "teams": {
         "home": "canadiens",
@@ -406,5 +392,5 @@
       "channels": []
     }
   ],
-  "updated": 1729831061577
+  "updated": 1729832700536
 }
