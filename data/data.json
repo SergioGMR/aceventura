@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "catalonia open - round of 16",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "25/10/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "quarters",
       "teams": {
         "home": "quarters"
@@ -363,5 +348,5 @@
       "channels": []
     }
   ],
-  "updated": 1729860341399
+  "updated": 1729861753677
 }
