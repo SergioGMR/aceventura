@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "manuel flores - victor olivo",
-      "teams": {
-        "home": "manuel flores",
-        "away": "victor olivo"
-      },
-      "sport": "boxing",
-      "competition": "golden boy boxing",
-      "date": {
-        "day": "25/10/2024",
-        "time": "03:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "free training 1",
       "teams": {
         "home": "free training 1"
@@ -421,5 +406,5 @@
       "channels": []
     }
   ],
-  "updated": 1729827492787
+  "updated": 1729829175728
 }
