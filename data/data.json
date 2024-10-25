@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "rams - vikings",
-      "teams": {
-        "home": "rams",
-        "away": "vikings"
-      },
-      "sport": "hockey",
-      "competition": "usa nhl",
-      "date": {
-        "day": "25/10/2024",
-        "time": "02:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "corinthians - racing avellaneda",
-      "teams": {
-        "home": "corinthians",
-        "away": "racing avellaneda"
-      },
-      "sport": "soccer",
-      "competition": "south america cup",
-      "date": {
-        "day": "25/10/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "manuel flores - victor olivo",
       "teams": {
         "home": "manuel flores",
@@ -451,5 +421,5 @@
       "channels": []
     }
   ],
-  "updated": 1729825875477
+  "updated": 1729827492787
 }
