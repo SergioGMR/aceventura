@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "practice",
-      "teams": {
-        "home": "practice"
-      },
-      "sport": "motogp",
-      "competition": "thailand gp",
-      "date": {
-        "day": "25/10/2024",
-        "time": "08:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "catalonia open - round of 16",
       "teams": {
         "home": null,
@@ -377,5 +363,5 @@
       "channels": []
     }
   ],
-  "updated": 1729845449983
+  "updated": 1729847104878
 }
