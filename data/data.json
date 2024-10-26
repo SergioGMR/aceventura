@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "andorra - granada",
-      "teams": {
-        "home": "andorra",
-        "away": "granada"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "coruña - zaragoza",
-      "teams": {
-        "home": "coruña",
-        "away": "zaragoza"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "andorra - granada",
-      "teams": {
-        "home": "andorra",
-        "away": "granada"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "topuria - holloway",
       "teams": {
         "home": "topuria",
@@ -824,5 +779,5 @@
       "channels": []
     }
   ],
-  "updated": 1729978439107
+  "updated": 1729980286881
 }
