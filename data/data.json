@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "newgiza - women final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "26/10/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "aston villa - bournemouth",
       "teams": {
         "home": "aston villa",
@@ -1123,5 +1108,5 @@
       "channels": []
     }
   ],
-  "updated": 1729958711984
+  "updated": 1729960620016
 }
