@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "north ireland open",
-      "date": {
-        "day": "26/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinal 1",
       "teams": {
         "home": null,
@@ -1168,5 +1153,5 @@
       "channels": []
     }
   ],
-  "updated": 1729953278168
+  "updated": 1729955106416
 }
