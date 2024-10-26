@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "north ireland open",
-      "date": {
-        "day": "26/10/2024",
-        "time": "19:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "jack catterall - regis progais",
-      "teams": {
-        "home": "jack catterall",
-        "away": "regis progais"
-      },
-      "sport": "boxing",
-      "competition": "boxing event",
-      "date": {
-        "day": "26/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "andorra - granada",
       "teams": {
         "home": "andorra",
@@ -854,5 +824,5 @@
       "channels": []
     }
   ],
-  "updated": 1729974869763
+  "updated": 1729976678776
 }
