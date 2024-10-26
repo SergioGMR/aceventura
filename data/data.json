@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "baskonia - joventut",
-      "teams": {
-        "home": "baskonia",
-        "away": "joventut"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "girona - murcia",
-      "teams": {
-        "home": "girona",
-        "away": "murcia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "saracens - tigers",
       "teams": {
         "home": "saracens",
@@ -958,5 +928,5 @@
       "channels": []
     }
   ],
-  "updated": 1729967822744
+  "updated": 1729969493658
 }
