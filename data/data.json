@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "newgiza - men final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "26/10/2024",
-        "time": "17:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "baskonia - joventut",
       "teams": {
         "home": "baskonia",
@@ -973,5 +958,5 @@
       "channels": []
     }
   ],
-  "updated": 1729965953563
+  "updated": 1729967822744
 }
