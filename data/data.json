@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "free training 2 and qp",
-      "teams": {
-        "home": "free training 2 and qp"
-      },
-      "sport": "motogp",
-      "competition": "thailand gp",
-      "date": {
-        "day": "26/10/2024",
-        "time": "03:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "tokyo - semifinal",
       "teams": {
         "home": null,
@@ -1272,5 +1258,5 @@
       "channels": []
     }
   ],
-  "updated": 1729915578958
+  "updated": 1729917418309
 }
