@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "semifinal 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "basilea tournament",
-      "date": {
-        "day": "26/10/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "semifinal 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "26/10/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "newgiza - women final",
       "teams": {
         "home": null,
@@ -1153,5 +1123,5 @@
       "channels": []
     }
   ],
-  "updated": 1729956871004
+  "updated": 1729958711984
 }
