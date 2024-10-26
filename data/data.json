@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "tokyo - semifinal",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "wta world tour",
-      "date": {
-        "day": "26/10/2024",
-        "time": "05:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "saturday to sprint",
       "teams": {
         "home": null,
@@ -1258,5 +1243,5 @@
       "channels": []
     }
   ],
-  "updated": 1729920925175
+  "updated": 1729922773603
 }
