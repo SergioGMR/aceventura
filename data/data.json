@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "saturday to sprint",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "motogp",
-      "competition": "thailand gp",
-      "date": {
-        "day": "26/10/2024",
-        "time": "11:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "valladolid - villarreal",
       "teams": {
         "home": "valladolid",
@@ -1198,5 +1183,5 @@
       "channels": []
     }
   ],
-  "updated": 1729944468077
+  "updated": 1729946658628
 }
