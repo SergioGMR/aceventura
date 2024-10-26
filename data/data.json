@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "saturday to sprint",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "motogp",
-      "competition": "thailand gp",
-      "date": {
-        "day": "26/10/2024",
-        "time": "07:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "catalonia open - semifinals",
       "teams": {
         "home": null,
@@ -1243,5 +1228,5 @@
       "channels": []
     }
   ],
-  "updated": 1729929964578
+  "updated": 1729931788326
 }
