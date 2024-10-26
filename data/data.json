@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "dodgers - yankees",
-      "teams": {
-        "home": "dodgers",
-        "away": "yankees"
-      },
-      "sport": "baseball",
-      "competition": "usa mlb",
-      "date": {
-        "day": "26/10/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "knicks - pacers",
-      "teams": {
-        "home": "knicks",
-        "away": "pacers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "26/10/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "free training 2 and qp",
       "teams": {
         "home": "free training 2 and qp"
@@ -1302,5 +1272,5 @@
       "channels": []
     }
   ],
-  "updated": 1729909546875
+  "updated": 1729910834914
 }
