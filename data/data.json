@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "saracens - tigers",
-      "teams": {
-        "home": "saracens",
-        "away": "tigers"
-      },
-      "sport": "rugby",
-      "competition": "gallagher premiership rugby",
-      "date": {
-        "day": "26/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "everton - fulham",
-      "teams": {
-        "home": "everton",
-        "away": "fulham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "las palmas - girona",
-      "teams": {
-        "home": "las palmas",
-        "away": "girona"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cordoba - eldense",
-      "teams": {
-        "home": "cordoba",
-        "away": "eldense"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "26/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "zaragoza - castellon",
-      "teams": {
-        "home": "zaragoza",
-        "away": "castellon"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "26/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - barcelona",
       "teams": {
         "home": "real madrid",
@@ -928,5 +853,5 @@
       "channels": []
     }
   ],
-  "updated": 1729969493658
+  "updated": 1729971233488
 }
