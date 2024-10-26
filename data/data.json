@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "aston villa - bournemouth",
-      "teams": {
-        "home": "aston villa",
-        "away": "bournemouth"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "brentford - ipswich town",
-      "teams": {
-        "home": "brentford",
-        "away": "ipswich town"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "brighton - wolves",
-      "teams": {
-        "home": "brighton",
-        "away": "wolves"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "manchester city - southampton",
-      "teams": {
-        "home": "manchester city",
-        "away": "southampton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "rayo vallecano - alaves",
-      "teams": {
-        "home": "rayo vallecano",
-        "away": "alaves"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "cadiz - real oviedo",
       "teams": {
         "home": "cadiz",
@@ -1108,5 +1033,5 @@
       "channels": []
     }
   ],
-  "updated": 1729960620016
+  "updated": 1729962308152
 }
