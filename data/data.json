@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "cadiz - real oviedo",
-      "teams": {
-        "home": "cadiz",
-        "away": "real oviedo"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "26/10/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mirandes - cartagena",
-      "teams": {
-        "home": "mirandes",
-        "away": "cartagena"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "26/10/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinal 2",
       "teams": {
         "home": null,
@@ -1033,5 +1003,5 @@
       "channels": []
     }
   ],
-  "updated": 1729962308152
+  "updated": 1729964114215
 }
