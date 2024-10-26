@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "valladolid - villarreal",
-      "teams": {
-        "home": "valladolid",
-        "away": "villarreal"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "26/10/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinals",
       "teams": {
         "home": null,
@@ -1183,5 +1168,5 @@
       "channels": []
     }
   ],
-  "updated": 1729951485028
+  "updated": 1729953278168
 }
