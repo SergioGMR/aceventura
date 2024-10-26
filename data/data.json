@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "free training 2",
-      "teams": {
-        "home": "free training 2"
-      },
-      "sport": "f1",
-      "competition": "mexico gp",
-      "date": {
-        "day": "26/10/2024",
-        "time": "00:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "dodgers - yankees",
       "teams": {
         "home": "dodgers",
@@ -1316,5 +1302,5 @@
       "channels": []
     }
   ],
-  "updated": 1729903745206
+  "updated": 1729906335958
 }
