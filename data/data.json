@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "topuria - holloway",
-      "teams": {
-        "home": "topuria",
-        "away": "holloway"
-      },
-      "sport": "mma",
-      "competition": "ufc fight night",
-      "date": {
-        "day": "26/10/2024",
-        "time": "22:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "classification",
       "teams": {
         "home": "classification"
@@ -779,5 +764,5 @@
       "channels": []
     }
   ],
-  "updated": 1729982110585
+  "updated": 1729983897805
 }
