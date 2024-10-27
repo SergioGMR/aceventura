@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "chelsea - newcastle",
-      "teams": {
-        "home": "chelsea",
-        "away": "newcastle"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "27/10/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "crystal palace - tottenham",
-      "teams": {
-        "home": "crystal palace",
-        "away": "tottenham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "27/10/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "west ham - manchester united",
-      "teams": {
-        "home": "west ham",
-        "away": "manchester united"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "27/10/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "final",
       "teams": {
         "home": null,
@@ -555,5 +510,5 @@
       "channels": []
     }
   ],
-  "updated": 1730047073081
+  "updated": 1730048669294
 }
