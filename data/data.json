@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "tokyo - final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "wta world tour",
-      "date": {
-        "day": "27/10/2024",
-        "time": "05:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "moto3 - race",
       "teams": {
         "home": "moto3",
@@ -735,5 +720,5 @@
       "channels": []
     }
   ],
-  "updated": 1730011087773
+  "updated": 1730012693578
 }
