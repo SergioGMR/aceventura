@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "basilea tournament",
-      "date": {
-        "day": "27/10/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "getafe - valencia",
       "teams": {
         "home": "getafe",
@@ -510,5 +495,5 @@
       "channels": []
     }
   ],
-  "updated": 1730048669294
+  "updated": 1730050468280
 }
