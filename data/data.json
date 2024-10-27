@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "bilbao - valencia",
-      "teams": {
-        "home": "bilbao",
-        "away": "valencia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "27/10/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "rio breogan - hiopos lleida",
-      "teams": {
-        "home": "rio breogan",
-        "away": "hiopos lleida"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "27/10/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "arsenal - liverpool",
       "teams": {
         "home": "arsenal",
@@ -465,5 +435,5 @@
       "channels": []
     }
   ],
-  "updated": 1730054208557
+  "updated": 1730055909442
 }
