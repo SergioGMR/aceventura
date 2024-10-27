@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "estudiantes - zamora",
-      "teams": {
-        "home": "estudiantes",
-        "away": "zamora"
-      },
-      "sport": "basketball",
-      "competition": "feb",
-      "date": {
-        "day": "27/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "unicaja - barcelona",
-      "teams": {
-        "home": "unicaja",
-        "away": "barcelona"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "27/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real betis - atletico de madrid",
-      "teams": {
-        "home": "real betis",
-        "away": "atletico de madrid"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "27/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "albacete - sporting",
-      "teams": {
-        "home": "albacete",
-        "away": "sporting"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "27/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "huesca - almeria",
-      "teams": {
-        "home": "huesca",
-        "away": "almeria"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "27/10/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "final",
       "teams": {
         "home": null,
@@ -390,5 +315,5 @@
       "channels": []
     }
   ],
-  "updated": 1730059505770
+  "updated": 1730061316470
 }
