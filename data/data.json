@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - manresa",
-      "teams": {
-        "home": "real madrid",
-        "away": "manresa"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "27/10/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "tenerife - gran canaria",
       "teams": {
         "home": "tenerife",
@@ -645,5 +630,5 @@
       "channels": []
     }
   ],
-  "updated": 1730037875489
+  "updated": 1730039707761
 }
