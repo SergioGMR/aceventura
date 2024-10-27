@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "classification",
-      "teams": {
-        "home": "classification"
-      },
-      "sport": "f1",
-      "competition": "mexico gp",
-      "date": {
-        "day": "26/10/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "pistons - celtics",
       "teams": {
         "home": "pistons",
@@ -764,5 +750,5 @@
       "channels": []
     }
   ],
-  "updated": 1729985639876
+  "updated": 1729988448160
 }
