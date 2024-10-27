@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "race",
-      "teams": {
-        "home": "race"
-      },
-      "sport": "f1",
-      "competition": "mexico gp",
-      "date": {
-        "day": "27/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "stade toulousain - toulon",
-      "teams": {
-        "home": "stade toulousain",
-        "away": "toulon"
-      },
-      "sport": "rugby",
-      "competition": "top 14 rugby",
-      "date": {
-        "day": "27/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granada - levante",
-      "teams": {
-        "home": "granada",
-        "away": "levante"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "27/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "commanders - bears",
       "teams": {
         "home": "commanders",
@@ -270,5 +226,5 @@
       "channels": []
     }
   ],
-  "updated": 1730068522532
+  "updated": 1730070283731
 }
