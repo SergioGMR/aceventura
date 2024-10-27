@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "pacers - 76ers",
-      "teams": {
-        "home": "pacers",
-        "away": "76ers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "27/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real sociedad - osasuna",
-      "teams": {
-        "home": "real sociedad",
-        "away": "osasuna"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "27/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "race",
       "teams": {
         "home": "race"
@@ -300,5 +270,5 @@
       "channels": []
     }
   ],
-  "updated": 1730066683878
+  "updated": 1730068522532
 }
