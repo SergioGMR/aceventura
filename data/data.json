@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "north ireland open",
-      "date": {
-        "day": "27/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "leganes - celta",
-      "teams": {
-        "home": "leganes",
-        "away": "celta"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "27/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "malaga - eibar",
-      "teams": {
-        "home": "malaga",
-        "away": "eibar"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "27/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "vienne tournament",
-      "date": {
-        "day": "27/10/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "chelsea - newcastle",
       "teams": {
         "home": "chelsea",
@@ -615,5 +555,5 @@
       "channels": []
     }
   ],
-  "updated": 1730043239096
+  "updated": 1730045094616
 }
