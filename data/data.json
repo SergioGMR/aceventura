@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "getafe - valencia",
-      "teams": {
-        "home": "getafe",
-        "away": "valencia"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "27/10/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "elche - burgos",
       "teams": {
         "home": "elche",
@@ -495,5 +480,5 @@
       "channels": []
     }
   ],
-  "updated": 1730050468280
+  "updated": 1730052325703
 }
