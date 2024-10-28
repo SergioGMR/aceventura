@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "lanzarote open - day 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "28/10/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "28/10/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "match",
       "teams": {
         "home": null,
@@ -136,5 +106,5 @@
       "channels": []
     }
   ],
-  "updated": 1730133543540
+  "updated": 1730135088816
 }
