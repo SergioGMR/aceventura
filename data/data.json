@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "racing ferrol - tenerife",
-      "teams": {
-        "home": "racing ferrol",
-        "away": "tenerife"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "28/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "mallorca - athletic club",
       "teams": {
         "home": "mallorca",
@@ -91,5 +76,5 @@
       "channels": []
     }
   ],
-  "updated": 1730153075222
+  "updated": 1730154947526
 }
