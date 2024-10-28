@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "49ers - cowboys",
-      "teams": {
-        "home": "49ers",
-        "away": "cowboys"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "28/10/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "lanzarote open - day 1",
       "teams": {
         "home": null,
@@ -196,5 +181,5 @@
       "channels": []
     }
   ],
-  "updated": 1730085179306
+  "updated": 1730086796518
 }
