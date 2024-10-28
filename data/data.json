@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "red zone - stage 18",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "27/10/2024",
-        "time": "22:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "49ers - cowboys",
       "teams": {
         "home": "49ers",
@@ -211,5 +196,5 @@
       "channels": []
     }
   ],
-  "updated": 1730072020183
+  "updated": 1730074806453
 }
