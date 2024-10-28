@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "28/10/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "racing ferrol - tenerife",
       "teams": {
         "home": "racing ferrol",
@@ -106,5 +91,5 @@
       "channels": []
     }
   ],
-  "updated": 1730147686622
+  "updated": 1730149469158
 }
