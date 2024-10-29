@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "yankees - dodgers [match 3]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "baseball",
-      "competition": "usa mlb",
-      "date": {
-        "day": "29/10/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "steelers - giants",
       "teams": {
         "home": "steelers",
@@ -46,5 +31,5 @@
       "channels": []
     }
   ],
-  "updated": 1730170281177
+  "updated": 1730171458391
 }
