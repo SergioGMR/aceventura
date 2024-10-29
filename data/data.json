@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "arnaldi - rune",
-      "teams": {
-        "home": "arnaldi",
-        "away": "rune"
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "29/10/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cobolli - gasquet",
-      "teams": {
-        "home": "cobolli",
-        "away": "gasquet"
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "29/10/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "shelton - moutet",
       "teams": {
         "home": "shelton",
@@ -1117,5 +1087,5 @@
       "channels": []
     }
   ],
-  "updated": 1730219945472
+  "updated": 1730221499418
 }
