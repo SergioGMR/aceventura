@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "ademar leon - gog",
-      "teams": {
-        "home": "ademar leon",
-        "away": "gog"
-      },
-      "sport": "handball",
-      "competition": "champions league",
-      "date": {
-        "day": "29/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "torrelavega - vojvodina",
-      "teams": {
-        "home": "torrelavega",
-        "away": "vojvodina"
-      },
-      "sport": "handball",
-      "competition": "champions league",
-      "date": {
-        "day": "29/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bidasoa - constansa",
-      "teams": {
-        "home": "bidasoa",
-        "away": "constansa"
-      },
-      "sport": "handball",
-      "competition": "euroleague",
-      "date": {
-        "day": "29/10/2024",
-        "time": "20:48",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "astur - real valladolid",
-      "teams": {
-        "home": "astur",
-        "away": "real valladolid"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "29/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ruud - thompson",
-      "teams": {
-        "home": "ruud",
-        "away": "thompson"
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "29/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "nets - nuggets",
       "teams": {
         "home": "nets",
@@ -907,5 +832,5 @@
       "channels": []
     }
   ],
-  "updated": 1730241363656
+  "updated": 1730243337272
 }
