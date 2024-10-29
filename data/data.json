@@ -1,35 +1,4 @@
 {
-  "data": [
-    {
-      "title": "steelers - giants",
-      "teams": {
-        "home": "steelers",
-        "away": "giants"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "29/10/2024",
-        "time": "01:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mavericks - jazz",
-      "teams": {
-        "home": "mavericks",
-        "away": "jazz"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "29/10/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    }
-  ],
-  "updated": 1730171458391
+  "data": [],
+  "updated": 1730173088406
 }
