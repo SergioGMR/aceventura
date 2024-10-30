@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "partizan - monaco",
-      "teams": {
-        "home": "partizan",
-        "away": "monaco"
-      },
-      "sport": "basketball",
-      "competition": "eurocup",
-      "date": {
-        "day": "30/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "valencia - lietkabelis",
-      "teams": {
-        "home": "valencia",
-        "away": "lietkabelis"
-      },
-      "sport": "basketball",
-      "competition": "eurocup",
-      "date": {
-        "day": "30/10/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "extremadura - girona",
-      "teams": {
-        "home": "extremadura",
-        "away": "girona"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "30/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "san pedro - celta",
-      "teams": {
-        "home": "san pedro",
-        "away": "celta"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "30/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "30/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atletico lanus - cruzeiro",
       "teams": {
         "home": "atletico lanus",
@@ -667,5 +592,5 @@
       "channels": []
     }
   ],
-  "updated": 1730327761715
+  "updated": 1730329486790
 }
