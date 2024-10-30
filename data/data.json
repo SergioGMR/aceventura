@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "yankees - dodgers [match 4]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "baseball",
-      "competition": "usa mlb",
-      "date": {
-        "day": "30/10/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "river plate - atletico mineiro",
       "teams": {
         "home": "river plate",
@@ -817,5 +802,5 @@
       "channels": []
     }
   ],
-  "updated": 1730256666171
+  "updated": 1730257837735
 }
