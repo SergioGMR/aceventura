@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "river plate - atletico mineiro",
-      "teams": {
-        "home": "river plate",
-        "away": "atletico mineiro"
-      },
-      "sport": "soccer",
-      "competition": "conmebol",
-      "date": {
-        "day": "30/10/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "match",
       "teams": {
         "home": null,
@@ -802,5 +787,5 @@
       "channels": []
     }
   ],
-  "updated": 1730257837735
+  "updated": 1730259495167
 }
