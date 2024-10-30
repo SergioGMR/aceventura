@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "panathinaikos - asvel",
-      "teams": {
-        "home": "panathinaikos",
-        "away": "asvel"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "30/10/2024",
-        "time": "20:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "partizan - monaco",
       "teams": {
         "home": "partizan",
@@ -682,5 +667,5 @@
       "channels": []
     }
   ],
-  "updated": 1730325890025
+  "updated": 1730327761715
 }
