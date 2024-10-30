@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "30/10/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "lanzarote open - round of 16",
       "teams": {
         "home": null,
@@ -772,5 +757,5 @@
       "channels": []
     }
   ],
-  "updated": 1730298997595
+  "updated": 1730300711157
 }
