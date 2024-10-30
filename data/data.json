@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "nets - nuggets",
-      "teams": {
-        "home": "nets",
-        "away": "nuggets"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "30/10/2024",
-        "time": "00:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "yankees - dodgers [match 4]",
       "teams": {
         "home": null,
@@ -832,5 +817,5 @@
       "channels": []
     }
   ],
-  "updated": 1730255299255
+  "updated": 1730256666171
 }
