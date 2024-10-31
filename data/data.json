@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "31/10/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round of 16",
       "teams": {
         "home": null,
@@ -517,5 +502,5 @@
       "channels": []
     }
   ],
-  "updated": 1730385391899
+  "updated": 1730387090882
 }
