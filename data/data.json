@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round of 16",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "31/10/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "match",
       "teams": {
         "home": null,
@@ -472,5 +457,5 @@
       "channels": []
     }
   ],
-  "updated": 1730403258614
+  "updated": 1730405127527
 }
