@@ -10,21 +10,6 @@
       "competition": "paris tournament",
       "date": {
         "day": "31/10/2024",
-        "time": "11:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "31/10/2024",
         "time": "13:00",
         "zone": "cet"
       },
@@ -532,5 +517,5 @@
       "channels": []
     }
   ],
-  "updated": 1730378748756
+  "updated": 1730380168487
 }
