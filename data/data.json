@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "alba - efes",
-      "teams": {
-        "home": "alba",
-        "away": "efes"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "31/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "maccabi - real madrid",
-      "teams": {
-        "home": "maccabi",
-        "away": "real madrid"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "31/10/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "olympiacos - barcelona",
       "teams": {
         "home": "olympiacos",
@@ -442,5 +412,5 @@
       "channels": []
     }
   ],
-  "updated": 1730410442226
+  "updated": 1730412292754
 }
