@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "gevora - real betis",
-      "teams": {
-        "home": "gevora",
-        "away": "real betis"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "31/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ontiñana - las palmas",
-      "teams": {
-        "home": "ontiñana",
-        "away": "las palmas"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "31/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "san vicente - real sociedad",
-      "teams": {
-        "home": "san vicente",
-        "away": "real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "31/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "31/10/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "grizzlies - bucks",
       "teams": {
         "home": "grizzlies",
@@ -367,5 +307,5 @@
       "channels": []
     }
   ],
-  "updated": 1730414151285
+  "updated": 1730415955336
 }
