@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "world series - season 5",
-      "teams": {
-        "home": "world series",
-        "away": "season 5"
-      },
-      "sport": "baseball",
-      "competition": "usa mlb",
-      "date": {
-        "day": "31/10/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "peñarol - botafogo",
       "teams": {
         "home": "peñarol",
@@ -562,5 +547,5 @@
       "channels": []
     }
   ],
-  "updated": 1730343107590
+  "updated": 1730344285249
 }
