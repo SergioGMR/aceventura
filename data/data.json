@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "cavaliers - lakers",
-      "teams": {
-        "home": "cavaliers",
-        "away": "lakers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "31/10/2024",
-        "time": "00:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "world series - season 5",
       "teams": {
         "home": "world series",
@@ -577,5 +562,5 @@
       "channels": []
     }
   ],
-  "updated": 1730338345233
+  "updated": 1730341721511
 }
