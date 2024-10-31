@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "peñarol - botafogo",
-      "teams": {
-        "home": "peñarol",
-        "away": "botafogo"
-      },
-      "sport": "soccer",
-      "competition": "conmebol",
-      "date": {
-        "day": "31/10/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "match",
       "teams": {
         "home": null,
@@ -547,5 +532,5 @@
       "channels": []
     }
   ],
-  "updated": 1730344285249
+  "updated": 1730345934069
 }
