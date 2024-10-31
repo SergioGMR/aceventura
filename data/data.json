@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "match",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "31/10/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "alba - efes",
       "teams": {
         "home": "alba",
@@ -457,5 +442,5 @@
       "channels": []
     }
   ],
-  "updated": 1730406889940
+  "updated": 1730408723308
 }
