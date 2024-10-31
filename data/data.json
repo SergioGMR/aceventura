@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "atletico lanus - cruzeiro",
-      "teams": {
-        "home": "atletico lanus",
-        "away": "cruzeiro"
-      },
-      "sport": "soccer",
-      "competition": "conmebol",
-      "date": {
-        "day": "30/10/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "cavaliers - lakers",
       "teams": {
         "home": "cavaliers",
@@ -592,5 +577,5 @@
       "channels": []
     }
   ],
-  "updated": 1730335735778
+  "updated": 1730338345233
 }
