@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "olympiacos - barcelona",
-      "teams": {
-        "home": "olympiacos",
-        "away": "barcelona"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "31/10/2024",
-        "time": "20:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "milan - virtus",
-      "teams": {
-        "home": "milan",
-        "away": "virtus"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "31/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "nantes - barcelona",
-      "teams": {
-        "home": "nantes",
-        "away": "barcelona"
-      },
-      "sport": "handball",
-      "competition": "champions league",
-      "date": {
-        "day": "31/10/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "gevora - real betis",
       "teams": {
         "home": "gevora",
@@ -412,5 +367,5 @@
       "channels": []
     }
   ],
-  "updated": 1730412292754
+  "updated": 1730414151285
 }
