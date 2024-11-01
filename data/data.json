@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "racing avellaneda - corinthians",
-      "teams": {
-        "home": "racing avellaneda",
-        "away": "corinthians"
-      },
-      "sport": "soccer",
-      "competition": "conmebol",
-      "date": {
-        "day": "01/11/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "free training 1",
       "teams": {
         "home": "free training 1"
@@ -292,5 +277,5 @@
       "channels": []
     }
   ],
-  "updated": 1730431001758
+  "updated": 1730432466608
 }
