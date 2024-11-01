@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "lanzarote open - semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "01/11/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "fenerbahce - partizan",
       "teams": {
         "home": "fenerbahce",
@@ -193,5 +178,5 @@
       "channels": []
     }
   ],
-  "updated": 1730484366771
+  "updated": 1730486266389
 }
