@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "paris - baskonia",
-      "teams": {
-        "home": "paris",
-        "away": "baskonia"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "01/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "alaves - mallorca",
-      "teams": {
-        "home": "alaves",
-        "away": "mallorca"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "01/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "quarters 4",
-      "teams": {
-        "home": "quarters 4"
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "01/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "pelicans - pacers",
       "teams": {
         "home": "pelicans",
@@ -1253,5 +1209,5 @@
       "channels": []
     }
   ],
-  "updated": 1730500559755
+  "updated": 1730502318853
 }
