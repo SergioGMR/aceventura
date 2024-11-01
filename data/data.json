@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "quarters 1",
-      "teams": {
-        "home": "quarters 1"
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "01/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "free training 1",
       "teams": {
         "home": "free training 1"
@@ -249,5 +235,5 @@
       "channels": []
     }
   ],
-  "updated": 1730475338511
+  "updated": 1730477121073
 }
