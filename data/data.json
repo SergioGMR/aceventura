@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "grizzlies - bucks",
-      "teams": {
-        "home": "grizzlies",
-        "away": "bucks"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "01/11/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "racing avellaneda - corinthians",
       "teams": {
         "home": "racing avellaneda",
@@ -307,5 +292,5 @@
       "channels": []
     }
   ],
-  "updated": 1730428277297
+  "updated": 1730431001758
 }
