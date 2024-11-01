@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "lanzarote open - semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "01/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "paris - baskonia",
       "teams": {
         "home": "paris",
@@ -1268,5 +1253,5 @@
       "channels": []
     }
   ],
-  "updated": 1730498707885
+  "updated": 1730500559755
 }
