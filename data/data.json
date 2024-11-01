@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "practice",
-      "teams": {
-        "home": "practice"
-      },
-      "sport": "motogp",
-      "competition": "malaysia gp",
-      "date": {
-        "day": "01/11/2024",
-        "time": "06:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "quarters 1",
       "teams": {
         "home": "quarters 1"
@@ -263,5 +249,5 @@
       "channels": []
     }
   ],
-  "updated": 1730448378867
+  "updated": 1730450184150
 }
