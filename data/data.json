@@ -1,34 +1,6 @@
 {
   "data": [
     {
-      "title": "free training 1",
-      "teams": {
-        "home": "free training 1"
-      },
-      "sport": "f1",
-      "competition": "brazil gp",
-      "date": {
-        "day": "01/11/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sprint classification",
-      "teams": {
-        "home": "sprint classification"
-      },
-      "sport": "f1",
-      "competition": "brazil gp",
-      "date": {
-        "day": "01/11/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "quarters 2",
       "teams": {
         "home": "quarters 2"
@@ -235,5 +207,5 @@
       "channels": []
     }
   ],
-  "updated": 1730480684841
+  "updated": 1730482486956
 }
