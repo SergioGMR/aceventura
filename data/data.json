@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "quarters 2",
-      "teams": {
-        "home": "quarters 2"
-      },
-      "sport": "tennis",
-      "competition": "paris tournament",
-      "date": {
-        "day": "01/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "lanzarote open - semifinals",
       "teams": {
         "home": null,
@@ -207,5 +193,5 @@
       "channels": []
     }
   ],
-  "updated": 1730482486956
+  "updated": 1730484366771
 }
