@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "nachang - semifinal",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "wta world tour",
-      "date": {
-        "day": "02/11/2024",
-        "time": "08:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "tenerife - athletic club",
       "teams": {
         "home": "tenerife",
@@ -1150,5 +1135,5 @@
       "channels": []
     }
   ],
-  "updated": 1730540042729
+  "updated": 1730541907397
 }
