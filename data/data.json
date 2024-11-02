@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "hong kong - semifinal",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "wta world tour",
-      "date": {
-        "day": "02/11/2024",
-        "time": "07:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "nachang - semifinal",
       "teams": {
         "home": null,
@@ -1165,5 +1150,5 @@
       "channels": []
     }
   ],
-  "updated": 1730536576178
+  "updated": 1730538299615
 }
