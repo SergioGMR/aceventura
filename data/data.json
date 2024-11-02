@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "granada - bilbao",
-      "teams": {
-        "home": "granada",
-        "away": "bilbao"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "02/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "manresa - unicaja",
-      "teams": {
-        "home": "manresa",
-        "away": "unicaja"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "02/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "zaragoza - rio breogan",
-      "teams": {
-        "home": "zaragoza",
-        "away": "rio breogan"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "02/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bucks - cavaliers",
       "teams": {
         "home": "bucks",
@@ -762,5 +717,5 @@
       "channels": []
     }
   ],
-  "updated": 1730586925265
+  "updated": 1730588753220
 }
