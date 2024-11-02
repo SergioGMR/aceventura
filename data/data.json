@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "palma - magnus",
-      "teams": {
-        "home": "palma",
-        "away": "magnus"
-      },
-      "sport": "futsal",
-      "competition": "intercontinental cup",
-      "date": {
-        "day": "02/11/2024",
-        "time": "19:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "menorca - estudiantes",
       "teams": {
         "home": "menorca",
@@ -792,5 +777,5 @@
       "channels": []
     }
   ],
-  "updated": 1730581508548
+  "updated": 1730583241986
 }
