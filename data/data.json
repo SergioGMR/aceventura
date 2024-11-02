@@ -1,4 +1,810 @@
 {
-  "data": [],
-  "updated": 1730577921966
+  "data": [
+    {
+      "title": "classification",
+      "teams": {
+        "home": "classification"
+      },
+      "sport": "f1",
+      "competition": "brazil gp",
+      "date": {
+        "day": "02/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "palma - magnus",
+      "teams": {
+        "home": "palma",
+        "away": "magnus"
+      },
+      "sport": "futsal",
+      "competition": "intercontinental cup",
+      "date": {
+        "day": "02/11/2024",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "menorca - estudiantes",
+      "teams": {
+        "home": "menorca",
+        "away": "estudiantes"
+      },
+      "sport": "basketball",
+      "competition": "feb",
+      "date": {
+        "day": "02/11/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "granada - bilbao",
+      "teams": {
+        "home": "granada",
+        "away": "bilbao"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "02/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manresa - unicaja",
+      "teams": {
+        "home": "manresa",
+        "away": "unicaja"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "02/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "zaragoza - rio breogan",
+      "teams": {
+        "home": "zaragoza",
+        "away": "rio breogan"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "02/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bucks - cavaliers",
+      "teams": {
+        "home": "bucks",
+        "away": "cavaliers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "03/11/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "merida - semifinals",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "wta world tour",
+      "date": {
+        "day": "03/11/2024",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "warm up",
+      "teams": {
+        "home": "warm up"
+      },
+      "sport": "motogp",
+      "competition": "malaysia gp",
+      "date": {
+        "day": "03/11/2024",
+        "time": "03:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "moto3 - race",
+      "teams": {
+        "home": "moto3",
+        "away": "race"
+      },
+      "sport": "motogp",
+      "competition": "malaysia gp",
+      "date": {
+        "day": "03/11/2024",
+        "time": "05:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "moto2 - race",
+      "teams": {
+        "home": "moto2",
+        "away": "race"
+      },
+      "sport": "motogp",
+      "competition": "malaysia gp",
+      "date": {
+        "day": "03/11/2024",
+        "time": "06:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "03/11/2024",
+        "time": "07:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "motogprace",
+      "teams": {
+        "home": "motogprace"
+      },
+      "sport": "motogp",
+      "competition": "malaysia gp",
+      "date": {
+        "day": "03/11/2024",
+        "time": "08:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "hong kong - final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "wta world tour",
+      "date": {
+        "day": "03/11/2024",
+        "time": "09:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "nanchang - final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "wta world tour",
+      "date": {
+        "day": "03/11/2024",
+        "time": "09:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "granada cf - sevilla fc",
+      "teams": {
+        "home": "granada cf",
+        "away": "sevilla fc"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - madrid cff",
+      "teams": {
+        "home": "real madrid",
+        "away": "madrid cff"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "barcelona - coruña",
+      "teams": {
+        "home": "barcelona",
+        "away": "coruña"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "atletico de madrid - las palmas",
+      "teams": {
+        "home": "atletico de madrid",
+        "away": "las palmas"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real oviedo - burgos",
+      "teams": {
+        "home": "real oviedo",
+        "away": "burgos"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "03/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real oviedo - burgos",
+      "teams": {
+        "home": "real oviedo",
+        "away": "burgos"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "03/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "new york",
+      "teams": {
+        "home": "new york"
+      },
+      "sport": "athletics",
+      "competition": "marathon",
+      "date": {
+        "day": "03/11/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tottenham - aston villa",
+      "teams": {
+        "home": "tottenham",
+        "away": "aston villa"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "15:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "paris tournament",
+      "date": {
+        "day": "03/11/2024",
+        "time": "15:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "barcelona - espanyol",
+      "teams": {
+        "home": "barcelona",
+        "away": "espanyol"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "almeria - cordoba",
+      "teams": {
+        "home": "almeria",
+        "away": "cordoba"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "03/11/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lleida - andorra",
+      "teams": {
+        "home": "lleida",
+        "away": "andorra"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lleida - andorra",
+      "teams": {
+        "home": "lleida",
+        "away": "andorra"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester united - chelsea",
+      "teams": {
+        "home": "manchester united",
+        "away": "chelsea"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "gran canaria - baskonia",
+      "teams": {
+        "home": "gran canaria",
+        "away": "baskonia"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "race",
+      "teams": {
+        "home": "race"
+      },
+      "sport": "f1",
+      "competition": "brazil gp",
+      "date": {
+        "day": "03/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ucam murcia - real madrid",
+      "teams": {
+        "home": "ucam murcia",
+        "away": "real madrid"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sevilla - real sociedad",
+      "teams": {
+        "home": "sevilla",
+        "away": "real sociedad"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tenerife - mirandes",
+      "teams": {
+        "home": "tenerife",
+        "away": "mirandes"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "03/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ravens - broncos",
+      "teams": {
+        "home": "ravens",
+        "away": "broncos"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "03/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red zone - stage 9",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "03/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "03/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "athletic club - real betis",
+      "teams": {
+        "home": "athletic club",
+        "away": "real betis"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real oviedo - burgos",
+      "teams": {
+        "home": "real oviedo",
+        "away": "burgos"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "03/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bayonnais - toulousain",
+      "teams": {
+        "home": "bayonnais",
+        "away": "toulousain"
+      },
+      "sport": "soccer",
+      "competition": "top 14 rugby",
+      "date": {
+        "day": "03/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "nets - pistons",
+      "teams": {
+        "home": "nets",
+        "away": "pistons"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "03/11/2024",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "packers - lions",
+      "teams": {
+        "home": "packers",
+        "away": "lions"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "03/11/2024",
+        "time": "22:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red zone - stage 9",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "03/11/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "merida - final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "wta world tour",
+      "date": {
+        "day": "04/11/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eagles - jaguars",
+      "teams": {
+        "home": "eagles",
+        "away": "jaguars"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "04/11/2024",
+        "time": "02:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "vikings - colts",
+      "teams": {
+        "home": "vikings",
+        "away": "colts"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "04/11/2024",
+        "time": "02:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "04/11/2024",
+        "time": "07:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "04/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "day 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "wta finals",
+      "date": {
+        "day": "04/11/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "04/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "04/11/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "celta - getafe",
+      "teams": {
+        "home": "celta",
+        "away": "getafe"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "04/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "nets - grizzlies",
+      "teams": {
+        "home": "nets",
+        "away": "grizzlies"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "05/11/2024",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "chiefs - buccaneers",
+      "teams": {
+        "home": "chiefs",
+        "away": "buccaneers"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "05/11/2024",
+        "time": "02:15",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1730579644984
 }
