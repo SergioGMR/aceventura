@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "atletico de madrid - las palmas",
-      "teams": {
-        "home": "atletico de madrid",
-        "away": "las palmas"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "03/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real oviedo - burgos",
-      "teams": {
-        "home": "real oviedo",
-        "away": "burgos"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "03/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real oviedo - burgos",
-      "teams": {
-        "home": "real oviedo",
-        "away": "burgos"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "03/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "new york",
       "teams": {
         "home": "new york"
@@ -539,5 +494,5 @@
       "channels": []
     }
   ],
-  "updated": 1730648030063
+  "updated": 1730649935890
 }
