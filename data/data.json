@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "merida - semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "wta world tour",
-      "date": {
-        "day": "03/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "warm up",
       "teams": {
         "home": "warm up"
@@ -702,5 +687,5 @@
       "channels": []
     }
   ],
-  "updated": 1730605160482
+  "updated": 1730606765952
 }
