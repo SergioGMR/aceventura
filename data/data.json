@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "ravens - broncos",
-      "teams": {
-        "home": "ravens",
-        "away": "broncos"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "03/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "red zone - stage 9",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "03/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "international championship",
-      "date": {
-        "day": "03/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "athletic club - real betis",
       "teams": {
         "home": "athletic club",
@@ -301,5 +256,5 @@
       "channels": []
     }
   ],
-  "updated": 1730666022114
+  "updated": 1730667878079
 }
