@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "new york",
-      "teams": {
-        "home": "new york"
-      },
-      "sport": "athletics",
-      "competition": "marathon",
-      "date": {
-        "day": "03/11/2024",
-        "time": "14:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "tottenham - aston villa",
       "teams": {
         "home": "tottenham",
@@ -494,5 +480,5 @@
       "channels": []
     }
   ],
-  "updated": 1730649935890
+  "updated": 1730651798763
 }
