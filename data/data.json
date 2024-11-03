@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "real oviedo - burgos",
-      "teams": {
-        "home": "real oviedo",
-        "away": "burgos"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "03/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bayonnais - toulousain",
-      "teams": {
-        "home": "bayonnais",
-        "away": "toulousain"
-      },
-      "sport": "soccer",
-      "competition": "top 14 rugby",
-      "date": {
-        "day": "03/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "nets - pistons",
       "teams": {
         "home": "nets",
@@ -241,5 +211,5 @@
       "channels": []
     }
   ],
-  "updated": 1730673342224
+  "updated": 1730675146409
 }
