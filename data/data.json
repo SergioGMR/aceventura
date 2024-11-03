@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "nanchang - final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "wta world tour",
-      "date": {
-        "day": "03/11/2024",
-        "time": "09:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "granada cf - sevilla fc",
       "teams": {
         "home": "granada cf",
@@ -599,5 +584,5 @@
       "channels": []
     }
   ],
-  "updated": 1730631919108
+  "updated": 1730633643396
 }
