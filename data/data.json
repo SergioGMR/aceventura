@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - coruña",
-      "teams": {
-        "home": "barcelona",
-        "away": "coruña"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "03/11/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atletico de madrid - las palmas",
       "teams": {
         "home": "atletico de madrid",
@@ -554,5 +539,5 @@
       "channels": []
     }
   ],
-  "updated": 1730642689144
+  "updated": 1730644510625
 }
