@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "hong kong - final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "wta world tour",
-      "date": {
-        "day": "03/11/2024",
-        "time": "09:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "nanchang - final",
       "teams": {
         "home": null,
@@ -614,5 +599,5 @@
       "channels": []
     }
   ],
-  "updated": 1730630215867
+  "updated": 1730631919108
 }
