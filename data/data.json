@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "international championship",
-      "date": {
-        "day": "03/11/2024",
-        "time": "07:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "motogprace",
       "teams": {
         "home": "motogprace"
@@ -643,5 +628,5 @@
       "channels": []
     }
   ],
-  "updated": 1730622920874
+  "updated": 1730624737116
 }
