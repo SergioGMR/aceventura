@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "almeria - cordoba",
-      "teams": {
-        "home": "almeria",
-        "away": "cordoba"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "03/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "lleida - andorra",
       "teams": {
         "home": "lleida",
@@ -435,5 +420,5 @@
       "channels": []
     }
   ],
-  "updated": 1730657145824
+  "updated": 1730659040169
 }
