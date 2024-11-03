@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "ucam murcia - real madrid",
-      "teams": {
-        "home": "ucam murcia",
-        "away": "real madrid"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "03/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sevilla - real sociedad",
-      "teams": {
-        "home": "sevilla",
-        "away": "real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "03/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tenerife - mirandes",
-      "teams": {
-        "home": "tenerife",
-        "away": "mirandes"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "03/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "ravens - broncos",
       "teams": {
         "home": "ravens",
@@ -346,5 +301,5 @@
       "channels": []
     }
   ],
-  "updated": 1730664293300
+  "updated": 1730666022114
 }
