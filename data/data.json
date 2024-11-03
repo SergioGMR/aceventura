@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "nets - pistons",
-      "teams": {
-        "home": "nets",
-        "away": "pistons"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "03/11/2024",
-        "time": "21:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "packers - lions",
       "teams": {
         "home": "packers",
@@ -211,5 +196,5 @@
       "channels": []
     }
   ],
-  "updated": 1730675146409
+  "updated": 1730676830857
 }
