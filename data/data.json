@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "moto3 - race",
-      "teams": {
-        "home": "moto3",
-        "away": "race"
-      },
-      "sport": "motogp",
-      "competition": "malaysia gp",
-      "date": {
-        "day": "03/11/2024",
-        "time": "05:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "moto2 - race",
       "teams": {
         "home": "moto2",
@@ -673,5 +658,5 @@
       "channels": []
     }
   ],
-  "updated": 1730615928471
+  "updated": 1730617493155
 }
