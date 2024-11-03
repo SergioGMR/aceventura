@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "athletic club - real betis",
-      "teams": {
-        "home": "athletic club",
-        "away": "real betis"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "03/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real oviedo - burgos",
       "teams": {
         "home": "real oviedo",
@@ -256,5 +241,5 @@
       "channels": []
     }
   ],
-  "updated": 1730671502918
+  "updated": 1730673342224
 }
