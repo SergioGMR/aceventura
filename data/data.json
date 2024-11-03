@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - espanyol",
-      "teams": {
-        "home": "barcelona",
-        "away": "espanyol"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "03/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "almeria - cordoba",
       "teams": {
         "home": "almeria",
@@ -450,5 +435,5 @@
       "channels": []
     }
   ],
-  "updated": 1730655241223
+  "updated": 1730657145824
 }
