@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "motogprace",
-      "teams": {
-        "home": "motogprace"
-      },
-      "sport": "motogp",
-      "competition": "malaysia gp",
-      "date": {
-        "day": "03/11/2024",
-        "time": "08:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "hong kong - final",
       "teams": {
         "home": null,
@@ -628,5 +614,5 @@
       "channels": []
     }
   ],
-  "updated": 1730626445841
+  "updated": 1730628320588
 }
