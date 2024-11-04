@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "packers - lions",
-      "teams": {
-        "home": "packers",
-        "away": "lions"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "03/11/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red zone - stage 9",
       "teams": {
         "home": null,
@@ -196,5 +181,5 @@
       "channels": []
     }
   ],
-  "updated": 1730679591382
+  "updated": 1730681335957
 }
