@@ -10,21 +10,6 @@
       "competition": "international championship",
       "date": {
         "day": "04/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "international championship",
-      "date": {
-        "day": "04/11/2024",
         "time": "20:00",
         "zone": "cet"
       },
@@ -76,5 +61,5 @@
       "channels": []
     }
   ],
-  "updated": 1730748815399
+  "updated": 1730750711351
 }
