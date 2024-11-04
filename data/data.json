@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "international championship",
-      "date": {
-        "day": "04/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "day 3",
       "teams": {
         "home": null,
@@ -106,5 +91,5 @@
       "channels": []
     }
   ],
-  "updated": 1730727451486
+  "updated": 1730729086643
 }
