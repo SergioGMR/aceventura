@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "merida - final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "wta world tour",
-      "date": {
-        "day": "04/11/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "eagles - jaguars",
       "teams": {
         "home": "eagles",
@@ -166,5 +151,5 @@
       "channels": []
     }
   ],
-  "updated": 1730688799670
+  "updated": 1730689956285
 }
