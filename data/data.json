@@ -1,4 +1,1364 @@
 {
-  "data": [],
-  "updated": 1730817374227
+  "data": [
+    {
+      "title": "day 4",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "wta finals",
+      "date": {
+        "day": "05/11/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lille - juventus",
+      "teams": {
+        "home": "lille",
+        "away": "juventus"
+      },
+      "sport": "soccer",
+      "competition": "uefa youth league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - milan",
+      "teams": {
+        "home": "real madrid",
+        "away": "milan"
+      },
+      "sport": "soccer",
+      "competition": "uefa youth league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "psv - girona",
+      "teams": {
+        "home": "psv",
+        "away": "girona"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "slovan bratislava - dinamo zagreb",
+      "teams": {
+        "home": "slovan bratislava",
+        "away": "dinamo zagreb"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bologna - monaco",
+      "teams": {
+        "home": "bologna",
+        "away": "monaco"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "borussia dortmund - sturm graz",
+      "teams": {
+        "home": "borussia dortmund",
+        "away": "sturm graz"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "celtic - leipzig",
+      "teams": {
+        "home": "celtic",
+        "away": "leipzig"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lille - juventus",
+      "teams": {
+        "home": "lille",
+        "away": "juventus"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "liverpool - bayer leverkusen",
+      "teams": {
+        "home": "liverpool",
+        "away": "bayer leverkusen"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - milan",
+      "teams": {
+        "home": "real madrid",
+        "away": "milan"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "simulcast",
+      "teams": {
+        "home": "simulcast"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sporting portugal - manchester city",
+      "teams": {
+        "home": "sporting portugal",
+        "away": "manchester city"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "05/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "06/11/2024",
+        "time": "07:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "06/11/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red star - barcelona",
+      "teams": {
+        "home": "red star",
+        "away": "barcelona"
+      },
+      "sport": "soccer",
+      "competition": "uefa youth league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "day 5",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "wta finals",
+      "date": {
+        "day": "06/11/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "besiktas - malmo",
+      "teams": {
+        "home": "besiktas",
+        "away": "malmo"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "psg - atletico de madrid",
+      "teams": {
+        "home": "psg",
+        "away": "atletico de madrid"
+      },
+      "sport": "soccer",
+      "competition": "uefa youth league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "brujas - aston villa",
+      "teams": {
+        "home": "brujas",
+        "away": "aston villa"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "shakhtar - young boys",
+      "teams": {
+        "home": "shakhtar",
+        "away": "young boys"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "aris salonica - valencia",
+      "teams": {
+        "home": "aris salonica",
+        "away": "valencia"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "06/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "gran canaria - wolves",
+      "teams": {
+        "home": "gran canaria",
+        "away": "wolves"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "06/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bayern munich - benfica",
+      "teams": {
+        "home": "bayern munich",
+        "away": "benfica"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "feyenoord - salzburg",
+      "teams": {
+        "home": "feyenoord",
+        "away": "salzburg"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "inter - arsenal",
+      "teams": {
+        "home": "inter",
+        "away": "arsenal"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "psg - atletico de madrid",
+      "teams": {
+        "home": "psg",
+        "away": "atletico de madrid"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red star - barcelona",
+      "teams": {
+        "home": "red star",
+        "away": "barcelona"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "simulcast",
+      "teams": {
+        "home": "simulcast"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sparta praga - stade brest",
+      "teams": {
+        "home": "sparta praga",
+        "away": "stade brest"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stuttgart - atalanta",
+      "teams": {
+        "home": "stuttgart",
+        "away": "atalanta"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "06/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "celtics - warriors",
+      "teams": {
+        "home": "celtics",
+        "away": "warriors"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "07/11/2024",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters",
+      "teams": {
+        "home": "quarters"
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "07/11/2024",
+        "time": "07:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters",
+      "teams": {
+        "home": "quarters"
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "07/11/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "day 6",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "wta finals",
+      "date": {
+        "day": "07/11/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "reykjavik - banja luka",
+      "teams": {
+        "home": "reykjavik",
+        "away": "banja luka"
+      },
+      "sport": "soccer",
+      "competition": "uefa conference league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "15:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eintracht - slavia prague",
+      "teams": {
+        "home": "eintracht",
+        "away": "slavia prague"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "elfsborg - sporting braga",
+      "teams": {
+        "home": "elfsborg",
+        "away": "sporting braga"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fcsb - midtjylland",
+      "teams": {
+        "home": "fcsb",
+        "away": "midtjylland"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "galatasaray - tottenham",
+      "teams": {
+        "home": "galatasaray",
+        "away": "tottenham"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "get - nicosa",
+      "teams": {
+        "home": "get",
+        "away": "nicosa"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "glimt - qarabag",
+      "teams": {
+        "home": "glimt",
+        "away": "qarabag"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "helsinki - olimpija",
+      "teams": {
+        "home": "helsinki",
+        "away": "olimpija"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ludogorets - athletic club",
+      "teams": {
+        "home": "ludogorets",
+        "away": "athletic club"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "niza - twente",
+      "teams": {
+        "home": "niza",
+        "away": "twente"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "olympiacos - rangers",
+      "teams": {
+        "home": "olympiacos",
+        "away": "rangers"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "simulcast",
+      "teams": {
+        "home": "simulcast"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "union saint gilloise - roma",
+      "teams": {
+        "home": "union saint gilloise",
+        "away": "roma"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "varsovia - dinamo minsk",
+      "teams": {
+        "home": "varsovia",
+        "away": "dinamo minsk"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red star - alba",
+      "teams": {
+        "home": "red star",
+        "away": "alba"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "07/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "milan - real madrid",
+      "teams": {
+        "home": "milan",
+        "away": "real madrid"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "07/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bayern munich - zalgiris",
+      "teams": {
+        "home": "bayern munich",
+        "away": "zalgiris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "07/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "paris - partizan",
+      "teams": {
+        "home": "paris",
+        "away": "partizan"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "07/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rio breogan - tenerife",
+      "teams": {
+        "home": "rio breogan",
+        "away": "tenerife"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ajax - maccabi tel aviv",
+      "teams": {
+        "home": "ajax",
+        "away": "maccabi tel aviv"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "apoel - fiorentina",
+      "teams": {
+        "home": "apoel",
+        "away": "fiorentina"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "az alkmaar - fenerbahce",
+      "teams": {
+        "home": "az alkmaar",
+        "away": "fenerbahce"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "chelsea - noah",
+      "teams": {
+        "home": "chelsea",
+        "away": "noah"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dinamo kiev - ferencvaros",
+      "teams": {
+        "home": "dinamo kiev",
+        "away": "ferencvaros"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "djurgardens - panathinaikos",
+      "teams": {
+        "home": "djurgardens",
+        "away": "panathinaikos"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fk rfs - andrelecht",
+      "teams": {
+        "home": "fk rfs",
+        "away": "andrelecht"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "hoffenheim - lyon",
+      "teams": {
+        "home": "hoffenheim",
+        "away": "lyon"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lazio - oporto",
+      "teams": {
+        "home": "lazio",
+        "away": "oporto"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester united - paok",
+      "teams": {
+        "home": "manchester united",
+        "away": "paok"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real betis - nk celje",
+      "teams": {
+        "home": "real betis",
+        "away": "nk celje"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "simulcast",
+      "teams": {
+        "home": "simulcast"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "viktoria plzen - real sociedad",
+      "teams": {
+        "home": "viktoria plzen",
+        "away": "real sociedad"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "07/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bucks - jazz",
+      "teams": {
+        "home": "bucks",
+        "away": "jazz"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "08/11/2024",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "raves - bengals",
+      "teams": {
+        "home": "raves",
+        "away": "bengals"
+      },
+      "sport": "baseball",
+      "competition": "usa mlb",
+      "date": {
+        "day": "08/11/2024",
+        "time": "02:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "semifinals",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "08/11/2024",
+        "time": "07:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dubai - women quarter 1",
+      "teams": {
+        "home": "dubai",
+        "away": "women quarter 1"
+      },
+      "sport": "paddle",
+      "competition": "premier league",
+      "date": {
+        "day": "08/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dubai - women quarter 1",
+      "teams": {
+        "home": "dubai",
+        "away": "women quarter 1"
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "08/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dubai - women quarter 3",
+      "teams": {
+        "home": "dubai",
+        "away": "women quarter 3"
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "08/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "semifinals",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "snooker",
+      "competition": "international championship",
+      "date": {
+        "day": "08/11/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dubai - men quarter 1",
+      "teams": {
+        "home": "dubai",
+        "away": "men quarter 1"
+      },
+      "sport": "paddle",
+      "competition": "premier league",
+      "date": {
+        "day": "08/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dubai - men quarter 1",
+      "teams": {
+        "home": "dubai",
+        "away": "men quarter 1"
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "08/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dubai - men quarter 3",
+      "teams": {
+        "home": "dubai",
+        "away": "men quarter 3"
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "08/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dubai - women quarter 2",
+      "teams": {
+        "home": "dubai",
+        "away": "women quarter 2"
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "08/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dubai - women quarter 4",
+      "teams": {
+        "home": "dubai",
+        "away": "women quarter 4"
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "08/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "semifinals",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "wta finals",
+      "date": {
+        "day": "08/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "efes - monaco",
+      "teams": {
+        "home": "efes",
+        "away": "monaco"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "08/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dubai - men quarter 2",
+      "teams": {
+        "home": "dubai",
+        "away": "men quarter 2"
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "08/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dubai - men quarter 4",
+      "teams": {
+        "home": "dubai",
+        "away": "men quarter 4"
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "08/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "asvel - fenerbahce",
+      "teams": {
+        "home": "asvel",
+        "away": "fenerbahce"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "08/11/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "panathinaikos - olympiacos",
+      "teams": {
+        "home": "panathinaikos",
+        "away": "olympiacos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "08/11/2024",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "barcelona - baskonia",
+      "teams": {
+        "home": "barcelona",
+        "away": "baskonia"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "08/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "virtus - maccabi",
+      "teams": {
+        "home": "virtus",
+        "away": "maccabi"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "08/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rayo vallecano - las palmas",
+      "teams": {
+        "home": "rayo vallecano",
+        "away": "las palmas"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "08/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "elche - almeria",
+      "teams": {
+        "home": "elche",
+        "away": "almeria"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "08/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ireland - new zealand",
+      "teams": {
+        "home": "ireland",
+        "away": "new zealand"
+      },
+      "sport": "rugby",
+      "competition": "autumn nations series",
+      "date": {
+        "day": "08/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cavaliers - warriors",
+      "teams": {
+        "home": "cavaliers",
+        "away": "warriors"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "09/11/2024",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1730819127100
 }
