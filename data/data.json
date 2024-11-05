@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "psv - girona",
-      "teams": {
-        "home": "psv",
-        "away": "girona"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "05/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "slovan bratislava - dinamo zagreb",
-      "teams": {
-        "home": "slovan bratislava",
-        "away": "dinamo zagreb"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "05/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "chiclana - osasuna",
-      "teams": {
-        "home": "chiclana",
-        "away": "osasuna"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "05/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bologna - monaco",
       "teams": {
         "home": "bologna",
@@ -1330,5 +1285,5 @@
       "channels": []
     }
   ],
-  "updated": 1730838883368
+  "updated": 1730840708297
 }
