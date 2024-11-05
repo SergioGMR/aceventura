@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "nets - grizzlies",
-      "teams": {
-        "home": "nets",
-        "away": "grizzlies"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "05/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "chiefs - buccaneers",
       "teams": {
         "home": "chiefs",
@@ -31,5 +16,5 @@
       "channels": []
     }
   ],
-  "updated": 1730777763423
+  "updated": 1730779553488
 }
