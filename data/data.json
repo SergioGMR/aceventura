@@ -1,20 +1,4 @@
 {
-  "data": [
-    {
-      "title": "chiefs - buccaneers",
-      "teams": {
-        "home": "chiefs",
-        "away": "buccaneers"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "05/11/2024",
-        "time": "02:15",
-        "zone": "cet"
-      },
-      "channels": []
-    }
-  ],
-  "updated": 1730779553488
+  "data": [],
+  "updated": 1730781360405
 }
