@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "lille - juventus",
-      "teams": {
-        "home": "lille",
-        "away": "juventus"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "05/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real madrid - milan",
-      "teams": {
-        "home": "real madrid",
-        "away": "milan"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "05/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "psv - girona",
       "teams": {
         "home": "psv",
@@ -1345,5 +1315,5 @@
       "channels": []
     }
   ],
-  "updated": 1730828119403
+  "updated": 1730829978923
 }
