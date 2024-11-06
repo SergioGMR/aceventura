@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "red star - barcelona",
-      "teams": {
-        "home": "red star",
-        "away": "barcelona"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "06/11/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "day 5",
       "teams": {
         "home": null,
@@ -1136,5 +1121,5 @@
       "channels": []
     }
   ],
-  "updated": 1730903755646
+  "updated": 1730905517512
 }
