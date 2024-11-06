@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "international championship",
-      "date": {
-        "day": "06/11/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red star - barcelona",
       "teams": {
         "home": "red star",
@@ -1151,5 +1136,5 @@
       "channels": []
     }
   ],
-  "updated": 1730901919926
+  "updated": 1730903755646
 }
