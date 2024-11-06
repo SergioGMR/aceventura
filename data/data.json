@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "brujas - aston villa",
-      "teams": {
-        "home": "brujas",
-        "away": "aston villa"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "06/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "shakhtar - young boys",
-      "teams": {
-        "home": "shakhtar",
-        "away": "young boys"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "06/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "aris salonica - valencia",
-      "teams": {
-        "home": "aris salonica",
-        "away": "valencia"
-      },
-      "sport": "basketball",
-      "competition": "eurocup",
-      "date": {
-        "day": "06/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "gran canaria - wolves",
       "teams": {
         "home": "gran canaria",
@@ -1076,5 +1031,5 @@
       "channels": []
     }
   ],
-  "updated": 1730925269279
+  "updated": 1730927104845
 }
