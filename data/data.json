@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "besiktas - malmo",
-      "teams": {
-        "home": "besiktas",
-        "away": "malmo"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "06/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "psg - atletico de madrid",
-      "teams": {
-        "home": "psg",
-        "away": "atletico de madrid"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "06/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "brujas - aston villa",
       "teams": {
         "home": "brujas",
@@ -1106,5 +1076,5 @@
       "channels": []
     }
   ],
-  "updated": 1730914513264
+  "updated": 1730916374129
 }
