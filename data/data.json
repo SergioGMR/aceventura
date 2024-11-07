@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "quarters",
-      "teams": {
-        "home": "quarters"
-      },
-      "sport": "snooker",
-      "competition": "international championship",
-      "date": {
-        "day": "07/11/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "day 6",
       "teams": {
         "home": null,
@@ -868,5 +854,5 @@
       "channels": []
     }
   ],
-  "updated": 1730988290821
+  "updated": 1730990100351
 }
