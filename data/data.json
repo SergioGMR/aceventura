@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "milan - real madrid",
-      "teams": {
-        "home": "milan",
-        "away": "real madrid"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "07/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bayern munich - zalgiris",
       "teams": {
         "home": "bayern munich",
@@ -615,5 +600,5 @@
       "channels": []
     }
   ],
-  "updated": 1731017093765
+  "updated": 1731018921375
 }
