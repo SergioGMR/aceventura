@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "day 6",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "wta finals",
-      "date": {
-        "day": "07/11/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "reykjavik - banja luka",
       "teams": {
         "home": "reykjavik",
@@ -854,5 +839,5 @@
       "channels": []
     }
   ],
-  "updated": 1730991909332
+  "updated": 1730993682361
 }
