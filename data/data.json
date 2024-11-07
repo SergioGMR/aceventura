@@ -9,20 +9,6 @@
       "competition": "international championship",
       "date": {
         "day": "07/11/2024",
-        "time": "07:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "quarters",
-      "teams": {
-        "home": "quarters"
-      },
-      "sport": "snooker",
-      "competition": "international championship",
-      "date": {
-        "day": "07/11/2024",
         "time": "12:30",
         "zone": "cet"
       },
@@ -882,5 +868,5 @@
       "channels": []
     }
   ],
-  "updated": 1730970310860
+  "updated": 1730972054479
 }
