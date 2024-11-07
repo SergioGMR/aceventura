@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "reykjavik - banja luka",
-      "teams": {
-        "home": "reykjavik",
-        "away": "banja luka"
-      },
-      "sport": "soccer",
-      "competition": "uefa conference league",
-      "date": {
-        "day": "07/11/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "eintracht - slavia prague",
       "teams": {
         "home": "eintracht",
@@ -839,5 +824,5 @@
       "channels": []
     }
   ],
-  "updated": 1730999082396
+  "updated": 1731000850245
 }
