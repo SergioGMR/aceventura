@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "dubai - women quarter 1",
-      "teams": {
-        "home": "dubai",
-        "away": "women quarter 1"
-      },
-      "sport": "paddle",
-      "competition": "premier league",
-      "date": {
-        "day": "08/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dubai - women quarter 1",
-      "teams": {
-        "home": "dubai",
-        "away": "women quarter 1"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "08/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dubai - women quarter 3",
-      "teams": {
-        "home": "dubai",
-        "away": "women quarter 3"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "08/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinals",
       "teams": {
         "home": null,
@@ -316,5 +271,5 @@
       "channels": []
     }
   ],
-  "updated": 1731072897615
+  "updated": 1731074685159
 }
