@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "raves - bengals",
-      "teams": {
-        "home": "raves",
-        "away": "bengals"
-      },
-      "sport": "baseball",
-      "competition": "usa mlb",
-      "date": {
-        "day": "08/11/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinals",
       "teams": {
         "home": null,
@@ -346,5 +331,5 @@
       "channels": []
     }
   ],
-  "updated": 1731038749776
+  "updated": 1731040568008
 }
