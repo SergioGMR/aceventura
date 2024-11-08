@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "bucks - jazz",
-      "teams": {
-        "home": "bucks",
-        "away": "jazz"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "08/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "raves - bengals",
       "teams": {
         "home": "raves",
@@ -361,5 +346,5 @@
       "channels": []
     }
   ],
-  "updated": 1731036988862
+  "updated": 1731038749776
 }
