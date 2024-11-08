@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "asvel - fenerbahce",
-      "teams": {
-        "home": "asvel",
-        "away": "fenerbahce"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "08/11/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "panathinaikos - olympiacos",
       "teams": {
         "home": "panathinaikos",
@@ -121,5 +106,5 @@
       "channels": []
     }
   ],
-  "updated": 1731101628071
+  "updated": 1731103482328
 }
