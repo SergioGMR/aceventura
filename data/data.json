@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "efes - monaco",
-      "teams": {
-        "home": "efes",
-        "away": "monaco"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "08/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dubai - men quarter 2",
-      "teams": {
-        "home": "dubai",
-        "away": "men quarter 2"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "08/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dubai - men quarter 4",
-      "teams": {
-        "home": "dubai",
-        "away": "men quarter 4"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "08/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "asvel - fenerbahce",
       "teams": {
         "home": "asvel",
@@ -166,5 +121,5 @@
       "channels": []
     }
   ],
-  "updated": 1731094403885
+  "updated": 1731096311271
 }
