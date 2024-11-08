@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "international championship",
-      "date": {
-        "day": "08/11/2024",
-        "time": "07:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "dubai - women quarter 1",
       "teams": {
         "home": "dubai",
@@ -331,5 +316,5 @@
       "channels": []
     }
   ],
-  "updated": 1731056694346
+  "updated": 1731058443545
 }
