@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "dubai - men quarter 1",
-      "teams": {
-        "home": "dubai",
-        "away": "men quarter 1"
-      },
-      "sport": "paddle",
-      "competition": "premier league",
-      "date": {
-        "day": "08/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dubai - men quarter 1",
-      "teams": {
-        "home": "dubai",
-        "away": "men quarter 1"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "08/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dubai - men quarter 3",
-      "teams": {
-        "home": "dubai",
-        "away": "men quarter 3"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "08/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "dubai - women quarter 2",
       "teams": {
         "home": "dubai",
@@ -256,5 +211,5 @@
       "channels": []
     }
   ],
-  "updated": 1731080079493
+  "updated": 1731081917877
 }
