@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "dubai - women quarter 2",
-      "teams": {
-        "home": "dubai",
-        "away": "women quarter 2"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "08/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dubai - women quarter 4",
-      "teams": {
-        "home": "dubai",
-        "away": "women quarter 4"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "08/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "wta finals",
-      "date": {
-        "day": "08/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "efes - monaco",
       "teams": {
         "home": "efes",
@@ -211,5 +166,5 @@
       "channels": []
     }
   ],
-  "updated": 1731087247895
+  "updated": 1731089150363
 }
