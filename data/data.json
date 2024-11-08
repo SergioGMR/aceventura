@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "panathinaikos - olympiacos",
-      "teams": {
-        "home": "panathinaikos",
-        "away": "olympiacos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "08/11/2024",
-        "time": "20:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barcelona - baskonia",
-      "teams": {
-        "home": "barcelona",
-        "away": "baskonia"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "08/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "virtus - maccabi",
-      "teams": {
-        "home": "virtus",
-        "away": "maccabi"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "08/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "rayo vallecano - las palmas",
-      "teams": {
-        "home": "rayo vallecano",
-        "away": "las palmas"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "elche - almeria",
-      "teams": {
-        "home": "elche",
-        "away": "almeria"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "08/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "ireland - new zealand",
       "teams": {
         "home": "ireland",
@@ -106,5 +31,5 @@
       "channels": []
     }
   ],
-  "updated": 1731103482328
+  "updated": 1731105305385
 }
