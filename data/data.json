@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "atletico de madrid - barcelona",
-      "teams": {
-        "home": "atletico de madrid",
-        "away": "barcelona"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "18:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "brighton - manchester city",
-      "teams": {
-        "home": "brighton",
-        "away": "manchester city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granada - eldense",
-      "teams": {
-        "home": "granada",
-        "away": "eldense"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "09/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "huesca - zaragoza",
-      "teams": {
-        "home": "huesca",
-        "away": "zaragoza"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "09/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "leganes - sevilla",
       "teams": {
         "home": "leganes",
@@ -781,5 +721,5 @@
       "channels": []
     }
   ],
-  "updated": 1731182690757
+  "updated": 1731184432609
 }
