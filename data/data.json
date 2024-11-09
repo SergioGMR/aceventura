@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "cavaliers - warriors",
-      "teams": {
-        "home": "cavaliers",
-        "away": "warriors"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "09/11/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinals",
       "teams": {
         "home": null,
@@ -1006,5 +991,5 @@
       "channels": []
     }
   ],
-  "updated": 1731121646014
+  "updated": 1731123369601
 }
