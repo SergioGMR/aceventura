@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "dubai - men semifinal 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "09/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "dubai - women semifinal 2",
       "teams": {
         "home": null,
@@ -916,5 +901,5 @@
       "channels": []
     }
   ],
-  "updated": 1731166499948
+  "updated": 1731168314437
 }
