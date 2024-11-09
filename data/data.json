@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "dubai - women semifinal 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "09/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "brentford - bournemouth",
-      "teams": {
-        "home": "brentford",
-        "away": "bournemouth"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "crystal palace - fulham",
-      "teams": {
-        "home": "crystal palace",
-        "away": "fulham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "west ham - everton",
-      "teams": {
-        "home": "west ham",
-        "away": "everton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "levante badalona - real madrid",
-      "teams": {
-        "home": "levante badalona",
-        "away": "real madrid"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "andorra - murcia",
       "teams": {
         "home": "andorra",
@@ -901,5 +826,5 @@
       "channels": []
     }
   ],
-  "updated": 1731173628611
+  "updated": 1731175539023
 }
