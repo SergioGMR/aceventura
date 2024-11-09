@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "joventut - unicaja",
-      "teams": {
-        "home": "joventut",
-        "away": "unicaja"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "liverpool - aston villa",
-      "teams": {
-        "home": "liverpool",
-        "away": "aston villa"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "malaga - cartagena",
-      "teams": {
-        "home": "malaga",
-        "away": "cartagena"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "09/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "magny - prates [prelims]",
       "teams": {
         "home": "magny",
@@ -706,5 +661,5 @@
       "channels": []
     }
   ],
-  "updated": 1731191656073
+  "updated": 1731193503199
 }
