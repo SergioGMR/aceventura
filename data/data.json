@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "leganes - sevilla",
-      "teams": {
-        "home": "leganes",
-        "away": "sevilla"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "joventut - unicaja",
       "teams": {
         "home": "joventut",
@@ -721,5 +706,5 @@
       "channels": []
     }
   ],
-  "updated": 1731189875393
+  "updated": 1731191656073
 }
