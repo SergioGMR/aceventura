@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - osasuna",
-      "teams": {
-        "home": "real madrid",
-        "away": "osasuna"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "dubai - men semifinal 1",
       "teams": {
         "home": null,
@@ -931,5 +916,5 @@
       "channels": []
     }
   ],
-  "updated": 1731164695126
+  "updated": 1731166499948
 }
