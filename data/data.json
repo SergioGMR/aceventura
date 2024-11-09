@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "international championship",
-      "date": {
-        "day": "09/11/2024",
-        "time": "07:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "dubai - women semifinal 1",
       "teams": {
         "home": null,
@@ -991,5 +976,5 @@
       "channels": []
     }
   ],
-  "updated": 1731141350960
+  "updated": 1731143093398
 }
