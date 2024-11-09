@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "andorra - murcia",
-      "teams": {
-        "home": "andorra",
-        "away": "murcia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "manresa - granada",
-      "teams": {
-        "home": "manresa",
-        "away": "granada"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dubai - men semifinal 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "09/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atletico de madrid - barcelona",
       "teams": {
         "home": "atletico de madrid",
@@ -826,5 +781,5 @@
       "channels": []
     }
   ],
-  "updated": 1731180831745
+  "updated": 1731182690757
 }
