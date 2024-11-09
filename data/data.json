@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "dubai - women semifinal 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "09/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "madrid cff - sevilla fc",
-      "teams": {
-        "home": "madrid cff",
-        "away": "sevilla fc"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "09/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinals",
       "teams": {
         "home": null,
@@ -976,5 +946,5 @@
       "channels": []
     }
   ],
-  "updated": 1731159230345
+  "updated": 1731161100653
 }
