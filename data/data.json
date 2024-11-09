@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "international championship",
-      "date": {
-        "day": "09/11/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - osasuna",
       "teams": {
         "home": "real madrid",
@@ -946,5 +931,5 @@
       "channels": []
     }
   ],
-  "updated": 1731161100653
+  "updated": 1731162861495
 }
