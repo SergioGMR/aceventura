@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "manchester united - leiceter",
-      "teams": {
-        "home": "manchester united",
-        "away": "leiceter"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "nottinghan forest - newcastle",
-      "teams": {
-        "home": "nottinghan forest",
-        "away": "newcastle"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tottenham - ipswich town",
-      "teams": {
-        "home": "tottenham",
-        "away": "ipswich town"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "panthers - giants",
       "teams": {
         "home": "panthers",
@@ -466,5 +421,5 @@
       "channels": []
     }
   ],
-  "updated": 1731256585723
+  "updated": 1731258259462
 }
