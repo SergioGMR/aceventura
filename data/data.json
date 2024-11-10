@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "sinner - de minaur",
-      "teams": {
-        "home": "sinner",
-        "away": "de minaur"
-      },
-      "sport": "tennis",
-      "competition": "nitto atp finals",
-      "date": {
-        "day": "10/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real sociedad - barcelona",
       "teams": {
         "home": "real sociedad",
@@ -166,5 +151,5 @@
       "channels": []
     }
   ],
-  "updated": 1731276273667
+  "updated": 1731278063528
 }
