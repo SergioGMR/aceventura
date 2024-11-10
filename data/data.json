@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "commanders - steelers",
-      "teams": {
-        "home": "commanders",
-        "away": "steelers"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "10/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "red zone - stage 10",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "10/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sinner - de minaur",
       "teams": {
         "home": "sinner",
@@ -196,5 +166,5 @@
       "channels": []
     }
   ],
-  "updated": 1731270805234
+  "updated": 1731272676720
 }
