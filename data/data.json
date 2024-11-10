@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "dubai - men final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "10/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mallorca - atletico de madrid",
-      "teams": {
-        "home": "mallorca",
-        "away": "atletico de madrid"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "athletic club - real betis",
-      "teams": {
-        "home": "athletic club",
-        "away": "real betis"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "burgos - sporting",
       "teams": {
         "home": "burgos",
@@ -406,5 +361,5 @@
       "channels": []
     }
   ],
-  "updated": 1731260016962
+  "updated": 1731261911898
 }
