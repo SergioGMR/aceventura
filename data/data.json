@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "baskonia - lleida",
-      "teams": {
-        "home": "baskonia",
-        "away": "lleida"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "coruña - tenerife",
-      "teams": {
-        "home": "coruña",
-        "away": "tenerife"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "chelsea - arsenal",
       "teams": {
         "home": "chelsea",
@@ -331,5 +301,5 @@
       "channels": []
     }
   ],
-  "updated": 1731263770904
+  "updated": 1731265503114
 }
