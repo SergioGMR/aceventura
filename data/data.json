@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "burgos - sporting",
-      "teams": {
-        "home": "burgos",
-        "away": "sporting"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "10/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "racing ferrol - racing",
-      "teams": {
-        "home": "racing ferrol",
-        "away": "racing"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "10/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "baskonia - lleida",
       "teams": {
         "home": "baskonia",
@@ -361,5 +331,5 @@
       "channels": []
     }
   ],
-  "updated": 1731261911898
+  "updated": 1731263770904
 }
