@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "panthers - giants",
-      "teams": {
-        "home": "panthers",
-        "away": "giants"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "10/11/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "dubai - men final",
       "teams": {
         "home": null,
@@ -421,5 +406,5 @@
       "channels": []
     }
   ],
-  "updated": 1731258259462
+  "updated": 1731260016962
 }
