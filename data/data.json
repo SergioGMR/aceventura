@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "hawks - bulls",
-      "teams": {
-        "home": "hawks",
-        "away": "bulls"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "10/11/2024",
-        "time": "01:35",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "magny - prates",
       "teams": {
         "home": "magny",
@@ -646,5 +631,5 @@
       "channels": []
     }
   ],
-  "updated": 1731208169168
+  "updated": 1731209796130
 }
