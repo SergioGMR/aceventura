@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "chelsea - arsenal",
-      "teams": {
-        "home": "chelsea",
-        "away": "arsenal"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "17:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "estudiantes - real betis",
       "teams": {
         "home": "estudiantes",
@@ -301,5 +286,5 @@
       "channels": []
     }
   ],
-  "updated": 1731265503114
+  "updated": 1731267214762
 }
