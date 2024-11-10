@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "snooker",
-      "competition": "international championship",
-      "date": {
-        "day": "10/11/2024",
-        "time": "07:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "deportivo abanca - real sociedad",
       "teams": {
         "home": "deportivo abanca",
@@ -616,5 +601,5 @@
       "channels": []
     }
   ],
-  "updated": 1731227720105
+  "updated": 1731229495048
 }
