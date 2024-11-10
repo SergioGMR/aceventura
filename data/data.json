@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "magny - prates",
-      "teams": {
-        "home": "magny",
-        "away": "prates"
-      },
-      "sport": "mma",
-      "competition": "ufc fight night",
-      "date": {
-        "day": "10/11/2024",
-        "time": "03:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "final",
       "teams": {
         "home": null,
@@ -631,5 +616,5 @@
       "channels": []
     }
   ],
-  "updated": 1731213349588
+  "updated": 1731215088596
 }
