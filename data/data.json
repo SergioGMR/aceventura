@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "magny - prates [prelims]",
-      "teams": {
-        "home": "magny",
-        "away": "prates [prelims]"
-      },
-      "sport": "mma",
-      "competition": "ufc fight night",
-      "date": {
-        "day": "09/11/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "hawks - bulls",
       "teams": {
         "home": "hawks",
@@ -661,5 +646,5 @@
       "channels": []
     }
   ],
-  "updated": 1731199743191
+  "updated": 1731202329860
 }
