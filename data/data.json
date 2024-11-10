@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "rio breogan - barcelona",
-      "teams": {
-        "home": "rio breogan",
-        "away": "barcelona"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "getafe - girona",
-      "teams": {
-        "home": "getafe",
-        "away": "girona"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "valladolid - athletic club",
-      "teams": {
-        "home": "valladolid",
-        "away": "athletic club"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "albacete - real oviedo",
-      "teams": {
-        "home": "albacete",
-        "away": "real oviedo"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "10/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "commanders - steelers",
       "teams": {
         "home": "commanders",
@@ -256,5 +196,5 @@
       "channels": []
     }
   ],
-  "updated": 1731269101084
+  "updated": 1731270805234
 }
