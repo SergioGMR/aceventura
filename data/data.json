@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "real sociedad - barcelona",
-      "teams": {
-        "home": "real sociedad",
-        "away": "barcelona"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "10/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bucks - celtics",
       "teams": {
         "home": "bucks",
@@ -151,5 +136,5 @@
       "channels": []
     }
   ],
-  "updated": 1731278063528
+  "updated": 1731279862178
 }
