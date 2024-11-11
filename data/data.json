@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "red zone - stage 10",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "10/11/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "texans - lions",
       "teams": {
         "home": "texans",
@@ -106,5 +91,5 @@
       "channels": []
     }
   ],
-  "updated": 1731286124612
+  "updated": 1731288731109
 }
