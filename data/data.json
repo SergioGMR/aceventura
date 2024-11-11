@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "deportivo - eibar",
-      "teams": {
-        "home": "deportivo",
-        "away": "eibar"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "11/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "zverev - rublev",
-      "teams": {
-        "home": "zverev",
-        "away": "rublev"
-      },
-      "sport": "tennis",
-      "competition": "nitto atp finals",
-      "date": {
-        "day": "11/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "thunder - clippers",
       "teams": {
         "home": "thunder",
@@ -61,5 +31,5 @@
       "channels": []
     }
   ],
-  "updated": 1731362675367
+  "updated": 1731364483785
 }
