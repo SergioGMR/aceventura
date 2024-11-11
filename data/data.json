@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "texans - lions",
-      "teams": {
-        "home": "texans",
-        "away": "lions"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "11/11/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "alcaraz - ruud",
       "teams": {
         "home": "alcaraz",
@@ -91,5 +76,5 @@
       "channels": []
     }
   ],
-  "updated": 1731297942493
+  "updated": 1731299778370
 }
