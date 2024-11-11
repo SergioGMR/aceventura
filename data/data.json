@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "cardinals - jets",
-      "teams": {
-        "home": "cardinals",
-        "away": "jets"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "10/11/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red zone - stage 10",
       "teams": {
         "home": null,
@@ -121,5 +106,5 @@
       "channels": []
     }
   ],
-  "updated": 1731284355107
+  "updated": 1731286124612
 }
