@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "alcaraz - ruud",
-      "teams": {
-        "home": "alcaraz",
-        "away": "ruud"
-      },
-      "sport": "tennis",
-      "competition": "nitto atp finals",
-      "date": {
-        "day": "11/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "deportivo - eibar",
       "teams": {
         "home": "deportivo",
@@ -76,5 +61,5 @@
       "channels": []
     }
   ],
-  "updated": 1731339258659
+  "updated": 1731341112543
 }
