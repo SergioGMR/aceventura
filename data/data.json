@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - virtus",
-      "teams": {
-        "home": "real madrid",
-        "away": "virtus"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "12/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "manchester city - hammarby",
-      "teams": {
-        "home": "manchester city",
-        "away": "hammarby"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "12/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "76ers - knicks",
       "teams": {
         "home": "76ers",
@@ -644,5 +614,5 @@
       "channels": []
     }
   ],
-  "updated": 1731450926050
+  "updated": 1731452720052
 }
