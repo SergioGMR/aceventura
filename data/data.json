@@ -1,20 +1,4 @@
 {
-  "data": [
-    {
-      "title": "rams - dolphins",
-      "teams": {
-        "home": "rams",
-        "away": "dolphins"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "12/11/2024",
-        "time": "02:15",
-        "zone": "cet"
-      },
-      "channels": []
-    }
-  ],
-  "updated": 1731384342193
+  "data": [],
+  "updated": 1731386157223
 }
