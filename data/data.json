@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "thunder - clippers",
-      "teams": {
-        "home": "thunder",
-        "away": "clippers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "12/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "rams - dolphins",
       "teams": {
         "home": "rams",
@@ -31,5 +16,5 @@
       "channels": []
     }
   ],
-  "updated": 1731382531362
+  "updated": 1731384342193
 }
