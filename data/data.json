@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "medvedev - miñaur",
-      "teams": {
-        "home": "medvedev",
-        "away": "miñaur"
-      },
-      "sport": "tennis",
-      "competition": "nitto atp finals",
-      "date": {
-        "day": "12/11/2024",
-        "time": "14:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "fenerbahce - bayern munich",
       "teams": {
         "home": "fenerbahce",
@@ -794,5 +779,5 @@
       "channels": []
     }
   ],
-  "updated": 1731427539445
+  "updated": 1731429520255
 }
