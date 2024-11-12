@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "fenerbahce - bayern munich",
-      "teams": {
-        "home": "fenerbahce",
-        "away": "bayern munich"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "12/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barcelona - sankt polten",
-      "teams": {
-        "home": "barcelona",
-        "away": "sankt polten"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "12/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "juventus - arsenal",
-      "teams": {
-        "home": "juventus",
-        "away": "arsenal"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "12/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "monaco - red star",
-      "teams": {
-        "home": "monaco",
-        "away": "red star"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "12/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "olympiacos - asvel",
       "teams": {
         "home": "olympiacos",
@@ -779,5 +719,5 @@
       "channels": []
     }
   ],
-  "updated": 1731443669279
+  "updated": 1731445483632
 }
