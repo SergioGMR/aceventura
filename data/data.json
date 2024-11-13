@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "paris - zalgiris",
-      "teams": {
-        "home": "paris",
-        "away": "zalgiris"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "13/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match 8",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "nitto atp finals",
-      "date": {
-        "day": "13/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "76ers - cavaliers",
       "teams": {
         "home": "76ers",
@@ -539,5 +509,5 @@
       "channels": []
     }
   ],
-  "updated": 1731535497290
+  "updated": 1731537353559
 }
