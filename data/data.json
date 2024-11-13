@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "76ers - knicks",
-      "teams": {
-        "home": "76ers",
-        "away": "knicks"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "13/11/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "match 7",
       "teams": {
         "home": null,
@@ -614,5 +599,5 @@
       "channels": []
     }
   ],
-  "updated": 1731467321305
+  "updated": 1731469035701
 }
