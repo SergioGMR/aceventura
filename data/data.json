@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - twente",
-      "teams": {
-        "home": "real madrid",
-        "away": "twente"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "13/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "paris - zalgiris",
       "teams": {
         "home": "paris",
@@ -554,5 +539,5 @@
       "channels": []
     }
   ],
-  "updated": 1731530082571
+  "updated": 1731531890183
 }
