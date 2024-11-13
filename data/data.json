@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "besiktas - gran canaria",
-      "teams": {
-        "home": "besiktas",
-        "away": "gran canaria"
-      },
-      "sport": "basketball",
-      "competition": "eurocup",
-      "date": {
-        "day": "13/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "partizan - barcelona",
-      "teams": {
-        "home": "partizan",
-        "away": "barcelona"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "13/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - twente",
       "teams": {
         "home": "real madrid",
@@ -584,5 +554,5 @@
       "channels": []
     }
   ],
-  "updated": 1731526452220
+  "updated": 1731528322238
 }
