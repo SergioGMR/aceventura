@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "match 9",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "nitto atp finals",
-      "date": {
-        "day": "14/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "maccabi - olympiacos",
       "teams": {
         "home": "maccabi",
@@ -494,5 +479,5 @@
       "channels": []
     }
   ],
-  "updated": 1731598540711
+  "updated": 1731600345173
 }
