@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "baskonia - monaco",
-      "teams": {
-        "home": "baskonia",
-        "away": "monaco"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "14/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bayern munich - alba",
-      "teams": {
-        "home": "bayern munich",
-        "away": "alba"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "14/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - efes",
       "teams": {
         "home": "real madrid",
@@ -449,5 +419,5 @@
       "channels": []
     }
   ],
-  "updated": 1731621905335
+  "updated": 1731623797453
 }
