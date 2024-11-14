@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "76ers - cavaliers",
-      "teams": {
-        "home": "76ers",
-        "away": "cavaliers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "14/11/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "match 9",
       "teams": {
         "home": null,
@@ -509,5 +494,5 @@
       "channels": []
     }
   ],
-  "updated": 1731553738208
+  "updated": 1731555440558
 }
