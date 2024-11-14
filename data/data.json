@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "maccabi - olympiacos",
-      "teams": {
-        "home": "maccabi",
-        "away": "olympiacos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "14/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "asvel - red star",
       "teams": {
         "home": "asvel",
@@ -479,5 +464,5 @@
       "channels": []
     }
   ],
-  "updated": 1731616499224
+  "updated": 1731618282875
 }
