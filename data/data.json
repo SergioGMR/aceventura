@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - efes",
-      "teams": {
-        "home": "real madrid",
-        "away": "efes"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "14/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "venezuela - brazil",
       "teams": {
         "home": "venezuela",
@@ -419,5 +404,5 @@
       "channels": []
     }
   ],
-  "updated": 1731623797453
+  "updated": 1731625523286
 }
