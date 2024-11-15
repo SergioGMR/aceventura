@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - paris",
-      "teams": {
-        "home": "barcelona",
-        "away": "paris"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "15/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "partizan - milan",
-      "teams": {
-        "home": "partizan",
-        "away": "milan"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "15/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "virtus - panathinaikos",
-      "teams": {
-        "home": "virtus",
-        "away": "panathinaikos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "15/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "denmark - spain",
-      "teams": {
-        "home": "denmark",
-        "away": "spain"
-      },
-      "sport": "soccer",
-      "competition": "uefa nations league",
-      "date": {
-        "day": "15/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match 12",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "nitto atp finals",
-      "date": {
-        "day": "15/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "valencia - zaragoza",
       "teams": {
         "home": "valencia",
@@ -136,5 +61,5 @@
       "channels": []
     }
   ],
-  "updated": 1731708299135
+  "updated": 1731710224786
 }
