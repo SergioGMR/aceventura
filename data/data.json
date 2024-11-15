@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "venezuela - brazil",
-      "teams": {
-        "home": "venezuela",
-        "away": "brazil"
-      },
-      "sport": "soccer",
-      "competition": "canmebol classifications",
-      "date": {
-        "day": "14/11/2024",
-        "time": "22:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "paraguay - argentina",
       "teams": {
         "home": "paraguay",
@@ -404,5 +389,5 @@
       "channels": []
     }
   ],
-  "updated": 1731627274483
+  "updated": 1731630009197
 }
