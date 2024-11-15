@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "kuwait city - men quarters 2",
-      "teams": {
-        "home": "kuwait city",
-        "away": "men quarters 2"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "15/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "kuwait city - men quarters 4",
-      "teams": {
-        "home": "kuwait city",
-        "away": "men quarters 4"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "15/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "zalgiris - fenerbahce",
       "teams": {
         "home": "zalgiris",
@@ -196,5 +166,5 @@
       "channels": []
     }
   ],
-  "updated": 1731692103199
+  "updated": 1731693968721
 }
