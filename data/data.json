@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "zalgiris - fenerbahce",
-      "teams": {
-        "home": "zalgiris",
-        "away": "fenerbahce"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "15/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "masters of salta - day 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "15/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "barcelona - paris",
       "teams": {
         "home": "barcelona",
@@ -166,5 +136,5 @@
       "channels": []
     }
   ],
-  "updated": 1731702904164
+  "updated": 1731704672449
 }
