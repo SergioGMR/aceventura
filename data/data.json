@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "valencia - zaragoza",
-      "teams": {
-        "home": "valencia",
-        "away": "zaragoza"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "15/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "uruguay - colombia",
       "teams": {
         "home": "uruguay",
@@ -46,6 +31,21 @@
       "channels": []
     },
     {
+      "title": "tyson - paul",
+      "teams": {
+        "home": "tyson",
+        "away": "paul"
+      },
+      "sport": "boxing",
+      "competition": "boxing event",
+      "date": {
+        "day": "16/11/2024",
+        "time": "02:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "peru - chile",
       "teams": {
         "home": "peru",
@@ -59,7 +59,859 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "road to pole",
+      "teams": {
+        "home": "road to pole"
+      },
+      "sport": "motogp",
+      "competition": "catalonia gp",
+      "date": {
+        "day": "16/11/2024",
+        "time": "08:35",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "kuwait city - women semifinal 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "16/11/2024",
+        "time": "10:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "motogp - classification",
+      "teams": {
+        "home": "motogp",
+        "away": "classification"
+      },
+      "sport": "motogp",
+      "competition": "catalonia gp",
+      "date": {
+        "day": "16/11/2024",
+        "time": "10:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "kuwait city - men semifinal 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "16/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "granada - levante badalona",
+      "teams": {
+        "home": "granada",
+        "away": "levante badalona"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "16/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tenerife - valencia",
+      "teams": {
+        "home": "tenerife",
+        "away": "valencia"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "16/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "moto3 - classification",
+      "teams": {
+        "home": "moto3",
+        "away": "classification"
+      },
+      "sport": "motogp",
+      "competition": "catalonia gp",
+      "date": {
+        "day": "16/11/2024",
+        "time": "12:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "moto2 - classification",
+      "teams": {
+        "home": "moto2",
+        "away": "classification"
+      },
+      "sport": "motogp",
+      "competition": "catalonia gp",
+      "date": {
+        "day": "16/11/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "kuwait city - women semifinal 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "16/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eibar - racing ferrol",
+      "teams": {
+        "home": "eibar",
+        "away": "racing ferrol"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "16/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "semifinal 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "nitto atp finals",
+      "date": {
+        "day": "16/11/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sprint",
+      "teams": {
+        "home": "sprint"
+      },
+      "sport": "motogp",
+      "competition": "catalonia gp",
+      "date": {
+        "day": "16/11/2024",
+        "time": "14:55",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salta masters - day 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddle",
+      "date": {
+        "day": "16/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "kuwait city - men semifinal 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "16/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "castellon - mirandes",
+      "teams": {
+        "home": "castellon",
+        "away": "mirandes"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "16/11/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eldense - albacete",
+      "teams": {
+        "home": "eldense",
+        "away": "albacete"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "16/11/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "madrid cff - eibar",
+      "teams": {
+        "home": "madrid cff",
+        "away": "eibar"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "16/11/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "england - south africa",
+      "teams": {
+        "home": "england",
+        "away": "south africa"
+      },
+      "sport": "rugby",
+      "competition": "autumn nations series",
+      "date": {
+        "day": "16/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "levante - elche",
+      "teams": {
+        "home": "levante",
+        "away": "elche"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "16/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "racing - burgos",
+      "teams": {
+        "home": "racing",
+        "away": "burgos"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "16/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - barcelona",
+      "teams": {
+        "home": "real madrid",
+        "away": "barcelona"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "16/11/2024",
+        "time": "19:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "semifinal 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "nitto atp finals",
+      "date": {
+        "day": "16/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tenerife - manresa",
+      "teams": {
+        "home": "tenerife",
+        "away": "manresa"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "16/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "france - new zealand",
+      "teams": {
+        "home": "france",
+        "away": "new zealand"
+      },
+      "sport": "rugby",
+      "competition": "autumn nations series",
+      "date": {
+        "day": "16/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sporting - granada",
+      "teams": {
+        "home": "sporting",
+        "away": "granada"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "16/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salta masters - day 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddle",
+      "date": {
+        "day": "16/11/2024",
+        "time": "22:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "pelicans - lakers",
+      "teams": {
+        "home": "pelicans",
+        "away": "lakers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "17/11/2024",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "espinosa - jimenez",
+      "teams": {
+        "home": "espinosa",
+        "away": "jimenez"
+      },
+      "sport": "boxing",
+      "competition": "boxing event",
+      "date": {
+        "day": "17/11/2024",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "warm up",
+      "teams": {
+        "home": "warm up"
+      },
+      "sport": "motogp",
+      "competition": "catalonia gp",
+      "date": {
+        "day": "17/11/2024",
+        "time": "09:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "moto3 - race",
+      "teams": {
+        "home": "moto3",
+        "away": "race"
+      },
+      "sport": "motogp",
+      "competition": "catalonia gp",
+      "date": {
+        "day": "17/11/2024",
+        "time": "10:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "moto2 - race",
+      "teams": {
+        "home": "moto2",
+        "away": "race"
+      },
+      "sport": "motogp",
+      "competition": "catalonia gp",
+      "date": {
+        "day": "17/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "deportivo abanca - espanyol",
+      "teams": {
+        "home": "deportivo abanca",
+        "away": "espanyol"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "17/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - lleida",
+      "teams": {
+        "home": "real madrid",
+        "away": "lleida"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "17/11/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "gran canaria - girona",
+      "teams": {
+        "home": "gran canaria",
+        "away": "girona"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "17/11/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real betis - levante",
+      "teams": {
+        "home": "real betis",
+        "away": "levante"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "17/11/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "motogp - race",
+      "teams": {
+        "home": "motogp",
+        "away": "race"
+      },
+      "sport": "motogp",
+      "competition": "catalonia gp",
+      "date": {
+        "day": "17/11/2024",
+        "time": "13:50",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "kuwait city - women final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "17/11/2024",
+        "time": "15:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salta masters - day 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddle",
+      "date": {
+        "day": "17/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sevilla - atletico de madrid",
+      "teams": {
+        "home": "sevilla",
+        "away": "atletico de madrid"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "17/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cadiz - cordoba",
+      "teams": {
+        "home": "cadiz",
+        "away": "cordoba"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "17/11/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real oviedo - tenerife",
+      "teams": {
+        "home": "real oviedo",
+        "away": "tenerife"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "17/11/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "andorra - unicaja",
+      "teams": {
+        "home": "andorra",
+        "away": "unicaja"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "17/11/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bilbao - joventut",
+      "teams": {
+        "home": "bilbao",
+        "away": "joventut"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "17/11/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "kuwait city - men final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "17/11/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "nitto atp finals",
+      "date": {
+        "day": "17/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "estudiantes - cartagena",
+      "teams": {
+        "home": "estudiantes",
+        "away": "cartagena"
+      },
+      "sport": "basketball",
+      "competition": "feb",
+      "date": {
+        "day": "17/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "barcelona - valencia",
+      "teams": {
+        "home": "barcelona",
+        "away": "valencia"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "17/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "almeria - deportivo",
+      "teams": {
+        "home": "almeria",
+        "away": "deportivo"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "17/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cartagena - huesca",
+      "teams": {
+        "home": "cartagena",
+        "away": "huesca"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "17/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red zone - stage 11",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "17/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "steelers - ravens",
+      "teams": {
+        "home": "steelers",
+        "away": "ravens"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "17/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salta masters - day 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddle",
+      "date": {
+        "day": "17/11/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "zaragoza - malaga",
+      "teams": {
+        "home": "zaragoza",
+        "away": "malaga"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "17/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "timberwolves - suns",
+      "teams": {
+        "home": "timberwolves",
+        "away": "suns"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "17/11/2024",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bills - chiefs",
+      "teams": {
+        "home": "bills",
+        "away": "chiefs"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "17/11/2024",
+        "time": "22:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red zone - stage 11",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "17/11/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "chargers - bengals",
+      "teams": {
+        "home": "chargers",
+        "away": "bengals"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "18/11/2024",
+        "time": "02:20",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1731710224786
+  "updated": 1731711917409
 }
