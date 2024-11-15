@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "kuwait city - women quarters 2",
-      "teams": {
-        "home": "kuwait city",
-        "away": "women quarters 2"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "15/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "kuwait city - women quarters 4",
-      "teams": {
-        "home": "kuwait city",
-        "away": "women quarters 4"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "15/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "match 9",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "nitto atp finals",
-      "date": {
-        "day": "15/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "masters of salta - day 1",
       "teams": {
         "home": null,
@@ -256,5 +211,5 @@
       "channels": []
     }
   ],
-  "updated": 1731684933592
+  "updated": 1731686735773
 }
