@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "kuwait city - women quarter 1",
-      "teams": {
-        "home": "kuwait city",
-        "away": "women quarter 1"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "15/11/2024",
-        "time": "10:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "kuwait city - women quarters 3",
-      "teams": {
-        "home": "kuwait city",
-        "away": "women quarters 3"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "15/11/2024",
-        "time": "10:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "kuwait city - men quarter 1",
       "teams": {
         "home": "kuwait city",
@@ -330,5 +300,5 @@
       "channels": []
     }
   ],
-  "updated": 1731670415919
+  "updated": 1731672485463
 }
