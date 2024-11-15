@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "jazz - mavericks",
-      "teams": {
-        "home": "jazz",
-        "away": "mavericks"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "15/11/2024",
-        "time": "03:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "free training 1",
       "teams": {
         "home": "free training 1"
@@ -359,5 +344,5 @@
       "channels": []
     }
   ],
-  "updated": 1731645485638
+  "updated": 1731647125876
 }
