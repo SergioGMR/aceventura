@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "ecuador - bolivia",
-      "teams": {
-        "home": "ecuador",
-        "away": "bolivia"
-      },
-      "sport": "soccer",
-      "competition": "conmebol classification",
-      "date": {
-        "day": "15/11/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "jazz - mavericks",
       "teams": {
         "home": "jazz",
@@ -374,5 +359,5 @@
       "channels": []
     }
   ],
-  "updated": 1731639299173
+  "updated": 1731640460362
 }
