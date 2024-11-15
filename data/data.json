@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "masters of salta - day 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "15/11/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "kuwait city - men quarters 2",
       "teams": {
         "home": "kuwait city",
@@ -211,5 +196,5 @@
       "channels": []
     }
   ],
-  "updated": 1731688721210
+  "updated": 1731690278278
 }
