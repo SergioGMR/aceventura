@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "free training 1",
-      "teams": {
-        "home": "free training 1"
-      },
-      "sport": "motogp",
-      "competition": "catalonia gp",
-      "date": {
-        "day": "15/11/2024",
-        "time": "09:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "kuwait city - women quarter 1",
       "teams": {
         "home": "kuwait city",
@@ -344,5 +330,5 @@
       "channels": []
     }
   ],
-  "updated": 1731667069498
+  "updated": 1731668679351
 }
