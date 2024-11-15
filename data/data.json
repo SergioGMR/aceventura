@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "paraguay - argentina",
-      "teams": {
-        "home": "paraguay",
-        "away": "argentina"
-      },
-      "sport": "soccer",
-      "competition": "conmebol classification",
-      "date": {
-        "day": "15/11/2024",
-        "time": "00:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "ecuador - bolivia",
       "teams": {
         "home": "ecuador",
@@ -389,5 +374,5 @@
       "channels": []
     }
   ],
-  "updated": 1731634351314
+  "updated": 1731637820687
 }
