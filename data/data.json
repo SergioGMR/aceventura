@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "practice",
-      "teams": {
-        "home": "practice"
-      },
-      "sport": "motogp",
-      "competition": "catalonia gp",
-      "date": {
-        "day": "15/11/2024",
-        "time": "13:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "kuwait city - women quarters 2",
       "teams": {
         "home": "kuwait city",
@@ -270,5 +256,5 @@
       "channels": []
     }
   ],
-  "updated": 1731683112053
+  "updated": 1731684933592
 }
