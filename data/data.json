@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "kuwait city - women semifinal 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "16/11/2024",
-        "time": "10:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "motogp - classification",
       "teams": {
         "home": "motogp",
@@ -839,5 +824,5 @@
       "channels": []
     }
   ],
-  "updated": 1731756836031
+  "updated": 1731758838409
 }
