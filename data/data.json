@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "semifinal 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "nitto atp finals",
-      "date": {
-        "day": "16/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "tenerife - manresa",
       "teams": {
         "home": "tenerife",
@@ -540,5 +525,5 @@
       "channels": []
     }
   ],
-  "updated": 1731794678348
+  "updated": 1731796523128
 }
