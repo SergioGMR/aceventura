@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "uruguay - colombia",
-      "teams": {
-        "home": "uruguay",
-        "away": "colombia"
-      },
-      "sport": "soccer",
-      "competition": "conmebol classification",
-      "date": {
-        "day": "16/11/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "spurs - lakers",
       "teams": {
         "home": "spurs",
@@ -913,5 +898,5 @@
       "channels": []
     }
   ],
-  "updated": 1731725565775
+  "updated": 1731726787193
 }
