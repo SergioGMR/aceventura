@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "england - south africa",
-      "teams": {
-        "home": "england",
-        "away": "south africa"
-      },
-      "sport": "rugby",
-      "competition": "autumn nations series",
-      "date": {
-        "day": "16/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "levante - elche",
-      "teams": {
-        "home": "levante",
-        "away": "elche"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "16/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "racing - burgos",
-      "teams": {
-        "home": "racing",
-        "away": "burgos"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "16/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - barcelona",
       "teams": {
         "home": "real madrid",
@@ -600,5 +555,5 @@
       "channels": []
     }
   ],
-  "updated": 1731787510260
+  "updated": 1731789301512
 }
