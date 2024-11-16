@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "semifinal 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "nitto atp finals",
-      "date": {
-        "day": "16/11/2024",
-        "time": "14:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sprint",
       "teams": {
         "home": "sprint"
@@ -704,5 +689,5 @@
       "channels": []
     }
   ],
-  "updated": 1731773128076
+  "updated": 1731775097580
 }
