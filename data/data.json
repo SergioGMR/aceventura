@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "road to pole",
-      "teams": {
-        "home": "road to pole"
-      },
-      "sport": "motogp",
-      "competition": "catalonia gp",
-      "date": {
-        "day": "16/11/2024",
-        "time": "08:35",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "kuwait city - women semifinal 1",
       "teams": {
         "home": null,
@@ -853,5 +839,5 @@
       "channels": []
     }
   ],
-  "updated": 1731751500558
+  "updated": 1731753389248
 }
