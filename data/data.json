@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "spurs - lakers",
-      "teams": {
-        "home": "spurs",
-        "away": "lakers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "16/11/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "tyson - paul",
       "teams": {
         "home": "tyson",
@@ -898,5 +883,5 @@
       "channels": []
     }
   ],
-  "updated": 1731726787193
+  "updated": 1731728387478
 }
