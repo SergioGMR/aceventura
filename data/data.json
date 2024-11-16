@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "motogp - classification",
-      "teams": {
-        "home": "motogp",
-        "away": "classification"
-      },
-      "sport": "motogp",
-      "competition": "catalonia gp",
-      "date": {
-        "day": "16/11/2024",
-        "time": "10:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "kuwait city - men semifinal 1",
       "teams": {
         "home": null,
@@ -824,5 +809,5 @@
       "channels": []
     }
   ],
-  "updated": 1731761117712
+  "updated": 1731762507456
 }
