@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "moto2 - classification",
-      "teams": {
-        "home": "moto2",
-        "away": "classification"
-      },
-      "sport": "motogp",
-      "competition": "catalonia gp",
-      "date": {
-        "day": "16/11/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "kuwait city - women semifinal 2",
       "teams": {
         "home": null,
@@ -749,5 +734,5 @@
       "channels": []
     }
   ],
-  "updated": 1731769507923
+  "updated": 1731771293836
 }
