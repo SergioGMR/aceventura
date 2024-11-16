@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "sprint",
-      "teams": {
-        "home": "sprint"
-      },
-      "sport": "motogp",
-      "competition": "catalonia gp",
-      "date": {
-        "day": "16/11/2024",
-        "time": "14:55",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "salta masters - day 2",
       "teams": {
         "home": null,
@@ -689,5 +675,5 @@
       "channels": []
     }
   ],
-  "updated": 1731775097580
+  "updated": 1731776672824
 }
