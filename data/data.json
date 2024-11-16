@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "kuwait city - women semifinal 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "16/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "eibar - racing ferrol",
-      "teams": {
-        "home": "eibar",
-        "away": "racing ferrol"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "16/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinal 1",
       "teams": {
         "home": null,
@@ -734,5 +704,5 @@
       "channels": []
     }
   ],
-  "updated": 1731771293836
+  "updated": 1731773128076
 }
