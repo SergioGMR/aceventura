@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "tyson - paul",
-      "teams": {
-        "home": "tyson",
-        "away": "paul"
-      },
-      "sport": "boxing",
-      "competition": "boxing event",
-      "date": {
-        "day": "16/11/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "peru - chile",
-      "teams": {
-        "home": "peru",
-        "away": "chile"
-      },
-      "sport": "soccer",
-      "competition": "conmebol classification",
-      "date": {
-        "day": "16/11/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "road to pole",
       "teams": {
         "home": "road to pole"
@@ -883,5 +853,5 @@
       "channels": []
     }
   ],
-  "updated": 1731729971667
+  "updated": 1731731917641
 }
