@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "castellon - mirandes",
-      "teams": {
-        "home": "castellon",
-        "away": "mirandes"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "16/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "eldense - albacete",
-      "teams": {
-        "home": "eldense",
-        "away": "albacete"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "16/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "madrid cff - eibar",
       "teams": {
         "home": "madrid cff",
@@ -645,5 +615,5 @@
       "channels": []
     }
   ],
-  "updated": 1731780344855
+  "updated": 1731782238492
 }
