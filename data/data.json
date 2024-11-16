@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "kuwait city - men semifinal 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "16/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granada - levante badalona",
-      "teams": {
-        "home": "granada",
-        "away": "levante badalona"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "16/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tenerife - valencia",
-      "teams": {
-        "home": "tenerife",
-        "away": "valencia"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "16/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "moto3 - classification",
       "teams": {
         "home": "moto3",
@@ -809,5 +764,5 @@
       "channels": []
     }
   ],
-  "updated": 1731764086949
+  "updated": 1731765886517
 }
