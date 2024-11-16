@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "tenerife - manresa",
-      "teams": {
-        "home": "tenerife",
-        "away": "manresa"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "16/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "france - new zealand",
-      "teams": {
-        "home": "france",
-        "away": "new zealand"
-      },
-      "sport": "rugby",
-      "competition": "autumn nations series",
-      "date": {
-        "day": "16/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sporting - granada",
-      "teams": {
-        "home": "sporting",
-        "away": "granada"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "16/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "salta masters - day 2",
       "teams": {
         "home": null,
@@ -525,5 +480,5 @@
       "channels": []
     }
   ],
-  "updated": 1731796523128
+  "updated": 1731798289199
 }
