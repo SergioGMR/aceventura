@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "motogp - race",
-      "teams": {
-        "home": "motogp",
-        "away": "race"
-      },
-      "sport": "motogp",
-      "competition": "catalonia gp",
-      "date": {
-        "day": "17/11/2024",
-        "time": "13:50",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "kuwait city - women final",
       "teams": {
         "home": null,
@@ -331,5 +316,5 @@
       "channels": []
     }
   ],
-  "updated": 1731857662169
+  "updated": 1731859490938
 }
