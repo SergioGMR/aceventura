@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "kuwait city - women final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "17/11/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "salta masters - day 3",
       "teams": {
         "home": null,
@@ -316,5 +301,5 @@
       "channels": []
     }
   ],
-  "updated": 1731861428472
+  "updated": 1731863074632
 }
