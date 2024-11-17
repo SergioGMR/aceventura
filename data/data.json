@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "moto2 - race",
-      "teams": {
-        "home": "moto2",
-        "away": "race"
-      },
-      "sport": "motogp",
-      "competition": "catalonia gp",
-      "date": {
-        "day": "17/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "deportivo abanca - espanyol",
-      "teams": {
-        "home": "deportivo abanca",
-        "away": "espanyol"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "17/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - lleida",
       "teams": {
         "home": "real madrid",
@@ -406,5 +376,5 @@
       "channels": []
     }
   ],
-  "updated": 1731850497736
+  "updated": 1731852276262
 }
