@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "estudiantes - cartagena",
-      "teams": {
-        "home": "estudiantes",
-        "away": "cartagena"
-      },
-      "sport": "basketball",
-      "competition": "feb",
-      "date": {
-        "day": "17/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barcelona - valencia",
-      "teams": {
-        "home": "barcelona",
-        "away": "valencia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "17/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "almeria - deportivo",
-      "teams": {
-        "home": "almeria",
-        "away": "deportivo"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "17/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cartagena - huesca",
-      "teams": {
-        "home": "cartagena",
-        "away": "huesca"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "17/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red zone - stage 11",
       "teams": {
         "home": null,
@@ -181,5 +121,5 @@
       "channels": []
     }
   ],
-  "updated": 1731873901259
+  "updated": 1731875646124
 }
