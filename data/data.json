@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "timberwolves - suns",
-      "teams": {
-        "home": "timberwolves",
-        "away": "suns"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "17/11/2024",
-        "time": "21:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bills - chiefs",
       "teams": {
         "home": "bills",
@@ -61,5 +46,5 @@
       "channels": []
     }
   ],
-  "updated": 1731884699585
+  "updated": 1731886441487
 }
