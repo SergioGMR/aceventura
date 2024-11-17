@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "real betis - levante",
-      "teams": {
-        "home": "real betis",
-        "away": "levante"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "17/11/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "motogp - race",
       "teams": {
         "home": "motogp",
@@ -346,5 +331,5 @@
       "channels": []
     }
   ],
-  "updated": 1731855874173
+  "updated": 1731857662169
 }
