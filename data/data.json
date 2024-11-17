@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "warm up",
-      "teams": {
-        "home": "warm up"
-      },
-      "sport": "motogp",
-      "competition": "catalonia gp",
-      "date": {
-        "day": "17/11/2024",
-        "time": "09:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "moto3 - race",
       "teams": {
         "home": "moto3",
@@ -435,5 +421,5 @@
       "channels": []
     }
   ],
-  "updated": 1731841487604
+  "updated": 1731843231444
 }
