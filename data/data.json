@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "gran canaria - girona",
-      "teams": {
-        "home": "gran canaria",
-        "away": "girona"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "17/11/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real betis - levante",
       "teams": {
         "home": "real betis",
@@ -361,5 +346,5 @@
       "channels": []
     }
   ],
-  "updated": 1731854080655
+  "updated": 1731855874173
 }
