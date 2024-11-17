@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "red zone - stage 11",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "17/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "steelers - ravens",
-      "teams": {
-        "home": "steelers",
-        "away": "ravens"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "17/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "salta masters - day 3",
       "teams": {
         "home": null,
@@ -121,5 +91,5 @@
       "channels": []
     }
   ],
-  "updated": 1731875646124
+  "updated": 1731877473024
 }
