@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "andorra - unicaja",
-      "teams": {
-        "home": "andorra",
-        "away": "unicaja"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "17/11/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bilbao - joventut",
-      "teams": {
-        "home": "bilbao",
-        "away": "joventut"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "17/11/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "kuwait city - men final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "17/11/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "final",
       "teams": {
         "home": null,
@@ -241,5 +196,5 @@
       "channels": []
     }
   ],
-  "updated": 1731868648503
+  "updated": 1731870267284
 }
