@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "zaragoza - malaga",
-      "teams": {
-        "home": "zaragoza",
-        "away": "malaga"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "17/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "timberwolves - suns",
       "teams": {
         "home": "timberwolves",
@@ -76,5 +61,5 @@
       "channels": []
     }
   ],
-  "updated": 1731882946101
+  "updated": 1731884699585
 }
