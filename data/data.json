@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "moto3 - race",
-      "teams": {
-        "home": "moto3",
-        "away": "race"
-      },
-      "sport": "motogp",
-      "competition": "catalonia gp",
-      "date": {
-        "day": "17/11/2024",
-        "time": "10:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "moto2 - race",
       "teams": {
         "home": "moto2",
@@ -421,5 +406,5 @@
       "channels": []
     }
   ],
-  "updated": 1731847479346
+  "updated": 1731848883661
 }
