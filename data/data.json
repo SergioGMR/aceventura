@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "salta masters - day 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "17/11/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "zaragoza - malaga",
       "teams": {
         "home": "zaragoza",
@@ -91,5 +76,5 @@
       "channels": []
     }
   ],
-  "updated": 1731879215340
+  "updated": 1731881063092
 }
