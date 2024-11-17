@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "salta masters - day 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "16/11/2024",
-        "time": "22:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "pelicans - lakers",
       "teams": {
         "home": "pelicans",
@@ -480,5 +465,5 @@
       "channels": []
     }
   ],
-  "updated": 1731800050491
+  "updated": 1731802881987
 }
