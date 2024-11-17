@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "pelicans - lakers",
-      "teams": {
-        "home": "pelicans",
-        "away": "lakers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "17/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "espinosa - jimenez",
-      "teams": {
-        "home": "espinosa",
-        "away": "jimenez"
-      },
-      "sport": "boxing",
-      "competition": "boxing event",
-      "date": {
-        "day": "17/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "warm up",
       "teams": {
         "home": "warm up"
@@ -465,5 +435,5 @@
       "channels": []
     }
   ],
-  "updated": 1731814862763
+  "updated": 1731816356547
 }
