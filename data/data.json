@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - lleida",
-      "teams": {
-        "home": "real madrid",
-        "away": "lleida"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "17/11/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "gran canaria - girona",
       "teams": {
         "home": "gran canaria",
@@ -376,5 +361,5 @@
       "channels": []
     }
   ],
-  "updated": 1731852276262
+  "updated": 1731854080655
 }
