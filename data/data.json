@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "cadiz - cordoba",
-      "teams": {
-        "home": "cadiz",
-        "away": "cordoba"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "17/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real oviedo - tenerife",
-      "teams": {
-        "home": "real oviedo",
-        "away": "tenerife"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "17/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "andorra - unicaja",
       "teams": {
         "home": "andorra",
@@ -271,5 +241,5 @@
       "channels": []
     }
   ],
-  "updated": 1731866723809
+  "updated": 1731868648503
 }
