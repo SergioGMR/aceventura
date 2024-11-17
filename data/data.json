@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "salta masters - day 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "17/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sevilla - atletico de madrid",
-      "teams": {
-        "home": "sevilla",
-        "away": "atletico de madrid"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "17/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "cadiz - cordoba",
       "teams": {
         "home": "cadiz",
@@ -301,5 +271,5 @@
       "channels": []
     }
   ],
-  "updated": 1731864934683
+  "updated": 1731866723809
 }
