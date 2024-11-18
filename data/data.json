@@ -1,20 +1,4 @@
 {
-  "data": [
-    {
-      "title": "chargers - bengals",
-      "teams": {
-        "home": "chargers",
-        "away": "bengals"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "18/11/2024",
-        "time": "02:20",
-        "zone": "cet"
-      },
-      "channels": []
-    }
-  ],
-  "updated": 1731902761885
+  "data": [],
+  "updated": 1731904680465
 }
