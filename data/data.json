@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "spain - swiss",
-      "teams": {
-        "home": "spain",
-        "away": "swiss"
-      },
-      "sport": "soccer",
-      "competition": "uefa nations league",
-      "date": {
-        "day": "18/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bucks - rockets",
       "teams": {
         "home": "bucks",
@@ -346,5 +331,5 @@
       "channels": []
     }
   ],
-  "updated": 1731967516725
+  "updated": 1731969394138
 }
