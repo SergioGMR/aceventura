@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "bills - chiefs",
-      "teams": {
-        "home": "bills",
-        "away": "chiefs"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "17/11/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red zone - stage 11",
       "teams": {
         "home": null,
@@ -46,5 +31,5 @@
       "channels": []
     }
   ],
-  "updated": 1731889236767
+  "updated": 1731890937225
 }
