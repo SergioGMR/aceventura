@@ -1,4 +1,380 @@
 {
-  "data": [],
-  "updated": 1731926313885
+  "data": [
+    {
+      "title": "salta open - round 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "18/11/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salta open - round 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "18/11/2024",
+        "time": "17:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "spain - swiss",
+      "teams": {
+        "home": "spain",
+        "away": "swiss"
+      },
+      "sport": "soccer",
+      "competition": "uefa nations league",
+      "date": {
+        "day": "18/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bucks - rockets",
+      "teams": {
+        "home": "bucks",
+        "away": "rockets"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "19/11/2024",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cowboys - texans",
+      "teams": {
+        "home": "cowboys",
+        "away": "texans"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "19/11/2024",
+        "time": "02:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salta open - round 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "19/11/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "netherlands - spain [match 1]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "19/11/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salta open - round 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "19/11/2024",
+        "time": "17:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "netherlands - spain [match 2]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "19/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "kghm - irun",
+      "teams": {
+        "home": "kghm",
+        "away": "irun"
+      },
+      "sport": "handball",
+      "competition": "ehf european league",
+      "date": {
+        "day": "19/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "torrelavega - kiel",
+      "teams": {
+        "home": "torrelavega",
+        "away": "kiel"
+      },
+      "sport": "handball",
+      "competition": "ehf european league",
+      "date": {
+        "day": "19/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "netherlands - spain [match doubles]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "19/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "colombia - ecuador",
+      "teams": {
+        "home": "colombia",
+        "away": "ecuador"
+      },
+      "sport": "soccer",
+      "competition": "south america cup",
+      "date": {
+        "day": "20/11/2024",
+        "time": "00:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "argentina - peru",
+      "teams": {
+        "home": "argentina",
+        "away": "peru"
+      },
+      "sport": "soccer",
+      "competition": "south america cup",
+      "date": {
+        "day": "20/11/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "chile - venezuela",
+      "teams": {
+        "home": "chile",
+        "away": "venezuela"
+      },
+      "sport": "soccer",
+      "competition": "south america cup",
+      "date": {
+        "day": "20/11/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "brazil - uruguay",
+      "teams": {
+        "home": "brazil",
+        "away": "uruguay"
+      },
+      "sport": "soccer",
+      "competition": "south america cup",
+      "date": {
+        "day": "20/11/2024",
+        "time": "01:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mavericks - pelicans",
+      "teams": {
+        "home": "mavericks",
+        "away": "pelicans"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "20/11/2024",
+        "time": "02:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "germany - canada [match 1]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "20/11/2024",
+        "time": "11:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salta open - quarters",
+      "teams": {
+        "home": "salta open",
+        "away": "quarters"
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "20/11/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "germany - canada [match 2]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "20/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "germany - canada [match doubles]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "20/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salta open - quarters",
+      "teams": {
+        "home": "salta open",
+        "away": "quarters"
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "20/11/2024",
+        "time": "17:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "twente - real madrid",
+      "teams": {
+        "home": "twente",
+        "away": "real madrid"
+      },
+      "sport": "soccer (w)",
+      "competition": "champions league",
+      "date": {
+        "day": "20/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eldense - huesca",
+      "teams": {
+        "home": "eldense",
+        "away": "huesca"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "20/11/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "virtus - fenerbahce",
+      "teams": {
+        "home": "virtus",
+        "away": "fenerbahce"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "20/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1731927881058
 }
