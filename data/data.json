@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "red zone - stage 11",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "17/11/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "chargers - bengals",
       "teams": {
         "home": "chargers",
@@ -31,5 +16,5 @@
       "channels": []
     }
   ],
-  "updated": 1731890937225
+  "updated": 1731893823114
 }
