@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "salta open - round 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "18/11/2024",
-        "time": "17:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "spain - swiss",
       "teams": {
         "home": "spain",
@@ -361,5 +346,5 @@
       "channels": []
     }
   ],
-  "updated": 1731956674078
+  "updated": 1731958429318
 }
