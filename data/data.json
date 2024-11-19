@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "kghm - irun",
-      "teams": {
-        "home": "kghm",
-        "away": "irun"
-      },
-      "sport": "handball",
-      "competition": "ehf european league",
-      "date": {
-        "day": "19/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "torrelavega - kiel",
-      "teams": {
-        "home": "torrelavega",
-        "away": "kiel"
-      },
-      "sport": "handball",
-      "competition": "ehf european league",
-      "date": {
-        "day": "19/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "netherlands - spain [match doubles]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "19/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "colombia - ecuador",
       "teams": {
         "home": "colombia",
@@ -241,5 +196,5 @@
       "channels": []
     }
   ],
-  "updated": 1732055786059
+  "updated": 1732057515783
 }
