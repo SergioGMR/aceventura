@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "bucks - rockets",
-      "teams": {
-        "home": "bucks",
-        "away": "rockets"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "19/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "cowboys - texans",
       "teams": {
         "home": "cowboys",
@@ -331,5 +316,5 @@
       "channels": []
     }
   ],
-  "updated": 1731987688933
+  "updated": 1731989175655
 }
