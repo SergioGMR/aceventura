@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "netherlands - spain [match 2]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "19/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "kghm - irun",
       "teams": {
         "home": "kghm",
@@ -256,5 +241,5 @@
       "channels": []
     }
   ],
-  "updated": 1732048530468
+  "updated": 1732050280883
 }
