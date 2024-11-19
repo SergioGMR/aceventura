@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "salta open - round 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "19/11/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "netherlands - spain [match 1]",
       "teams": {
         "home": null,
@@ -301,5 +286,5 @@
       "channels": []
     }
   ],
-  "updated": 1732027042626
+  "updated": 1732028717494
 }
