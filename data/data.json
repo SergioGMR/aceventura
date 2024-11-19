@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "netherlands - spain [match 1]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "19/11/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "salta open - round 2",
       "teams": {
         "home": null,
@@ -286,5 +271,5 @@
       "channels": []
     }
   ],
-  "updated": 1732041543479
+  "updated": 1732043070610
 }
