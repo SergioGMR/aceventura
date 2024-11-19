@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "cowboys - texans",
-      "teams": {
-        "home": "cowboys",
-        "away": "texans"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "19/11/2024",
-        "time": "02:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "salta open - round 2",
       "teams": {
         "home": null,
@@ -316,5 +301,5 @@
       "channels": []
     }
   ],
-  "updated": 1731989175655
+  "updated": 1731991036640
 }
