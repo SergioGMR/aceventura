@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "virtus - fenerbahce",
-      "teams": {
-        "home": "virtus",
-        "away": "fenerbahce"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "20/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "cavaliers - pelicans",
       "teams": {
         "home": "cavaliers",
@@ -494,5 +479,5 @@
       "channels": []
     }
   ],
-  "updated": 1732140293095
+  "updated": 1732142194815
 }
