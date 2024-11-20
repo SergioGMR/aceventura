@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "germany - canada [match 1]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "20/11/2024",
-        "time": "11:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "salta open - quarters",
       "teams": {
         "home": "salta open",
@@ -121,5 +106,5 @@
       "channels": []
     }
   ],
-  "updated": 1732106761941
+  "updated": 1732108225270
 }
