@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "salta open - quarters",
-      "teams": {
-        "home": "salta open",
-        "away": "quarters"
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "20/11/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "germany - canada [match 2]",
       "teams": {
         "home": null,
@@ -106,5 +91,5 @@
       "channels": []
     }
   ],
-  "updated": 1732113399334
+  "updated": 1732115127085
 }
