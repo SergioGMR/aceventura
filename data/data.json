@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "argentina - peru",
-      "teams": {
-        "home": "argentina",
-        "away": "peru"
-      },
-      "sport": "soccer",
-      "competition": "south america cup",
-      "date": {
-        "day": "20/11/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "chile - venezuela",
-      "teams": {
-        "home": "chile",
-        "away": "venezuela"
-      },
-      "sport": "soccer",
-      "competition": "south america cup",
-      "date": {
-        "day": "20/11/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "brazil - uruguay",
       "teams": {
         "home": "brazil",
@@ -181,5 +151,5 @@
       "channels": []
     }
   ],
-  "updated": 1732071232774
+  "updated": 1732072417300
 }
