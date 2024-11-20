@@ -59,7 +59,485 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "cavaliers - pelicans",
+      "teams": {
+        "home": "cavaliers",
+        "away": "pelicans"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "21/11/2024",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "united states - australia [match 1]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "21/11/2024",
+        "time": "10:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "united states - australia [match 2]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "21/11/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "united states - australia [match doubles]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "21/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "italy - argentina [match 1]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "21/11/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salta open - round of 16",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "21/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "kvinnor - manchester city",
+      "teams": {
+        "home": "kvinnor",
+        "away": "manchester city"
+      },
+      "sport": "soccer (w)",
+      "competition": "champions league",
+      "date": {
+        "day": "21/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "monaco - asvel",
+      "teams": {
+        "home": "monaco",
+        "away": "asvel"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "21/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "italy - argentina [match 2]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "21/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "zvezda - partizan",
+      "teams": {
+        "home": "zvezda",
+        "away": "partizan"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "21/11/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "olympiacos - baskonia",
+      "teams": {
+        "home": "olympiacos",
+        "away": "baskonia"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "21/11/2024",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "olimpia milano - maccabi",
+      "teams": {
+        "home": "olimpia milano",
+        "away": "maccabi"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "21/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - alba",
+      "teams": {
+        "home": "real madrid",
+        "away": "alba"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "21/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "barcelona - nantes",
+      "teams": {
+        "home": "barcelona",
+        "away": "nantes"
+      },
+      "sport": "handball",
+      "competition": "ehf european league",
+      "date": {
+        "day": "21/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "jove spanish - real sociedad",
+      "teams": {
+        "home": "jove spanish",
+        "away": "real sociedad"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "21/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "arsenal - juventus",
+      "teams": {
+        "home": "arsenal",
+        "away": "juventus"
+      },
+      "sport": "soccer (w)",
+      "competition": "champions league",
+      "date": {
+        "day": "21/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "saint polten - barcelona",
+      "teams": {
+        "home": "saint polten",
+        "away": "barcelona"
+      },
+      "sport": "soccer (w)",
+      "competition": "champions league",
+      "date": {
+        "day": "21/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "italy - argentina [match doubles]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "21/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "raptors - timberwolves",
+      "teams": {
+        "home": "raptors",
+        "away": "timberwolves"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "22/11/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "browns - steelers",
+      "teams": {
+        "home": "browns",
+        "away": "steelers"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "22/11/2024",
+        "time": "02:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "free training 1",
+      "teams": {
+        "home": "free training 1"
+      },
+      "sport": "f1",
+      "competition": "las vegas gp",
+      "date": {
+        "day": "22/11/2024",
+        "time": "03:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "free training 2",
+      "teams": {
+        "home": "free training 2"
+      },
+      "sport": "f1",
+      "competition": "las vegas gp",
+      "date": {
+        "day": "22/11/2024",
+        "time": "07:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "alicante tournament - quarters",
+      "teams": {
+        "home": "alicante tournament",
+        "away": "quarters"
+      },
+      "sport": "tennis",
+      "competition": "atp challenger tour",
+      "date": {
+        "day": "22/11/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "semifinal 1 [match 1]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "22/11/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salta open - quarters",
+      "teams": {
+        "home": "salta open",
+        "away": "quarters"
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "22/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "zalgiris - panathinaikos",
+      "teams": {
+        "home": "zalgiris",
+        "away": "panathinaikos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "22/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "semifinal 1 [match 1]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "22/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bayern munich - barcelona",
+      "teams": {
+        "home": "bayern munich",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "22/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "racing ferrol - levante",
+      "teams": {
+        "home": "racing ferrol",
+        "away": "levante"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "22/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "getafe - real valladolid",
+      "teams": {
+        "home": "getafe",
+        "away": "real valladolid"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "22/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "semifinal 1 [match doubles]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "davis cup",
+      "date": {
+        "day": "22/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "france - argentina",
+      "teams": {
+        "home": "france",
+        "away": "argentina"
+      },
+      "sport": "rugby",
+      "competition": "autumn nations series",
+      "date": {
+        "day": "22/11/2024",
+        "time": "21:10",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1732127952470
+  "updated": 1732129482454
 }
