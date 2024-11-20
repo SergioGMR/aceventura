@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "mavericks - pelicans",
-      "teams": {
-        "home": "mavericks",
-        "away": "pelicans"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "20/11/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "germany - canada [match 1]",
       "teams": {
         "home": null,
@@ -136,5 +121,5 @@
       "channels": []
     }
   ],
-  "updated": 1732075573464
+  "updated": 1732077437890
 }
