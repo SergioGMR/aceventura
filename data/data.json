@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "twente - real madrid",
-      "teams": {
-        "home": "twente",
-        "away": "real madrid"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "20/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "eldense - huesca",
       "teams": {
         "home": "eldense",
@@ -524,5 +509,5 @@
       "channels": []
     }
   ],
-  "updated": 1732134943244
+  "updated": 1732136690802
 }
