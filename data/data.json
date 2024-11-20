@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "brazil - uruguay",
-      "teams": {
-        "home": "brazil",
-        "away": "uruguay"
-      },
-      "sport": "soccer",
-      "competition": "south america cup",
-      "date": {
-        "day": "20/11/2024",
-        "time": "01:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "mavericks - pelicans",
       "teams": {
         "home": "mavericks",
@@ -151,5 +136,5 @@
       "channels": []
     }
   ],
-  "updated": 1732074038642
+  "updated": 1732075573464
 }
