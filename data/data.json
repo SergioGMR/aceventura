@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "colombia - ecuador",
-      "teams": {
-        "home": "colombia",
-        "away": "ecuador"
-      },
-      "sport": "soccer",
-      "competition": "south america cup",
-      "date": {
-        "day": "20/11/2024",
-        "time": "00:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "argentina - peru",
       "teams": {
         "home": "argentina",
@@ -196,5 +181,5 @@
       "channels": []
     }
   ],
-  "updated": 1732066366558
+  "updated": 1732069790370
 }
