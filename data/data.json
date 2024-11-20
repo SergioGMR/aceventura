@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "eldense - huesca",
-      "teams": {
-        "home": "eldense",
-        "away": "huesca"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "20/11/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "virtus - fenerbahce",
       "teams": {
         "home": "virtus",
@@ -509,5 +494,5 @@
       "channels": []
     }
   ],
-  "updated": 1732138452707
+  "updated": 1732140293095
 }
