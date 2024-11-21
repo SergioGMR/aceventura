@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "olympiacos - baskonia",
-      "teams": {
-        "home": "olympiacos",
-        "away": "baskonia"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "21/11/2024",
-        "time": "20:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "olimpia milano - maccabi",
-      "teams": {
-        "home": "olimpia milano",
-        "away": "maccabi"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "21/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - alba",
       "teams": {
         "home": "real madrid",
@@ -329,5 +299,5 @@
       "channels": []
     }
   ],
-  "updated": 1732226725310
+  "updated": 1732228577606
 }
