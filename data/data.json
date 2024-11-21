@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "zvezda - partizan",
-      "teams": {
-        "home": "zvezda",
-        "away": "partizan"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "21/11/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "olympiacos - baskonia",
       "teams": {
         "home": "olympiacos",
@@ -344,5 +329,5 @@
       "channels": []
     }
   ],
-  "updated": 1732224850650
+  "updated": 1732226725310
 }
