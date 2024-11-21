@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "united states - australia [match 1]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "21/11/2024",
-        "time": "10:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "united states - australia [match 2]",
       "teams": {
         "home": null,
@@ -464,5 +449,5 @@
       "channels": []
     }
   ],
-  "updated": 1732188839690
+  "updated": 1732190888599
 }
