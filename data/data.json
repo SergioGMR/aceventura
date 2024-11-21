@@ -1,96 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - alba",
-      "teams": {
-        "home": "real madrid",
-        "away": "alba"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "21/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barcelona - nantes",
-      "teams": {
-        "home": "barcelona",
-        "away": "nantes"
-      },
-      "sport": "handball",
-      "competition": "ehf european league",
-      "date": {
-        "day": "21/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "jove spanish - real sociedad",
-      "teams": {
-        "home": "jove spanish",
-        "away": "real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "21/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "arsenal - juventus",
-      "teams": {
-        "home": "arsenal",
-        "away": "juventus"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "21/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "saint polten - barcelona",
-      "teams": {
-        "home": "saint polten",
-        "away": "barcelona"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "21/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "italy - argentina [match doubles]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "21/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "raptors - timberwolves",
       "teams": {
         "home": "raptors",
@@ -299,5 +209,5 @@
       "channels": []
     }
   ],
-  "updated": 1732228577606
+  "updated": 1732230312575
 }
