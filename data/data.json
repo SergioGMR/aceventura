@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "italy - argentina [match 1]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "21/11/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "salta open - round of 16",
       "teams": {
         "home": null,
@@ -419,5 +404,5 @@
       "channels": []
     }
   ],
-  "updated": 1732214359047
+  "updated": 1732215900179
 }
