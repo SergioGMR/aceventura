@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "salta open - round of 16",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "21/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "kvinnor - manchester city",
       "teams": {
         "home": "kvinnor",
@@ -404,5 +389,5 @@
       "channels": []
     }
   ],
-  "updated": 1732217637097
+  "updated": 1732219530636
 }
