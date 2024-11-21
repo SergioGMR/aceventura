@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "kvinnor - manchester city",
-      "teams": {
-        "home": "kvinnor",
-        "away": "manchester city"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "21/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "monaco - asvel",
-      "teams": {
-        "home": "monaco",
-        "away": "asvel"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "21/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "italy - argentina [match 2]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "21/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "zvezda - partizan",
       "teams": {
         "home": "zvezda",
@@ -389,5 +344,5 @@
       "channels": []
     }
   ],
-  "updated": 1732221338255
+  "updated": 1732223080761
 }
