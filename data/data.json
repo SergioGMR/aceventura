@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "cavaliers - pelicans",
-      "teams": {
-        "home": "cavaliers",
-        "away": "pelicans"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "21/11/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "united states - australia [match 1]",
       "teams": {
         "home": null,
@@ -479,5 +464,5 @@
       "channels": []
     }
   ],
-  "updated": 1732158832157
+  "updated": 1732160446615
 }
