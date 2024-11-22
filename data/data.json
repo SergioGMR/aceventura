@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "zalgiris - panathinaikos",
-      "teams": {
-        "home": "zalgiris",
-        "away": "panathinaikos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "22/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "semifinal 1 [match 1]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "22/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bayern munich - barcelona",
       "teams": {
         "home": "bayern munich",
@@ -106,5 +76,5 @@
       "channels": []
     }
   ],
-  "updated": 1732307762921
+  "updated": 1732309468687
 }
