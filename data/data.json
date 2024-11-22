@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "browns - steelers",
-      "teams": {
-        "home": "browns",
-        "away": "steelers"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "22/11/2024",
-        "time": "02:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "free training 1",
       "teams": {
         "home": "free training 1"
@@ -194,5 +179,5 @@
       "channels": []
     }
   ],
-  "updated": 1732248368017
+  "updated": 1732250257656
 }
