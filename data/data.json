@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "alicante tournament - quarters",
-      "teams": {
-        "home": "alicante tournament",
-        "away": "quarters"
-      },
-      "sport": "tennis",
-      "competition": "atp challenger tour",
-      "date": {
-        "day": "22/11/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinal 1 [match 1]",
       "teams": {
         "home": null,
@@ -151,5 +136,5 @@
       "channels": []
     }
   ],
-  "updated": 1732286227503
+  "updated": 1732287903198
 }
