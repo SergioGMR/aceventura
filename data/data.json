@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "slovakia - spain",
-      "teams": {
-        "home": "slovakia",
-        "away": "spain"
-      },
-      "sport": "basketball",
-      "competition": "eurobasket",
-      "date": {
-        "day": "22/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "salta open - quarters",
-      "teams": {
-        "home": "salta open",
-        "away": "quarters"
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "22/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "zalgiris - panathinaikos",
       "teams": {
         "home": "zalgiris",
@@ -136,5 +106,5 @@
       "channels": []
     }
   ],
-  "updated": 1732304056342
+  "updated": 1732305924264
 }
