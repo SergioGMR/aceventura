@@ -1,16 +1,16 @@
 {
   "data": [
     {
-      "title": "semifinal 1 [match 1]",
+      "title": "slovakia - spain",
       "teams": {
-        "home": null,
-        "away": null
+        "home": "slovakia",
+        "away": "spain"
       },
-      "sport": "tennis",
-      "competition": "davis cup",
+      "sport": "basketball",
+      "competition": "eurobasket",
       "date": {
         "day": "22/11/2024",
-        "time": "17:00",
+        "time": "18:00",
         "zone": "cet"
       },
       "channels": []
@@ -136,5 +136,5 @@
       "channels": []
     }
   ],
-  "updated": 1732300785918
+  "updated": 1732302331465
 }
