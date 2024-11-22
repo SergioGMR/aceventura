@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "free training 2",
-      "teams": {
-        "home": "free training 2"
-      },
-      "sport": "f1",
-      "competition": "las vegas gp",
-      "date": {
-        "day": "22/11/2024",
-        "time": "07:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "alicante tournament - quarters",
       "teams": {
         "home": "alicante tournament",
@@ -165,5 +151,5 @@
       "channels": []
     }
   ],
-  "updated": 1732264686888
+  "updated": 1732266334645
 }
