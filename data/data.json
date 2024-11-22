@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "raptors - timberwolves",
-      "teams": {
-        "home": "raptors",
-        "away": "timberwolves"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "22/11/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "browns - steelers",
       "teams": {
         "home": "browns",
@@ -209,5 +194,5 @@
       "channels": []
     }
   ],
-  "updated": 1732244098729
+  "updated": 1732245275595
 }
