@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "free training 1",
-      "teams": {
-        "home": "free training 1"
-      },
-      "sport": "f1",
-      "competition": "las vegas gp",
-      "date": {
-        "day": "22/11/2024",
-        "time": "03:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "free training 2",
       "teams": {
         "home": "free training 2"
@@ -179,5 +165,5 @@
       "channels": []
     }
   ],
-  "updated": 1732251914310
+  "updated": 1732253773509
 }
