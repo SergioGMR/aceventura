@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "bayern munich - barcelona",
-      "teams": {
-        "home": "bayern munich",
-        "away": "barcelona"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "22/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "racing ferrol - levante",
-      "teams": {
-        "home": "racing ferrol",
-        "away": "levante"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "22/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "getafe - real valladolid",
       "teams": {
         "home": "getafe",
@@ -76,5 +46,5 @@
       "channels": []
     }
   ],
-  "updated": 1732313078569
+  "updated": 1732314972690
 }
