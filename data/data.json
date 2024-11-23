@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "manchester city - tottenham",
-      "teams": {
-        "home": "manchester city",
-        "away": "tottenham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "girona - espanyol",
-      "teams": {
-        "home": "girona",
-        "away": "espanyol"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "las palmas - mallorca",
-      "teams": {
-        "home": "las palmas",
-        "away": "mallorca"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "burgos - eibar",
-      "teams": {
-        "home": "burgos",
-        "away": "eibar"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "23/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cordoba - real zaragoza",
-      "teams": {
-        "home": "cordoba",
-        "away": "real zaragoza"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "23/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 3",
       "teams": {
         "home": null,
@@ -690,5 +615,5 @@
       "channels": []
     }
   ],
-  "updated": 1732392363897
+  "updated": 1732394070945
 }
