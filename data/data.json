@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "pelicans - warriors",
-      "teams": {
-        "home": "pelicans",
-        "away": "warriors"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "23/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "round 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "australian pga championship",
-      "date": {
-        "day": "23/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "free training 3",
       "teams": {
         "home": "free training 3"
@@ -973,5 +943,5 @@
       "channels": []
     }
   ],
-  "updated": 1732333165678
+  "updated": 1732334777213
 }
