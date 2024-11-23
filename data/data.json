@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "leiceter city - chelsea",
-      "teams": {
-        "home": "leiceter city",
-        "away": "chelsea"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "valencia - real betis",
       "teams": {
         "home": "valencia",
@@ -885,5 +870,5 @@
       "channels": []
     }
   ],
-  "updated": 1732374335811
+  "updated": 1732376064420
 }
