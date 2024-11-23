@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - movistar inter",
-      "teams": {
-        "home": "barcelona",
-        "away": "movistar inter"
-      },
-      "sport": "futsal",
-      "competition": "spanish league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "athletic club - madrid cff",
       "teams": {
         "home": "athletic club",
@@ -720,5 +705,5 @@
       "channels": []
     }
   ],
-  "updated": 1732387095937
+  "updated": 1732388671060
 }
