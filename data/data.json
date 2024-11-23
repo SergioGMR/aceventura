@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "athletic club - madrid cff",
-      "teams": {
-        "home": "athletic club",
-        "away": "madrid cff"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "manchester city - tottenham",
       "teams": {
         "home": "manchester city",
@@ -705,5 +690,5 @@
       "channels": []
     }
   ],
-  "updated": 1732390429342
+  "updated": 1732392363897
 }
