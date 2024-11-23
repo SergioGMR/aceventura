@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "classification",
-      "teams": {
-        "home": "classification"
-      },
-      "sport": "f1",
-      "competition": "las vegas gp",
-      "date": {
-        "day": "23/11/2024",
-        "time": "07:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "round 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "hong kong open",
-      "date": {
-        "day": "23/11/2024",
-        "time": "07:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "levante badalona - espanyol",
       "teams": {
         "home": "levante badalona",
@@ -914,5 +885,5 @@
       "channels": []
     }
   ],
-  "updated": 1732351007066
+  "updated": 1732352712772
 }
