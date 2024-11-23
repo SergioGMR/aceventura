@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "atletico de madrid - alaves",
-      "teams": {
-        "home": "atletico de madrid",
-        "away": "alaves"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granada - cadiz",
-      "teams": {
-        "home": "granada",
-        "away": "cadiz"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "23/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "castres olympic - la rochelle",
-      "teams": {
-        "home": "castres olympic",
-        "away": "la rochelle"
-      },
-      "sport": "rugby",
-      "competition": "top 14 rugby",
-      "date": {
-        "day": "23/11/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "barcelona - movistar inter",
       "teams": {
         "home": "barcelona",
@@ -765,5 +720,5 @@
       "channels": []
     }
   ],
-  "updated": 1732385186212
+  "updated": 1732387095937
 }
