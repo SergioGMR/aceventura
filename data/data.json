@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "levante badalona - espanyol",
-      "teams": {
-        "home": "levante badalona",
-        "away": "espanyol"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sevilla - deportivo abanca",
-      "teams": {
-        "home": "sevilla",
-        "away": "deportivo abanca"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "italy - australia [match 1]",
       "teams": {
         "home": null,
@@ -885,5 +855,5 @@
       "channels": []
     }
   ],
-  "updated": 1732368956153
+  "updated": 1732370756222
 }
