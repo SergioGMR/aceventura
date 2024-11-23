@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "round 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "the rsm classic",
-      "date": {
-        "day": "23/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granollers - irun",
-      "teams": {
-        "home": "granollers",
-        "away": "irun"
-      },
-      "sport": "handball",
-      "competition": "spanish league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "italy - australia [match doubles]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "23/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "racing avellaneda - cruzeiro [final]",
       "teams": {
         "home": null,
@@ -615,5 +570,5 @@
       "channels": []
     }
   ],
-  "updated": 1732394070945
+  "updated": 1732395902635
 }
