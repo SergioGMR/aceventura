@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "italy - australia [match 1]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "23/11/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "leiceter city - chelsea",
       "teams": {
         "home": "leiceter city",
@@ -853,7 +838,52 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "rams - eagles",
+      "teams": {
+        "home": "rams",
+        "away": "eagles"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "25/11/2024",
+        "time": "02:20",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "spain - slovakia",
+      "teams": {
+        "home": "spain",
+        "away": "slovakia"
+      },
+      "sport": "basketball",
+      "competition": "eurobasket",
+      "date": {
+        "day": "25/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "newcastle - west ham",
+      "teams": {
+        "home": "newcastle",
+        "away": "west ham"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "25/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1732372524020
+  "updated": 1732374335811
 }
