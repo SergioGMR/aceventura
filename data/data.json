@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "racing avellaneda - cruzeiro [final]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "south america cup",
-      "date": {
-        "day": "23/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "celta - barcelona",
-      "teams": {
-        "home": "celta",
-        "away": "barcelona"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "malaga - racing",
-      "teams": {
-        "home": "malaga",
-        "away": "racing"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "23/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "salta open - semifinals",
       "teams": {
         "home": null,
@@ -570,5 +525,5 @@
       "channels": []
     }
   ],
-  "updated": 1732401391808
+  "updated": 1732403110043
 }
