@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "italy - australia [match 2]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "23/11/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "arsenal - nottingham forest",
       "teams": {
         "home": "arsenal",
@@ -840,5 +825,5 @@
       "channels": []
     }
   ],
-  "updated": 1732379856428
+  "updated": 1732381481803
 }
