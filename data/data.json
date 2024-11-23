@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "arsenal - nottingham forest",
-      "teams": {
-        "home": "arsenal",
-        "away": "nottingham forest"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "aston villa - crystal palace",
-      "teams": {
-        "home": "aston villa",
-        "away": "crystal palace"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bournemouth - brighton",
-      "teams": {
-        "home": "bournemouth",
-        "away": "brighton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fulham - wolves",
-      "teams": {
-        "home": "fulham",
-        "away": "wolves"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atletico de madrid - alaves",
       "teams": {
         "home": "atletico de madrid",
@@ -825,5 +765,5 @@
       "channels": []
     }
   ],
-  "updated": 1732383263169
+  "updated": 1732385186212
 }
