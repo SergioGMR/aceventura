@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "valencia - real betis",
-      "teams": {
-        "home": "valencia",
-        "away": "real betis"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "23/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cartagena - almeria",
-      "teams": {
-        "home": "cartagena",
-        "away": "almeria"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "23/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "italy - australia [match 2]",
       "teams": {
         "home": null,
@@ -870,5 +840,5 @@
       "channels": []
     }
   ],
-  "updated": 1732376064420
+  "updated": 1732377923424
 }
