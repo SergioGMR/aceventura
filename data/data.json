@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "race",
-      "teams": {
-        "home": "race"
-      },
-      "sport": "f1",
-      "competition": "las vegas gp",
-      "date": {
-        "day": "24/11/2024",
-        "time": "07:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "round 4",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "hong kong open",
-      "date": {
-        "day": "24/11/2024",
-        "time": "07:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "barcelona - tenerife",
       "teams": {
         "home": "barcelona",
@@ -465,5 +436,5 @@
       "channels": []
     }
   ],
-  "updated": 1732437406504
+  "updated": 1732439090224
 }
