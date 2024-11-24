@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "leganes - real madrid",
-      "teams": {
-        "home": "leganes",
-        "away": "real madrid"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "24/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "huesca - castellon",
-      "teams": {
-        "home": "huesca",
-        "away": "castellon"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "24/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "colts - lions",
       "teams": {
         "home": "colts",
@@ -211,5 +181,5 @@
       "channels": []
     }
   ],
-  "updated": 1732478703164
+  "updated": 1732480448892
 }
