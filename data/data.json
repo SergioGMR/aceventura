@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "scotland - australia",
-      "teams": {
-        "home": "scotland",
-        "away": "australia"
-      },
-      "sport": "rugby",
-      "competition": "autumn nations series",
-      "date": {
-        "day": "24/11/2024",
-        "time": "14:40",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "southampton - livepool",
-      "teams": {
-        "home": "southampton",
-        "away": "livepool"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "24/11/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atletico de madrid - eibar",
       "teams": {
         "home": "atletico de madrid",
@@ -361,5 +331,5 @@
       "channels": []
     }
   ],
-  "updated": 1732466308970
+  "updated": 1732467872071
 }
