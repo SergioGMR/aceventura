@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - tenerife",
-      "teams": {
-        "home": "barcelona",
-        "away": "tenerife"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "24/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "alicante tournament - final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "atp challenger tour",
-      "date": {
-        "day": "24/11/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "osasuna - villarreal",
       "teams": {
         "home": "osasuna",
@@ -436,5 +406,5 @@
       "channels": []
     }
   ],
-  "updated": 1732455310863
+  "updated": 1732457088071
 }
