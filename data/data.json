@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round 4",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "hong kong open",
-      "date": {
-        "day": "24/11/2024",
-        "time": "05:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "race",
       "teams": {
         "home": "race"
@@ -480,5 +465,5 @@
       "channels": []
     }
   ],
-  "updated": 1732431889642
+  "updated": 1732433635735
 }
