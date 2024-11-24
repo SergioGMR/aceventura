@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "osasuna - villarreal",
-      "teams": {
-        "home": "osasuna",
-        "away": "villarreal"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "24/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "albacete - tenerife",
-      "teams": {
-        "home": "albacete",
-        "away": "tenerife"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "24/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real sociedad - real madrid",
-      "teams": {
-        "home": "real sociedad",
-        "away": "real madrid"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "24/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "scotland - australia",
       "teams": {
         "home": "scotland",
@@ -406,5 +361,5 @@
       "channels": []
     }
   ],
-  "updated": 1732462448233
+  "updated": 1732464356249
 }
