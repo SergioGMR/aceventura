@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "salta open - semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "23/11/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 4",
       "teams": {
         "home": null,
@@ -525,5 +510,5 @@
       "channels": []
     }
   ],
-  "updated": 1732407709546
+  "updated": 1732409356803
 }
