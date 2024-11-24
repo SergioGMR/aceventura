@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "spurs - warriors",
-      "teams": {
-        "home": "spurs",
-        "away": "warriors"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "24/11/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 4",
       "teams": {
         "home": null,
@@ -495,5 +480,5 @@
       "channels": []
     }
   ],
-  "updated": 1732421168927
+  "updated": 1732423009214
 }
