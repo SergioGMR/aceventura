@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "colts - lions",
-      "teams": {
-        "home": "colts",
-        "away": "lions"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "24/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "red zone",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "24/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "round 4",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "the rsm classic",
-      "date": {
-        "day": "24/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "final",
       "teams": {
         "home": null,
@@ -181,5 +136,5 @@
       "channels": []
     }
   ],
-  "updated": 1732480448892
+  "updated": 1732482264157
 }
