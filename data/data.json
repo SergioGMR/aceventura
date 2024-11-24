@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "athletic club - real sociedad",
-      "teams": {
-        "home": "athletic club",
-        "away": "real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "24/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "elche - real oviedo",
-      "teams": {
-        "home": "elche",
-        "away": "real oviedo"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "24/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "packers - 49ers",
       "teams": {
         "home": "packers",
@@ -121,5 +91,5 @@
       "channels": []
     }
   ],
-  "updated": 1732487728254
+  "updated": 1732489492480
 }
