@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "valencia - real betis",
-      "teams": {
-        "home": "valencia",
-        "away": "real betis"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "24/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "24/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "leganes - real madrid",
       "teams": {
         "home": "leganes",
@@ -241,5 +211,5 @@
       "channels": []
     }
   ],
-  "updated": 1732476817261
+  "updated": 1732478703164
 }
