@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round 4",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "australian pga championship",
-      "date": {
-        "day": "24/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "spurs - warriors",
       "teams": {
         "home": "spurs",
@@ -510,5 +495,5 @@
       "channels": []
     }
   ],
-  "updated": 1732419729424
+  "updated": 1732421168927
 }
