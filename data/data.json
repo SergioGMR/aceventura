@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "ipswich town - manchester united",
-      "teams": {
-        "home": "ipswich town",
-        "away": "manchester united"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "24/11/2024",
-        "time": "17:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "valencia - real betis",
       "teams": {
         "home": "valencia",
@@ -256,5 +241,5 @@
       "channels": []
     }
   ],
-  "updated": 1732475078238
+  "updated": 1732476817261
 }
