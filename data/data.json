@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "atletico de madrid - eibar",
-      "teams": {
-        "home": "atletico de madrid",
-        "away": "eibar"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "24/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "24/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sevilla - rayo vallecano",
       "teams": {
         "home": "sevilla",
@@ -331,5 +301,5 @@
       "channels": []
     }
   ],
-  "updated": 1732469650543
+  "updated": 1732471543912
 }
