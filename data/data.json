@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "davis cup",
-      "date": {
-        "day": "24/11/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "athletic club - real sociedad",
       "teams": {
         "home": "athletic club",
@@ -136,5 +121,5 @@
       "channels": []
     }
   ],
-  "updated": 1732484017371
+  "updated": 1732485868834
 }
