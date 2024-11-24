@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "sevilla - rayo vallecano",
-      "teams": {
-        "home": "sevilla",
-        "away": "rayo vallecano"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "24/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "deportivo - sporting",
-      "teams": {
-        "home": "deportivo",
-        "away": "sporting"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "24/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mirandes - eldense",
-      "teams": {
-        "home": "mirandes",
-        "away": "eldense"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "24/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "ipswich town - manchester united",
       "teams": {
         "home": "ipswich town",
@@ -301,5 +256,5 @@
       "channels": []
     }
   ],
-  "updated": 1732471543912
+  "updated": 1732473444045
 }
