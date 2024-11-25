@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "packers - 49ers",
-      "teams": {
-        "home": "packers",
-        "away": "49ers"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "24/11/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "salta open - final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "24/11/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red zone",
       "teams": {
         "home": null,
@@ -91,5 +61,5 @@
       "channels": []
     }
   ],
-  "updated": 1732494040170
+  "updated": 1732495743286
 }
