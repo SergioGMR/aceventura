@@ -1,20 +1,4 @@
 {
-  "data": [
-    {
-      "title": "newcastle - west ham",
-      "teams": {
-        "home": "newcastle",
-        "away": "west ham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "25/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    }
-  ],
-  "updated": 1732574150993
+  "data": [],
+  "updated": 1732575906693
 }
