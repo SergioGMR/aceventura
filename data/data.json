@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "red zone",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "24/11/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "rams - eagles",
       "teams": {
         "home": "rams",
@@ -61,5 +46,5 @@
       "channels": []
     }
   ],
-  "updated": 1732495743286
+  "updated": 1732498363346
 }
