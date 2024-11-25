@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "rams - eagles",
-      "teams": {
-        "home": "rams",
-        "away": "eagles"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "25/11/2024",
-        "time": "02:20",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "spain - slovakia",
       "teams": {
         "home": "spain",
@@ -46,5 +31,5 @@
       "channels": []
     }
   ],
-  "updated": 1732507569503
+  "updated": 1732509448434
 }
