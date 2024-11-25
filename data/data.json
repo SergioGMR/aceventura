@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "spain - slovakia",
-      "teams": {
-        "home": "spain",
-        "away": "slovakia"
-      },
-      "sport": "basketball",
-      "competition": "eurobasket",
-      "date": {
-        "day": "25/11/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "newcastle - west ham",
       "teams": {
         "home": "newcastle",
@@ -31,5 +16,5 @@
       "channels": []
     }
   ],
-  "updated": 1732563210768
+  "updated": 1732565126287
 }
