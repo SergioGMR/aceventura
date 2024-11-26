@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "almeria - cordoba",
-      "teams": {
-        "home": "almeria",
-        "away": "cordoba"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "26/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bidasoa irun - ystads if",
       "teams": {
         "home": "bidasoa irun",
@@ -956,5 +941,5 @@
       "channels": []
     }
   ],
-  "updated": 1732662325984
+  "updated": 1732664071406
 }
