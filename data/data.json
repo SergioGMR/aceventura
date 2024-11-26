@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "young boys - atalanta",
-      "teams": {
-        "home": "young boys",
-        "away": "atalanta"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "26/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "barcelona - stade brestois",
       "teams": {
         "home": "barcelona",
@@ -1046,5 +1031,5 @@
       "channels": []
     }
   ],
-  "updated": 1732639189656
+  "updated": 1732640709423
 }
