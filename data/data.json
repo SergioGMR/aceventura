@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "slovan bratislava - milan",
-      "teams": {
-        "home": "slovan bratislava",
-        "away": "milan"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "26/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sparta prague - atletico de madrid",
-      "teams": {
-        "home": "sparta prague",
-        "away": "atletico de madrid"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "26/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "manises - getafe",
-      "teams": {
-        "home": "manises",
-        "away": "getafe"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "26/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "almeria - cordoba",
       "teams": {
         "home": "almeria",
@@ -1001,5 +956,5 @@
       "channels": []
     }
   ],
-  "updated": 1732656874454
+  "updated": 1732658720956
 }
