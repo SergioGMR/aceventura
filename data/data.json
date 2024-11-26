@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - stade brestois",
-      "teams": {
-        "home": "barcelona",
-        "away": "stade brestois"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "26/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bayern munich - psg",
-      "teams": {
-        "home": "bayern munich",
-        "away": "psg"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "26/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "slovan bratislava - milan",
       "teams": {
         "home": "slovan bratislava",
@@ -1031,5 +1001,5 @@
       "channels": []
     }
   ],
-  "updated": 1732646364140
+  "updated": 1732647887326
 }
