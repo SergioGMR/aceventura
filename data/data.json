@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "heat - bucks",
-      "teams": {
-        "home": "heat",
-        "away": "bucks"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "27/11/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 1",
       "teams": {
         "home": null,
@@ -777,5 +762,5 @@
       "channels": []
     }
   ],
-  "updated": 1732680387935
+  "updated": 1732682300758
 }
