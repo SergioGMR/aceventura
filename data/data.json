@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "liverpool - real madrid",
-      "teams": {
-        "home": "liverpool",
-        "away": "real madrid"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "27/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "basaksehir - petrocub",
       "teams": {
         "home": "basaksehir",
@@ -718,5 +703,5 @@
       "channels": []
     }
   ],
-  "updated": 1732732779972
+  "updated": 1732734282776
 }
