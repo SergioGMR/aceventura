@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "sturm graz - girona",
-      "teams": {
-        "home": "sturm graz",
-        "away": "girona"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "27/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "zvezda - stuttgart",
-      "teams": {
-        "home": "zvezda",
-        "away": "stuttgart"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "27/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "castellon - racing ferrol",
-      "teams": {
-        "home": "castellon",
-        "away": "racing ferrol"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "27/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "levante - malaga",
-      "teams": {
-        "home": "levante",
-        "away": "malaga"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "27/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "magdeburg - barcelona",
       "teams": {
         "home": "magdeburg",
@@ -688,5 +628,5 @@
       "channels": []
     }
   ],
-  "updated": 1732743274545
+  "updated": 1732745111359
 }
