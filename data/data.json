@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "dinamo zagreb - borussia dortmund",
-      "teams": {
-        "home": "dinamo zagreb",
-        "away": "borussia dortmund"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "27/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "liverpool - real madrid",
       "teams": {
         "home": "liverpool",
@@ -733,5 +718,5 @@
       "channels": []
     }
   ],
-  "updated": 1732725584256
+  "updated": 1732727092809
 }
