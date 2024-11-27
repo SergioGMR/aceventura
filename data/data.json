@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "international series qatar",
-      "date": {
-        "day": "27/11/2024",
-        "time": "10:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "draw",
       "teams": {
         "home": "draw"
@@ -762,5 +747,5 @@
       "channels": []
     }
   ],
-  "updated": 1732711578195
+  "updated": 1732713088270
 }
