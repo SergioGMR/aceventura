@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "draw",
-      "teams": {
-        "home": "draw"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "27/11/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "dinamo zagreb - borussia dortmund",
       "teams": {
         "home": "dinamo zagreb",
@@ -747,5 +733,5 @@
       "channels": []
     }
   ],
-  "updated": 1732721783280
+  "updated": 1732723543493
 }
