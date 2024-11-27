@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "basaksehir - petrocub",
-      "teams": {
-        "home": "basaksehir",
-        "away": "petrocub"
-      },
-      "sport": "soccer",
-      "competition": "uefa conference league",
-      "date": {
-        "day": "27/11/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sturm graz - girona",
       "teams": {
         "home": "sturm graz",
@@ -703,5 +688,5 @@
       "channels": []
     }
   ],
-  "updated": 1732734282776
+  "updated": 1732736030363
 }
