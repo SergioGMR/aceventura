@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "international series qatar",
-      "date": {
-        "day": "28/11/2024",
-        "time": "10:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 1",
       "teams": {
         "home": null,
@@ -464,5 +449,5 @@
       "channels": []
     }
   ],
-  "updated": 1732797970032
+  "updated": 1732799485708
 }
