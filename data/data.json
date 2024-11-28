@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "mavericks - knicks",
-      "teams": {
-        "home": "mavericks",
-        "away": "knicks"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "28/11/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "australia open",
-      "date": {
-        "day": "28/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 2",
       "teams": {
         "home": null,
@@ -494,5 +464,5 @@
       "channels": []
     }
   ],
-  "updated": 1732766776499
+  "updated": 1732770332875
 }
