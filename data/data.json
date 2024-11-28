@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "women spain open",
-      "date": {
-        "day": "28/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "astana - vitoria",
       "teams": {
         "home": "astana",
@@ -1135,5 +1120,5 @@
       "channels": []
     }
   ],
-  "updated": 1732811965882
+  "updated": 1732813498365
 }
