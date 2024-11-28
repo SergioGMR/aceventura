@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "bourg - valencia",
-      "teams": {
-        "home": "bourg",
-        "away": "valencia"
-      },
-      "sport": "basketball",
-      "competition": "eurocup",
-      "date": {
-        "day": "28/11/2024",
-        "time": "19:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "zalgiris - baskonia",
-      "teams": {
-        "home": "zalgiris",
-        "away": "baskonia"
-      },
-      "sport": "basketball",
-      "competition": "eurocup",
-      "date": {
-        "day": "28/11/2024",
-        "time": "19:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "alba - maccabi",
       "teams": {
         "home": "alba",
@@ -941,5 +911,5 @@
       "channels": []
     }
   ],
-  "updated": 1732831517098
+  "updated": 1732833415601
 }
