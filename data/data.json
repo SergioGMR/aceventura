@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "paris - bologna",
-      "teams": {
-        "home": "paris",
-        "away": "bologna"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "28/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "partizan - olympicos",
-      "teams": {
-        "home": "partizan",
-        "away": "olympicos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "28/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "barcelona - real madrid",
       "teams": {
         "home": "barcelona",
@@ -896,5 +866,5 @@
       "channels": []
     }
   ],
-  "updated": 1732835122470
+  "updated": 1732836859618
 }
