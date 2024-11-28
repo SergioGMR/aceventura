@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "lions - bears",
-      "teams": {
-        "home": "lions",
-        "away": "bears"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "28/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "heidenheim - chelsea",
       "teams": {
         "home": "heidenheim",
@@ -1105,5 +1090,5 @@
       "channels": []
     }
   ],
-  "updated": 1732827898367
+  "updated": 1732829665422
 }
