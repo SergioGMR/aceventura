@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "astana - vitoria",
-      "teams": {
-        "home": "astana",
-        "away": "vitoria"
-      },
-      "sport": "soccer",
-      "competition": "uefa conference league",
-      "date": {
-        "day": "28/11/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "lions - bears",
       "teams": {
         "home": "lions",
@@ -1120,5 +1105,5 @@
       "channels": []
     }
   ],
-  "updated": 1732820688364
+  "updated": 1732822453993
 }
