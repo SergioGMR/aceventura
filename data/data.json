@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "australia open",
-      "date": {
-        "day": "29/11/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 3",
       "teams": {
         "home": null,
@@ -1038,5 +1023,5 @@
       "channels": []
     }
   ],
-  "updated": 1732855115500
+  "updated": 1732856749145
 }
