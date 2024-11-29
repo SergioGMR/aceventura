@@ -103,6 +103,20 @@
       "channels": []
     },
     {
+      "title": "fenerbahce istanbul vs ax olimpia milano",
+      "teams": {
+        "home": "fenerbahce istanbul vs ax olimpia milano"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "29/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "belgrade - bayern",
       "teams": {
         "home": "belgrade",
@@ -118,6 +132,20 @@
       "channels": []
     },
     {
+      "title": "crvena zvezda mts belgrade vs fc bayern basketball",
+      "teams": {
+        "home": "crvena zvezda mts belgrade vs fc bayern basketball"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "29/11/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "panathinaikos - monaco",
       "teams": {
         "home": "panathinaikos",
@@ -125,6 +153,20 @@
       },
       "sport": "basketball",
       "competition": "euroleague",
+      "date": {
+        "day": "29/11/2024",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "panathinaikos bc vs as monaco basket",
+      "teams": {
+        "home": "panathinaikos bc vs as monaco basket"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
       "date": {
         "day": "29/11/2024",
         "time": "20:15",
@@ -184,6 +226,21 @@
       },
       "sport": "soccer",
       "competition": "spanish league",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "asvel lyon - villeurbanne vs anadolu efes istanbul",
+      "teams": {
+        "home": "asvel lyon",
+        "away": "villeurbanne vs anadolu efes istanbul"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
       "date": {
         "day": "29/11/2024",
         "time": "21:00",
@@ -756,5 +813,5 @@
       "channels": []
     }
   ],
-  "updated": 1732891024045
+  "updated": 1732892737773
 }
