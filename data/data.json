@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "panathinaikos - monaco",
-      "teams": {
-        "home": "panathinaikos",
-        "away": "monaco"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "29/11/2024",
-        "time": "20:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real oviedo - huesca",
-      "teams": {
-        "home": "real oviedo",
-        "away": "huesca"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "29/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "brighton - southampton",
       "teams": {
         "home": "brighton",
@@ -738,5 +708,5 @@
       "channels": []
     }
   ],
-  "updated": 1732921509503
+  "updated": 1732923256416
 }
