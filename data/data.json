@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f1 - sprint classification",
-      "teams": {
-        "home": "f1",
-        "away": "sprint classification"
-      },
-      "sport": "f1",
-      "competition": "qatar gp",
-      "date": {
-        "day": "29/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. catar (losail) vs clasificación sprint",
-      "teams": {
-        "home": "g.p. catar (losail) vs clasificación sprint"
-      },
-      "sport": "soccer",
-      "competition": "fórmula 1",
-      "date": {
-        "day": "29/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "fenerbahce - olimpia milano",
       "teams": {
         "home": "fenerbahce",
@@ -755,5 +726,5 @@
       "channels": []
     }
   ],
-  "updated": 1732914299588
+  "updated": 1732916048138
 }
