@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "international series qatar",
-      "date": {
-        "day": "29/11/2024",
-        "time": "09:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 - free training 1",
       "teams": {
         "home": "f1",
@@ -771,5 +756,5 @@
       "channels": []
     }
   ],
-  "updated": 1732882107108
+  "updated": 1732884385685
 }
