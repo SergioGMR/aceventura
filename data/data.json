@@ -1,180 +1,15 @@
 {
   "data": [
     {
-      "title": "barcelona - real madrid",
+      "title": "dallas mavericks vs new york knicks",
       "teams": {
-        "home": "barcelona",
-        "away": "real madrid"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "28/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dreamland - sopot",
-      "teams": {
-        "home": "dreamland",
-        "away": "sopot"
-      },
-      "sport": "basketball",
-      "competition": "eurocup",
-      "date": {
-        "day": "28/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "boleslav - real betis",
-      "teams": {
-        "home": "boleslav",
-        "away": "real betis"
+        "home": "dallas mavericks vs new york knicks"
       },
       "sport": "soccer",
-      "competition": "uefa europe league",
+      "competition": "nba liga regular",
       "date": {
-        "day": "28/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "brague - hoffenheim",
-      "teams": {
-        "home": "brague",
-        "away": "hoffenheim"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "28/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fcsb - olympicos",
-      "teams": {
-        "home": "fcsb",
-        "away": "olympicos"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "28/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fiorentina - pafos",
-      "teams": {
-        "home": "fiorentina",
-        "away": "pafos"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "28/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "manchester united - glimt",
-      "teams": {
-        "home": "manchester united",
-        "away": "glimt"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "28/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "nice - rangers",
-      "teams": {
-        "home": "nice",
-        "away": "rangers"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "28/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real sociedad - ajax",
-      "teams": {
-        "home": "real sociedad",
-        "away": "ajax"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "28/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "simulcast",
-      "teams": {
-        "home": "simulcast"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "28/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "slavia - fenerbahce",
-      "teams": {
-        "home": "slavia",
-        "away": "fenerbahce"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "28/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tottenham - roma",
-      "teams": {
-        "home": "tottenham",
-        "away": "roma"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "28/11/2024",
-        "time": "21:00",
+        "day": "29/11/2024",
+        "time": "01:30",
         "zone": "cet"
       },
       "channels": []
@@ -270,6 +105,146 @@
       "channels": []
     },
     {
+      "title": "az alkmaar vs galatasaray",
+      "teams": {
+        "home": "az alkmaar vs galatasaray"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "anderlecht vs fc porto",
+      "teams": {
+        "home": "anderlecht vs fc porto"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "athletic club vs elfsborg",
+      "teams": {
+        "home": "athletic club vs elfsborg"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "besiktas vs maccabi tel aviv fc",
+      "teams": {
+        "home": "besiktas vs maccabi tel aviv fc"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dynamo kyiv vs viktoria plzen",
+      "teams": {
+        "home": "dynamo kyiv vs viktoria plzen"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lazio vs pfc ludogorets",
+      "teams": {
+        "home": "lazio vs pfc ludogorets"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "qarabag fk vs o. lyonnais",
+      "teams": {
+        "home": "qarabag fk vs o. lyonnais"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rfs riga vs paok fc",
+      "teams": {
+        "home": "rfs riga vs paok fc"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "zalgiris kaunas vs baskonia",
+      "teams": {
+        "home": "zalgiris kaunas vs baskonia"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "29/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "jl bourg vs valencia basket",
+      "teams": {
+        "home": "jl bourg vs valencia basket"
+      },
+      "sport": "soccer",
+      "competition": "eurocup liga regular",
+      "date": {
+        "day": "29/11/2024",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "belgrade - bayern",
       "teams": {
         "home": "belgrade",
@@ -277,6 +252,20 @@
       },
       "sport": "basketball",
       "competition": "euroleague",
+      "date": {
+        "day": "29/11/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "alba berlin vs maccabi tel aviv bc",
+      "teams": {
+        "home": "alba berlin vs maccabi tel aviv bc"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
       "date": {
         "day": "29/11/2024",
         "time": "20:00",
@@ -315,6 +304,48 @@
       "channels": []
     },
     {
+      "title": "bc partizan beograd vs olympiacos piraeus",
+      "teams": {
+        "home": "bc partizan beograd vs olympiacos piraeus"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "29/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "paris basketball vs virtus bologna",
+      "teams": {
+        "home": "paris basketball vs virtus bologna"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "29/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "barça basket vs real madrid baloncesto",
+      "teams": {
+        "home": "barça basket vs real madrid baloncesto"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "29/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "brighton - southampton",
       "teams": {
         "home": "brighton",
@@ -337,6 +368,161 @@
       },
       "sport": "soccer",
       "competition": "spanish league",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dreamland gran canaria vs trefl sopot",
+      "teams": {
+        "home": "dreamland gran canaria vs trefl sopot"
+      },
+      "sport": "soccer",
+      "competition": "eurocup liga regular",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fc midtjylland vs eintracht frankfurt",
+      "teams": {
+        "home": "fc midtjylland vs eintracht frankfurt"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fcsb vs olympiacos",
+      "teams": {
+        "home": "fcsb vs olympiacos"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ferencvaros vs malmö ff",
+      "teams": {
+        "home": "ferencvaros vs malmö ff"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester utd. vs bodø/glimt",
+      "teams": {
+        "home": "manchester utd. vs bodø/glimt"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "nice vs rangers fc",
+      "teams": {
+        "home": "nice vs rangers fc"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real sociedad vs ajax",
+      "teams": {
+        "home": "real sociedad vs ajax"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sc braga vs hoffenheim",
+      "teams": {
+        "home": "sc braga vs hoffenheim"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "slavia praha vs fenerbahçe",
+      "teams": {
+        "home": "slavia praha vs fenerbahçe"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tottenham vs as roma",
+      "teams": {
+        "home": "tottenham vs as roma"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
+      "date": {
+        "day": "29/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "twente vs saint - gilloise",
+      "teams": {
+        "home": "twente vs saint",
+        "away": "gilloise"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
       "date": {
         "day": "29/11/2024",
         "time": "21:00",
@@ -866,5 +1052,5 @@
       "channels": []
     }
   ],
-  "updated": 1732836859618
+  "updated": 1732839639169
 }
