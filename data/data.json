@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "fenerbahce - olimpia milano",
-      "teams": {
-        "home": "fenerbahce",
-        "away": "olimpia milano"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "29/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fenerbahce istanbul vs ax olimpia milano",
-      "teams": {
-        "home": "fenerbahce istanbul vs ax olimpia milano"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "29/11/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "belgrade - bayern",
       "teams": {
         "home": "belgrade",
@@ -726,5 +697,5 @@
       "channels": []
     }
   ],
-  "updated": 1732916048138
+  "updated": 1732917891220
 }
