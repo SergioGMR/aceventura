@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f2 - classification",
-      "teams": {
-        "home": "f2",
-        "away": "classification"
-      },
-      "sport": "f1",
-      "competition": "qatar gp",
-      "date": {
-        "day": "29/11/2024",
-        "time": "17:10",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. catar (losail) vs clasificación",
-      "teams": {
-        "home": "g.p. catar (losail) vs clasificación"
-      },
-      "sport": "soccer",
-      "competition": "fia fórmula 2",
-      "date": {
-        "day": "29/11/2024",
-        "time": "17:10",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 - sprint classification",
       "teams": {
         "home": "f1",
@@ -784,5 +755,5 @@
       "channels": []
     }
   ],
-  "updated": 1732910743158
+  "updated": 1732912529340
 }
