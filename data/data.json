@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "belgrade - bayern",
-      "teams": {
-        "home": "belgrade",
-        "away": "bayern"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "29/11/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "crvena zvezda mts belgrade vs fc bayern basketball",
-      "teams": {
-        "home": "crvena zvezda mts belgrade vs fc bayern basketball"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "29/11/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "panathinaikos - monaco",
       "teams": {
         "home": "panathinaikos",
@@ -45,20 +16,6 @@
       "channels": []
     },
     {
-      "title": "panathinaikos bc vs as monaco basket",
-      "teams": {
-        "home": "panathinaikos bc vs as monaco basket"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "29/11/2024",
-        "time": "20:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real oviedo - huesca",
       "teams": {
         "home": "real oviedo",
@@ -66,20 +23,6 @@
       },
       "sport": "soccer",
       "competition": "spanish league 2",
-      "date": {
-        "day": "29/11/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real oviedo vs huesca",
-      "teams": {
-        "home": "real oviedo vs huesca"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
       "date": {
         "day": "29/11/2024",
         "time": "20:30",
@@ -118,70 +61,12 @@
       "channels": []
     },
     {
-      "title": "asvel lyon - villeurbanne vs anadolu efes istanbul",
-      "teams": {
-        "home": "asvel lyon",
-        "away": "villeurbanne vs anadolu efes istanbul"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "29/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mallorca vs valencia cf",
-      "teams": {
-        "home": "mallorca vs valencia cf"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "29/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "brighton vs southampton",
-      "teams": {
-        "home": "brighton vs southampton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "29/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "women quarters",
       "teams": {
         "home": "women quarters"
       },
       "sport": "paddle",
       "competition": "premier paddle",
-      "date": {
-        "day": "29/11/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 de final femenino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "méxico major",
       "date": {
         "day": "29/11/2024",
         "time": "23:00",
@@ -337,6 +222,20 @@
       "channels": []
     },
     {
+      "title": "g.p. catar (losail) vs libres 1",
+      "teams": {
+        "home": "g.p. catar (losail) vs libres 1"
+      },
+      "sport": "soccer",
+      "competition": "fórmula 1",
+      "date": {
+        "day": "30/11/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "f1 - sprint",
       "teams": {
         "home": "f1",
@@ -457,6 +356,20 @@
       "channels": []
     },
     {
+      "title": "g.p. catar (losail) vs clasificación",
+      "teams": {
+        "home": "g.p. catar (losail) vs clasificación"
+      },
+      "sport": "soccer",
+      "competition": "fia fórmula 2",
+      "date": {
+        "day": "30/11/2024",
+        "time": "17:10",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "f2 - race 1",
       "teams": {
         "home": "f2",
@@ -562,6 +475,34 @@
       "channels": []
     },
     {
+      "title": "g.p. catar (losail) vs clasificación sprint",
+      "teams": {
+        "home": "g.p. catar (losail) vs clasificación sprint"
+      },
+      "sport": "soccer",
+      "competition": "fórmula 1",
+      "date": {
+        "day": "30/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fenerbahce istanbul vs ax olimpia milano",
+      "teams": {
+        "home": "fenerbahce istanbul vs ax olimpia milano"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "30/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "f1 - classification",
       "teams": {
         "home": "f1",
@@ -587,6 +528,48 @@
       "date": {
         "day": "30/11/2024",
         "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "crvena zvezda mts belgrade vs fc bayern basketball",
+      "teams": {
+        "home": "crvena zvezda mts belgrade vs fc bayern basketball"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "30/11/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "panathinaikos bc vs as monaco basket",
+      "teams": {
+        "home": "panathinaikos bc vs as monaco basket"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "30/11/2024",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real oviedo vs huesca",
+      "teams": {
+        "home": "real oviedo vs huesca"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "30/11/2024",
+        "time": "20:30",
         "zone": "cet"
       },
       "channels": []
@@ -682,6 +665,49 @@
       "channels": []
     },
     {
+      "title": "asvel lyon - villeurbanne vs anadolu efes istanbul",
+      "teams": {
+        "home": "asvel lyon",
+        "away": "villeurbanne vs anadolu efes istanbul"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "30/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mallorca vs valencia cf",
+      "teams": {
+        "home": "mallorca vs valencia cf"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "30/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "brighton vs southampton",
+      "teams": {
+        "home": "brighton vs southampton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "mexico major - women semifinal",
       "teams": {
         "home": null,
@@ -695,7 +721,22 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "1/4 de final femenino vs premier padel tour",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "méxico major",
+      "date": {
+        "day": "30/11/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1732919800670
+  "updated": 1732921509503
 }
