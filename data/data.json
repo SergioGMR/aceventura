@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "dallas mavericks vs new york knicks",
-      "teams": {
-        "home": "dallas mavericks vs new york knicks"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "29/11/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 2",
       "teams": {
         "home": null,
@@ -1052,5 +1038,5 @@
       "channels": []
     }
   ],
-  "updated": 1732853194913
+  "updated": 1732855115500
 }
