@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f1 - free training 1",
-      "teams": {
-        "home": "f1",
-        "away": "free training 1"
-      },
-      "sport": "f1",
-      "competition": "qatar gp",
-      "date": {
-        "day": "29/11/2024",
-        "time": "14:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. catar (losail) vs libres 1",
-      "teams": {
-        "home": "g.p. catar (losail) vs libres 1"
-      },
-      "sport": "soccer",
-      "competition": "fórmula 1",
-      "date": {
-        "day": "29/11/2024",
-        "time": "14:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f2 - classification",
       "teams": {
         "home": "f2",
@@ -813,5 +784,5 @@
       "channels": []
     }
   ],
-  "updated": 1732899908040
+  "updated": 1732901731814
 }
