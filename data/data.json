@@ -1,93 +1,6 @@
 {
   "data": [
     {
-      "title": "alaves - leganes",
-      "teams": {
-        "home": "alaves",
-        "away": "leganes"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "almeria - granada",
-      "teams": {
-        "home": "almeria",
-        "away": "granada"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real zaragoza - albacete",
-      "teams": {
-        "home": "real zaragoza",
-        "away": "albacete"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "alavés vs leganés",
-      "teams": {
-        "home": "alavés vs leganés"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real zaragoza vs albacete",
-      "teams": {
-        "home": "real zaragoza vs albacete"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ud almería vs granada cf",
-      "teams": {
-        "home": "ud almería vs granada cf"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f2 - race 1",
       "teams": {
         "home": "f2",
@@ -1138,5 +1051,5 @@
       "channels": []
     }
   ],
-  "updated": 1732993492428
+  "updated": 1732995253703
 }
