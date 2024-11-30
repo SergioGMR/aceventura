@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round 4",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "international series qatar",
-      "date": {
-        "day": "30/11/2024",
-        "time": "09:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 - classification",
       "teams": {
         "home": "f1",
@@ -772,5 +757,5 @@
       "channels": []
     }
   ],
-  "updated": 1732968452609
+  "updated": 1732970732080
 }
