@@ -1,122 +1,6 @@
 {
   "data": [
     {
-      "title": "westham - arsenal",
-      "teams": {
-        "home": "westham",
-        "away": "arsenal"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "espanyol - celta",
-      "teams": {
-        "home": "espanyol",
-        "away": "celta"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cadiz - deportivo",
-      "teams": {
-        "home": "cadiz",
-        "away": "deportivo"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "30/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "racing - mirandes",
-      "teams": {
-        "home": "racing",
-        "away": "mirandes"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "30/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "espanyol vs celta",
-      "teams": {
-        "home": "espanyol vs celta"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "30/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cádiz cf vs deportivo",
-      "teams": {
-        "home": "cádiz cf vs deportivo"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "30/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "racing santander vs mirandés",
-      "teams": {
-        "home": "racing santander vs mirandés"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "30/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "west ham vs arsenal",
-      "teams": {
-        "home": "west ham vs arsenal"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 - classification",
       "teams": {
         "home": "f1",
@@ -964,5 +848,5 @@
       "channels": []
     }
   ],
-  "updated": 1733000706609
+  "updated": 1733002439431
 }
