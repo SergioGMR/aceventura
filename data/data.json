@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f2 - race 1",
-      "teams": {
-        "home": "f2",
-        "away": "race 1"
-      },
-      "sport": "f1",
-      "competition": "qatar gp",
-      "date": {
-        "day": "30/11/2024",
-        "time": "17:20",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. catar (losail) vs carrera 1",
-      "teams": {
-        "home": "g.p. catar (losail) vs carrera 1"
-      },
-      "sport": "soccer",
-      "competition": "fia fórmula 2",
-      "date": {
-        "day": "30/11/2024",
-        "time": "17:20",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "rio breogan - granada",
       "teams": {
         "home": "rio breogan",
@@ -1051,5 +1022,5 @@
       "channels": []
     }
   ],
-  "updated": 1732997131330
+  "updated": 1732998895827
 }
