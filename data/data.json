@@ -640,10 +640,10 @@
       "channels": []
     },
     {
-      "title": "f1 - race",
+      "title": "f1 academy - race 1",
       "teams": {
-        "home": "f1",
-        "away": "race"
+        "home": "f1 academy",
+        "away": "race 1"
       },
       "sport": "f1",
       "competition": "qatar gp",
@@ -755,7 +755,621 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "pistons - 76ers",
+      "teams": {
+        "home": "pistons",
+        "away": "76ers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "01/12/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mexico major - men semifinal",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "01/12/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 4",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "australia open",
+      "date": {
+        "day": "01/12/2024",
+        "time": "03:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mexico major - women semifinal",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "01/12/2024",
+        "time": "03:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mexico major - men semifinal",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "01/12/2024",
+        "time": "05:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia",
+      "teams": {
+        "home": "valencia"
+      },
+      "sport": "sports",
+      "competition": "marathon",
+      "date": {
+        "day": "01/12/2024",
+        "time": "08:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "f1 academy - race 2",
+      "teams": {
+        "home": "f1 academy",
+        "away": "race 2"
+      },
+      "sport": "f1",
+      "competition": "qatar gp",
+      "date": {
+        "day": "01/12/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "oviedo - estudiantes",
+      "teams": {
+        "home": "oviedo",
+        "away": "estudiantes"
+      },
+      "sport": "basketball",
+      "competition": "feb",
+      "date": {
+        "day": "01/12/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manresa - barcelona",
+      "teams": {
+        "home": "manresa",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "murcia - gran canaria",
+      "teams": {
+        "home": "murcia",
+        "away": "gran canaria"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "f2 - race 2",
+      "teams": {
+        "home": "f2",
+        "away": "race 2"
+      },
+      "sport": "f1",
+      "competition": "qatar gp",
+      "date": {
+        "day": "01/12/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 4",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "women spanish open",
+      "date": {
+        "day": "01/12/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "villarreal - girona",
+      "teams": {
+        "home": "villarreal",
+        "away": "girona"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "castellon - malaga",
+      "teams": {
+        "home": "castellon",
+        "away": "malaga"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "01/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "chelsea - aston villa",
+      "teams": {
+        "home": "chelsea",
+        "away": "aston villa"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester united - everton",
+      "teams": {
+        "home": "manchester united",
+        "away": "everton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tottenham - fulham",
+      "teams": {
+        "home": "tottenham",
+        "away": "fulham"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sharks - tigers",
+      "teams": {
+        "home": "sharks",
+        "away": "tigers"
+      },
+      "sport": "rugby",
+      "competition": "gallagher premiership rugby",
+      "date": {
+        "day": "01/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - getafe",
+      "teams": {
+        "home": "real madrid",
+        "away": "getafe"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baskonia - valencia",
+      "teams": {
+        "home": "baskonia",
+        "away": "valencia"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lleida - coruña",
+      "teams": {
+        "home": "lleida",
+        "away": "coruña"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "f1 - race",
+      "teams": {
+        "home": "f1",
+        "away": "race"
+      },
+      "sport": "f1",
+      "competition": "qatar gp",
+      "date": {
+        "day": "01/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "liverpool - manchester united",
+      "teams": {
+        "home": "liverpool",
+        "away": "manchester united"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "joventut - real madrid",
+      "teams": {
+        "home": "joventut",
+        "away": "real madrid"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rayo vallecano - athletic club",
+      "teams": {
+        "home": "rayo vallecano",
+        "away": "athletic club"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eldense - racing ferrol",
+      "teams": {
+        "home": "eldense",
+        "away": "racing ferrol"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "01/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "levante - burgos",
+      "teams": {
+        "home": "levante",
+        "away": "burgos"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "01/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bengals - steelers",
+      "teams": {
+        "home": "bengals",
+        "away": "steelers"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "01/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red zone",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "01/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real sociedad - real betis",
+      "teams": {
+        "home": "real sociedad",
+        "away": "real betis"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "01/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sporting - cordoba",
+      "teams": {
+        "home": "sporting",
+        "away": "cordoba"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "01/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "grizzlies - pacers",
+      "teams": {
+        "home": "grizzlies",
+        "away": "pacers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "01/12/2024",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ravens - eagles",
+      "teams": {
+        "home": "ravens",
+        "away": "eagles"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "01/12/2024",
+        "time": "22:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red zone",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "01/12/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mexico major - women final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "02/12/2024",
+        "time": "00:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mexico major - men final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "02/12/2024",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bills - 49ers",
+      "teams": {
+        "home": "bills",
+        "away": "49ers"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "02/12/2024",
+        "time": "02:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "san juan open - round 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddle",
+      "date": {
+        "day": "02/12/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eibar - cartagena",
+      "teams": {
+        "home": "eibar",
+        "away": "cartagena"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "02/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sevilla - osasuna",
+      "teams": {
+        "home": "sevilla",
+        "away": "osasuna"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "02/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "broncos - browns",
+      "teams": {
+        "home": "broncos",
+        "away": "browns"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "03/12/2024",
+        "time": "02:15",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1732977325650
+  "updated": 1732979103386
 }
