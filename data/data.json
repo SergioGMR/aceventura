@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f1 - classification",
-      "teams": {
-        "home": "f1",
-        "away": "classification"
-      },
-      "sport": "f1",
-      "competition": "qatar gp",
-      "date": {
-        "day": "30/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. catar (losail) vs clasificación",
-      "teams": {
-        "home": "g.p. catar (losail) vs clasificación"
-      },
-      "sport": "soccer",
-      "competition": "fórmula 1",
-      "date": {
-        "day": "30/11/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "yafai - edwards",
       "teams": {
         "home": "yafai",
@@ -848,5 +819,5 @@
       "channels": []
     }
   ],
-  "updated": 1733002439431
+  "updated": 1733004309391
 }
