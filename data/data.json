@@ -1,4 +1,610 @@
 {
-  "data": [],
-  "updated": 1732948729449
+  "data": [
+    {
+      "title": "men quarters",
+      "teams": {
+        "home": "men quarters"
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "30/11/2024",
+        "time": "05:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 4",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "international series qatar",
+      "date": {
+        "day": "30/11/2024",
+        "time": "09:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "f1 - classification",
+      "teams": {
+        "home": "f1",
+        "away": "classification"
+      },
+      "sport": "f1",
+      "competition": "qatar gp",
+      "date": {
+        "day": "30/11/2024",
+        "time": "13:20",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "women spain open",
+      "date": {
+        "day": "30/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "barcelona - las palmas",
+      "teams": {
+        "home": "barcelona",
+        "away": "las palmas"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "racing 92 - stade toulouse",
+      "teams": {
+        "home": "racing 92",
+        "away": "stade toulouse"
+      },
+      "sport": "rugby",
+      "competition": "top 14 rugby",
+      "date": {
+        "day": "30/11/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "g.p. catar (losail) vs libres 1",
+      "teams": {
+        "home": "g.p. catar (losail) vs libres 1"
+      },
+      "sport": "soccer",
+      "competition": "fórmula 1",
+      "date": {
+        "day": "30/11/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "f1 - sprint",
+      "teams": {
+        "home": "f1",
+        "away": "sprint"
+      },
+      "sport": "f1",
+      "competition": "qatar gp",
+      "date": {
+        "day": "30/11/2024",
+        "time": "15:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "brentford - leiceter city",
+      "teams": {
+        "home": "brentford",
+        "away": "leiceter city"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "crystal palace - newcastle",
+      "teams": {
+        "home": "crystal palace",
+        "away": "newcastle"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "nottingham - ipswich town",
+      "teams": {
+        "home": "nottingham",
+        "away": "ipswich town"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "wolves - bournemouth",
+      "teams": {
+        "home": "wolves",
+        "away": "bournemouth"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "alaves - leganes",
+      "teams": {
+        "home": "alaves",
+        "away": "leganes"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "almeria - granada",
+      "teams": {
+        "home": "almeria",
+        "away": "granada"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "30/11/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real zaragoza - albacete",
+      "teams": {
+        "home": "real zaragoza",
+        "away": "albacete"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "30/11/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "g.p. catar (losail) vs clasificación",
+      "teams": {
+        "home": "g.p. catar (losail) vs clasificación"
+      },
+      "sport": "soccer",
+      "competition": "fia fórmula 2",
+      "date": {
+        "day": "30/11/2024",
+        "time": "17:10",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "f2 - race 1",
+      "teams": {
+        "home": "f2",
+        "away": "race 1"
+      },
+      "sport": "f1",
+      "competition": "qatar gp",
+      "date": {
+        "day": "30/11/2024",
+        "time": "17:20",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rio breogan - granada",
+      "teams": {
+        "home": "rio breogan",
+        "away": "granada"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "unicaja - tenerife",
+      "teams": {
+        "home": "unicaja",
+        "away": "tenerife"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "westham - arsenal",
+      "teams": {
+        "home": "westham",
+        "away": "arsenal"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "espanyol - celta",
+      "teams": {
+        "home": "espanyol",
+        "away": "celta"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cadiz - deportivo",
+      "teams": {
+        "home": "cadiz",
+        "away": "deportivo"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "30/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "racing - mirandes",
+      "teams": {
+        "home": "racing",
+        "away": "mirandes"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "30/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "g.p. catar (losail) vs clasificación sprint",
+      "teams": {
+        "home": "g.p. catar (losail) vs clasificación sprint"
+      },
+      "sport": "soccer",
+      "competition": "fórmula 1",
+      "date": {
+        "day": "30/11/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fenerbahce istanbul vs ax olimpia milano",
+      "teams": {
+        "home": "fenerbahce istanbul vs ax olimpia milano"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "30/11/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "f1 - classification",
+      "teams": {
+        "home": "f1",
+        "away": "classification"
+      },
+      "sport": "f1",
+      "competition": "qatar gp",
+      "date": {
+        "day": "30/11/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "yafai - edwards",
+      "teams": {
+        "home": "yafai",
+        "away": "edwards"
+      },
+      "sport": "boxing",
+      "competition": "boxing event",
+      "date": {
+        "day": "30/11/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "crvena zvezda mts belgrade vs fc bayern basketball",
+      "teams": {
+        "home": "crvena zvezda mts belgrade vs fc bayern basketball"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "30/11/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "panathinaikos bc vs as monaco basket",
+      "teams": {
+        "home": "panathinaikos bc vs as monaco basket"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "30/11/2024",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real oviedo vs huesca",
+      "teams": {
+        "home": "real oviedo vs huesca"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "30/11/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "girona - andorra",
+      "teams": {
+        "home": "girona",
+        "away": "andorra"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "zaragoza - bilbao",
+      "teams": {
+        "home": "zaragoza",
+        "away": "bilbao"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "f1 - race",
+      "teams": {
+        "home": "f1",
+        "away": "race"
+      },
+      "sport": "f1",
+      "competition": "qatar gp",
+      "date": {
+        "day": "30/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "atletico mineiro - botafogo [final]",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "libertadores cup",
+      "date": {
+        "day": "30/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real valladolid - atletico de madrid",
+      "teams": {
+        "home": "real valladolid",
+        "away": "atletico de madrid"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tenerife - elche",
+      "teams": {
+        "home": "tenerife",
+        "away": "elche"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "30/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "asvel lyon - villeurbanne vs anadolu efes istanbul",
+      "teams": {
+        "home": "asvel lyon",
+        "away": "villeurbanne vs anadolu efes istanbul"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "30/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mallorca vs valencia cf",
+      "teams": {
+        "home": "mallorca vs valencia cf"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "30/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "brighton vs southampton",
+      "teams": {
+        "home": "brighton vs southampton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/11/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mexico major - women semifinal",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "premier paddle",
+      "date": {
+        "day": "30/11/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "1/4 de final femenino vs premier padel tour",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "méxico major",
+      "date": {
+        "day": "30/11/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1732950287409
 }
