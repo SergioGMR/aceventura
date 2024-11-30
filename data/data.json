@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f1 - sprint",
-      "teams": {
-        "home": "f1",
-        "away": "sprint"
-      },
-      "sport": "f1",
-      "competition": "qatar gp",
-      "date": {
-        "day": "30/11/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. catar (losail) vs sprint",
-      "teams": {
-        "home": "g.p. catar (losail) vs sprint"
-      },
-      "sport": "soccer",
-      "competition": "fórmula 1",
-      "date": {
-        "day": "30/11/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "brentford - leiceter city",
       "teams": {
         "home": "brentford",
@@ -1283,5 +1254,5 @@
       "channels": []
     }
   ],
-  "updated": 1732988117596
+  "updated": 1732989955614
 }
