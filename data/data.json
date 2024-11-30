@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "women quarters",
-      "teams": {
-        "home": "women quarters"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "29/11/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "men quarters",
       "teams": {
         "home": "men quarters"
@@ -678,5 +664,5 @@
       "channels": []
     }
   ],
-  "updated": 1732930363045
+  "updated": 1732933764832
 }
