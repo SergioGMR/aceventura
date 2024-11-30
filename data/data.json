@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "men quarters",
-      "teams": {
-        "home": "men quarters"
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "30/11/2024",
-        "time": "05:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 4",
       "teams": {
         "home": null,
@@ -606,5 +592,5 @@
       "channels": []
     }
   ],
-  "updated": 1732952032482
+  "updated": 1732953960645
 }
