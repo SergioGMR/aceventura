@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "round 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "women spain open",
-      "date": {
-        "day": "30/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barcelona - las palmas",
-      "teams": {
-        "home": "barcelona",
-        "away": "las palmas"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fc barcelona vs ud las palmas",
-      "teams": {
-        "home": "fc barcelona vs ud las palmas"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "30/11/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "racing 92 - stade toulouse",
       "teams": {
         "home": "racing 92",
@@ -1342,5 +1298,5 @@
       "channels": []
     }
   ],
-  "updated": 1732984742082
+  "updated": 1732986297972
 }
