@@ -1,122 +1,6 @@
 {
   "data": [
     {
-      "title": "brentford - leiceter city",
-      "teams": {
-        "home": "brentford",
-        "away": "leiceter city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "crystal palace - newcastle",
-      "teams": {
-        "home": "crystal palace",
-        "away": "newcastle"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "nottingham - ipswich town",
-      "teams": {
-        "home": "nottingham",
-        "away": "ipswich town"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "wolves - bournemouth",
-      "teams": {
-        "home": "wolves",
-        "away": "bournemouth"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "brentford vs leicester city",
-      "teams": {
-        "home": "brentford vs leicester city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "crystal palace vs newcastle",
-      "teams": {
-        "home": "crystal palace vs newcastle"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "nottingham forest vs ipswich town",
-      "teams": {
-        "home": "nottingham forest vs ipswich town"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "wolverhampton vs bournemouth",
-      "teams": {
-        "home": "wolverhampton vs bournemouth"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "alaves - leganes",
       "teams": {
         "home": "alaves",
@@ -1254,5 +1138,5 @@
       "channels": []
     }
   ],
-  "updated": 1732991912274
+  "updated": 1732993492428
 }
