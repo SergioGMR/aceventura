@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "racing 92 - stade toulouse",
-      "teams": {
-        "home": "racing 92",
-        "away": "stade toulouse"
-      },
-      "sport": "rugby",
-      "competition": "top 14 rugby",
-      "date": {
-        "day": "30/11/2024",
-        "time": "14:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 - sprint",
       "teams": {
         "home": "f1",
@@ -1298,5 +1283,5 @@
       "channels": []
     }
   ],
-  "updated": 1732986297972
+  "updated": 1732988117596
 }
