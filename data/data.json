@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "brighton - southampton",
-      "teams": {
-        "home": "brighton",
-        "away": "southampton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "29/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mallorca - valencia",
-      "teams": {
-        "home": "mallorca",
-        "away": "valencia"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "29/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "women quarters",
       "teams": {
         "home": "women quarters"
@@ -708,5 +678,5 @@
       "channels": []
     }
   ],
-  "updated": 1732923256416
+  "updated": 1732926017516
 }
