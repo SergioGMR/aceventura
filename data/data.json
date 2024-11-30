@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f1 - classification",
-      "teams": {
-        "home": "f1",
-        "away": "classification"
-      },
-      "sport": "f1",
-      "competition": "qatar gp",
-      "date": {
-        "day": "30/11/2024",
-        "time": "13:20",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. catar (losail) vs clasificación",
-      "teams": {
-        "home": "g.p. catar (losail) vs clasificación"
-      },
-      "sport": "soccer",
-      "competition": "f1 academy",
-      "date": {
-        "day": "30/11/2024",
-        "time": "13:20",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 3",
       "teams": {
         "home": null,
@@ -1371,5 +1342,5 @@
       "channels": []
     }
   ],
-  "updated": 1732982743278
+  "updated": 1732984742082
 }
