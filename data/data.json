@@ -1,93 +1,6 @@
 {
   "data": [
     {
-      "title": "oviedo - estudiantes",
-      "teams": {
-        "home": "oviedo",
-        "away": "estudiantes"
-      },
-      "sport": "basketball",
-      "competition": "feb",
-      "date": {
-        "day": "01/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "manresa - barcelona",
-      "teams": {
-        "home": "manresa",
-        "away": "barcelona"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "murcia - gran canaria",
-      "teams": {
-        "home": "murcia",
-        "away": "gran canaria"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "baxi manresa vs barça basket",
-      "teams": {
-        "home": "baxi manresa vs barça basket"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "01/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ucam murcia cb vs dreamland gran canaria",
-      "teams": {
-        "home": "ucam murcia cb vs dreamland gran canaria"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "01/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "oviedo baloncesto vs movistar estudiantes",
-      "teams": {
-        "home": "oviedo baloncesto vs movistar estudiantes"
-      },
-      "sport": "soccer",
-      "competition": "primera feb liga regular",
-      "date": {
-        "day": "01/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "g.p. catar (losail) vs carrera 2",
       "teams": {
         "home": "g.p. catar (losail) vs carrera 2"
@@ -805,5 +718,5 @@
       "channels": []
     }
   ],
-  "updated": 1733065502081
+  "updated": 1733067272837
 }
