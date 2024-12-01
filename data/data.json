@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "g.p. catar (losail) vs carrera 2",
-      "teams": {
-        "home": "g.p. catar (losail) vs carrera 2"
-      },
-      "sport": "soccer",
-      "competition": "fia fórmula 2",
-      "date": {
-        "day": "01/12/2024",
-        "time": "13:20",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "f2 - race 2",
-      "teams": {
-        "home": "f2",
-        "away": "race 2"
-      },
-      "sport": "f1",
-      "competition": "qatar gp",
-      "date": {
-        "day": "01/12/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "round 4",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "women spanish open",
-      "date": {
-        "day": "01/12/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "villarreal - girona",
       "teams": {
         "home": "villarreal",
@@ -718,5 +674,5 @@
       "channels": []
     }
   ],
-  "updated": 1733069130022
+  "updated": 1733071092068
 }
