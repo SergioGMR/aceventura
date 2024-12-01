@@ -1,122 +1,6 @@
 {
   "data": [
     {
-      "title": "baskonia - valencia",
-      "teams": {
-        "home": "baskonia",
-        "away": "valencia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "lleida - coruña",
-      "teams": {
-        "home": "lleida",
-        "away": "coruña"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "f1 - race",
-      "teams": {
-        "home": "f1",
-        "away": "race"
-      },
-      "sport": "f1",
-      "competition": "qatar gp",
-      "date": {
-        "day": "01/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "liverpool - manchester united",
-      "teams": {
-        "home": "liverpool",
-        "away": "manchester united"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. catar (losail) vs carrera",
-      "teams": {
-        "home": "g.p. catar (losail) vs carrera"
-      },
-      "sport": "soccer",
-      "competition": "fórmula 1",
-      "date": {
-        "day": "01/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "baskonia vs valencia basket",
-      "teams": {
-        "home": "baskonia vs valencia basket"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "01/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "força lleida vs básquet coruña",
-      "teams": {
-        "home": "força lleida vs básquet coruña"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "01/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "liverpool vs manchester city",
-      "teams": {
-        "home": "liverpool vs manchester city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "joventut - real madrid",
       "teams": {
         "home": "joventut",
@@ -485,5 +369,5 @@
       "channels": []
     }
   ],
-  "updated": 1733081626085
+  "updated": 1733083521431
 }
