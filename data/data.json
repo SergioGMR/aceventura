@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "round 4",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "australia open",
-      "date": {
-        "day": "01/12/2024",
-        "time": "03:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mexico major - women semifinal",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "01/12/2024",
-        "time": "03:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 de final femenino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "méxico major",
-      "date": {
-        "day": "01/12/2024",
-        "time": "03:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "mexico major - men semifinal",
       "teams": {
         "home": null,
@@ -951,5 +906,5 @@
       "channels": []
     }
   ],
-  "updated": 1733031387243
+  "updated": 1733033195853
 }
