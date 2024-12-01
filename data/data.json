@@ -1,96 +1,6 @@
 {
   "data": [
     {
-      "title": "girona - andorra",
-      "teams": {
-        "home": "girona",
-        "away": "andorra"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "zaragoza - bilbao",
-      "teams": {
-        "home": "zaragoza",
-        "away": "bilbao"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "f1 academy - race 1",
-      "teams": {
-        "home": "f1 academy",
-        "away": "race 1"
-      },
-      "sport": "f1",
-      "competition": "qatar gp",
-      "date": {
-        "day": "30/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "atletico mineiro - botafogo [final]",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "libertadores cup",
-      "date": {
-        "day": "30/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real valladolid - atletico de madrid",
-      "teams": {
-        "home": "real valladolid",
-        "away": "atletico de madrid"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "30/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tenerife - elche",
-      "teams": {
-        "home": "tenerife",
-        "away": "elche"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "30/11/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "mexico major - women semifinal",
       "teams": {
         "home": null,
@@ -1115,5 +1025,5 @@
       "channels": []
     }
   ],
-  "updated": 1733009680012
+  "updated": 1733012684273
 }
