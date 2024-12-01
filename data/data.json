@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "pistons - 76ers",
-      "teams": {
-        "home": "pistons",
-        "away": "76ers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "01/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mexico major - men semifinal",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "01/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 de final masculino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "méxico major",
-      "date": {
-        "day": "01/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "minnesota timberwolves vs los angeles clippers",
       "teams": {
         "home": "minnesota timberwolves vs los angeles clippers"
@@ -1010,5 +965,5 @@
       "channels": []
     }
   ],
-  "updated": 1733024788492
+  "updated": 1733026147187
 }
