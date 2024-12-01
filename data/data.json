@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "mexico major - women semifinal",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "30/11/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "pistons - 76ers",
       "teams": {
         "home": "pistons",
@@ -1025,5 +1010,5 @@
       "channels": []
     }
   ],
-  "updated": 1733016827812
+  "updated": 1733020650400
 }
