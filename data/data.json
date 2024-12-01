@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "minnesota timberwolves vs los angeles clippers",
-      "teams": {
-        "home": "minnesota timberwolves vs los angeles clippers"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "01/12/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round 4",
       "teams": {
         "home": null,
@@ -965,5 +951,5 @@
       "channels": []
     }
   ],
-  "updated": 1733026147187
+  "updated": 1733029522636
 }
