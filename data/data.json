@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "sharks - tigers",
-      "teams": {
-        "home": "sharks",
-        "away": "tigers"
-      },
-      "sport": "rugby",
-      "competition": "gallagher premiership rugby",
-      "date": {
-        "day": "01/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real madrid - getafe",
-      "teams": {
-        "home": "real madrid",
-        "away": "getafe"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real madrid vs getafe",
-      "teams": {
-        "home": "real madrid vs getafe"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "01/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "baskonia - valencia",
       "teams": {
         "home": "baskonia",
@@ -529,5 +485,5 @@
       "channels": []
     }
   ],
-  "updated": 1733079889116
+  "updated": 1733081626085
 }
