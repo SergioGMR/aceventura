@@ -31,34 +31,6 @@
       "channels": []
     },
     {
-      "title": "real sociedad vs real betis",
-      "teams": {
-        "home": "real sociedad vs real betis"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "01/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sporting gijón vs córdoba",
-      "teams": {
-        "home": "sporting gijón vs córdoba"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "01/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "grizzlies - pacers",
       "teams": {
         "home": "grizzlies",
@@ -66,20 +38,6 @@
       },
       "sport": "basketball",
       "competition": "usa nba",
-      "date": {
-        "day": "01/12/2024",
-        "time": "21:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "memphis grizzlies vs indiana pacers",
-      "teams": {
-        "home": "memphis grizzlies vs indiana pacers"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
       "date": {
         "day": "01/12/2024",
         "time": "21:30",
@@ -133,6 +91,35 @@
       "channels": []
     },
     {
+      "title": "semifinal masculina vs premier padel tour",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "méxico major",
+      "date": {
+        "day": "02/12/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "detroit pistons vs philadelphia 76ers",
+      "teams": {
+        "home": "detroit pistons vs philadelphia 76ers"
+      },
+      "sport": "soccer",
+      "competition": "nba liga regular",
+      "date": {
+        "day": "02/12/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "mexico major - men final",
       "teams": {
         "home": null,
@@ -163,6 +150,77 @@
       "channels": []
     },
     {
+      "title": "semifinal masculina vs premier padel tour",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "méxico major",
+      "date": {
+        "day": "02/12/2024",
+        "time": "05:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "g.p. catar (losail) vs carrera 2",
+      "teams": {
+        "home": "g.p. catar (losail) vs carrera 2"
+      },
+      "sport": "soccer",
+      "competition": "f1 academy",
+      "date": {
+        "day": "02/12/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baxi manresa vs barça basket",
+      "teams": {
+        "home": "baxi manresa vs barça basket"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "02/12/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ucam murcia cb vs dreamland gran canaria",
+      "teams": {
+        "home": "ucam murcia cb vs dreamland gran canaria"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "02/12/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "oviedo baloncesto vs movistar estudiantes",
+      "teams": {
+        "home": "oviedo baloncesto vs movistar estudiantes"
+      },
+      "sport": "soccer",
+      "competition": "primera feb liga regular",
+      "date": {
+        "day": "02/12/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "san juan open - round 1",
       "teams": {
         "home": null,
@@ -173,6 +231,216 @@
       "date": {
         "day": "02/12/2024",
         "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "g.p. catar (losail) vs carrera 2",
+      "teams": {
+        "home": "g.p. catar (losail) vs carrera 2"
+      },
+      "sport": "soccer",
+      "competition": "fia fórmula 2",
+      "date": {
+        "day": "02/12/2024",
+        "time": "13:20",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "villarreal vs girona",
+      "teams": {
+        "home": "villarreal vs girona"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "02/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cd castellón vs málaga",
+      "teams": {
+        "home": "cd castellón vs málaga"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "02/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "chelsea vs aston villa",
+      "teams": {
+        "home": "chelsea vs aston villa"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "02/12/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester utd. vs everton",
+      "teams": {
+        "home": "manchester utd. vs everton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "02/12/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tottenham vs fulham",
+      "teams": {
+        "home": "tottenham vs fulham"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "02/12/2024",
+        "time": "14:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid vs getafe",
+      "teams": {
+        "home": "real madrid vs getafe"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "02/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "g.p. catar (losail) vs carrera",
+      "teams": {
+        "home": "g.p. catar (losail) vs carrera"
+      },
+      "sport": "soccer",
+      "competition": "fórmula 1",
+      "date": {
+        "day": "02/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baskonia vs valencia basket",
+      "teams": {
+        "home": "baskonia vs valencia basket"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "02/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "força lleida vs básquet coruña",
+      "teams": {
+        "home": "força lleida vs básquet coruña"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "02/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "liverpool vs manchester city",
+      "teams": {
+        "home": "liverpool vs manchester city"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "02/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rayo vallecano vs athletic club",
+      "teams": {
+        "home": "rayo vallecano vs athletic club"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "02/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eldense vs racing ferrol",
+      "teams": {
+        "home": "eldense vs racing ferrol"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "02/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "levante vs burgos cf",
+      "teams": {
+        "home": "levante vs burgos cf"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "02/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "joventut badalona vs real madrid baloncesto",
+      "teams": {
+        "home": "joventut badalona vs real madrid baloncesto"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "02/12/2024",
+        "time": "18:30",
         "zone": "cet"
       },
       "channels": []
@@ -208,6 +476,48 @@
       "channels": []
     },
     {
+      "title": "real sociedad vs real betis",
+      "teams": {
+        "home": "real sociedad vs real betis"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "02/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sporting gijón vs córdoba",
+      "teams": {
+        "home": "sporting gijón vs córdoba"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "02/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "memphis grizzlies vs indiana pacers",
+      "teams": {
+        "home": "memphis grizzlies vs indiana pacers"
+      },
+      "sport": "soccer",
+      "competition": "nba liga regular",
+      "date": {
+        "day": "02/12/2024",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "broncos - browns",
       "teams": {
         "home": "broncos",
@@ -223,5 +533,5 @@
       "channels": []
     }
   ],
-  "updated": 1733092577368
+  "updated": 1733094292588
 }
