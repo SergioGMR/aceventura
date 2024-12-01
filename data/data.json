@@ -1,93 +1,6 @@
 {
   "data": [
     {
-      "title": "chelsea - aston villa",
-      "teams": {
-        "home": "chelsea",
-        "away": "aston villa"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "14:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "manchester united - everton",
-      "teams": {
-        "home": "manchester united",
-        "away": "everton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "14:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tottenham - fulham",
-      "teams": {
-        "home": "tottenham",
-        "away": "fulham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "14:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "chelsea vs aston villa",
-      "teams": {
-        "home": "chelsea vs aston villa"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "14:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "manchester utd. vs everton",
-      "teams": {
-        "home": "manchester utd. vs everton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "14:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tottenham vs fulham",
-      "teams": {
-        "home": "tottenham vs fulham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "14:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sharks - tigers",
       "teams": {
         "home": "sharks",
@@ -616,5 +529,5 @@
       "channels": []
     }
   ],
-  "updated": 1733072686224
+  "updated": 1733074496511
 }
