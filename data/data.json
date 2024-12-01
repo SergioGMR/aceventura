@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "bengals - steelers",
-      "teams": {
-        "home": "bengals",
-        "away": "steelers"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "01/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "red zone",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "01/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real sociedad - real betis",
       "teams": {
         "home": "real sociedad",
@@ -253,5 +223,5 @@
       "channels": []
     }
   ],
-  "updated": 1733088827702
+  "updated": 1733090668878
 }
