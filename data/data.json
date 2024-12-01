@@ -1,122 +1,6 @@
 {
   "data": [
     {
-      "title": "joventut - real madrid",
-      "teams": {
-        "home": "joventut",
-        "away": "real madrid"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "rayo vallecano - athletic club",
-      "teams": {
-        "home": "rayo vallecano",
-        "away": "athletic club"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "eldense - racing ferrol",
-      "teams": {
-        "home": "eldense",
-        "away": "racing ferrol"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "01/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "levante - burgos",
-      "teams": {
-        "home": "levante",
-        "away": "burgos"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "01/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "rayo vallecano vs athletic club",
-      "teams": {
-        "home": "rayo vallecano vs athletic club"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "01/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "eldense vs racing ferrol",
-      "teams": {
-        "home": "eldense vs racing ferrol"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "01/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "levante vs burgos cf",
-      "teams": {
-        "home": "levante vs burgos cf"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "01/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "joventut badalona vs real madrid baloncesto",
-      "teams": {
-        "home": "joventut badalona vs real madrid baloncesto"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "01/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bengals - steelers",
       "teams": {
         "home": "bengals",
@@ -369,5 +253,5 @@
       "channels": []
     }
   ],
-  "updated": 1733087086827
+  "updated": 1733088827702
 }
