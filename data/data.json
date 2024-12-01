@@ -1,64 +1,6 @@
 {
   "data": [
     {
-      "title": "villarreal - girona",
-      "teams": {
-        "home": "villarreal",
-        "away": "girona"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "castellon - malaga",
-      "teams": {
-        "home": "castellon",
-        "away": "malaga"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "01/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "villarreal vs girona",
-      "teams": {
-        "home": "villarreal vs girona"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "01/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cd castellón vs málaga",
-      "teams": {
-        "home": "cd castellón vs málaga"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "01/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "chelsea - aston villa",
       "teams": {
         "home": "chelsea",
@@ -674,5 +616,5 @@
       "channels": []
     }
   ],
-  "updated": 1733071092068
+  "updated": 1733072686224
 }
