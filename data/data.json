@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "ravens - eagles",
-      "teams": {
-        "home": "ravens",
-        "away": "eagles"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "01/12/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red zone",
       "teams": {
         "home": null,
@@ -488,5 +473,5 @@
       "channels": []
     }
   ],
-  "updated": 1733100553108
+  "updated": 1733103196876
 }
