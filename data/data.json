@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "san juan open - round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "02/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1ª ronda vs a1 padel",
-      "teams": {
-        "home": "1ª ronda vs a1 padel"
-      },
-      "sport": "soccer",
-      "competition": "san juan open",
-      "date": {
-        "day": "02/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "eibar - cartagena",
       "teams": {
         "home": "eibar",
@@ -463,5 +434,5 @@
       "channels": []
     }
   ],
-  "updated": 1733153789074
+  "updated": 1733155553871
 }
