@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "mexico major - women final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "02/12/2024",
-        "time": "00:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinal masculina vs premier padel tour",
       "teams": {
         "home": null,
@@ -458,5 +443,5 @@
       "channels": []
     }
   ],
-  "updated": 1733106777190
+  "updated": 1733109597859
 }
