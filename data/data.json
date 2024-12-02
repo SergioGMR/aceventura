@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "semifinal masculina vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "méxico major",
-      "date": {
-        "day": "02/12/2024",
-        "time": "05:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "g.p. catar (losail) vs carrera 2",
       "teams": {
         "home": "g.p. catar (losail) vs carrera 2"
@@ -384,5 +369,5 @@
       "channels": []
     }
   ],
-  "updated": 1733124944533
+  "updated": 1733126836239
 }
