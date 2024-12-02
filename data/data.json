@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "semifinal masculina vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "méxico major",
-      "date": {
-        "day": "02/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "detroit pistons vs philadelphia 76ers",
-      "teams": {
-        "home": "detroit pistons vs philadelphia 76ers"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "02/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "mexico major - men final",
       "teams": {
         "home": null,
@@ -443,5 +414,5 @@
       "channels": []
     }
   ],
-  "updated": 1733110955156
+  "updated": 1733112385779
 }
