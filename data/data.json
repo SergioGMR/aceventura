@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "bills - 49ers",
-      "teams": {
-        "home": "bills",
-        "away": "49ers"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "02/12/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinal masculina vs premier padel tour",
       "teams": {
         "home": null,
@@ -399,5 +384,5 @@
       "channels": []
     }
   ],
-  "updated": 1733115955752
+  "updated": 1733117836057
 }
