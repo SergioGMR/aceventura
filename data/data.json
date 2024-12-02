@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "real sociedad - real betis",
-      "teams": {
-        "home": "real sociedad",
-        "away": "real betis"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "01/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sporting - cordoba",
-      "teams": {
-        "home": "sporting",
-        "away": "cordoba"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "01/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "grizzlies - pacers",
       "teams": {
         "home": "grizzlies",
@@ -533,5 +503,5 @@
       "channels": []
     }
   ],
-  "updated": 1733096054964
+  "updated": 1733098897100
 }
