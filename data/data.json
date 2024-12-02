@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "mexico major - men final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "02/12/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bills - 49ers",
       "teams": {
         "home": "bills",
@@ -414,5 +399,5 @@
       "channels": []
     }
   ],
-  "updated": 1733114291725
+  "updated": 1733115955752
 }
