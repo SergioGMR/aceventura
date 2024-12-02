@@ -16,20 +16,6 @@
       "channels": []
     },
     {
-      "title": "eibar vs fc cartagena",
-      "teams": {
-        "home": "eibar vs fc cartagena"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion estadio municipal de ipurúa, eibar",
-      "date": {
-        "day": "02/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sevilla - osasuna",
       "teams": {
         "home": "sevilla",
@@ -37,20 +23,6 @@
       },
       "sport": "soccer",
       "competition": "spanish league",
-      "date": {
-        "day": "02/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sevilla fc vs osasuna",
-      "teams": {
-        "home": "sevilla fc vs osasuna"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
       "date": {
         "day": "02/12/2024",
         "time": "21:00",
@@ -69,6 +41,21 @@
       "date": {
         "day": "03/12/2024",
         "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "final masculina vs premier padel tour",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "méxico major",
+      "date": {
+        "day": "03/12/2024",
+        "time": "02:00",
         "zone": "cet"
       },
       "channels": []
@@ -96,6 +83,20 @@
       },
       "sport": "paddle",
       "competition": "a1 paddel",
+      "date": {
+        "day": "03/12/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "1ª ronda vs a1 padel",
+      "teams": {
+        "home": "1ª ronda vs a1 padel"
+      },
+      "sport": "soccer",
+      "competition": "san juan open",
       "date": {
         "day": "03/12/2024",
         "time": "13:00",
@@ -224,6 +225,20 @@
       "channels": []
     },
     {
+      "title": "eibar vs fc cartagena",
+      "teams": {
+        "home": "eibar vs fc cartagena"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion estadio municipal de ipurúa, eibar",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "france - spain",
       "teams": {
         "home": "france",
@@ -231,6 +246,20 @@
       },
       "sport": "soccer (w)",
       "competition": "friendly match",
+      "date": {
+        "day": "03/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sevilla fc vs osasuna",
+      "teams": {
+        "home": "sevilla fc vs osasuna"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
       "date": {
         "day": "03/12/2024",
         "time": "21:00",
@@ -434,5 +463,5 @@
       "channels": []
     }
   ],
-  "updated": 1733179030746
+  "updated": 1733180788011
 }
