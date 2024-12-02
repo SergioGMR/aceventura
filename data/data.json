@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "grizzlies - pacers",
-      "teams": {
-        "home": "grizzlies",
-        "away": "pacers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "01/12/2024",
-        "time": "21:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "ravens - eagles",
       "teams": {
         "home": "ravens",
@@ -503,5 +488,5 @@
       "channels": []
     }
   ],
-  "updated": 1733098897100
+  "updated": 1733100553108
 }
