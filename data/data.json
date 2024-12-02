@@ -50,7 +50,7 @@
         "home": "sevilla fc vs osasuna"
       },
       "sport": "soccer",
-      "competition": "la liga ea sports estadio ramón sánchez pizjuán, sevilha",
+      "competition": "la liga ea sports",
       "date": {
         "day": "02/12/2024",
         "time": "21:00",
@@ -434,5 +434,5 @@
       "channels": []
     }
   ],
-  "updated": 1733164806579
+  "updated": 1733166281946
 }
