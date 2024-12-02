@@ -50,7 +50,7 @@
         "home": "eibar vs fc cartagena"
       },
       "sport": "soccer",
-      "competition": "laliga hypermotion",
+      "competition": "laliga hypermotion estadio municipal de ipurúa, eibar",
       "date": {
         "day": "02/12/2024",
         "time": "20:30",
@@ -79,10 +79,25 @@
         "home": "sevilla fc vs osasuna"
       },
       "sport": "soccer",
-      "competition": "la liga ea sports",
+      "competition": "la liga ea sports estadio ramón sánchez pizjuán, sevilha",
       "date": {
         "day": "02/12/2024",
         "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "hawks - pelicans",
+      "teams": {
+        "home": "hawks",
+        "away": "pelicans"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "03/12/2024",
+        "time": "01:30",
         "zone": "cet"
       },
       "channels": []
@@ -101,7 +116,352 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "san juan open - round 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "03/12/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mallorca - barcelona",
+      "teams": {
+        "home": "mallorca",
+        "away": "barcelona"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "spain - italy",
+      "teams": {
+        "home": "spain",
+        "away": "italy"
+      },
+      "sport": "soccer (w)",
+      "competition": "friendly match",
+      "date": {
+        "day": "03/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "asvel - real madrid",
+      "teams": {
+        "home": "asvel",
+        "away": "real madrid"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dolomiti - gran canaria",
+      "teams": {
+        "home": "dolomiti",
+        "away": "gran canaria"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "maccabi - paris",
+      "teams": {
+        "home": "maccabi",
+        "away": "paris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "panathinaikos - barcelona",
+      "teams": {
+        "home": "panathinaikos",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baskonia - fenerbahce",
+      "teams": {
+        "home": "baskonia",
+        "away": "fenerbahce"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ipswich - crystal palace",
+      "teams": {
+        "home": "ipswich",
+        "away": "crystal palace"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "france - spain",
+      "teams": {
+        "home": "france",
+        "away": "spain"
+      },
+      "sport": "soccer (w)",
+      "competition": "friendly match",
+      "date": {
+        "day": "03/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "leiceter - west ham",
+      "teams": {
+        "home": "leiceter",
+        "away": "west ham"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "03/12/2024",
+        "time": "21:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "international saudi pif",
+      "date": {
+        "day": "04/12/2024",
+        "time": "09:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "monaco - olympiacos",
+      "teams": {
+        "home": "monaco",
+        "away": "olympiacos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "04/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "san andreu - real betis",
+      "teams": {
+        "home": "san andreu",
+        "away": "real betis"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "04/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "olimpia milano - crvena",
+      "teams": {
+        "home": "olimpia milano",
+        "away": "crvena"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "04/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester city - nottingham forest",
+      "teams": {
+        "home": "manchester city",
+        "away": "nottingham forest"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "04/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "newcastle - liverpool",
+      "teams": {
+        "home": "newcastle",
+        "away": "liverpool"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "04/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "southampton - chelsea",
+      "teams": {
+        "home": "southampton",
+        "away": "chelsea"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "04/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia - hapoel",
+      "teams": {
+        "home": "valencia",
+        "away": "hapoel"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "04/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "virtus bologna - alba berlin",
+      "teams": {
+        "home": "virtus bologna",
+        "away": "alba berlin"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "04/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ejea - valencia",
+      "teams": {
+        "home": "ejea",
+        "away": "valencia"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "04/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "athletic club - real madrid",
+      "teams": {
+        "home": "athletic club",
+        "away": "real madrid"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "04/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "arsenal - manchester united",
+      "teams": {
+        "home": "arsenal",
+        "away": "manchester united"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "04/12/2024",
+        "time": "21:15",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1733150249911
+  "updated": 1733151940106
 }
