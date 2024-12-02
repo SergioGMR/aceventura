@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "red zone",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "01/12/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "mexico major - women final",
       "teams": {
         "home": null,
@@ -473,5 +458,5 @@
       "channels": []
     }
   ],
-  "updated": 1733103196876
+  "updated": 1733106777190
 }
