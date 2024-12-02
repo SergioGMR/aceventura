@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "eibar - cartagena",
-      "teams": {
-        "home": "eibar",
-        "away": "cartagena"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "02/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sevilla - osasuna",
       "teams": {
         "home": "sevilla",
@@ -463,5 +448,5 @@
       "channels": []
     }
   ],
-  "updated": 1733180788011
+  "updated": 1733182501860
 }
