@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "hawks - pelicans",
-      "teams": {
-        "home": "hawks",
-        "away": "pelicans"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "03/12/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "final masculina vs premier padel tour",
       "teams": {
         "home": null,
@@ -433,5 +418,5 @@
       "channels": []
     }
   ],
-  "updated": 1733198772987
+  "updated": 1733200712847
 }
