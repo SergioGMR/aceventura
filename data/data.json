@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "final masculina vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "méxico major",
-      "date": {
-        "day": "03/12/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "broncos - browns",
       "teams": {
         "home": "broncos",
@@ -418,5 +403,5 @@
       "channels": []
     }
   ],
-  "updated": 1733200712847
+  "updated": 1733202331983
 }
