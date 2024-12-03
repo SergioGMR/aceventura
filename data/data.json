@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "anadolu efes istanbul vs fc bayern basketball",
-      "teams": {
-        "home": "anadolu efes istanbul vs fc bayern basketball"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "03/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "mallorca - barcelona",
       "teams": {
         "home": "mallorca",
@@ -588,5 +574,5 @@
       "channels": []
     }
   ],
-  "updated": 1733259900637
+  "updated": 1733261676850
 }
