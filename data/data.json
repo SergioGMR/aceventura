@@ -30,6 +30,21 @@
       "channels": []
     },
     {
+      "title": "avila - valladolid",
+      "teams": {
+        "home": "avila",
+        "away": "valladolid"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "03/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "spain - italy",
       "teams": {
         "home": "spain",
@@ -271,6 +286,51 @@
       "date": {
         "day": "03/12/2024",
         "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bardastro - espanyol",
+      "teams": {
+        "home": "bardastro",
+        "away": "espanyol"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "03/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "europa - las palmas",
+      "teams": {
+        "home": "europa",
+        "away": "las palmas"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "03/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salamanca - celta",
+      "teams": {
+        "home": "salamanca",
+        "away": "celta"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "03/12/2024",
+        "time": "21:00",
         "zone": "cet"
       },
       "channels": []
@@ -528,5 +588,5 @@
       "channels": []
     }
   ],
-  "updated": 1733251156253
+  "updated": 1733252693919
 }
