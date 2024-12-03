@@ -60,6 +60,48 @@
       "channels": []
     },
     {
+      "title": "españa vs italia",
+      "teams": {
+        "home": "españa vs italia"
+      },
+      "sport": "soccer",
+      "competition": "amistoso femenino",
+      "date": {
+        "day": "03/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real ávila vs real valladolid",
+      "teams": {
+        "home": "real ávila vs real valladolid"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 2ª ronda",
+      "date": {
+        "day": "03/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mallorca vs fc barcelona",
+      "teams": {
+        "home": "mallorca vs fc barcelona"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "03/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "asvel - real madrid",
       "teams": {
         "home": "asvel",
@@ -150,12 +192,12 @@
       "channels": []
     },
     {
-      "title": "eibar vs fc cartagena",
+      "title": "ipswich town vs crystal palace",
       "teams": {
-        "home": "eibar vs fc cartagena"
+        "home": "ipswich town vs crystal palace"
       },
       "sport": "soccer",
-      "competition": "laliga hypermotion estadio municipal de ipurúa, eibar",
+      "competition": "premier league",
       "date": {
         "day": "03/12/2024",
         "time": "20:30",
@@ -179,12 +221,12 @@
       "channels": []
     },
     {
-      "title": "sevilla fc vs osasuna",
+      "title": "ud barbastro vs espanyol",
       "teams": {
-        "home": "sevilla fc vs osasuna"
+        "home": "ud barbastro vs espanyol"
       },
       "sport": "soccer",
-      "competition": "la liga ea sports",
+      "competition": "copa del rey 2ª ronda",
       "date": {
         "day": "03/12/2024",
         "time": "21:00",
@@ -197,6 +239,34 @@
       "teams": {
         "home": "leiceter",
         "away": "west ham"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "03/12/2024",
+        "time": "21:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ce europa vs ud las palmas",
+      "teams": {
+        "home": "ce europa vs ud las palmas"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 2ª ronda",
+      "date": {
+        "day": "03/12/2024",
+        "time": "21:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "leicester city vs west ham",
+      "teams": {
+        "home": "leicester city vs west ham"
       },
       "sport": "soccer",
       "competition": "premier league",
@@ -388,5 +458,5 @@
       "channels": []
     }
   ],
-  "updated": 1733222358933
+  "updated": 1733223885128
 }
