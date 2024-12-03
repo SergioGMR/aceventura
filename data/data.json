@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "sevilla - osasuna",
-      "teams": {
-        "home": "sevilla",
-        "away": "osasuna"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "02/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "hawks - pelicans",
       "teams": {
         "home": "hawks",
@@ -448,5 +433,5 @@
       "channels": []
     }
   ],
-  "updated": 1733182501860
+  "updated": 1733185301512
 }
