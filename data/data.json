@@ -1,93 +1,6 @@
 {
   "data": [
     {
-      "title": "mallorca - barcelona",
-      "teams": {
-        "home": "mallorca",
-        "away": "barcelona"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "03/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "avila - valladolid",
-      "teams": {
-        "home": "avila",
-        "away": "valladolid"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "03/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "spain - italy",
-      "teams": {
-        "home": "spain",
-        "away": "italy"
-      },
-      "sport": "soccer (w)",
-      "competition": "friendly match",
-      "date": {
-        "day": "03/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "españa vs italia",
-      "teams": {
-        "home": "españa vs italia"
-      },
-      "sport": "soccer",
-      "competition": "amistoso femenino",
-      "date": {
-        "day": "03/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real ávila vs real valladolid",
-      "teams": {
-        "home": "real ávila vs real valladolid"
-      },
-      "sport": "soccer",
-      "competition": "copa del rey 2ª ronda",
-      "date": {
-        "day": "03/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mallorca vs fc barcelona",
-      "teams": {
-        "home": "mallorca vs fc barcelona"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "03/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "asvel - real madrid",
       "teams": {
         "home": "asvel",
@@ -574,5 +487,5 @@
       "channels": []
     }
   ],
-  "updated": 1733261676850
+  "updated": 1733263506349
 }
