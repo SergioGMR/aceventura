@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "broncos - browns",
-      "teams": {
-        "home": "broncos",
-        "away": "browns"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "03/12/2024",
-        "time": "02:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "san juan open - round 1",
       "teams": {
         "home": null,
@@ -403,5 +388,5 @@
       "channels": []
     }
   ],
-  "updated": 1733202331983
+  "updated": 1733204219681
 }
