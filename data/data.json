@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "baskonia - fenerbahce",
-      "teams": {
-        "home": "baskonia",
-        "away": "fenerbahce"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "03/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ipswich - crystal palace",
-      "teams": {
-        "home": "ipswich",
-        "away": "crystal palace"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "03/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bardastro - espanyol",
       "teams": {
         "home": "bardastro",
@@ -511,5 +481,5 @@
       "channels": []
     }
   ],
-  "updated": 1733267116295
+  "updated": 1733268869072
 }
