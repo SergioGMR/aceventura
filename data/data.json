@@ -30,6 +30,20 @@
       "channels": []
     },
     {
+      "title": "anadolu efes istanbul vs fc bayern basketball",
+      "teams": {
+        "home": "anadolu efes istanbul vs fc bayern basketball"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "03/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "mallorca - barcelona",
       "teams": {
         "home": "mallorca",
@@ -162,6 +176,63 @@
       "channels": []
     },
     {
+      "title": "dolomiti energia trento vs dreamland gran canaria",
+      "teams": {
+        "home": "dolomiti energia trento vs dreamland gran canaria"
+      },
+      "sport": "soccer",
+      "competition": "eurocup liga regular",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "asvel lyon - villeurbanne vs real madrid baloncesto",
+      "teams": {
+        "home": "asvel lyon",
+        "away": "villeurbanne vs real madrid baloncesto"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "maccabi tel aviv bc vs paris basketball",
+      "teams": {
+        "home": "maccabi tel aviv bc vs paris basketball"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:05",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "panathinaikos bc vs barça basket",
+      "teams": {
+        "home": "panathinaikos bc vs barça basket"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "baskonia - fenerbahce",
       "teams": {
         "home": "baskonia",
@@ -184,6 +255,34 @@
       },
       "sport": "soccer",
       "competition": "premier league",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bc partizan beograd vs zalgiris kaunas",
+      "teams": {
+        "home": "bc partizan beograd vs zalgiris kaunas"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "03/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baskonia vs fenerbahce istanbul",
+      "teams": {
+        "home": "baskonia vs fenerbahce istanbul"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
       "date": {
         "day": "03/12/2024",
         "time": "20:30",
@@ -458,5 +557,5 @@
       "channels": []
     }
   ],
-  "updated": 1733236611451
+  "updated": 1733238333636
 }
