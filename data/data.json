@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "san juan open - round 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "03/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1ª ronda vs a1 padel",
-      "teams": {
-        "home": "1ª ronda vs a1 padel"
-      },
-      "sport": "soccer",
-      "competition": "san juan open",
-      "date": {
-        "day": "03/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "anadolu efes istanbul vs fc bayern basketball",
       "teams": {
         "home": "anadolu efes istanbul vs fc bayern basketball"
@@ -557,5 +528,5 @@
       "channels": []
     }
   ],
-  "updated": 1733240187422
+  "updated": 1733241955729
 }
