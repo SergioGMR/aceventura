@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "2ª ronda vs a1 padel",
-      "teams": {
-        "home": "2ª ronda vs a1 padel"
-      },
-      "sport": "soccer",
-      "competition": "san juan open",
-      "date": {
-        "day": "04/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "monaco - olympiacos",
       "teams": {
         "home": "monaco",
@@ -1020,5 +1006,5 @@
       "channels": []
     }
   ],
-  "updated": 1733344589998
+  "updated": 1733346306630
 }
