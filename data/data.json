@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "international saudi pif",
-      "date": {
-        "day": "04/12/2024",
-        "time": "09:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "2ª ronda vs a1 padel",
       "teams": {
         "home": "2ª ronda vs a1 padel"
@@ -391,5 +376,5 @@
       "channels": []
     }
   ],
-  "updated": 1733314101273
+  "updated": 1733316382333
 }
