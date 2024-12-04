@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "bardastro - espanyol",
-      "teams": {
-        "home": "bardastro",
-        "away": "espanyol"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "03/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "europa - las palmas",
-      "teams": {
-        "home": "europa",
-        "away": "las palmas"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "03/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "salamanca - celta",
-      "teams": {
-        "home": "salamanca",
-        "away": "celta"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "03/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "france - spain",
-      "teams": {
-        "home": "france",
-        "away": "spain"
-      },
-      "sport": "soccer (w)",
-      "competition": "friendly match",
-      "date": {
-        "day": "03/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "leiceter - west ham",
-      "teams": {
-        "home": "leiceter",
-        "away": "west ham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "03/12/2024",
-        "time": "21:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atlanta hawks vs new orleans pelicans",
       "teams": {
         "home": "atlanta hawks vs new orleans pelicans"
@@ -481,5 +406,5 @@
       "channels": []
     }
   ],
-  "updated": 1733268869072
+  "updated": 1733271650750
 }
