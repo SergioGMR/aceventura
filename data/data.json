@@ -1,78 +1,6 @@
 {
   "data": [
     {
-      "title": "monaco - olympiacos",
-      "teams": {
-        "home": "monaco",
-        "away": "olympiacos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "04/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "san andreu - real betis",
-      "teams": {
-        "home": "san andreu",
-        "away": "real betis"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "04/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sant andreu vs real betis",
-      "teams": {
-        "home": "sant andreu vs real betis"
-      },
-      "sport": "soccer",
-      "competition": "copa del rey 2ª ronda",
-      "date": {
-        "day": "04/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "unionistas vs rayo vallecano",
-      "teams": {
-        "home": "unionistas vs rayo vallecano"
-      },
-      "sport": "soccer",
-      "competition": "copa del rey 2ª ronda",
-      "date": {
-        "day": "04/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "as monaco basket vs olympiacos piraeus",
-      "teams": {
-        "home": "as monaco basket vs olympiacos piraeus"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "04/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "olimpia milano - crvena",
       "teams": {
         "home": "olimpia milano",
@@ -1006,5 +934,5 @@
       "channels": []
     }
   ],
-  "updated": 1733348082784
+  "updated": 1733349932817
 }
