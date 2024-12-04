@@ -50,7 +50,7 @@
         "home": "sant andreu vs real betis"
       },
       "sport": "soccer",
-      "competition": "copa del rey 2ª ronda camp municipal narcís sala, barcelona",
+      "competition": "copa del rey 2ª ronda",
       "date": {
         "day": "04/12/2024",
         "time": "19:00",
@@ -276,13 +276,13 @@
       "channels": []
     },
     {
-      "title": "athletic club - real madrid",
+      "title": "pontevedra - villarreal",
       "teams": {
-        "home": "athletic club",
-        "away": "real madrid"
+        "home": "pontevedra",
+        "away": "villarreal"
       },
       "sport": "soccer",
-      "competition": "spanish league",
+      "competition": "spanish cup",
       "date": {
         "day": "04/12/2024",
         "time": "21:00",
@@ -291,12 +291,28 @@
       "channels": []
     },
     {
-      "title": "ud logroñés vs girona",
+      "title": "estepona - leganes",
       "teams": {
-        "home": "ud logroñés vs girona"
+        "home": "estepona",
+        "away": "leganes"
       },
       "sport": "soccer",
-      "competition": "copa del rey 2ª ronda estadio nuevo municipal las gaunas, logroño",
+      "competition": "spanish cup",
+      "date": {
+        "day": "04/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "athletic club - real madrid",
+      "teams": {
+        "home": "athletic club",
+        "away": "real madrid"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
       "date": {
         "day": "04/12/2024",
         "time": "21:00",
@@ -322,6 +338,20 @@
       "title": "ejea vs valencia cf",
       "teams": {
         "home": "ejea vs valencia cf"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 2ª ronda",
+      "date": {
+        "day": "04/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ud logroñés vs girona",
+      "teams": {
+        "home": "ud logroñés vs girona"
       },
       "sport": "soccer",
       "competition": "copa del rey 2ª ronda",
@@ -374,7 +404,621 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "heat - lakers",
+      "teams": {
+        "home": "heat",
+        "away": "lakers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "05/12/2024",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "international saudi pif",
+      "date": {
+        "day": "05/12/2024",
+        "time": "09:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "nedbank golf championship",
+      "date": {
+        "day": "05/12/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sweden - poland",
+      "teams": {
+        "home": "sweden",
+        "away": "poland"
+      },
+      "sport": "handball",
+      "competition": "ehf women european league",
+      "date": {
+        "day": "05/12/2024",
+        "time": "15:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "san juan open - round 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddle",
+      "date": {
+        "day": "05/12/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "zalgiris - anadolu",
+      "teams": {
+        "home": "zalgiris",
+        "away": "anadolu"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "05/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "draw",
+      "teams": {
+        "home": "draw"
+      },
+      "sport": "soccer",
+      "competition": "fifa clubs worldcup",
+      "date": {
+        "day": "05/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cacereño - atletico de madrid",
+      "teams": {
+        "home": "cacereño",
+        "away": "atletico de madrid"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "05/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ceuta - osasuna",
+      "teams": {
+        "home": "ceuta",
+        "away": "osasuna"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "05/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "orihuela - getafe",
+      "teams": {
+        "home": "orihuela",
+        "away": "getafe"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "05/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "hero world challenger",
+      "date": {
+        "day": "05/12/2024",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "maccabi - barcelona",
+      "teams": {
+        "home": "maccabi",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "05/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bayern munich - baskonia",
+      "teams": {
+        "home": "bayern munich",
+        "away": "baskonia"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "05/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "partizan - panathinaikos",
+      "teams": {
+        "home": "partizan",
+        "away": "panathinaikos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "05/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fulham - brighton",
+      "teams": {
+        "home": "fulham",
+        "away": "brighton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "05/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - fenerbahce",
+      "teams": {
+        "home": "real madrid",
+        "away": "fenerbahce"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "05/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "conquense - real sociedad",
+      "teams": {
+        "home": "conquense",
+        "away": "real sociedad"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "05/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "minera - alaves",
+      "teams": {
+        "home": "minera",
+        "away": "alaves"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "05/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "olot - sevilla",
+      "teams": {
+        "home": "olot",
+        "away": "sevilla"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "05/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bournemouth - tottenham",
+      "teams": {
+        "home": "bournemouth",
+        "away": "tottenham"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "05/12/2024",
+        "time": "21:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cavaliers - nuggets",
+      "teams": {
+        "home": "cavaliers",
+        "away": "nuggets"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "06/12/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lions - packers",
+      "teams": {
+        "home": "lions",
+        "away": "packers"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "06/12/2024",
+        "time": "02:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "milan open - women quarters",
+      "teams": {
+        "home": "milan open",
+        "away": "women quarters"
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "06/12/2024",
+        "time": "09:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "milan open - women quarters",
+      "teams": {
+        "home": "milan open",
+        "away": "women quarters"
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "06/12/2024",
+        "time": "11:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "f2 - classification",
+      "teams": {
+        "home": "f2",
+        "away": "classification"
+      },
+      "sport": "f1",
+      "competition": "abu dabi gp",
+      "date": {
+        "day": "06/12/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "milan open - men quarters",
+      "teams": {
+        "home": "milan open",
+        "away": "men quarters"
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "06/12/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "f1 - free training 2",
+      "teams": {
+        "home": "f1",
+        "away": "free training 2"
+      },
+      "sport": "f1",
+      "competition": "abu dabi gp",
+      "date": {
+        "day": "06/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "milan open - women quarters",
+      "teams": {
+        "home": "milan open",
+        "away": "women quarters"
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "06/12/2024",
+        "time": "15:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "f1 academy - classification",
+      "teams": {
+        "home": "f1 academy",
+        "away": "classification"
+      },
+      "sport": "f1",
+      "competition": "abu dabi gp",
+      "date": {
+        "day": "06/12/2024",
+        "time": "15:35",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "milan open - men quarters",
+      "teams": {
+        "home": "milan open",
+        "away": "men quarters"
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "06/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "san juan open - quarters",
+      "teams": {
+        "home": "san juan open",
+        "away": "quarters"
+      },
+      "sport": "paddle",
+      "competition": "a1 paddle",
+      "date": {
+        "day": "06/12/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "milan open - women quarters",
+      "teams": {
+        "home": "milan open",
+        "away": "women quarters"
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "06/12/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "monaco - alba",
+      "teams": {
+        "home": "monaco",
+        "away": "alba"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "06/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "hero world challenger",
+      "date": {
+        "day": "06/12/2024",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "milan open - men quarters",
+      "teams": {
+        "home": "milan open",
+        "away": "men quarters"
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "06/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "olympiacos - paris",
+      "teams": {
+        "home": "olympiacos",
+        "away": "paris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "06/12/2024",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "virtus bologna - crvena",
+      "teams": {
+        "home": "virtus bologna",
+        "away": "crvena"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "06/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mirandes - levante",
+      "teams": {
+        "home": "mirandes",
+        "away": "levante"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "06/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "olimpia milano - lyon",
+      "teams": {
+        "home": "olimpia milano",
+        "away": "lyon"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "06/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "celta - mallorca",
+      "teams": {
+        "home": "celta",
+        "away": "mallorca"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "06/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "milan open - men quarters",
+      "teams": {
+        "home": "milan open",
+        "away": "men quarters"
+      },
+      "sport": "paddle",
+      "competition": "premier padel",
+      "date": {
+        "day": "06/12/2024",
+        "time": "22:00",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1733337629117
+  "updated": 1733339212082
 }
