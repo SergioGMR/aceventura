@@ -16,29 +16,15 @@
       "channels": []
     },
     {
-      "title": "1ª ronda vs a1 padel",
+      "title": "2ª ronda vs a1 padel",
       "teams": {
-        "home": "1ª ronda vs a1 padel"
+        "home": "2ª ronda vs a1 padel"
       },
       "sport": "soccer",
       "competition": "san juan open",
       "date": {
         "day": "04/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "anadolu efes istanbul vs fc bayern basketball",
-      "teams": {
-        "home": "anadolu efes istanbul vs fc bayern basketball"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "04/12/2024",
-        "time": "18:30",
+        "time": "18:00",
         "zone": "cet"
       },
       "channels": []
@@ -74,12 +60,12 @@
       "channels": []
     },
     {
-      "title": "españa vs italia",
+      "title": "sant andreu vs real betis",
       "teams": {
-        "home": "españa vs italia"
+        "home": "sant andreu vs real betis"
       },
       "sport": "soccer",
-      "competition": "amistoso femenino",
+      "competition": "copa del rey 2ª ronda camp municipal narcís sala, barcelona",
       "date": {
         "day": "04/12/2024",
         "time": "19:00",
@@ -88,9 +74,9 @@
       "channels": []
     },
     {
-      "title": "real ávila vs real valladolid",
+      "title": "unionistas vs rayo vallecano",
       "teams": {
-        "home": "real ávila vs real valladolid"
+        "home": "unionistas vs rayo vallecano"
       },
       "sport": "soccer",
       "competition": "copa del rey 2ª ronda",
@@ -102,72 +88,15 @@
       "channels": []
     },
     {
-      "title": "mallorca vs fc barcelona",
+      "title": "as monaco basket vs olympiacos piraeus",
       "teams": {
-        "home": "mallorca vs fc barcelona"
+        "home": "as monaco basket vs olympiacos piraeus"
       },
       "sport": "soccer",
-      "competition": "la liga ea sports",
+      "competition": "euroliga liga regular",
       "date": {
         "day": "04/12/2024",
         "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dolomiti energia trento vs dreamland gran canaria",
-      "teams": {
-        "home": "dolomiti energia trento vs dreamland gran canaria"
-      },
-      "sport": "soccer",
-      "competition": "eurocup liga regular",
-      "date": {
-        "day": "04/12/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "asvel lyon - villeurbanne vs real madrid baloncesto",
-      "teams": {
-        "home": "asvel lyon",
-        "away": "villeurbanne vs real madrid baloncesto"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "04/12/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "maccabi tel aviv bc vs paris basketball",
-      "teams": {
-        "home": "maccabi tel aviv bc vs paris basketball"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "04/12/2024",
-        "time": "20:05",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "panathinaikos bc vs barça basket",
-      "teams": {
-        "home": "panathinaikos bc vs barça basket"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "04/12/2024",
-        "time": "20:15",
         "zone": "cet"
       },
       "channels": []
@@ -233,9 +162,9 @@
       "channels": []
     },
     {
-      "title": "bc partizan beograd vs zalgiris kaunas",
+      "title": "ax olimpia milano vs crvena zvezda mts belgrade",
       "teams": {
-        "home": "bc partizan beograd vs zalgiris kaunas"
+        "home": "ax olimpia milano vs crvena zvezda mts belgrade"
       },
       "sport": "soccer",
       "competition": "euroliga liga regular",
@@ -247,12 +176,12 @@
       "channels": []
     },
     {
-      "title": "baskonia vs fenerbahce istanbul",
+      "title": "manchester city vs nottingham forest",
       "teams": {
-        "home": "baskonia vs fenerbahce istanbul"
+        "home": "manchester city vs nottingham forest"
       },
       "sport": "soccer",
-      "competition": "euroliga liga regular",
+      "competition": "premier league",
       "date": {
         "day": "04/12/2024",
         "time": "20:30",
@@ -261,9 +190,23 @@
       "channels": []
     },
     {
-      "title": "ipswich town vs crystal palace",
+      "title": "newcastle vs liverpool",
       "teams": {
-        "home": "ipswich town vs crystal palace"
+        "home": "newcastle vs liverpool"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "04/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "southampton vs chelsea",
+      "teams": {
+        "home": "southampton vs chelsea"
       },
       "sport": "soccer",
       "competition": "premier league",
@@ -305,6 +248,34 @@
       "channels": []
     },
     {
+      "title": "valencia basket vs hapoel jerusalem",
+      "teams": {
+        "home": "valencia basket vs hapoel jerusalem"
+      },
+      "sport": "soccer",
+      "competition": "eurocup liga regular",
+      "date": {
+        "day": "04/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "virtus bologna vs alba berlin",
+      "teams": {
+        "home": "virtus bologna vs alba berlin"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "04/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "ejea - valencia",
       "teams": {
         "home": "ejea",
@@ -335,12 +306,54 @@
       "channels": []
     },
     {
-      "title": "ud barbastro vs espanyol",
+      "title": "ud logroñés vs girona",
       "teams": {
-        "home": "ud barbastro vs espanyol"
+        "home": "ud logroñés vs girona"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 2ª ronda estadio nuevo municipal las gaunas, logroño",
+      "date": {
+        "day": "04/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cd estepona vs leganés",
+      "teams": {
+        "home": "cd estepona vs leganés"
       },
       "sport": "soccer",
       "competition": "copa del rey 2ª ronda",
+      "date": {
+        "day": "04/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ejea vs valencia cf",
+      "teams": {
+        "home": "ejea vs valencia cf"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 2ª ronda",
+      "date": {
+        "day": "04/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "athletic club vs real madrid",
+      "teams": {
+        "home": "athletic club vs real madrid"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
       "date": {
         "day": "04/12/2024",
         "time": "21:00",
@@ -364,23 +377,9 @@
       "channels": []
     },
     {
-      "title": "ce europa vs ud las palmas",
+      "title": "arsenal vs manchester utd.",
       "teams": {
-        "home": "ce europa vs ud las palmas"
-      },
-      "sport": "soccer",
-      "competition": "copa del rey 2ª ronda",
-      "date": {
-        "day": "04/12/2024",
-        "time": "21:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "leicester city vs west ham",
-      "teams": {
-        "home": "leicester city vs west ham"
+        "home": "arsenal vs manchester utd."
       },
       "sport": "soccer",
       "competition": "premier league",
@@ -392,5 +391,5 @@
       "channels": []
     }
   ],
-  "updated": 1733308730099
+  "updated": 1733310291327
 }
