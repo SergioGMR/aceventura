@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "atlanta hawks vs new orleans pelicans",
-      "teams": {
-        "home": "atlanta hawks vs new orleans pelicans"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "04/12/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 1",
       "teams": {
         "home": null,
@@ -406,5 +392,5 @@
       "channels": []
     }
   ],
-  "updated": 1733285168568
+  "updated": 1733287069442
 }
