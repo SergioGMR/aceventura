@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "hero world challenger",
-      "date": {
-        "day": "05/12/2024",
-        "time": "19:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "maccabi - barcelona",
       "teams": {
         "home": "maccabi",
@@ -1722,5 +1707,5 @@
       "channels": []
     }
   ],
-  "updated": 1733436335164
+  "updated": 1733438264123
 }
