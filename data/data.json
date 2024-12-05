@@ -1,122 +1,6 @@
 {
   "data": [
     {
-      "title": "zalgiris - anadolu",
-      "teams": {
-        "home": "zalgiris",
-        "away": "anadolu"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "05/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "draw",
-      "teams": {
-        "home": "draw"
-      },
-      "sport": "soccer",
-      "competition": "fifa clubs worldcup",
-      "date": {
-        "day": "05/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cacereño - atletico de madrid",
-      "teams": {
-        "home": "cacereño",
-        "away": "atletico de madrid"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "05/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ceuta - osasuna",
-      "teams": {
-        "home": "ceuta",
-        "away": "osasuna"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "05/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "orihuela - getafe",
-      "teams": {
-        "home": "orihuela",
-        "away": "getafe"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "05/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ad ceuta vs osasuna",
-      "teams": {
-        "home": "ad ceuta vs osasuna"
-      },
-      "sport": "soccer",
-      "competition": "copa del rey 2ª ronda",
-      "date": {
-        "day": "05/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cacereño vs at. madrid",
-      "teams": {
-        "home": "cacereño vs at. madrid"
-      },
-      "sport": "soccer",
-      "competition": "copa del rey 2ª ronda",
-      "date": {
-        "day": "05/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "orihuela vs getafe",
-      "teams": {
-        "home": "orihuela vs getafe"
-      },
-      "sport": "soccer",
-      "competition": "copa del rey 2ª ronda",
-      "date": {
-        "day": "05/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 1",
       "teams": {
         "home": null,
@@ -1838,5 +1722,5 @@
       "channels": []
     }
   ],
-  "updated": 1733434507008
+  "updated": 1733436335164
 }
