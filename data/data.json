@@ -146,20 +146,6 @@
       "channels": []
     },
     {
-      "title": "zalgiris kaunas vs anadolu efes istanbul",
-      "teams": {
-        "home": "zalgiris kaunas vs anadolu efes istanbul"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "05/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 1",
       "teams": {
         "home": null,
@@ -185,20 +171,6 @@
       "date": {
         "day": "05/12/2024",
         "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "maccabi tel aviv bc vs barça basket",
-      "teams": {
-        "home": "maccabi tel aviv bc vs barça basket"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "05/12/2024",
-        "time": "20:05",
         "zone": "cet"
       },
       "channels": []
@@ -249,34 +221,6 @@
       "channels": []
     },
     {
-      "title": "bc partizan beograd vs panathinaikos bc",
-      "teams": {
-        "home": "bc partizan beograd vs panathinaikos bc"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "05/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fc bayern basketball vs baskonia",
-      "teams": {
-        "home": "fc bayern basketball vs baskonia"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "05/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "fulham vs brighton",
       "teams": {
         "home": "fulham vs brighton"
@@ -298,20 +242,6 @@
       },
       "sport": "basketball",
       "competition": "euroleague",
-      "date": {
-        "day": "05/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real madrid baloncesto vs fenerbahce istanbul",
-      "teams": {
-        "home": "real madrid baloncesto vs fenerbahce istanbul"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
       "date": {
         "day": "05/12/2024",
         "time": "20:45",
@@ -1937,5 +1867,5 @@
       "channels": []
     }
   ],
-  "updated": 1733423984122
+  "updated": 1733425530422
 }
