@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "bayern munich - baskonia",
-      "teams": {
-        "home": "bayern munich",
-        "away": "baskonia"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "05/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "partizan - panathinaikos",
-      "teams": {
-        "home": "partizan",
-        "away": "panathinaikos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "05/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fulham - brighton",
-      "teams": {
-        "home": "fulham",
-        "away": "brighton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "05/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - fenerbahce",
       "teams": {
         "home": "real madrid",
@@ -1832,5 +1787,5 @@
       "channels": []
     }
   ],
-  "updated": 1733439968645
+  "updated": 1733441726811
 }
