@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "maccabi - barcelona",
-      "teams": {
-        "home": "maccabi",
-        "away": "barcelona"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "05/12/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bayern munich - baskonia",
       "teams": {
         "home": "bayern munich",
@@ -50,20 +35,6 @@
       "teams": {
         "home": "fulham",
         "away": "brighton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "05/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fulham vs brighton",
-      "teams": {
-        "home": "fulham vs brighton"
       },
       "sport": "soccer",
       "competition": "premier league",
@@ -135,52 +106,10 @@
       "channels": []
     },
     {
-      "title": "cd minera vs alavés",
-      "teams": {
-        "home": "cd minera vs alavés"
-      },
-      "sport": "soccer",
-      "competition": "copa del rey 2ª ronda",
-      "date": {
-        "day": "05/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "conquense vs real sociedad",
-      "teams": {
-        "home": "conquense vs real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "copa del rey 2ª ronda",
-      "date": {
-        "day": "05/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bournemouth - tottenham",
       "teams": {
         "home": "bournemouth",
         "away": "tottenham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "05/12/2024",
-        "time": "21:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bournemouth vs tottenham",
-      "teams": {
-        "home": "bournemouth vs tottenham"
       },
       "sport": "soccer",
       "competition": "premier league",
@@ -202,6 +131,20 @@
       "date": {
         "day": "06/12/2024",
         "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "miami heat vs los angeles lakers",
+      "teams": {
+        "home": "miami heat vs los angeles lakers"
+      },
+      "sport": "soccer",
+      "competition": "nba liga regular",
+      "date": {
+        "day": "06/12/2024",
+        "time": "01:30",
         "zone": "cet"
       },
       "channels": []
@@ -372,6 +315,20 @@
       "channels": []
     },
     {
+      "title": "2ª ronda vs a1 padel",
+      "teams": {
+        "home": "2ª ronda vs a1 padel"
+      },
+      "sport": "soccer",
+      "competition": "san juan open",
+      "date": {
+        "day": "06/12/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "monaco - alba",
       "teams": {
         "home": "monaco",
@@ -379,6 +336,62 @@
       },
       "sport": "basketball",
       "competition": "euroleague",
+      "date": {
+        "day": "06/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ad ceuta vs osasuna",
+      "teams": {
+        "home": "ad ceuta vs osasuna"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 2ª ronda",
+      "date": {
+        "day": "06/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cacereño vs at. madrid",
+      "teams": {
+        "home": "cacereño vs at. madrid"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 2ª ronda",
+      "date": {
+        "day": "06/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "orihuela vs getafe",
+      "teams": {
+        "home": "orihuela vs getafe"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 2ª ronda",
+      "date": {
+        "day": "06/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "zalgiris kaunas vs anadolu efes istanbul",
+      "teams": {
+        "home": "zalgiris kaunas vs anadolu efes istanbul"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
       "date": {
         "day": "06/12/2024",
         "time": "19:00",
@@ -412,6 +425,20 @@
       "date": {
         "day": "06/12/2024",
         "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "maccabi tel aviv bc vs barça basket",
+      "teams": {
+        "home": "maccabi tel aviv bc vs barça basket"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "06/12/2024",
+        "time": "20:05",
         "zone": "cet"
       },
       "channels": []
@@ -462,6 +489,48 @@
       "channels": []
     },
     {
+      "title": "bc partizan beograd vs panathinaikos bc",
+      "teams": {
+        "home": "bc partizan beograd vs panathinaikos bc"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "06/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fc bayern basketball vs baskonia",
+      "teams": {
+        "home": "fc bayern basketball vs baskonia"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "06/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fulham vs brighton",
+      "teams": {
+        "home": "fulham vs brighton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "06/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "olimpia milano - lyon",
       "teams": {
         "home": "olimpia milano",
@@ -469,6 +538,20 @@
       },
       "sport": "basketball",
       "competition": "euroleague",
+      "date": {
+        "day": "06/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid baloncesto vs fenerbahce istanbul",
+      "teams": {
+        "home": "real madrid baloncesto vs fenerbahce istanbul"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
       "date": {
         "day": "06/12/2024",
         "time": "20:45",
@@ -487,6 +570,48 @@
       "date": {
         "day": "06/12/2024",
         "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cd minera vs alavés",
+      "teams": {
+        "home": "cd minera vs alavés"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 2ª ronda",
+      "date": {
+        "day": "06/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "conquense vs real sociedad",
+      "teams": {
+        "home": "conquense vs real sociedad"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 2ª ronda",
+      "date": {
+        "day": "06/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bournemouth vs tottenham",
+      "teams": {
+        "home": "bournemouth vs tottenham"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "06/12/2024",
+        "time": "21:15",
         "zone": "cet"
       },
       "channels": []
@@ -1707,5 +1832,5 @@
       "channels": []
     }
   ],
-  "updated": 1733438264123
+  "updated": 1733439968645
 }
