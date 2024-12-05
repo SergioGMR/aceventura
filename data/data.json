@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "san juan open - round 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "05/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "2ª ronda vs a1 padel",
-      "teams": {
-        "home": "2ª ronda vs a1 padel"
-      },
-      "sport": "soccer",
-      "competition": "san juan open",
-      "date": {
-        "day": "05/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "zalgiris - anadolu",
       "teams": {
         "home": "zalgiris",
@@ -1867,5 +1838,5 @@
       "channels": []
     }
   ],
-  "updated": 1733431003879
+  "updated": 1733432753432
 }
