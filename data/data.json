@@ -1,111 +1,6 @@
 {
   "data": [
     {
-      "title": "valencia - hapoel",
-      "teams": {
-        "home": "valencia",
-        "away": "hapoel"
-      },
-      "sport": "basketball",
-      "competition": "eurocup",
-      "date": {
-        "day": "04/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "virtus bologna - alba berlin",
-      "teams": {
-        "home": "virtus bologna",
-        "away": "alba berlin"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "04/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ejea - valencia",
-      "teams": {
-        "home": "ejea",
-        "away": "valencia"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "04/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "pontevedra - villarreal",
-      "teams": {
-        "home": "pontevedra",
-        "away": "villarreal"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "04/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "estepona - leganes",
-      "teams": {
-        "home": "estepona",
-        "away": "leganes"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "04/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "athletic club - real madrid",
-      "teams": {
-        "home": "athletic club",
-        "away": "real madrid"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "04/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "arsenal - manchester united",
-      "teams": {
-        "home": "arsenal",
-        "away": "manchester united"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "04/12/2024",
-        "time": "21:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "heat - lakers",
       "teams": {
         "home": "heat",
@@ -2088,5 +1983,5 @@
       "channels": []
     }
   ],
-  "updated": 1733355313688
+  "updated": 1733358085728
 }
