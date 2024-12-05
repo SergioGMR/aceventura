@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "sweden - poland",
-      "teams": {
-        "home": "sweden",
-        "away": "poland"
-      },
-      "sport": "handball",
-      "competition": "ehf women european league",
-      "date": {
-        "day": "05/12/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "san juan open - round 2",
       "teams": {
         "home": null,
@@ -1952,5 +1937,5 @@
       "channels": []
     }
   ],
-  "updated": 1733422000202
+  "updated": 1733423984122
 }
