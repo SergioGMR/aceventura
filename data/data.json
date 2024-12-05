@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "dallas mavericks vs memphis grizzlies",
-      "teams": {
-        "home": "dallas mavericks vs memphis grizzlies"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "05/12/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 2",
       "teams": {
         "home": null,
@@ -1968,5 +1954,5 @@
       "channels": []
     }
   ],
-  "updated": 1733375182882
+  "updated": 1733377054597
 }
