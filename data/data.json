@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "nedbank golf championship",
-      "date": {
-        "day": "05/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sweden - poland",
       "teams": {
         "home": "sweden",
@@ -1967,5 +1952,5 @@
       "channels": []
     }
   ],
-  "updated": 1733411175483
+  "updated": 1733413035285
 }
