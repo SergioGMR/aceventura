@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "heat - lakers",
-      "teams": {
-        "home": "heat",
-        "away": "lakers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "05/12/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "dallas mavericks vs memphis grizzlies",
       "teams": {
         "home": "dallas mavericks vs memphis grizzlies"
@@ -1983,5 +1968,5 @@
       "channels": []
     }
   ],
-  "updated": 1733371627132
+  "updated": 1733373524599
 }
