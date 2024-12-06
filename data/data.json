@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "olympiacos - paris",
-      "teams": {
-        "home": "olympiacos",
-        "away": "paris"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "06/12/2024",
-        "time": "20:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "virtus bologna - crvena",
-      "teams": {
-        "home": "virtus bologna",
-        "away": "crvena"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "06/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mirandes - levante",
-      "teams": {
-        "home": "mirandes",
-        "away": "levante"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "06/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "olimpia milano - lyon",
       "teams": {
         "home": "olimpia milano",
@@ -1595,5 +1550,5 @@
       "channels": []
     }
   ],
-  "updated": 1733526347567
+  "updated": 1733528090861
 }
