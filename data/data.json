@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "g.p. abu dhabi (yas marina) vs libres 1",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs libres 1"
-      },
-      "sport": "soccer",
-      "competition": "fórmula 1",
-      "date": {
-        "day": "06/12/2024",
-        "time": "10:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - women quarters",
       "teams": {
         "home": "milan open",
@@ -1746,5 +1732,5 @@
       "channels": []
     }
   ],
-  "updated": 1733490713919
+  "updated": 1733492337908
 }
