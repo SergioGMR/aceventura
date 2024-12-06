@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "cavaliers - nuggets",
-      "teams": {
-        "home": "cavaliers",
-        "away": "nuggets"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "06/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "miami heat vs los angeles lakers",
       "teams": {
         "home": "miami heat vs los angeles lakers"
@@ -1712,5 +1697,5 @@
       "channels": []
     }
   ],
-  "updated": 1733456540855
+  "updated": 1733458021555
 }
