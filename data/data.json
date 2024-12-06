@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "miami heat vs los angeles lakers",
-      "teams": {
-        "home": "miami heat vs los angeles lakers"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "06/12/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "lions - packers",
       "teams": {
         "home": "lions",
@@ -1697,5 +1683,5 @@
       "channels": []
     }
   ],
-  "updated": 1733458021555
+  "updated": 1733459923260
 }
