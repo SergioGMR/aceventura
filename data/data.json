@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "milan open - men quarters",
-      "teams": {
-        "home": "milan open",
-        "away": "men quarters"
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "06/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 de final masculino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "milan open",
-      "date": {
-        "day": "06/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barça fs vs palma futsal",
-      "teams": {
-        "home": "barça fs vs palma futsal"
-      },
-      "sport": "soccer",
-      "competition": "primera federación futsal",
-      "date": {
-        "day": "06/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 - free training 2",
       "teams": {
         "home": "f1",
@@ -1673,5 +1629,5 @@
       "channels": []
     }
   ],
-  "updated": 1733499403859
+  "updated": 1733501178872
 }
