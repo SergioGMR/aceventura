@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f1 - free training 2",
-      "teams": {
-        "home": "f1",
-        "away": "free training 2"
-      },
-      "sport": "f1",
-      "competition": "abu dabi gp",
-      "date": {
-        "day": "06/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. abu dhabi (yas marina) vs libres 2",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs libres 2"
-      },
-      "sport": "soccer",
-      "competition": "fórmula 1",
-      "date": {
-        "day": "06/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - women quarters",
       "teams": {
         "home": "milan open",
@@ -1629,5 +1600,5 @@
       "channels": []
     }
   ],
-  "updated": 1733503143107
+  "updated": 1733504722610
 }
