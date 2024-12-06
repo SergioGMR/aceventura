@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f2 - classification",
-      "teams": {
-        "home": "f2",
-        "away": "classification"
-      },
-      "sport": "f1",
-      "competition": "abu dabi gp",
-      "date": {
-        "day": "06/12/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. abu dhabi (yas marina) vs clasificación",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs clasificación"
-      },
-      "sport": "soccer",
-      "competition": "fia fórmula 2",
-      "date": {
-        "day": "06/12/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - men quarters",
       "teams": {
         "home": "milan open",
@@ -1702,5 +1673,5 @@
       "channels": []
     }
   ],
-  "updated": 1733495866385
+  "updated": 1733497559440
 }
