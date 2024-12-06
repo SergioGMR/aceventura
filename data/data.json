@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f1 academy - classification",
-      "teams": {
-        "home": "f1 academy",
-        "away": "classification"
-      },
-      "sport": "f1",
-      "competition": "abu dabi gp",
-      "date": {
-        "day": "06/12/2024",
-        "time": "15:35",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. abu dhabi (yas marina) vs clasificación",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs clasificación"
-      },
-      "sport": "soccer",
-      "competition": "f1 academy",
-      "date": {
-        "day": "06/12/2024",
-        "time": "15:35",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - men quarters",
       "teams": {
         "home": "milan open",
@@ -1570,5 +1541,5 @@
       "channels": []
     }
   ],
-  "updated": 1733508416493
+  "updated": 1733510404907
 }
