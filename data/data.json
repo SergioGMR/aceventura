@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "hero world challenger",
-      "date": {
-        "day": "06/12/2024",
-        "time": "19:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - men quarters",
       "teams": {
         "home": "milan open",
@@ -1422,5 +1407,5 @@
       "channels": []
     }
   ],
-  "updated": 1733522717315
+  "updated": 1733524644202
 }
