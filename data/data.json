@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - fenerbahce",
-      "teams": {
-        "home": "real madrid",
-        "away": "fenerbahce"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "05/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "conquense - real sociedad",
-      "teams": {
-        "home": "conquense",
-        "away": "real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "05/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "minera - alaves",
-      "teams": {
-        "home": "minera",
-        "away": "alaves"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "05/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "olot - sevilla",
-      "teams": {
-        "home": "olot",
-        "away": "sevilla"
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "05/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bournemouth - tottenham",
-      "teams": {
-        "home": "bournemouth",
-        "away": "tottenham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "05/12/2024",
-        "time": "21:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "cavaliers - nuggets",
       "teams": {
         "home": "cavaliers",
@@ -1787,5 +1712,5 @@
       "channels": []
     }
   ],
-  "updated": 1733441726811
+  "updated": 1733444480080
 }
