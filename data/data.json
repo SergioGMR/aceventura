@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "monaco - alba",
-      "teams": {
-        "home": "monaco",
-        "away": "alba"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "06/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "as monaco basket vs alba berlin",
-      "teams": {
-        "home": "as monaco basket vs alba berlin"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "06/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 2",
       "teams": {
         "home": null,
@@ -1451,5 +1422,5 @@
       "channels": []
     }
   ],
-  "updated": 1733520882053
+  "updated": 1733522717315
 }
