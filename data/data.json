@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "milan open - women quarters",
-      "teams": {
-        "home": "milan open",
-        "away": "women quarters"
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "06/12/2024",
-        "time": "09:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 de final femenino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "milan open",
-      "date": {
-        "day": "06/12/2024",
-        "time": "09:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "g.p. abu dhabi (yas marina) vs libres 1",
       "teams": {
         "home": "g.p. abu dhabi (yas marina) vs libres 1"
@@ -1776,5 +1746,5 @@
       "channels": []
     }
   ],
-  "updated": 1733484872337
+  "updated": 1733486920769
 }
