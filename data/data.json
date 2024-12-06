@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "milan open - women quarters",
-      "teams": {
-        "home": "milan open",
-        "away": "women quarters"
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "06/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 de final femenino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "milan open",
-      "date": {
-        "day": "06/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 academy - classification",
       "teams": {
         "home": "f1 academy",
@@ -1600,5 +1570,5 @@
       "channels": []
     }
   ],
-  "updated": 1733506587264
+  "updated": 1733508416493
 }
