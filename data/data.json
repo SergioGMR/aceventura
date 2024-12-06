@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "lions - packers",
-      "teams": {
-        "home": "lions",
-        "away": "packers"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "06/12/2024",
-        "time": "02:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - women quarters",
       "teams": {
         "home": "milan open",
@@ -1683,5 +1668,5 @@
       "channels": []
     }
   ],
-  "updated": 1733461555381
+  "updated": 1733463444716
 }
