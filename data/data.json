@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "f2 - race 1",
-      "teams": {
-        "home": "f2",
-        "away": "race 1"
-      },
-      "sport": "f1",
-      "competition": "abu dabi gp",
-      "date": {
-        "day": "07/12/2024",
-        "time": "13:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. abu dhabi (yas marina) vs carrera 1",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs carrera 1"
-      },
-      "sport": "soccer",
-      "competition": "fia fórmula 2",
-      "date": {
-        "day": "07/12/2024",
-        "time": "13:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "everton - liverpool",
-      "teams": {
-        "home": "everton",
-        "away": "liverpool"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "las palmas - real valladolid",
       "teams": {
         "home": "las palmas",
@@ -1422,5 +1378,5 @@
       "channels": []
     }
   ],
-  "updated": 1733587547468
+  "updated": 1733589509192
 }
