@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f1 - free training 3",
-      "teams": {
-        "home": "f1",
-        "away": "free training 3"
-      },
-      "sport": "f1",
-      "competition": "abu dabi gp",
-      "date": {
-        "day": "07/12/2024",
-        "time": "11:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. abu dhabi (yas marina) vs libres 3",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs libres 3"
-      },
-      "sport": "soccer",
-      "competition": "fórmula 1",
-      "date": {
-        "day": "07/12/2024",
-        "time": "11:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "granada - deportivo abanca",
       "teams": {
         "home": "granada",
@@ -1495,5 +1466,5 @@
       "channels": []
     }
   ],
-  "updated": 1733580310551
+  "updated": 1733582163204
 }
