@@ -1,64 +1,6 @@
 {
   "data": [
     {
-      "title": "las palmas - real valladolid",
-      "teams": {
-        "home": "las palmas",
-        "away": "real valladolid"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "elche - cadiz",
-      "teams": {
-        "home": "elche",
-        "away": "cadiz"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "07/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ud las palmas vs real valladolid",
-      "teams": {
-        "home": "ud las palmas vs real valladolid"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "07/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "elche vs cádiz cf",
-      "teams": {
-        "home": "elche vs cádiz cf"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "07/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 - classification",
       "teams": {
         "home": "f1",
@@ -1378,5 +1320,5 @@
       "channels": []
     }
   ],
-  "updated": 1733589509192
+  "updated": 1733591120984
 }
