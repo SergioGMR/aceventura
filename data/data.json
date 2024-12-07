@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "nedbank golf challenger",
-      "date": {
-        "day": "07/12/2024",
-        "time": "10:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 - free training 3",
       "teams": {
         "home": "f1",
@@ -1510,5 +1495,5 @@
       "channels": []
     }
   ],
-  "updated": 1733575574731
+  "updated": 1733576980906
 }
