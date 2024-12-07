@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f1 academy - race 1",
-      "teams": {
-        "home": "f1 academy",
-        "away": "race 1"
-      },
-      "sport": "f1",
-      "competition": "abu dabi gp",
-      "date": {
-        "day": "07/12/2024",
-        "time": "17:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. abu dhabi (yas marina) vs carrera 2",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs carrera 2"
-      },
-      "sport": "soccer",
-      "competition": "f1 academy",
-      "date": {
-        "day": "07/12/2024",
-        "time": "17:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "andorra - zaragoza",
       "teams": {
         "home": "andorra",
@@ -1085,5 +1056,5 @@
       "channels": []
     }
   ],
-  "updated": 1733601932322
+  "updated": 1733603695946
 }
