@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "milan open - women semifinal",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "07/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f2 - race 1",
       "teams": {
         "home": "f2",
@@ -1437,5 +1422,5 @@
       "channels": []
     }
   ],
-  "updated": 1733585690816
+  "updated": 1733587547468
 }
