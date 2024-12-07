@@ -1,16 +1,15 @@
 {
   "data": [
     {
-      "title": "1/4 de final femenino vs premier padel tour",
+      "title": "g.p. abu dhabi (yas marina) vs carrera 1",
       "teams": {
-        "home": null,
-        "away": null
+        "home": "g.p. abu dhabi (yas marina) vs carrera 1"
       },
       "sport": "soccer",
-      "competition": "milan open",
+      "competition": "f1 academy",
       "date": {
         "day": "07/12/2024",
-        "time": "09:00",
+        "time": "09:15",
         "zone": "cet"
       },
       "channels": []
@@ -46,35 +45,6 @@
       "channels": []
     },
     {
-      "title": "g.p. abu dhabi (yas marina) vs libres 1",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs libres 1"
-      },
-      "sport": "soccer",
-      "competition": "fórmula 1",
-      "date": {
-        "day": "07/12/2024",
-        "time": "10:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 de final femenino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "milan open",
-      "date": {
-        "day": "07/12/2024",
-        "time": "11:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 - free training 3",
       "teams": {
         "home": "f1",
@@ -82,6 +52,20 @@
       },
       "sport": "f1",
       "competition": "abu dabi gp",
+      "date": {
+        "day": "07/12/2024",
+        "time": "11:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "g.p. abu dhabi (yas marina) vs libres 3",
+      "teams": {
+        "home": "g.p. abu dhabi (yas marina) vs libres 3"
+      },
+      "sport": "soccer",
+      "competition": "fórmula 1",
       "date": {
         "day": "07/12/2024",
         "time": "11:30",
@@ -105,20 +89,6 @@
       "channels": []
     },
     {
-      "title": "g.p. abu dhabi (yas marina) vs clasificación",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs clasificación"
-      },
-      "sport": "soccer",
-      "competition": "fia fórmula 2",
-      "date": {
-        "day": "07/12/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - women semifinal",
       "teams": {
         "home": null,
@@ -126,35 +96,6 @@
       },
       "sport": "paddle",
       "competition": "premier padel",
-      "date": {
-        "day": "07/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 de final masculino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "milan open",
-      "date": {
-        "day": "07/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barça fs vs palma futsal",
-      "teams": {
-        "home": "barça fs vs palma futsal"
-      },
-      "sport": "soccer",
-      "competition": "primera federación futsal",
       "date": {
         "day": "07/12/2024",
         "time": "13:00",
@@ -178,10 +119,38 @@
       "channels": []
     },
     {
+      "title": "g.p. abu dhabi (yas marina) vs carrera 1",
+      "teams": {
+        "home": "g.p. abu dhabi (yas marina) vs carrera 1"
+      },
+      "sport": "soccer",
+      "competition": "fia fórmula 2",
+      "date": {
+        "day": "07/12/2024",
+        "time": "13:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "everton - liverpool",
       "teams": {
         "home": "everton",
         "away": "liverpool"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "07/12/2024",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "everton vs liverpool",
+      "teams": {
+        "home": "everton vs liverpool"
       },
       "sport": "soccer",
       "competition": "premier league",
@@ -223,12 +192,26 @@
       "channels": []
     },
     {
-      "title": "g.p. abu dhabi (yas marina) vs libres 2",
+      "title": "ud las palmas vs real valladolid",
       "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs libres 2"
+        "home": "ud las palmas vs real valladolid"
       },
       "sport": "soccer",
-      "competition": "fórmula 1",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "07/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "elche vs cádiz cf",
+      "teams": {
+        "home": "elche vs cádiz cf"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
       "date": {
         "day": "07/12/2024",
         "time": "14:00",
@@ -267,7 +250,21 @@
       "channels": []
     },
     {
-      "title": "1/4 de final femenino vs premier padel tour",
+      "title": "g.p. abu dhabi (yas marina) vs clasificación",
+      "teams": {
+        "home": "g.p. abu dhabi (yas marina) vs clasificación"
+      },
+      "sport": "soccer",
+      "competition": "fórmula 1",
+      "date": {
+        "day": "07/12/2024",
+        "time": "15:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "semifinal masculina vs premier padel tour",
       "teams": {
         "home": null,
         "away": null
@@ -277,20 +274,6 @@
       "date": {
         "day": "07/12/2024",
         "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. abu dhabi (yas marina) vs clasificación",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs clasificación"
-      },
-      "sport": "soccer",
-      "competition": "f1 academy",
-      "date": {
-        "day": "07/12/2024",
-        "time": "15:35",
         "zone": "cet"
       },
       "channels": []
@@ -333,6 +316,34 @@
       },
       "sport": "soccer (w)",
       "competition": "spanish league",
+      "date": {
+        "day": "07/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "brentford vs newcastle",
+      "teams": {
+        "home": "brentford vs newcastle"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "07/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "crystal palace vs manchester city",
+      "teams": {
+        "home": "crystal palace vs manchester city"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
       "date": {
         "day": "07/12/2024",
         "time": "16:00",
@@ -386,6 +397,34 @@
       "channels": []
     },
     {
+      "title": "real betis vs fc barcelona",
+      "teams": {
+        "home": "real betis vs fc barcelona"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "07/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "granada cf vs racing santander",
+      "teams": {
+        "home": "granada cf vs racing santander"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "07/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "ensino lugo - celta",
       "teams": {
         "home": "ensino lugo",
@@ -416,21 +455,6 @@
       "channels": []
     },
     {
-      "title": "1/4 de final masculino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "milan open",
-      "date": {
-        "day": "07/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 academy - race 1",
       "teams": {
         "home": "f1 academy",
@@ -438,6 +462,20 @@
       },
       "sport": "f1",
       "competition": "abu dabi gp",
+      "date": {
+        "day": "07/12/2024",
+        "time": "17:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "g.p. abu dhabi (yas marina) vs carrera 2",
+      "teams": {
+        "home": "g.p. abu dhabi (yas marina) vs carrera 2"
+      },
+      "sport": "soccer",
+      "competition": "f1 academy",
       "date": {
         "day": "07/12/2024",
         "time": "17:15",
@@ -461,13 +499,12 @@
       "channels": []
     },
     {
-      "title": "1/4 de final femenino vs premier padel tour",
+      "title": "sao paulo (brasil) vs carrera",
       "teams": {
-        "home": null,
-        "away": null
+        "home": "sao paulo (brasil) vs carrera"
       },
       "sport": "soccer",
-      "competition": "milan open",
+      "competition": "fia fórmula e",
       "date": {
         "day": "07/12/2024",
         "time": "18:00",
@@ -476,13 +513,12 @@
       "channels": []
     },
     {
-      "title": "1/4 de final vs a1 padel",
+      "title": "morabanc andorra vs casademont zaragoza",
       "teams": {
-        "home": null,
-        "away": null
+        "home": "morabanc andorra vs casademont zaragoza"
       },
       "sport": "soccer",
-      "competition": "san juan open",
+      "competition": "liga endesa liga regular",
       "date": {
         "day": "07/12/2024",
         "time": "18:00",
@@ -566,6 +602,48 @@
       "channels": []
     },
     {
+      "title": "valencia cf vs rayo vallecano",
+      "teams": {
+        "home": "valencia cf vs rayo vallecano"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "07/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "deportivo vs real zaragoza",
+      "teams": {
+        "home": "deportivo vs real zaragoza"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "07/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester utd. vs nottingham forest",
+      "teams": {
+        "home": "manchester utd. vs nottingham forest"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "07/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "barcelona - real betis",
       "teams": {
         "home": "barcelona",
@@ -573,20 +651,6 @@
       },
       "sport": "soccer (w)",
       "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "as monaco basket vs alba berlin",
-      "teams": {
-        "home": "as monaco basket vs alba berlin"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
       "date": {
         "day": "07/12/2024",
         "time": "19:00",
@@ -610,21 +674,6 @@
       "channels": []
     },
     {
-      "title": "1/4 de final masculino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "milan open",
-      "date": {
-        "day": "07/12/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - men semifinal",
       "teams": {
         "home": null,
@@ -640,43 +689,16 @@
       "channels": []
     },
     {
-      "title": "olympiacos piraeus vs paris basketball",
+      "title": "semifinal masculina vs premier padel tour",
       "teams": {
-        "home": "olympiacos piraeus vs paris basketball"
+        "home": null,
+        "away": null
       },
       "sport": "soccer",
-      "competition": "euroliga liga regular",
+      "competition": "milan open",
       "date": {
         "day": "07/12/2024",
         "time": "20:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "virtus bologna vs crvena zvezda mts belgrade",
-      "teams": {
-        "home": "virtus bologna vs crvena zvezda mts belgrade"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "07/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mirandés vs levante",
-      "teams": {
-        "home": "mirandés vs levante"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "07/12/2024",
-        "time": "20:30",
         "zone": "cet"
       },
       "channels": []
@@ -712,13 +734,26 @@
       "channels": []
     },
     {
-      "title": "ax olimpia milano vs asvel lyon - villeurbanne",
+      "title": "la laguna tenerife vs força lleida",
       "teams": {
-        "home": "ax olimpia milano vs asvel lyon",
-        "away": "villeurbanne"
+        "home": "la laguna tenerife vs força lleida"
       },
       "sport": "soccer",
-      "competition": "euroliga liga regular",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "07/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia basket vs basquet girona",
+      "teams": {
+        "home": "valencia basket vs basquet girona"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
       "date": {
         "day": "07/12/2024",
         "time": "20:45",
@@ -772,9 +807,9 @@
       "channels": []
     },
     {
-      "title": "celta vs mallorca",
+      "title": "girona vs real madrid",
       "teams": {
-        "home": "celta vs mallorca"
+        "home": "girona vs real madrid"
       },
       "sport": "soccer",
       "competition": "la liga ea sports",
@@ -786,16 +821,29 @@
       "channels": []
     },
     {
-      "title": "1/4 de final masculino vs premier padel tour",
+      "title": "huesca vs eibar",
       "teams": {
-        "home": null,
-        "away": null
+        "home": "huesca vs eibar"
       },
       "sport": "soccer",
-      "competition": "milan open",
+      "competition": "laliga hypermotion",
       "date": {
         "day": "07/12/2024",
-        "time": "22:00",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "básquet coruña vs baxi manresa",
+      "teams": {
+        "home": "básquet coruña vs baxi manresa"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "07/12/2024",
+        "time": "21:00",
         "zone": "cet"
       },
       "channels": []
@@ -808,6 +856,21 @@
       },
       "sport": "paddle",
       "competition": "a1 paddle",
+      "date": {
+        "day": "07/12/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "semifinales vs a1 padel",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "san juan open",
       "date": {
         "day": "07/12/2024",
         "time": "23:00",
@@ -1476,5 +1539,5 @@
       "channels": []
     }
   ],
-  "updated": 1733567887676
+  "updated": 1733569504067
 }
