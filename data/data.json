@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "76ers - magic",
-      "teams": {
-        "home": "76ers",
-        "away": "magic"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "07/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cleveland cavaliers vs denver nuggets",
-      "teams": {
-        "home": "cleveland cavaliers vs denver nuggets"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "07/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "1/4 de final femenino vs premier padel tour",
       "teams": {
         "home": null,
@@ -1505,5 +1476,5 @@
       "channels": []
     }
   ],
-  "updated": 1733542928319
+  "updated": 1733546287970
 }
