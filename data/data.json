@@ -1,79 +1,6 @@
 {
   "data": [
     {
-      "title": "brentford - newcastle",
-      "teams": {
-        "home": "brentford",
-        "away": "newcastle"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "crystal palace - manchester city",
-      "teams": {
-        "home": "crystal palace",
-        "away": "manchester city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "athletic club - levante badalona",
-      "teams": {
-        "home": "athletic club",
-        "away": "levante badalona"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "brentford vs newcastle",
-      "teams": {
-        "home": "brentford vs newcastle"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "crystal palace vs manchester city",
-      "teams": {
-        "home": "crystal palace vs manchester city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "the stormers - toulon",
       "teams": {
         "home": "the stormers",
@@ -1261,5 +1188,5 @@
       "channels": []
     }
   ],
-  "updated": 1733596743929
+  "updated": 1733598284571
 }
