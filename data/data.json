@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "granada - deportivo abanca",
-      "teams": {
-        "home": "granada",
-        "away": "deportivo abanca"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - women semifinal",
       "teams": {
         "home": null,
@@ -64,20 +49,6 @@
       "teams": {
         "home": "everton",
         "away": "liverpool"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "everton vs liverpool",
-      "teams": {
-        "home": "everton vs liverpool"
       },
       "sport": "soccer",
       "competition": "premier league",
@@ -1466,5 +1437,5 @@
       "channels": []
     }
   ],
-  "updated": 1733582163204
+  "updated": 1733583911482
 }
