@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "milan open - men quarters",
-      "teams": {
-        "home": "milan open",
-        "away": "men quarters"
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "06/12/2024",
-        "time": "22:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "76ers - magic",
       "teams": {
         "home": "76ers",
@@ -1520,5 +1505,5 @@
       "channels": []
     }
   ],
-  "updated": 1733532579917
+  "updated": 1733535186469
 }
