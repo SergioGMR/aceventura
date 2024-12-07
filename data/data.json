@@ -1,49 +1,6 @@
 {
   "data": [
     {
-      "title": "andorra - zaragoza",
-      "teams": {
-        "home": "andorra",
-        "away": "zaragoza"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sao paulo (brasil) vs carrera",
-      "teams": {
-        "home": "sao paulo (brasil) vs carrera"
-      },
-      "sport": "soccer",
-      "competition": "fia fórmula e",
-      "date": {
-        "day": "07/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "morabanc andorra vs casademont zaragoza",
-      "teams": {
-        "home": "morabanc andorra vs casademont zaragoza"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "07/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - women semifinal",
       "teams": {
         "home": null,
@@ -1056,5 +1013,5 @@
       "channels": []
     }
   ],
-  "updated": 1733603695946
+  "updated": 1733605488618
 }
