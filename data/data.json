@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - real betis",
-      "teams": {
-        "home": "barcelona",
-        "away": "real betis"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 3",
       "teams": {
         "home": null,
@@ -896,5 +881,5 @@
       "channels": []
     }
   ],
-  "updated": 1733607238967
+  "updated": 1733609151778
 }
