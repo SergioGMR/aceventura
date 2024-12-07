@@ -1,94 +1,6 @@
 {
   "data": [
     {
-      "title": "the stormers - toulon",
-      "teams": {
-        "home": "the stormers",
-        "away": "toulon"
-      },
-      "sport": "rugby",
-      "competition": "champions cup",
-      "date": {
-        "day": "07/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real betis - barcelona",
-      "teams": {
-        "home": "real betis",
-        "away": "barcelona"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granada - racing santander",
-      "teams": {
-        "home": "granada",
-        "away": "racing santander"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "07/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real betis vs fc barcelona",
-      "teams": {
-        "home": "real betis vs fc barcelona"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "07/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granada cf vs racing santander",
-      "teams": {
-        "home": "granada cf vs racing santander"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "07/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ensino lugo - celta",
-      "teams": {
-        "home": "ensino lugo",
-        "away": "celta"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - sevilla",
       "teams": {
         "home": "real madrid",
@@ -1188,5 +1100,5 @@
       "channels": []
     }
   ],
-  "updated": 1733598284571
+  "updated": 1733600055061
 }
