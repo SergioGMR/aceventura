@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "olimpia milano - lyon",
-      "teams": {
-        "home": "olimpia milano",
-        "away": "lyon"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "06/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "celta - mallorca",
-      "teams": {
-        "home": "celta",
-        "away": "mallorca"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "06/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - men quarters",
       "teams": {
         "home": "milan open",
@@ -1550,5 +1520,5 @@
       "channels": []
     }
   ],
-  "updated": 1733528090861
+  "updated": 1733530850194
 }
