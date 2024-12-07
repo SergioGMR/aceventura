@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "g.p. abu dhabi (yas marina) vs carrera 1",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs carrera 1"
-      },
-      "sport": "soccer",
-      "competition": "f1 academy",
-      "date": {
-        "day": "07/12/2024",
-        "time": "09:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "stage 4",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "international saudi pif",
-      "date": {
-        "day": "07/12/2024",
-        "time": "09:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 3",
       "teams": {
         "home": null,
@@ -1539,5 +1510,5 @@
       "channels": []
     }
   ],
-  "updated": 1733573278683
+  "updated": 1733575574731
 }
