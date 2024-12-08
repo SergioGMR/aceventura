@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "tenerife - lleida",
-      "teams": {
-        "home": "tenerife",
-        "away": "lleida"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "valencia - girona",
-      "teams": {
-        "home": "valencia",
-        "away": "girona"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "coruña - manresa",
-      "teams": {
-        "home": "coruña",
-        "away": "manresa"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "girona - real madrid",
-      "teams": {
-        "home": "girona",
-        "away": "real madrid"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "07/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "huesca - eibar",
-      "teams": {
-        "home": "huesca",
-        "away": "eibar"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "07/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "san juan open - semifinals",
       "teams": {
         "home": null,
@@ -1104,5 +1029,5 @@
       "channels": []
     }
   ],
-  "updated": 1733614473143
+  "updated": 1733617376655
 }
