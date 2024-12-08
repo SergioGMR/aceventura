@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "f2 - race 2",
-      "teams": {
-        "home": "f2",
-        "away": "race 2"
-      },
-      "sport": "f1",
-      "competition": "abu dabi gp",
-      "date": {
-        "day": "08/12/2024",
-        "time": "10:25",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. abu dhabi (yas marina) vs carrera 2",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs carrera 2"
-      },
-      "sport": "soccer",
-      "competition": "fia fórmula 2",
-      "date": {
-        "day": "08/12/2024",
-        "time": "10:25",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "eibar - real sociedad",
       "teams": {
         "home": "eibar",
@@ -939,5 +910,5 @@
       "channels": []
     }
   ],
-  "updated": 1733663392704
+  "updated": 1733664999439
 }
