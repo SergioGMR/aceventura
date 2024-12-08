@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "madrid cff - levante",
-      "teams": {
-        "home": "madrid cff",
-        "away": "levante"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stade toulouse - ulster",
       "teams": {
         "home": "stade toulouse",
@@ -575,5 +560,5 @@
       "channels": []
     }
   ],
-  "updated": 1733681173633
+  "updated": 1733684674941
 }
