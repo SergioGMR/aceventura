@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "gran canaria - rio breogan",
-      "teams": {
-        "home": "gran canaria",
-        "away": "rio breogan"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tenerife - atletico de madrid",
-      "teams": {
-        "home": "tenerife",
-        "away": "atletico de madrid"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dreamland gran canaria vs río breogán",
-      "teams": {
-        "home": "dreamland gran canaria vs río breogán"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "08/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 - race",
       "teams": {
         "home": "f1",
@@ -808,5 +764,5 @@
       "channels": []
     }
   ],
-  "updated": 1733672120757
+  "updated": 1733673921044
 }
