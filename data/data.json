@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "red zone",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "08/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "vikings - falcons",
-      "teams": {
-        "home": "vikings",
-        "away": "falcons"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "08/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atletico de madrid - sevilla\natletico de madrid-sevilla",
       "teams": {
         "home": "atletico de madrid",
@@ -268,5 +238,5 @@
       "channels": []
     }
   ],
-  "updated": 1733693623198
+  "updated": 1733695472720
 }
