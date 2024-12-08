@@ -1,65 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - murcia",
-      "teams": {
-        "home": "barcelona",
-        "away": "murcia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "milan open - men final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "08/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barça basket vs ucam murcia cb",
-      "teams": {
-        "home": "barça basket vs ucam murcia cb"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "08/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "final masculina vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "milan open",
-      "date": {
-        "day": "08/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "tottenham - chelsea",
       "teams": {
         "home": "tottenham",
@@ -487,5 +428,5 @@
       "channels": []
     }
   ],
-  "updated": 1733686428865
+  "updated": 1733688321547
 }
