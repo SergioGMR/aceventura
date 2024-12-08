@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "eibar - real sociedad",
-      "teams": {
-        "home": "eibar",
-        "away": "real sociedad"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "estudiantes - ourense",
       "teams": {
         "home": "estudiantes",
@@ -910,5 +895,5 @@
       "channels": []
     }
   ],
-  "updated": 1733668536413
+  "updated": 1733670319500
 }
