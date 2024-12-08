@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "raptors - mavericks",
-      "teams": {
-        "home": "raptors",
-        "away": "mavericks"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "08/12/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f1 academy - race 2",
       "teams": {
         "home": "f1 academy",
@@ -985,5 +970,5 @@
       "channels": []
     }
   ],
-  "updated": 1733630781544
+  "updated": 1733632662098
 }
