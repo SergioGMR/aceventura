@@ -1,122 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - unicaja",
-      "teams": {
-        "home": "real madrid",
-        "away": "unicaja"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "osasuna - alaves",
-      "teams": {
-        "home": "osasuna",
-        "away": "alaves"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "albacete - castellon",
-      "teams": {
-        "home": "albacete",
-        "away": "castellon"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "08/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "burgos - eldense",
-      "teams": {
-        "home": "burgos",
-        "away": "eldense"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "08/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "osasuna vs alavés",
-      "teams": {
-        "home": "osasuna vs alavés"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "08/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "albacete vs cd castellón",
-      "teams": {
-        "home": "albacete vs cd castellón"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "08/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "burgos cf vs eldense",
-      "teams": {
-        "home": "burgos cf vs eldense"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "08/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real madrid baloncesto vs unicaja málaga",
-      "teams": {
-        "home": "real madrid baloncesto vs unicaja málaga"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "08/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red zone",
       "teams": {
         "home": null,
@@ -384,5 +268,5 @@
       "channels": []
     }
   ],
-  "updated": 1733691880441
+  "updated": 1733693623198
 }
