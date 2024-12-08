@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 4",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "hero world challenger",
-      "date": {
-        "day": "08/12/2024",
-        "time": "10:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "f2 - race 2",
       "teams": {
         "home": "f2",
@@ -954,5 +939,5 @@
       "channels": []
     }
   ],
-  "updated": 1733661962624
+  "updated": 1733663392704
 }
