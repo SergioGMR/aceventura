@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "paro - hitchins",
-      "teams": {
-        "home": "paro",
-        "away": "hitchins"
-      },
-      "sport": "boxing",
-      "competition": "boxing event",
-      "date": {
-        "day": "08/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "philadelphia 76ers vs orlando magic",
-      "teams": {
-        "home": "philadelphia 76ers vs orlando magic"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "08/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "raptors - mavericks",
       "teams": {
         "home": "raptors",
@@ -1014,5 +985,5 @@
       "channels": []
     }
   ],
-  "updated": 1733629383240
+  "updated": 1733630781544
 }
