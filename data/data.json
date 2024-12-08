@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "tottenham - chelsea",
-      "teams": {
-        "home": "tottenham",
-        "away": "chelsea"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "17:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tottenham vs chelsea",
-      "teams": {
-        "home": "tottenham vs chelsea"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "17:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "espanyol - valencia",
       "teams": {
         "home": "espanyol",
@@ -428,5 +399,5 @@
       "channels": []
     }
   ],
-  "updated": 1733688321547
+  "updated": 1733690082061
 }
