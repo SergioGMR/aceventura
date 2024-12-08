@@ -1,79 +1,6 @@
 {
   "data": [
     {
-      "title": "stade toulouse - ulster",
-      "teams": {
-        "home": "stade toulouse",
-        "away": "ulster"
-      },
-      "sport": "rugby",
-      "competition": "champions cup",
-      "date": {
-        "day": "08/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "athletic club - villarreal",
-      "teams": {
-        "home": "athletic club",
-        "away": "villarreal"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "malaga - almeria",
-      "teams": {
-        "home": "malaga",
-        "away": "almeria"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "08/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "athletic club vs villarreal",
-      "teams": {
-        "home": "athletic club vs villarreal"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "08/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "málaga vs ud almería",
-      "teams": {
-        "home": "málaga vs ud almería"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "08/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "barcelona - murcia",
       "teams": {
         "home": "barcelona",
@@ -560,5 +487,5 @@
       "channels": []
     }
   ],
-  "updated": 1733684674941
+  "updated": 1733686428865
 }
