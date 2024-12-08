@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "san juan open - semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "07/12/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "paro - hitchins",
       "teams": {
         "home": "paro",
@@ -1029,5 +1014,5 @@
       "channels": []
     }
   ],
-  "updated": 1733621605750
+  "updated": 1733625247242
 }
