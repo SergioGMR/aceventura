@@ -1,93 +1,6 @@
 {
   "data": [
     {
-      "title": "f1 - race",
-      "teams": {
-        "home": "f1",
-        "away": "race"
-      },
-      "sport": "f1",
-      "competition": "abu dabi gp",
-      "date": {
-        "day": "08/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "leganes - real sociedad",
-      "teams": {
-        "home": "leganes",
-        "away": "real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "racing ferrol - real oviedo",
-      "teams": {
-        "home": "racing ferrol",
-        "away": "real oviedo"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "08/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. abu dhabi (yas marina) vs carrera",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs carrera"
-      },
-      "sport": "soccer",
-      "competition": "fórmula 1",
-      "date": {
-        "day": "08/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "leganés vs real sociedad",
-      "teams": {
-        "home": "leganés vs real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "08/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "racing ferrol vs real oviedo",
-      "teams": {
-        "home": "racing ferrol vs real oviedo"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "08/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milan open - women final",
       "teams": {
         "home": null,
@@ -764,5 +677,5 @@
       "channels": []
     }
   ],
-  "updated": 1733675870477
+  "updated": 1733677499111
 }
