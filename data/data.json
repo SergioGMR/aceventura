@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "espanyol - valencia",
-      "teams": {
-        "home": "espanyol",
-        "away": "valencia"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - unicaja",
       "teams": {
         "home": "real madrid",
@@ -399,5 +384,5 @@
       "channels": []
     }
   ],
-  "updated": 1733690082061
+  "updated": 1733691880441
 }
