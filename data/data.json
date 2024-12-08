@@ -1,108 +1,6 @@
 {
   "data": [
     {
-      "title": "milan open - women final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "08/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fulham - arsenal",
-      "teams": {
-        "home": "fulham",
-        "away": "arsenal"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ipswitch - bournemouth",
-      "teams": {
-        "home": "ipswitch",
-        "away": "bournemouth"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "leiceter - brighton",
-      "teams": {
-        "home": "leiceter",
-        "away": "brighton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fulham vs arsenal",
-      "teams": {
-        "home": "fulham vs arsenal"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ipswich town vs bournemouth",
-      "teams": {
-        "home": "ipswich town vs bournemouth"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "leicester city vs brighton",
-      "teams": {
-        "home": "leicester city vs brighton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "madrid cff - levante",
       "teams": {
         "home": "madrid cff",
@@ -677,5 +575,5 @@
       "channels": []
     }
   ],
-  "updated": 1733679272598
+  "updated": 1733681173633
 }
