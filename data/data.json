@@ -1,93 +1,6 @@
 {
   "data": [
     {
-      "title": "estudiantes - ourense",
-      "teams": {
-        "home": "estudiantes",
-        "away": "ourense"
-      },
-      "sport": "basketball",
-      "competition": "feb",
-      "date": {
-        "day": "08/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bilbao - baskonia",
-      "teams": {
-        "home": "bilbao",
-        "away": "baskonia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granada - joventut",
-      "teams": {
-        "home": "granada",
-        "away": "joventut"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bilbao basket vs baskonia",
-      "teams": {
-        "home": "bilbao basket vs baskonia"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "08/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "coviran granada vs joventut badalona",
-      "teams": {
-        "home": "coviran granada vs joventut badalona"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "08/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "movistar estudiantes vs club ourense baloncesto",
-      "teams": {
-        "home": "movistar estudiantes vs club ourense baloncesto"
-      },
-      "sport": "soccer",
-      "competition": "primera feb liga regular",
-      "date": {
-        "day": "08/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "gran canaria - rio breogan",
       "teams": {
         "home": "gran canaria",
@@ -895,5 +808,5 @@
       "channels": []
     }
   ],
-  "updated": 1733670319500
+  "updated": 1733672120757
 }
