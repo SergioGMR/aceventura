@@ -1,76 +1,6 @@
 {
   "data": [
     {
-      "title": "g.p. abu dhabi (yas marina) vs carrera 3",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs carrera 3"
-      },
-      "sport": "soccer",
-      "competition": "f1 academy",
-      "date": {
-        "day": "09/12/2024",
-        "time": "08:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. abu dhabi (yas marina) vs carrera 2",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs carrera 2"
-      },
-      "sport": "soccer",
-      "competition": "fia fórmula 2",
-      "date": {
-        "day": "09/12/2024",
-        "time": "10:25",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bilbao basket vs baskonia",
-      "teams": {
-        "home": "bilbao basket vs baskonia"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "09/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "coviran granada vs joventut badalona",
-      "teams": {
-        "home": "coviran granada vs joventut badalona"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "09/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "movistar estudiantes vs club ourense baloncesto",
-      "teams": {
-        "home": "movistar estudiantes vs club ourense baloncesto"
-      },
-      "sport": "soccer",
-      "competition": "primera feb liga regular",
-      "date": {
-        "day": "09/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round of 16",
       "teams": {
         "home": null,
@@ -86,226 +16,16 @@
       "channels": []
     },
     {
-      "title": "dreamland gran canaria vs río breogán",
-      "teams": {
-        "home": "dreamland gran canaria vs río breogán"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "09/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "g.p. abu dhabi (yas marina) vs carrera",
-      "teams": {
-        "home": "g.p. abu dhabi (yas marina) vs carrera"
-      },
-      "sport": "soccer",
-      "competition": "fórmula 1",
-      "date": {
-        "day": "09/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "leganés vs real sociedad",
-      "teams": {
-        "home": "leganés vs real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "09/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "racing ferrol vs real oviedo",
-      "teams": {
-        "home": "racing ferrol vs real oviedo"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "09/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fulham vs arsenal",
-      "teams": {
-        "home": "fulham vs arsenal"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "09/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ipswich town vs bournemouth",
-      "teams": {
-        "home": "ipswich town vs bournemouth"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "09/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "leicester city vs brighton",
-      "teams": {
-        "home": "leicester city vs brighton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "09/12/2024",
-        "time": "15:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "athletic club vs villarreal",
-      "teams": {
-        "home": "athletic club vs villarreal"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "09/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "málaga vs ud almería",
-      "teams": {
-        "home": "málaga vs ud almería"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "09/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barça basket vs ucam murcia cb",
-      "teams": {
-        "home": "barça basket vs ucam murcia cb"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "09/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "final masculina vs premier padel tour",
+      "title": "sorteo dieciseisavos de final vs m+ vamos (8 y 53)",
       "teams": {
         "home": null,
         "away": null
       },
       "sport": "soccer",
-      "competition": "milan open",
+      "competition": "copa del rey",
       "date": {
         "day": "09/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tottenham vs chelsea",
-      "teams": {
-        "home": "tottenham vs chelsea"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "09/12/2024",
-        "time": "17:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "osasuna vs alavés",
-      "teams": {
-        "home": "osasuna vs alavés"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "09/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "albacete vs cd castellón",
-      "teams": {
-        "home": "albacete vs cd castellón"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "09/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "burgos cf vs eldense",
-      "teams": {
-        "home": "burgos cf vs eldense"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "09/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real madrid baloncesto vs unicaja málaga",
-      "teams": {
-        "home": "real madrid baloncesto vs unicaja málaga"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "09/12/2024",
-        "time": "18:30",
+        "time": "13:00",
         "zone": "cet"
       },
       "channels": []
@@ -318,6 +38,20 @@
       },
       "sport": "soccer",
       "competition": "spanish league 2",
+      "date": {
+        "day": "09/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fc cartagena vs sporting gijón",
+      "teams": {
+        "home": "fc cartagena vs sporting gijón"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion estadio municipal cartagonova, cartagena",
       "date": {
         "day": "09/12/2024",
         "time": "20:30",
@@ -341,58 +75,15 @@
       "channels": []
     },
     {
-      "title": "at. madrid vs sevilla fc",
+      "title": "getafe vs espanyol",
       "teams": {
-        "home": "at. madrid vs sevilla fc"
+        "home": "getafe vs espanyol"
       },
       "sport": "soccer",
       "competition": "la liga ea sports",
       "date": {
         "day": "09/12/2024",
         "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "córdoba vs cd tenerife",
-      "teams": {
-        "home": "córdoba vs cd tenerife"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "09/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "brooklyn nets vs milwaukee bucks",
-      "teams": {
-        "home": "brooklyn nets vs milwaukee bucks"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "09/12/2024",
-        "time": "21:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "final vs a1 padel",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "san juan open",
-      "date": {
-        "day": "09/12/2024",
-        "time": "23:00",
         "zone": "cet"
       },
       "channels": []
@@ -428,5 +119,5 @@
       "channels": []
     }
   ],
-  "updated": 1733740757378
+  "updated": 1733742278168
 }
