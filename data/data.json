@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "round of 16",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "spanish cup",
-      "date": {
-        "day": "09/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sorteo dieciseisavos de final vs m+ vamos (8 y 53)",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "copa del rey",
-      "date": {
-        "day": "09/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "cartagena - sporting gijon",
       "teams": {
         "home": "cartagena",
@@ -119,5 +89,5 @@
       "channels": []
     }
   ],
-  "updated": 1733758589081
+  "updated": 1733760342732
 }
