@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "rams - bills",
-      "teams": {
-        "home": "rams",
-        "away": "bills"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "08/12/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "red zone",
       "teams": {
         "home": null,
@@ -530,5 +515,5 @@
       "channels": []
     }
   ],
-  "updated": 1733705360304
+  "updated": 1733708002220
 }
