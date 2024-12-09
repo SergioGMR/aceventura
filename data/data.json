@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "cartagena - sporting gijon",
-      "teams": {
-        "home": "cartagena",
-        "away": "sporting gijon"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "09/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "getafe - espanyol",
       "teams": {
         "home": "getafe",
@@ -104,5 +89,5 @@
       "channels": []
     }
   ],
-  "updated": 1733785518798
+  "updated": 1733787270638
 }
