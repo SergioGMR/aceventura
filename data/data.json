@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "nets - bucks",
-      "teams": {
-        "home": "nets",
-        "away": "bucks"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "08/12/2024",
-        "time": "21:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "rams - bills",
       "teams": {
         "home": "rams",
@@ -545,5 +530,5 @@
       "channels": []
     }
   ],
-  "updated": 1733703695404
+  "updated": 1733705360304
 }
