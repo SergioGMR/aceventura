@@ -1,34 +1,6 @@
 {
   "data": [
     {
-      "title": "l. paro vs r. hitchins",
-      "teams": {
-        "home": "l. paro vs r. hitchins"
-      },
-      "sport": "soccer",
-      "competition": "título internacional peso superligero",
-      "date": {
-        "day": "09/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "toronto raptors vs dallas mavericks",
-      "teams": {
-        "home": "toronto raptors vs dallas mavericks"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "09/12/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "a. pantoja vs k. asakura",
       "teams": {
         "home": "a. pantoja vs k. asakura"
@@ -485,5 +457,5 @@
       "channels": []
     }
   ],
-  "updated": 1733715784744
+  "updated": 1733719109452
 }
