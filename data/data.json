@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "atletico de madrid - sevilla\natletico de madrid-sevilla",
-      "teams": {
-        "home": "atletico de madrid",
-        "away": "sevilla\natletico de madrid-sevilla"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "08/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cordoba - tenerife",
-      "teams": {
-        "home": "cordoba",
-        "away": "tenerife"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "08/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "nets - bucks",
       "teams": {
         "home": "nets",
@@ -575,5 +545,5 @@
       "channels": []
     }
   ],
-  "updated": 1733700845740
+  "updated": 1733703695404
 }
