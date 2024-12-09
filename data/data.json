@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "a. pantoja vs k. asakura",
-      "teams": {
-        "home": "a. pantoja vs k. asakura"
-      },
-      "sport": "soccer",
-      "competition": "ufc ufc 310",
-      "date": {
-        "day": "09/12/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "chiefs - chargers",
       "teams": {
         "home": "chiefs",
@@ -457,5 +443,5 @@
       "channels": []
     }
   ],
-  "updated": 1733719109452
+  "updated": 1733720746734
 }
