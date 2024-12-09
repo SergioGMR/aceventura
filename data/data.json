@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "chiefs - chargers",
-      "teams": {
-        "home": "chiefs",
-        "away": "chargers"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "09/12/2024",
-        "time": "02:20",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "g.p. abu dhabi (yas marina) vs carrera 3",
       "teams": {
         "home": "g.p. abu dhabi (yas marina) vs carrera 3"
@@ -443,5 +428,5 @@
       "channels": []
     }
   ],
-  "updated": 1733720746734
+  "updated": 1733722635945
 }
