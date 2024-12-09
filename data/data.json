@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "red zone",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "08/12/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "san juan open - final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "08/12/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "l. paro vs r. hitchins",
       "teams": {
         "home": "l. paro vs r. hitchins"
@@ -515,5 +485,5 @@
       "channels": []
     }
   ],
-  "updated": 1733708002220
+  "updated": 1733711600958
 }
