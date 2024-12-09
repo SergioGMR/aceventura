@@ -16,20 +16,6 @@
       "channels": []
     },
     {
-      "title": "fc cartagena vs sporting gijón",
-      "teams": {
-        "home": "fc cartagena vs sporting gijón"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion estadio municipal cartagonova, cartagena",
-      "date": {
-        "day": "09/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "getafe - espanyol",
       "teams": {
         "home": "getafe",
@@ -37,20 +23,6 @@
       },
       "sport": "soccer",
       "competition": "spanish league",
-      "date": {
-        "day": "09/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "getafe vs espanyol",
-      "teams": {
-        "home": "getafe vs espanyol"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
       "date": {
         "day": "09/12/2024",
         "time": "21:00",
@@ -87,7 +59,50 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "sorteo dieciseisavos de final vs m+ vamos (8 y 53)",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "copa del rey",
+      "date": {
+        "day": "10/12/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fc cartagena vs sporting gijón",
+      "teams": {
+        "home": "fc cartagena vs sporting gijón"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion estadio municipal cartagonova, cartagena",
+      "date": {
+        "day": "10/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "getafe vs espanyol",
+      "teams": {
+        "home": "getafe vs espanyol"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1733783837318
+  "updated": 1733785518798
 }
