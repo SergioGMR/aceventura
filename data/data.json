@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "sorteo dieciseisavos de final vs m+ vamos (8 y 53)",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "copa del rey",
-      "date": {
-        "day": "10/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atalanta - real madrid",
       "teams": {
         "home": "atalanta",
@@ -1045,5 +1030,5 @@
       "channels": []
     }
   ],
-  "updated": 1733845031126
+  "updated": 1733846770577
 }
