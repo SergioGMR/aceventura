@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "getafe - espanyol",
-      "teams": {
-        "home": "getafe",
-        "away": "espanyol"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "09/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "raptors - knicks",
       "teams": {
         "home": "raptors",
@@ -89,5 +74,5 @@
       "channels": []
     }
   ],
-  "updated": 1733787270638
+  "updated": 1733790062338
 }
