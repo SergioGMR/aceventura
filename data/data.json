@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "hamburg - valencia",
-      "teams": {
-        "home": "hamburg",
-        "away": "valencia"
-      },
-      "sport": "basketball",
-      "competition": "eurocup",
-      "date": {
-        "day": "10/12/2024",
-        "time": "19:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "hamburg towers vs valencia basket",
-      "teams": {
-        "home": "hamburg towers vs valencia basket"
-      },
-      "sport": "soccer",
-      "competition": "eurocup liga regular",
-      "date": {
-        "day": "10/12/2024",
-        "time": "19:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atalanta - real madrid",
       "teams": {
         "home": "atalanta",
@@ -1069,5 +1040,5 @@
       "channels": []
     }
   ],
-  "updated": 1733868328980
+  "updated": 1733870228114
 }
