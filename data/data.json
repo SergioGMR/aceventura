@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "atalanta - real madrid",
-      "teams": {
-        "home": "atalanta",
-        "away": "real madrid"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "10/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "dinamo zagrev - celtic",
       "teams": {
         "home": "dinamo zagrev",
@@ -46,6 +31,34 @@
       "channels": []
     },
     {
+      "title": "gnk dinamo zagreb vs celtic fc",
+      "teams": {
+        "home": "gnk dinamo zagreb vs celtic fc"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "10/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "girona vs liverpool",
+      "teams": {
+        "home": "girona vs liverpool"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "10/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "hamburg - valencia",
       "teams": {
         "home": "hamburg",
@@ -61,15 +74,15 @@
       "channels": []
     },
     {
-      "title": "fc cartagena vs sporting gijón",
+      "title": "hamburg towers vs valencia basket",
       "teams": {
-        "home": "fc cartagena vs sporting gijón"
+        "home": "hamburg towers vs valencia basket"
       },
       "sport": "soccer",
-      "competition": "laliga hypermotion estadio municipal cartagonova, cartagena",
+      "competition": "eurocup liga regular",
       "date": {
         "day": "10/12/2024",
-        "time": "20:30",
+        "time": "19:30",
         "zone": "cet"
       },
       "channels": []
@@ -194,12 +207,96 @@
       "channels": []
     },
     {
-      "title": "getafe vs espanyol",
+      "title": "atalanta vs real madrid",
       "teams": {
-        "home": "getafe vs espanyol"
+        "home": "atalanta vs real madrid"
       },
       "sport": "soccer",
-      "competition": "la liga ea sports",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bayer leverkusen vs inter milan",
+      "teams": {
+        "home": "bayer leverkusen vs inter milan"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "club brugge vs sporting cp",
+      "teams": {
+        "home": "club brugge vs sporting cp"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rb leipzig vs aston villa",
+      "teams": {
+        "home": "rb leipzig vs aston villa"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red bull salzburg vs psg",
+      "teams": {
+        "home": "red bull salzburg vs psg"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "shakhtar donetsk vs fc bayern",
+      "teams": {
+        "home": "shakhtar donetsk vs fc bayern"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stade brestois vs psv eindhoven",
+      "teams": {
+        "home": "stade brestois vs psv eindhoven"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
       "date": {
         "day": "10/12/2024",
         "time": "21:00",
@@ -1030,5 +1127,5 @@
       "channels": []
     }
   ],
-  "updated": 1733856022286
+  "updated": 1733857489899
 }
