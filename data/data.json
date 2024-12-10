@@ -120,104 +120,6 @@
       "channels": []
     },
     {
-      "title": "atalanta vs real madrid",
-      "teams": {
-        "home": "atalanta vs real madrid"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "10/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "bayer leverkusen vs inter milan",
-      "teams": {
-        "home": "bayer leverkusen vs inter milan"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "10/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "club brugge vs sporting cp",
-      "teams": {
-        "home": "club brugge vs sporting cp"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "10/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "rb leipzig vs aston villa",
-      "teams": {
-        "home": "rb leipzig vs aston villa"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "10/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "red bull salzburg vs psg",
-      "teams": {
-        "home": "red bull salzburg vs psg"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "10/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "shakhtar donetsk vs fc bayern",
-      "teams": {
-        "home": "shakhtar donetsk vs fc bayern"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "10/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "stade brestois vs psv eindhoven",
-      "teams": {
-        "home": "stade brestois vs psv eindhoven"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "10/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bucks - magic",
       "teams": {
         "home": "bucks",
@@ -228,6 +130,20 @@
       "date": {
         "day": "11/12/2024",
         "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "toronto raptors vs new york knicks",
+      "teams": {
+        "home": "toronto raptors vs new york knicks"
+      },
+      "sport": "soccer",
+      "competition": "nba liga regular",
+      "date": {
+        "day": "11/12/2024",
+        "time": "01:30",
         "zone": "cet"
       },
       "channels": []
@@ -333,6 +249,48 @@
       "date": {
         "day": "11/12/2024",
         "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "gnk dinamo zagreb vs celtic fc",
+      "teams": {
+        "home": "gnk dinamo zagreb vs celtic fc"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "11/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "girona vs liverpool",
+      "teams": {
+        "home": "girona vs liverpool"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "11/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "hamburg towers vs valencia basket",
+      "teams": {
+        "home": "hamburg towers vs valencia basket"
+      },
+      "sport": "soccer",
+      "competition": "eurocup liga regular",
+      "date": {
+        "day": "11/12/2024",
+        "time": "19:30",
         "zone": "cet"
       },
       "channels": []
@@ -479,6 +437,104 @@
       },
       "sport": "soccer",
       "competition": "uefa champions league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "atalanta vs real madrid",
+      "teams": {
+        "home": "atalanta vs real madrid"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bayer leverkusen vs inter milan",
+      "teams": {
+        "home": "bayer leverkusen vs inter milan"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "club brugge vs sporting cp",
+      "teams": {
+        "home": "club brugge vs sporting cp"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rb leipzig vs aston villa",
+      "teams": {
+        "home": "rb leipzig vs aston villa"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red bull salzburg vs psg",
+      "teams": {
+        "home": "red bull salzburg vs psg"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "shakhtar donetsk vs fc bayern",
+      "teams": {
+        "home": "shakhtar donetsk vs fc bayern"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stade brestois vs psv eindhoven",
+      "teams": {
+        "home": "stade brestois vs psv eindhoven"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
       "date": {
         "day": "11/12/2024",
         "time": "21:00",
@@ -1040,5 +1096,5 @@
       "channels": []
     }
   ],
-  "updated": 1733870228114
+  "updated": 1733871919129
 }
