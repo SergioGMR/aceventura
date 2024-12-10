@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "cowboys - bengals",
-      "teams": {
-        "home": "cowboys",
-        "away": "bengals"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "10/12/2024",
-        "time": "02:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "sorteo dieciseisavos de final vs m+ vamos (8 y 53)",
       "teams": {
         "home": null,
@@ -59,5 +44,5 @@
       "channels": []
     }
   ],
-  "updated": 1733807127844
+  "updated": 1733809009952
 }
