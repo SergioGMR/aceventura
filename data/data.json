@@ -16,6 +16,66 @@
       "channels": []
     },
     {
+      "title": "atalanta - real madrid",
+      "teams": {
+        "home": "atalanta",
+        "away": "real madrid"
+      },
+      "sport": "soccer",
+      "competition": "uefa youth league",
+      "date": {
+        "day": "10/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dinamo zagrev - celtic",
+      "teams": {
+        "home": "dinamo zagrev",
+        "away": "celtic"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "10/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "girona - liverpool",
+      "teams": {
+        "home": "girona",
+        "away": "liverpool"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "10/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "hamburg - valencia",
+      "teams": {
+        "home": "hamburg",
+        "away": "valencia"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "10/12/2024",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "fc cartagena vs sporting gijón",
       "teams": {
         "home": "fc cartagena vs sporting gijón"
@@ -25,6 +85,125 @@
       "date": {
         "day": "10/12/2024",
         "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "atalanta - real madrid",
+      "teams": {
+        "home": "atalanta",
+        "away": "real madrid"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bayer leverkusen - inter",
+      "teams": {
+        "home": "bayer leverkusen",
+        "away": "inter"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "brugge - sporting",
+      "teams": {
+        "home": "brugge",
+        "away": "sporting"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "leipzig - aston villa",
+      "teams": {
+        "home": "leipzig",
+        "away": "aston villa"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "salzburg - psg",
+      "teams": {
+        "home": "salzburg",
+        "away": "psg"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "shakhtar - bayern munich",
+      "teams": {
+        "home": "shakhtar",
+        "away": "bayern munich"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "simulcast",
+      "teams": {
+        "home": "simulcast"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stade bretois - psv",
+      "teams": {
+        "home": "stade bretois",
+        "away": "psv"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "10/12/2024",
+        "time": "21:00",
         "zone": "cet"
       },
       "channels": []
@@ -42,7 +221,829 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "bucks - magic",
+      "teams": {
+        "home": "bucks",
+        "away": "magic"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "11/12/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "benfica - bologna",
+      "teams": {
+        "home": "benfica",
+        "away": "bologna"
+      },
+      "sport": "soccer",
+      "competition": "uefa youth league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "atletico de madrid - slovan bratislava",
+      "teams": {
+        "home": "atletico de madrid",
+        "away": "slovan bratislava"
+      },
+      "sport": "soccer",
+      "competition": "uefa youth league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "juventus - manchester city",
+      "teams": {
+        "home": "juventus",
+        "away": "manchester city"
+      },
+      "sport": "soccer",
+      "competition": "uefa youth league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "borussia dortmund - barcelona",
+      "teams": {
+        "home": "borussia dortmund",
+        "away": "barcelona"
+      },
+      "sport": "soccer",
+      "competition": "uefa youth league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fenerbahce - athletic club",
+      "teams": {
+        "home": "fenerbahce",
+        "away": "athletic club"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "16:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "atletico de madrid - slovan bratislava",
+      "teams": {
+        "home": "atletico de madrid",
+        "away": "slovan bratislava"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lille - sturm graz",
+      "teams": {
+        "home": "lille",
+        "away": "sturm graz"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "moron - estudiantes",
+      "teams": {
+        "home": "moron",
+        "away": "estudiantes"
+      },
+      "sport": "basketball",
+      "competition": "feb",
+      "date": {
+        "day": "11/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "gran canaria - voli",
+      "teams": {
+        "home": "gran canaria",
+        "away": "voli"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "arsenal - monaco",
+      "teams": {
+        "home": "arsenal",
+        "away": "monaco"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "benfica - bologna",
+      "teams": {
+        "home": "benfica",
+        "away": "bologna"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "borussia dortmund - barcelona",
+      "teams": {
+        "home": "borussia dortmund",
+        "away": "barcelona"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "feyenoord - sparta prague",
+      "teams": {
+        "home": "feyenoord",
+        "away": "sparta prague"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "juventus - manchester city",
+      "teams": {
+        "home": "juventus",
+        "away": "manchester city"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "milan - zvezda",
+      "teams": {
+        "home": "milan",
+        "away": "zvezda"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "simulcast",
+      "teams": {
+        "home": "simulcast"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stuttgart - young boys",
+      "teams": {
+        "home": "stuttgart",
+        "away": "young boys"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "knicks - hawks",
+      "teams": {
+        "home": "knicks",
+        "away": "hawks"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "12/12/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rockets - warriors",
+      "teams": {
+        "home": "rockets",
+        "away": "warriors"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "12/12/2024",
+        "time": "03:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "liv golf invitational",
+      "date": {
+        "day": "12/12/2024",
+        "time": "09:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "alfred dunhill championship",
+      "date": {
+        "day": "12/12/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "astana - chelsea",
+      "teams": {
+        "home": "astana",
+        "away": "chelsea"
+      },
+      "sport": "soccer",
+      "competition": "uefa conference league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "16:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fenerbahce - monaco",
+      "teams": {
+        "home": "fenerbahce",
+        "away": "monaco"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "hoffenheim - fcsb",
+      "teams": {
+        "home": "hoffenheim",
+        "away": "fcsb"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ludogorest - alkmaar",
+      "teams": {
+        "home": "ludogorest",
+        "away": "alkmaar"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "malmo - galatasaray",
+      "teams": {
+        "home": "malmo",
+        "away": "galatasaray"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "olympiacos - twente",
+      "teams": {
+        "home": "olympiacos",
+        "away": "twente"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "paok - ferencvaros",
+      "teams": {
+        "home": "paok",
+        "away": "ferencvaros"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "roma - brague",
+      "teams": {
+        "home": "roma",
+        "away": "brague"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "saint gilloise - nice",
+      "teams": {
+        "home": "saint gilloise",
+        "away": "nice"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "simultcast",
+      "teams": {
+        "home": "simultcast"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "viktoria plzen - manchester united",
+      "teams": {
+        "home": "viktoria plzen",
+        "away": "manchester united"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bayern munich - juventus",
+      "teams": {
+        "home": "bayern munich",
+        "away": "juventus"
+      },
+      "sport": "soccer (w)",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "kvinner - arsenal",
+      "teams": {
+        "home": "kvinner",
+        "away": "arsenal"
+      },
+      "sport": "soccer (w)",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fiorentina - linz",
+      "teams": {
+        "home": "fiorentina",
+        "away": "linz"
+      },
+      "sport": "soccer (w)",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "hinceti - real betis",
+      "teams": {
+        "home": "hinceti",
+        "away": "real betis"
+      },
+      "sport": "soccer (w)",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "kobenhavn - hearts",
+      "teams": {
+        "home": "kobenhavn",
+        "away": "hearts"
+      },
+      "sport": "soccer (w)",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "warszawa - lugano",
+      "teams": {
+        "home": "warszawa",
+        "away": "lugano"
+      },
+      "sport": "soccer (w)",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "alba - partizan",
+      "teams": {
+        "home": "alba",
+        "away": "partizan"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "12/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baskonia - bologna",
+      "teams": {
+        "home": "baskonia",
+        "away": "bologna"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "12/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bayern - maccabi",
+      "teams": {
+        "home": "bayern",
+        "away": "maccabi"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "12/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "omonia - wien",
+      "teams": {
+        "home": "omonia",
+        "away": "wien"
+      },
+      "sport": "soccer",
+      "competition": "uefa conference league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "saints - panathinaikos",
+      "teams": {
+        "home": "saints",
+        "away": "panathinaikos"
+      },
+      "sport": "soccer",
+      "competition": "uefa conference league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ajax - lazio",
+      "teams": {
+        "home": "ajax",
+        "away": "lazio"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "elfsborg - qarabag",
+      "teams": {
+        "home": "elfsborg",
+        "away": "qarabag"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "glimt - besiktas",
+      "teams": {
+        "home": "glimt",
+        "away": "besiktas"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lyon - frankfurt",
+      "teams": {
+        "home": "lyon",
+        "away": "frankfurt"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "maccabi - riga",
+      "teams": {
+        "home": "maccabi",
+        "away": "riga"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "porto - midtjylland",
+      "teams": {
+        "home": "porto",
+        "away": "midtjylland"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rangers - tottenham",
+      "teams": {
+        "home": "rangers",
+        "away": "tottenham"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real sociedad - dynamo kiev",
+      "teams": {
+        "home": "real sociedad",
+        "away": "dynamo kiev"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "simulcast",
+      "teams": {
+        "home": "simulcast"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "slavia prague - anderlecht",
+      "teams": {
+        "home": "slavia prague",
+        "away": "anderlecht"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "hammarby - barcelona",
+      "teams": {
+        "home": "hammarby",
+        "away": "barcelona"
+      },
+      "sport": "soccer (w)",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1733841477868
+  "updated": 1733843149136
 }
