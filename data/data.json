@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "borussia dortmund - barcelona",
-      "teams": {
-        "home": "borussia dortmund",
-        "away": "barcelona"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "11/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "fenerbahce - athletic club",
       "teams": {
         "home": "fenerbahce",
@@ -945,5 +930,5 @@
       "channels": []
     }
   ],
-  "updated": 1733942426953
+  "updated": 1733943887616
 }
