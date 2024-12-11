@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "fenerbahce - athletic club",
-      "teams": {
-        "home": "fenerbahce",
-        "away": "athletic club"
-      },
-      "sport": "soccer",
-      "competition": "uefa europe league",
-      "date": {
-        "day": "11/12/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fenerbahçe vs athletic club",
-      "teams": {
-        "home": "fenerbahçe vs athletic club"
-      },
-      "sport": "soccer",
-      "competition": "europa league fase liga",
-      "date": {
-        "day": "11/12/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atletico de madrid - slovan bratislava",
       "teams": {
         "home": "atletico de madrid",
@@ -930,5 +901,5 @@
       "channels": []
     }
   ],
-  "updated": 1733943887616
+  "updated": 1733945637028
 }
