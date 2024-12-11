@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "atletico de madrid - slovan bratislava",
-      "teams": {
-        "home": "atletico de madrid",
-        "away": "slovan bratislava"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "11/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "juventus - manchester city",
-      "teams": {
-        "home": "juventus",
-        "away": "manchester city"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "11/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "borussia dortmund - barcelona",
       "teams": {
         "home": "borussia dortmund",
@@ -975,5 +945,5 @@
       "channels": []
     }
   ],
-  "updated": 1733935209638
+  "updated": 1733936703325
 }
