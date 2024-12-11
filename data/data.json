@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "toronto raptors vs new york knicks",
-      "teams": {
-        "home": "toronto raptors vs new york knicks"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "11/12/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "benfica - bologna",
       "teams": {
         "home": "benfica",
@@ -962,5 +948,5 @@
       "channels": []
     }
   ],
-  "updated": 1733889992366
+  "updated": 1733891895700
 }
