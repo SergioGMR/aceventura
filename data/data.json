@@ -16,20 +16,6 @@
       "channels": []
     },
     {
-      "title": "cb morón vs movistar estudiantes",
-      "teams": {
-        "home": "cb morón vs movistar estudiantes"
-      },
-      "sport": "soccer",
-      "competition": "primera feb liga regular",
-      "date": {
-        "day": "11/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "gran canaria - voli",
       "teams": {
         "home": "gran canaria",
@@ -164,132 +150,6 @@
       "channels": []
     },
     {
-      "title": "ac milan vs crvena zvezda",
-      "teams": {
-        "home": "ac milan vs crvena zvezda"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "11/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "arsenal vs as monaco",
-      "teams": {
-        "home": "arsenal vs as monaco"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "11/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "benfica vs bologna",
-      "teams": {
-        "home": "benfica vs bologna"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "11/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "borussia dortmund vs fc barcelona",
-      "teams": {
-        "home": "borussia dortmund vs fc barcelona"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "11/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "feyenoord vs sparta praha",
-      "teams": {
-        "home": "feyenoord vs sparta praha"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "11/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "juventus vs manchester city",
-      "teams": {
-        "home": "juventus vs manchester city"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "11/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "stuttgart vs young boys",
-      "teams": {
-        "home": "stuttgart vs young boys"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "11/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dreamland gran canaria vs buducnost voli",
-      "teams": {
-        "home": "dreamland gran canaria vs buducnost voli"
-      },
-      "sport": "soccer",
-      "competition": "eurocup liga regular",
-      "date": {
-        "day": "11/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fase de grupos vs a1 padel",
-      "teams": {
-        "home": "fase de grupos vs a1 padel"
-      },
-      "sport": "soccer",
-      "competition": "master final",
-      "date": {
-        "day": "11/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "knicks - hawks",
       "teams": {
         "home": "knicks",
@@ -305,6 +165,20 @@
       "channels": []
     },
     {
+      "title": "milwaukee bucks vs orlando magic",
+      "teams": {
+        "home": "milwaukee bucks vs orlando magic"
+      },
+      "sport": "soccer",
+      "competition": "nba cup 1/4 de final",
+      "date": {
+        "day": "12/12/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "rockets - warriors",
       "teams": {
         "home": "rockets",
@@ -312,6 +186,20 @@
       },
       "sport": "basketball",
       "competition": "usa nba",
+      "date": {
+        "day": "12/12/2024",
+        "time": "03:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "oklahoma c. thunder vs dallas mavericks",
+      "teams": {
+        "home": "oklahoma c. thunder vs dallas mavericks"
+      },
+      "sport": "soccer",
+      "competition": "nba cup 1/4 de final",
       "date": {
         "day": "12/12/2024",
         "time": "03:30",
@@ -357,6 +245,20 @@
       },
       "sport": "soccer",
       "competition": "uefa conference league",
+      "date": {
+        "day": "12/12/2024",
+        "time": "16:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fenerbahçe vs athletic club",
+      "teams": {
+        "home": "fenerbahçe vs athletic club"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
       "date": {
         "day": "12/12/2024",
         "time": "16:30",
@@ -604,6 +506,34 @@
       "channels": []
     },
     {
+      "title": "at. madrid vs slovan bratislava",
+      "teams": {
+        "home": "at. madrid vs slovan bratislava"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lille vs sturm graz",
+      "teams": {
+        "home": "lille vs sturm graz"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "12/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "alba - partizan",
       "teams": {
         "home": "alba",
@@ -626,6 +556,20 @@
       },
       "sport": "basketball",
       "competition": "euroleague",
+      "date": {
+        "day": "12/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cb morón vs movistar estudiantes",
+      "teams": {
+        "home": "cb morón vs movistar estudiantes"
+      },
+      "sport": "soccer",
+      "competition": "primera feb liga regular",
       "date": {
         "day": "12/12/2024",
         "time": "20:30",
@@ -841,7 +785,133 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "ac milan vs crvena zvezda",
+      "teams": {
+        "home": "ac milan vs crvena zvezda"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "arsenal vs as monaco",
+      "teams": {
+        "home": "arsenal vs as monaco"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "benfica vs bologna",
+      "teams": {
+        "home": "benfica vs bologna"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "borussia dortmund vs fc barcelona",
+      "teams": {
+        "home": "borussia dortmund vs fc barcelona"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "feyenoord vs sparta praha",
+      "teams": {
+        "home": "feyenoord vs sparta praha"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "juventus vs manchester city",
+      "teams": {
+        "home": "juventus vs manchester city"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stuttgart vs young boys",
+      "teams": {
+        "home": "stuttgart vs young boys"
+      },
+      "sport": "soccer",
+      "competition": "champions league fase liga",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dreamland gran canaria vs buducnost voli",
+      "teams": {
+        "home": "dreamland gran canaria vs buducnost voli"
+      },
+      "sport": "soccer",
+      "competition": "eurocup liga regular",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fase de grupos vs a1 padel",
+      "teams": {
+        "home": "fase de grupos vs a1 padel"
+      },
+      "sport": "soccer",
+      "competition": "master final",
+      "date": {
+        "day": "12/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1733956674811
+  "updated": 1733958320963
 }
