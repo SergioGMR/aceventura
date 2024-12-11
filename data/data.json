@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "benfica - bologna",
-      "teams": {
-        "home": "benfica",
-        "away": "bologna"
-      },
-      "sport": "soccer",
-      "competition": "uefa youth league",
-      "date": {
-        "day": "11/12/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atletico de madrid - slovan bratislava",
       "teams": {
         "home": "atletico de madrid",
@@ -40,7 +25,7 @@
       "competition": "uefa youth league",
       "date": {
         "day": "11/12/2024",
-        "time": "14:50",
+        "time": "14:00",
         "zone": "cet"
       },
       "channels": []
@@ -68,6 +53,20 @@
       },
       "sport": "soccer",
       "competition": "uefa europe league",
+      "date": {
+        "day": "11/12/2024",
+        "time": "16:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fenerbahçe vs athletic club",
+      "teams": {
+        "home": "fenerbahçe vs athletic club"
+      },
+      "sport": "soccer",
+      "competition": "europa league fase liga",
       "date": {
         "day": "11/12/2024",
         "time": "16:30",
@@ -106,9 +105,9 @@
       "channels": []
     },
     {
-      "title": "gnk dinamo zagreb vs celtic fc",
+      "title": "at. madrid vs slovan bratislava",
       "teams": {
-        "home": "gnk dinamo zagreb vs celtic fc"
+        "home": "at. madrid vs slovan bratislava"
       },
       "sport": "soccer",
       "competition": "champions league fase liga",
@@ -120,29 +119,15 @@
       "channels": []
     },
     {
-      "title": "girona vs liverpool",
+      "title": "lille vs sturm graz",
       "teams": {
-        "home": "girona vs liverpool"
+        "home": "lille vs sturm graz"
       },
       "sport": "soccer",
       "competition": "champions league fase liga",
       "date": {
         "day": "11/12/2024",
         "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "hamburg towers vs valencia basket",
-      "teams": {
-        "home": "hamburg towers vs valencia basket"
-      },
-      "sport": "soccer",
-      "competition": "eurocup liga regular",
-      "date": {
-        "day": "11/12/2024",
-        "time": "19:30",
         "zone": "cet"
       },
       "channels": []
@@ -155,6 +140,20 @@
       },
       "sport": "basketball",
       "competition": "feb",
+      "date": {
+        "day": "11/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cb morón vs movistar estudiantes",
+      "teams": {
+        "home": "cb morón vs movistar estudiantes"
+      },
+      "sport": "soccer",
+      "competition": "primera feb liga regular",
       "date": {
         "day": "11/12/2024",
         "time": "20:30",
@@ -297,9 +296,9 @@
       "channels": []
     },
     {
-      "title": "atalanta vs real madrid",
+      "title": "ac milan vs crvena zvezda",
       "teams": {
-        "home": "atalanta vs real madrid"
+        "home": "ac milan vs crvena zvezda"
       },
       "sport": "soccer",
       "competition": "champions league fase liga",
@@ -311,9 +310,9 @@
       "channels": []
     },
     {
-      "title": "bayer leverkusen vs inter milan",
+      "title": "arsenal vs as monaco",
       "teams": {
-        "home": "bayer leverkusen vs inter milan"
+        "home": "arsenal vs as monaco"
       },
       "sport": "soccer",
       "competition": "champions league fase liga",
@@ -325,9 +324,9 @@
       "channels": []
     },
     {
-      "title": "club brugge vs sporting cp",
+      "title": "benfica vs bologna",
       "teams": {
-        "home": "club brugge vs sporting cp"
+        "home": "benfica vs bologna"
       },
       "sport": "soccer",
       "competition": "champions league fase liga",
@@ -339,9 +338,9 @@
       "channels": []
     },
     {
-      "title": "rb leipzig vs aston villa",
+      "title": "borussia dortmund vs fc barcelona",
       "teams": {
-        "home": "rb leipzig vs aston villa"
+        "home": "borussia dortmund vs fc barcelona"
       },
       "sport": "soccer",
       "competition": "champions league fase liga",
@@ -353,9 +352,9 @@
       "channels": []
     },
     {
-      "title": "red bull salzburg vs psg",
+      "title": "feyenoord vs sparta praha",
       "teams": {
-        "home": "red bull salzburg vs psg"
+        "home": "feyenoord vs sparta praha"
       },
       "sport": "soccer",
       "competition": "champions league fase liga",
@@ -367,9 +366,9 @@
       "channels": []
     },
     {
-      "title": "shakhtar donetsk vs fc bayern",
+      "title": "juventus vs manchester city",
       "teams": {
-        "home": "shakhtar donetsk vs fc bayern"
+        "home": "juventus vs manchester city"
       },
       "sport": "soccer",
       "competition": "champions league fase liga",
@@ -381,12 +380,40 @@
       "channels": []
     },
     {
-      "title": "stade brestois vs psv eindhoven",
+      "title": "stuttgart vs young boys",
       "teams": {
-        "home": "stade brestois vs psv eindhoven"
+        "home": "stuttgart vs young boys"
       },
       "sport": "soccer",
       "competition": "champions league fase liga",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dreamland gran canaria vs buducnost voli",
+      "teams": {
+        "home": "dreamland gran canaria vs buducnost voli"
+      },
+      "sport": "soccer",
+      "competition": "eurocup liga regular",
+      "date": {
+        "day": "11/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fase de grupos vs a1 padel",
+      "teams": {
+        "home": "fase de grupos vs a1 padel"
+      },
+      "sport": "soccer",
+      "competition": "master final",
       "date": {
         "day": "11/12/2024",
         "time": "21:00",
@@ -948,5 +975,5 @@
       "channels": []
     }
   ],
-  "updated": 1733927875208
+  "updated": 1733929537319
 }
