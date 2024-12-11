@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "bucks - magic",
-      "teams": {
-        "home": "bucks",
-        "away": "magic"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "11/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "toronto raptors vs new york knicks",
       "teams": {
         "home": "toronto raptors vs new york knicks"
@@ -977,5 +962,5 @@
       "channels": []
     }
   ],
-  "updated": 1733888514644
+  "updated": 1733889992366
 }
