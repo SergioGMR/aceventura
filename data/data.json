@@ -40,7 +40,7 @@
       "competition": "uefa youth league",
       "date": {
         "day": "11/12/2024",
-        "time": "14:00",
+        "time": "14:50",
         "zone": "cet"
       },
       "channels": []
@@ -948,5 +948,5 @@
       "channels": []
     }
   ],
-  "updated": 1733922738155
+  "updated": 1733924346094
 }
