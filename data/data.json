@@ -1,64 +1,6 @@
 {
   "data": [
     {
-      "title": "atletico de madrid - slovan bratislava",
-      "teams": {
-        "home": "atletico de madrid",
-        "away": "slovan bratislava"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "11/12/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "lille - sturm graz",
-      "teams": {
-        "home": "lille",
-        "away": "sturm graz"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "11/12/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "at. madrid vs slovan bratislava",
-      "teams": {
-        "home": "at. madrid vs slovan bratislava"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "11/12/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "lille vs sturm graz",
-      "teams": {
-        "home": "lille vs sturm graz"
-      },
-      "sport": "soccer",
-      "competition": "champions league fase liga",
-      "date": {
-        "day": "11/12/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "moron - estudiantes",
       "teams": {
         "home": "moron",
@@ -901,5 +843,5 @@
       "channels": []
     }
   ],
-  "updated": 1733952887069
+  "updated": 1733954708333
 }
