@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "moron - estudiantes",
-      "teams": {
-        "home": "moron",
-        "away": "estudiantes"
-      },
-      "sport": "basketball",
-      "competition": "feb",
-      "date": {
-        "day": "11/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "gran canaria - voli",
       "teams": {
         "home": "gran canaria",
@@ -913,5 +898,5 @@
       "channels": []
     }
   ],
-  "updated": 1733958320963
+  "updated": 1733960067366
 }
