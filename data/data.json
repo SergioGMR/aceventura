@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "rockets - warriors",
-      "teams": {
-        "home": "rockets",
-        "away": "warriors"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "12/12/2024",
-        "time": "03:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "oklahoma c. thunder vs dallas mavericks",
-      "teams": {
-        "home": "oklahoma c. thunder vs dallas mavericks"
-      },
-      "sport": "soccer",
-      "competition": "nba cup 1/4 de final",
-      "date": {
-        "day": "12/12/2024",
-        "time": "03:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 1",
       "teams": {
         "home": null,
@@ -735,5 +706,5 @@
       "channels": []
     }
   ],
-  "updated": 1733983628473
+  "updated": 1733985645896
 }
