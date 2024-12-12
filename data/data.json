@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "astana - chelsea",
-      "teams": {
-        "home": "astana",
-        "away": "chelsea"
-      },
-      "sport": "soccer",
-      "competition": "uefa conference league",
-      "date": {
-        "day": "12/12/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "fenerbahce - monaco",
       "teams": {
         "home": "fenerbahce",
@@ -1461,5 +1446,5 @@
       "channels": []
     }
   ],
-  "updated": 1734030306325
+  "updated": 1734032051272
 }
