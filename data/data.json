@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "knicks - hawks",
-      "teams": {
-        "home": "knicks",
-        "away": "hawks"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "12/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "milwaukee bucks vs orlando magic",
-      "teams": {
-        "home": "milwaukee bucks vs orlando magic"
-      },
-      "sport": "soccer",
-      "competition": "nba cup 1/4 de final",
-      "date": {
-        "day": "12/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "rockets - warriors",
       "teams": {
         "home": "rockets",
@@ -764,5 +735,5 @@
       "channels": []
     }
   ],
-  "updated": 1733974935444
+  "updated": 1733976376138
 }
