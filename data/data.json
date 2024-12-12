@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "alfred dunhill championship",
-      "date": {
-        "day": "12/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "astana - chelsea",
       "teams": {
         "home": "astana",
@@ -1476,5 +1461,5 @@
       "channels": []
     }
   ],
-  "updated": 1734017824668
+  "updated": 1734019574379
 }
