@@ -844,7 +844,637 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "celtics - pistons",
+      "teams": {
+        "home": "celtics",
+        "away": "pistons"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "13/12/2024",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "49ers - rams",
+      "teams": {
+        "home": "49ers",
+        "away": "rams"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "13/12/2024",
+        "time": "02:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "liv golf invitational",
+      "date": {
+        "day": "13/12/2024",
+        "time": "09:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "alfred dunhill championship",
+      "date": {
+        "day": "13/12/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "anadolu - panathinaikos",
+      "teams": {
+        "home": "anadolu",
+        "away": "panathinaikos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "13/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "grant thornton invitational",
+      "date": {
+        "day": "13/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia - tenerife",
+      "teams": {
+        "home": "valencia",
+        "away": "tenerife"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "13/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "barcelona - olimpia milano",
+      "teams": {
+        "home": "barcelona",
+        "away": "olimpia milano"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "13/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "crvena zvezda - olympiacos",
+      "teams": {
+        "home": "crvena zvezda",
+        "away": "olympiacos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "13/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "france - denmark",
+      "teams": {
+        "home": "france",
+        "away": "denmark"
+      },
+      "sport": "handball",
+      "competition": "women ehf european league",
+      "date": {
+        "day": "13/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "almeria - mirandes",
+      "teams": {
+        "home": "almeria",
+        "away": "mirandes"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "13/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "asvel - paris",
+      "teams": {
+        "home": "asvel",
+        "away": "paris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "13/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "final master",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "paddle",
+      "competition": "a1 paddel",
+      "date": {
+        "day": "13/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real valladolid - valencia",
+      "teams": {
+        "home": "real valladolid",
+        "away": "valencia"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "13/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "timberwolves - lakers",
+      "teams": {
+        "home": "timberwolves",
+        "away": "lakers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "14/12/2024",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "liv golf invitational",
+      "date": {
+        "day": "14/12/2024",
+        "time": "09:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "alfred dunhill championship",
+      "date": {
+        "day": "14/12/2024",
+        "time": "11:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "granada - madrid",
+      "teams": {
+        "home": "granada",
+        "away": "madrid"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "espanyol - osasuna",
+      "teams": {
+        "home": "espanyol",
+        "away": "osasuna"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "levante - cordoba",
+      "teams": {
+        "home": "levante",
+        "away": "cordoba"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "14/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real betis - atletico de madrid",
+      "teams": {
+        "home": "real betis",
+        "away": "atletico de madrid"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "arsenal - everton",
+      "teams": {
+        "home": "arsenal",
+        "away": "everton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "liverpool - fulham",
+      "teams": {
+        "home": "liverpool",
+        "away": "fulham"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "newcastle - leiceter",
+      "teams": {
+        "home": "newcastle",
+        "away": "leiceter"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mallorca - girona",
+      "teams": {
+        "home": "mallorca",
+        "away": "girona"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cadiz - albacete",
+      "teams": {
+        "home": "cadiz",
+        "away": "albacete"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "14/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "castellon - cartagena",
+      "teams": {
+        "home": "castellon",
+        "away": "cartagena"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "14/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "deportivo abanca - real madrid",
+      "teams": {
+        "home": "deportivo abanca",
+        "away": "real madrid"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "16:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manresa - andorra",
+      "teams": {
+        "home": "manresa",
+        "away": "andorra"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "leinster - auvergne",
+      "teams": {
+        "home": "leinster",
+        "away": "auvergne"
+      },
+      "sport": "rugby",
+      "competition": "championship",
+      "date": {
+        "day": "14/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "nottingham forest - aston villa",
+      "teams": {
+        "home": "nottingham forest",
+        "away": "aston villa"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sevilla - celta",
+      "teams": {
+        "home": "sevilla",
+        "away": "celta"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eibar - real zaragoza",
+      "teams": {
+        "home": "eibar",
+        "away": "real zaragoza"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "14/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eldense - elche",
+      "teams": {
+        "home": "eldense",
+        "away": "elche"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "14/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real sociedad - tenerife",
+      "teams": {
+        "home": "real sociedad",
+        "away": "tenerife"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "grant thornton invitational",
+      "date": {
+        "day": "14/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia - girona",
+      "teams": {
+        "home": "valencia",
+        "away": "girona"
+      },
+      "sport": "basketball",
+      "competition": "spanish women league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "girona - coruña",
+      "teams": {
+        "home": "girona",
+        "away": "coruña"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "unicaja - gran canaria",
+      "teams": {
+        "home": "unicaja",
+        "away": "gran canaria"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rayo vallecano - real madrid",
+      "teams": {
+        "home": "rayo vallecano",
+        "away": "real madrid"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "14/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real oviedo - granada",
+      "teams": {
+        "home": "real oviedo",
+        "away": "granada"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "14/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "thunder - tbd",
+      "teams": {
+        "home": "thunder",
+        "away": "tbd"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "14/12/2024",
+        "time": "22:30",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1734014269568
+  "updated": 1734015955876
 }
