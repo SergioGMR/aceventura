@@ -7,21 +7,6 @@
         "away": null
       },
       "sport": "golf",
-      "competition": "liv golf invitational",
-      "date": {
-        "day": "12/12/2024",
-        "time": "09:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "stage 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
       "competition": "alfred dunhill championship",
       "date": {
         "day": "12/12/2024",
@@ -861,5 +846,5 @@
       "channels": []
     }
   ],
-  "updated": 1734003231369
+  "updated": 1734005319087
 }
