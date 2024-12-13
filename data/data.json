@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "alfred dunhill championship",
-      "date": {
-        "day": "13/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "anadolu - panathinaikos",
       "teams": {
         "home": "anadolu",
@@ -923,5 +908,5 @@
       "channels": []
     }
   ],
-  "updated": 1734104177809
+  "updated": 1734105967432
 }
