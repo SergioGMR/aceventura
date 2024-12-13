@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "new york knicks vs atlanta hawks",
-      "teams": {
-        "home": "new york knicks vs atlanta hawks"
-      },
-      "sport": "soccer",
-      "competition": "nba cup 1/4 de final",
-      "date": {
-        "day": "13/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "celtics - pistons",
       "teams": {
         "home": "celtics",
@@ -996,5 +982,5 @@
       "channels": []
     }
   ],
-  "updated": 1734061333317
+  "updated": 1734062790726
 }
