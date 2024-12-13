@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - olimpia milano",
-      "teams": {
-        "home": "barcelona",
-        "away": "olimpia milano"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "13/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "crvena zvezda - olympiacos",
-      "teams": {
-        "home": "crvena zvezda",
-        "away": "olympiacos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "13/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "france - denmark",
-      "teams": {
-        "home": "france",
-        "away": "denmark"
-      },
-      "sport": "handball",
-      "competition": "women ehf european league",
-      "date": {
-        "day": "13/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "almeria - mirandes",
-      "teams": {
-        "home": "almeria",
-        "away": "mirandes"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "13/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "asvel - paris",
       "teams": {
         "home": "asvel",
@@ -653,5 +593,5 @@
       "channels": []
     }
   ],
-  "updated": 1734131116028
+  "updated": 1734132882596
 }
