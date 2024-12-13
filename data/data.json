@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "anadolu - panathinaikos",
-      "teams": {
-        "home": "anadolu",
-        "away": "panathinaikos"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "13/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "fenerbahce istanbul vs as monaco basket",
       "teams": {
         "home": "fenerbahce istanbul vs as monaco basket"
@@ -908,5 +893,5 @@
       "channels": []
     }
   ],
-  "updated": 1734123889199
+  "updated": 1734125666904
 }
