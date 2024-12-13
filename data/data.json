@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "houston rockets vs golden state warriors",
-      "teams": {
-        "home": "houston rockets vs golden state warriors"
-      },
-      "sport": "soccer",
-      "competition": "nba cup 1/4 de final",
-      "date": {
-        "day": "13/12/2024",
-        "time": "03:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 2",
       "teams": {
         "home": null,
@@ -952,5 +938,5 @@
       "channels": []
     }
   ],
-  "updated": 1734070038197
+  "updated": 1734072046188
 }
