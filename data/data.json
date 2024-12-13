@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "celtics - pistons",
-      "teams": {
-        "home": "celtics",
-        "away": "pistons"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "13/12/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "49ers - rams",
       "teams": {
         "home": "49ers",
@@ -982,5 +967,5 @@
       "channels": []
     }
   ],
-  "updated": 1734062790726
+  "updated": 1734064714325
 }
