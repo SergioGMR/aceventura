@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "49ers - rams",
-      "teams": {
-        "home": "49ers",
-        "away": "rams"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "13/12/2024",
-        "time": "02:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "houston rockets vs golden state warriors",
       "teams": {
         "home": "houston rockets vs golden state warriors"
@@ -967,5 +952,5 @@
       "channels": []
     }
   ],
-  "updated": 1734066338480
+  "updated": 1734068222174
 }
