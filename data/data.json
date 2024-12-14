@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "timberwolves - lakers",
-      "teams": {
-        "home": "timberwolves",
-        "away": "lakers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "14/12/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 3",
       "teams": {
         "home": null,
@@ -534,5 +519,5 @@
       "channels": []
     }
   ],
-  "updated": 1734151049181
+  "updated": 1734152703643
 }
