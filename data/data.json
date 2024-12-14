@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "boston celtics vs detroit pistons",
-      "teams": {
-        "home": "boston celtics vs detroit pistons"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "14/12/2024",
-        "time": "01:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "timberwolves - lakers",
       "teams": {
         "home": "timberwolves",
@@ -548,5 +534,5 @@
       "channels": []
     }
   ],
-  "updated": 1734149158419
+  "updated": 1734151049181
 }
