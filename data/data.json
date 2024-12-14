@@ -1,79 +1,6 @@
 {
   "data": [
     {
-      "title": "espanyol - osasuna",
-      "teams": {
-        "home": "espanyol",
-        "away": "osasuna"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "levante - cordoba",
-      "teams": {
-        "home": "levante",
-        "away": "cordoba"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "14/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real betis - atletico de madrid",
-      "teams": {
-        "home": "real betis",
-        "away": "atletico de madrid"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "espanyol vs osasuna",
-      "teams": {
-        "home": "espanyol vs osasuna"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "14/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "levante vs córdoba",
-      "teams": {
-        "home": "levante vs córdoba"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "14/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "arsenal - everton",
       "teams": {
         "home": "arsenal",
@@ -1228,5 +1155,5 @@
       "channels": []
     }
   ],
-  "updated": 1734194284956
+  "updated": 1734195894155
 }
