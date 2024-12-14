@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "alfred dunhill championship",
-      "date": {
-        "day": "14/12/2024",
-        "time": "11:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "granada - madrid",
       "teams": {
         "home": "granada",
@@ -1258,5 +1243,5 @@
       "channels": []
     }
   ],
-  "updated": 1734185103842
+  "updated": 1734186930473
 }
