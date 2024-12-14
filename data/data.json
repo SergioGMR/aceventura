@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "manresa - andorra",
-      "teams": {
-        "home": "manresa",
-        "away": "andorra"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "baxi manresa vs morabanc andorra",
-      "teams": {
-        "home": "baxi manresa vs morabanc andorra"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "14/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "leinster - auvergne",
       "teams": {
         "home": "leinster",
@@ -966,5 +937,5 @@
       "channels": []
     }
   ],
-  "updated": 1734206718472
+  "updated": 1734210284857
 }
