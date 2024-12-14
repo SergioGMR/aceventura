@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "valencia - girona",
-      "teams": {
-        "home": "valencia",
-        "away": "girona"
-      },
-      "sport": "basketball",
-      "competition": "spanish women league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "girona - coruña",
       "teams": {
         "home": "girona",
@@ -902,5 +887,5 @@
       "channels": []
     }
   ],
-  "updated": 1734217519087
+  "updated": 1734219247433
 }
