@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "granada - madrid",
-      "teams": {
-        "home": "granada",
-        "away": "madrid"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "espanyol - osasuna",
       "teams": {
         "home": "espanyol",
@@ -1243,5 +1228,5 @@
       "channels": []
     }
   ],
-  "updated": 1734186930473
+  "updated": 1734190480763
 }
