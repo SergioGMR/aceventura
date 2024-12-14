@@ -1,93 +1,6 @@
 {
   "data": [
     {
-      "title": "arsenal - everton",
-      "teams": {
-        "home": "arsenal",
-        "away": "everton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "liverpool - fulham",
-      "teams": {
-        "home": "liverpool",
-        "away": "fulham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "newcastle - leiceter",
-      "teams": {
-        "home": "newcastle",
-        "away": "leiceter"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "arsenal vs everton",
-      "teams": {
-        "home": "arsenal vs everton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "liverpool vs fulham",
-      "teams": {
-        "home": "liverpool vs fulham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "newcastle vs leicester city",
-      "teams": {
-        "home": "newcastle vs leicester city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "mallorca - girona",
       "teams": {
         "home": "mallorca",
@@ -1155,5 +1068,5 @@
       "channels": []
     }
   ],
-  "updated": 1734201518774
+  "updated": 1734203126084
 }
