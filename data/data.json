@@ -1,108 +1,6 @@
 {
   "data": [
     {
-      "title": "mallorca - girona",
-      "teams": {
-        "home": "mallorca",
-        "away": "girona"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cadiz - albacete",
-      "teams": {
-        "home": "cadiz",
-        "away": "albacete"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "castellon - cartagena",
-      "teams": {
-        "home": "castellon",
-        "away": "cartagena"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mallorca vs girona",
-      "teams": {
-        "home": "mallorca vs girona"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cd castellón vs fc cartagena",
-      "teams": {
-        "home": "cd castellón vs fc cartagena"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cádiz cf vs albacete",
-      "teams": {
-        "home": "cádiz cf vs albacete"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "deportivo abanca - real madrid",
-      "teams": {
-        "home": "deportivo abanca",
-        "away": "real madrid"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "manresa - andorra",
       "teams": {
         "home": "manresa",
@@ -1068,5 +966,5 @@
       "channels": []
     }
   ],
-  "updated": 1734203126084
+  "updated": 1734204835146
 }
