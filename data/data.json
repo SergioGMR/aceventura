@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "asvel - paris",
-      "teams": {
-        "home": "asvel",
-        "away": "paris"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "13/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "final master",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddel",
-      "date": {
-        "day": "13/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real valladolid - valencia",
-      "teams": {
-        "home": "real valladolid",
-        "away": "valencia"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "13/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "boston celtics vs detroit pistons",
       "teams": {
         "home": "boston celtics vs detroit pistons"
@@ -593,5 +548,5 @@
       "channels": []
     }
   ],
-  "updated": 1734132882596
+  "updated": 1734135619195
 }
