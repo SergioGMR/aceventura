@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "rocha - curiel",
-      "teams": {
-        "home": "rocha",
-        "away": "curiel"
-      },
-      "sport": "boxing",
-      "competition": "boxing event",
-      "date": {
-        "day": "15/12/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "thunder - rockets",
       "teams": {
         "home": "thunder",
@@ -797,5 +782,5 @@
       "channels": []
     }
   ],
-  "updated": 1734237452770
+  "updated": 1734239120194
 }
