@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "women final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "handball",
-      "competition": "ehf european league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "estudiantes - hla alicante",
       "teams": {
         "home": "estudiantes",
@@ -501,5 +486,5 @@
       "channels": []
     }
   ],
-  "updated": 1734294882780
+  "updated": 1734296683300
 }
