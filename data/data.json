@@ -1,64 +1,6 @@
 {
   "data": [
     {
-      "title": "joventut - tenerife",
-      "teams": {
-        "home": "joventut",
-        "away": "tenerife"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ucam murcia - valencia",
-      "teams": {
-        "home": "ucam murcia",
-        "away": "valencia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "joventut badalona vs la laguna tenerife",
-      "teams": {
-        "home": "joventut badalona vs la laguna tenerife"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "15/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ucam murcia cb vs valencia basket",
-      "teams": {
-        "home": "ucam murcia cb vs valencia basket"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "15/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "manchester city - manchester united",
       "teams": {
         "home": "manchester city",
@@ -588,5 +530,5 @@
       "channels": []
     }
   ],
-  "updated": 1734291229205
+  "updated": 1734293133598
 }
