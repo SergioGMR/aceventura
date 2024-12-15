@@ -1,64 +1,6 @@
 {
   "data": [
     {
-      "title": "atletico de madrid - getafe",
-      "teams": {
-        "home": "atletico de madrid",
-        "away": "getafe"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sporting - racing ferrol",
-      "teams": {
-        "home": "sporting",
-        "away": "racing ferrol"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "15/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "at. madrid vs getafe",
-      "teams": {
-        "home": "at. madrid vs getafe"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "15/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sporting gijón vs racing ferrol",
-      "teams": {
-        "home": "sporting gijón vs racing ferrol"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "15/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "brighton - crystal palace",
       "teams": {
         "home": "brighton",
@@ -777,5 +719,5 @@
       "channels": []
     }
   ],
-  "updated": 1734280673305
+  "updated": 1734282284168
 }
