@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "valencia - barcelona",
-      "teams": {
-        "home": "valencia",
-        "away": "barcelona"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "gran canaria - baskonia",
       "teams": {
         "home": "gran canaria",
@@ -879,5 +864,5 @@
       "channels": []
     }
   ],
-  "updated": 1734273322057
+  "updated": 1734275096032
 }
