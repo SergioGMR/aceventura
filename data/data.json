@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "girona - coruña",
-      "teams": {
-        "home": "girona",
-        "away": "coruña"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "unicaja - gran canaria",
-      "teams": {
-        "home": "unicaja",
-        "away": "gran canaria"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "rayo vallecano - real madrid",
-      "teams": {
-        "home": "rayo vallecano",
-        "away": "real madrid"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "14/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real oviedo - granada",
-      "teams": {
-        "home": "real oviedo",
-        "away": "granada"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "14/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "thunder - tbd",
       "teams": {
         "home": "thunder",
@@ -887,5 +827,5 @@
       "channels": []
     }
   ],
-  "updated": 1734219247433
+  "updated": 1734223777317
 }
