@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "manchester city - manchester united",
-      "teams": {
-        "home": "manchester city",
-        "away": "manchester united"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "17:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "manchester city vs manchester utd.",
-      "teams": {
-        "home": "manchester city vs manchester utd."
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "17:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "women final",
       "teams": {
         "home": null,
@@ -530,5 +501,5 @@
       "channels": []
     }
   ],
-  "updated": 1734293133598
+  "updated": 1734294882780
 }
