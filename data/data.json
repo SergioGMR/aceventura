@@ -1,79 +1,6 @@
 {
   "data": [
     {
-      "title": "rc toulon - glasgow warriors",
-      "teams": {
-        "home": "rc toulon",
-        "away": "glasgow warriors"
-      },
-      "sport": "rugby",
-      "competition": "champions cup",
-      "date": {
-        "day": "15/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "alaves - athletic club",
-      "teams": {
-        "home": "alaves",
-        "away": "athletic club"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "burgos - malaga",
-      "teams": {
-        "home": "burgos",
-        "away": "malaga"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "15/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "alavés vs athletic club",
-      "teams": {
-        "home": "alavés vs athletic club"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "15/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "burgos cf vs málaga",
-      "teams": {
-        "home": "burgos cf vs málaga"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "15/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "joventut - tenerife",
       "teams": {
         "home": "joventut",
@@ -661,5 +588,5 @@
       "channels": []
     }
   ],
-  "updated": 1734289480219
+  "updated": 1734291229205
 }
