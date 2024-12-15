@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "whyte - tetteh",
-      "teams": {
-        "home": "whyte",
-        "away": "tetteh"
-      },
-      "sport": "boxing",
-      "competition": "boxing event",
-      "date": {
-        "day": "15/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "barcelona - leganes",
       "teams": {
         "home": "barcelona",
@@ -518,5 +503,5 @@
       "channels": []
     }
   ],
-  "updated": 1734303909678
+  "updated": 1734305653872
 }
