@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 4",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "alfred dunhill championship",
-      "date": {
-        "day": "15/12/2024",
-        "time": "11:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "valencia - barcelona",
       "teams": {
         "home": "valencia",
@@ -894,5 +879,5 @@
       "channels": []
     }
   ],
-  "updated": 1734271510229
+  "updated": 1734273322057
 }
