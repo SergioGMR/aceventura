@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "master final - semifinals",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "15/12/2024",
-        "time": "00:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "rocha - curiel",
       "teams": {
         "home": "rocha",
@@ -812,5 +797,5 @@
       "channels": []
     }
   ],
-  "updated": 1734230065765
+  "updated": 1734232820854
 }
