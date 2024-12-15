@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "thunder - rockets",
-      "teams": {
-        "home": "thunder",
-        "away": "rockets"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "15/12/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 4",
       "teams": {
         "home": null,
@@ -782,5 +767,5 @@
       "channels": []
     }
   ],
-  "updated": 1734239120194
+  "updated": 1734240965952
 }
