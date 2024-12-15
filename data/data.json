@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "thunder - tbd",
-      "teams": {
-        "home": "thunder",
-        "away": "tbd"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "14/12/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - semifinals",
       "teams": {
         "home": null,
@@ -827,5 +812,5 @@
       "channels": []
     }
   ],
-  "updated": 1734223777317
+  "updated": 1734226397704
 }
