@@ -1,64 +1,6 @@
 {
   "data": [
     {
-      "title": "chelsea - brentford",
-      "teams": {
-        "home": "chelsea",
-        "away": "brentford"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "southampton - tottenham",
-      "teams": {
-        "home": "southampton",
-        "away": "tottenham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "chelsea vs brentford",
-      "teams": {
-        "home": "chelsea vs brentford"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "southampton vs tottenham",
-      "teams": {
-        "home": "southampton vs tottenham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "whyte - tetteh",
       "teams": {
         "home": "whyte",
@@ -66,20 +8,6 @@
       },
       "sport": "boxing",
       "competition": "boxing event",
-      "date": {
-        "day": "15/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "d. whyte vs e. tetteh",
-      "teams": {
-        "home": "d. whyte vs e. tetteh"
-      },
-      "sport": "soccer",
-      "competition": "velada peso pesado",
       "date": {
         "day": "15/12/2024",
         "time": "20:30",
@@ -118,20 +46,6 @@
       "channels": []
     },
     {
-      "title": "fc barcelona vs leganés",
-      "teams": {
-        "home": "fc barcelona vs leganés"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "15/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - final",
       "teams": {
         "home": null,
@@ -139,21 +53,6 @@
       },
       "sport": "paddle",
       "competition": "a1 paddle",
-      "date": {
-        "day": "15/12/2024",
-        "time": "22:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "final vs a1 padel",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "master final",
       "date": {
         "day": "15/12/2024",
         "time": "22:00",
@@ -207,15 +106,30 @@
       "channels": []
     },
     {
-      "title": "indiana pacers vs new orleans pelicans",
+      "title": "semifinales vs a1 padel",
       "teams": {
-        "home": "indiana pacers vs new orleans pelicans"
+        "home": null,
+        "away": null
       },
       "sport": "soccer",
-      "competition": "nba liga regular",
+      "competition": "master final",
       "date": {
-        "day": "15/12/2024",
-        "time": "23:00",
+        "day": "16/12/2024",
+        "time": "00:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "a. rocha vs r. curiel",
+      "teams": {
+        "home": "a. rocha vs r. curiel"
+      },
+      "sport": "soccer",
+      "competition": "velada peso welter",
+      "date": {
+        "day": "16/12/2024",
+        "time": "02:00",
         "zone": "cet"
       },
       "channels": []
@@ -236,6 +150,286 @@
       "channels": []
     },
     {
+      "title": "oklahoma c. thunder vs houston rockets",
+      "teams": {
+        "home": "oklahoma c. thunder vs houston rockets"
+      },
+      "sport": "soccer",
+      "competition": "nba cup semifinales",
+      "date": {
+        "day": "16/12/2024",
+        "time": "02:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "coviran granada vs baskonia",
+      "teams": {
+        "home": "coviran granada vs baskonia"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "16/12/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "força lleida vs bilbao basket",
+      "teams": {
+        "home": "força lleida vs bilbao basket"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "16/12/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid baloncesto vs río breogán",
+      "teams": {
+        "home": "real madrid baloncesto vs río breogán"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "16/12/2024",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "at. madrid vs getafe",
+      "teams": {
+        "home": "at. madrid vs getafe"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "16/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sporting gijón vs racing ferrol",
+      "teams": {
+        "home": "sporting gijón vs racing ferrol"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "16/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "brighton vs crystal palace",
+      "teams": {
+        "home": "brighton vs crystal palace"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "16/12/2024",
+        "time": "15:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "alavés vs athletic club",
+      "teams": {
+        "home": "alavés vs athletic club"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "16/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "burgos cf vs málaga",
+      "teams": {
+        "home": "burgos cf vs málaga"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "16/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "joventut badalona vs la laguna tenerife",
+      "teams": {
+        "home": "joventut badalona vs la laguna tenerife"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "16/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ucam murcia cb vs valencia basket",
+      "teams": {
+        "home": "ucam murcia cb vs valencia basket"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "16/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester city vs manchester utd.",
+      "teams": {
+        "home": "manchester city vs manchester utd."
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "16/12/2024",
+        "time": "17:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real sociedad vs ud las palmas",
+      "teams": {
+        "home": "real sociedad vs ud las palmas"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "16/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "villarreal vs real betis",
+      "teams": {
+        "home": "villarreal vs real betis"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "16/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "racing santander vs huesca",
+      "teams": {
+        "home": "racing santander vs huesca"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "16/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "casademont zaragoza vs barça basket",
+      "teams": {
+        "home": "casademont zaragoza vs barça basket"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "16/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "movistar estudiantes vs hla alicante",
+      "teams": {
+        "home": "movistar estudiantes vs hla alicante"
+      },
+      "sport": "soccer",
+      "competition": "primera feb liga regular",
+      "date": {
+        "day": "16/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "chelsea vs brentford",
+      "teams": {
+        "home": "chelsea vs brentford"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "16/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "southampton vs tottenham",
+      "teams": {
+        "home": "southampton vs tottenham"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "16/12/2024",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "d. whyte vs e. tetteh",
+      "teams": {
+        "home": "d. whyte vs e. tetteh"
+      },
+      "sport": "soccer",
+      "competition": "velada peso pesado",
+      "date": {
+        "day": "16/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "bournemouth - west ham",
       "teams": {
         "home": "bournemouth",
@@ -246,6 +440,49 @@
       "date": {
         "day": "16/12/2024",
         "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fc barcelona vs leganés",
+      "teams": {
+        "home": "fc barcelona vs leganés"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "16/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "final vs a1 padel",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "master final",
+      "date": {
+        "day": "16/12/2024",
+        "time": "22:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "indiana pacers vs new orleans pelicans",
+      "teams": {
+        "home": "indiana pacers vs new orleans pelicans"
+      },
+      "sport": "soccer",
+      "competition": "nba liga regular",
+      "date": {
+        "day": "16/12/2024",
+        "time": "23:00",
         "zone": "cet"
       },
       "channels": []
@@ -281,5 +518,5 @@
       "channels": []
     }
   ],
-  "updated": 1734302168557
+  "updated": 1734303909678
 }
