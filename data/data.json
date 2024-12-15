@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "levante - eibar",
-      "teams": {
-        "home": "levante",
-        "away": "eibar"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "rc toulon - glasgow warriors",
       "teams": {
         "home": "rc toulon",
@@ -527,20 +512,6 @@
       "channels": []
     },
     {
-      "title": "cd tenerife vs deportivo",
-      "teams": {
-        "home": "cd tenerife vs deportivo"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "15/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - final",
       "teams": {
         "home": null,
@@ -690,5 +661,5 @@
       "channels": []
     }
   ],
-  "updated": 1734287908577
+  "updated": 1734289480219
 }
