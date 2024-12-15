@@ -1,93 +1,6 @@
 {
   "data": [
     {
-      "title": "gran canaria - baskonia",
-      "teams": {
-        "home": "gran canaria",
-        "away": "baskonia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "lleida - bilbao",
-      "teams": {
-        "home": "lleida",
-        "away": "bilbao"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real madrid - rio breogan",
-      "teams": {
-        "home": "real madrid",
-        "away": "rio breogan"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "coviran granada vs baskonia",
-      "teams": {
-        "home": "coviran granada vs baskonia"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "15/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "força lleida vs bilbao basket",
-      "teams": {
-        "home": "força lleida vs bilbao basket"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "15/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real madrid baloncesto vs río breogán",
-      "teams": {
-        "home": "real madrid baloncesto vs río breogán"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "15/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "atletico de madrid - getafe",
       "teams": {
         "home": "atletico de madrid",
@@ -864,5 +777,5 @@
       "channels": []
     }
   ],
-  "updated": 1734275096032
+  "updated": 1734276881686
 }
