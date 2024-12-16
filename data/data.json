@@ -16,20 +16,6 @@
       "channels": []
     },
     {
-      "title": "bournemouth vs west ham",
-      "teams": {
-        "home": "bournemouth vs west ham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "16/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "pistons - heat",
       "teams": {
         "home": "pistons",
@@ -58,7 +44,21 @@
         "zone": "cet"
       },
       "channels": []
+    },
+    {
+      "title": "bournemouth vs west ham",
+      "teams": {
+        "home": "bournemouth vs west ham"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "17/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
     }
   ],
-  "updated": 1734388599038
+  "updated": 1734390307239
 }
