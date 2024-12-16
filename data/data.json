@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "semifinales vs a1 padel",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "master final",
-      "date": {
-        "day": "16/12/2024",
-        "time": "00:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "a. rocha vs r. curiel",
       "teams": {
         "home": "a. rocha vs r. curiel"
@@ -413,5 +398,5 @@
       "channels": []
     }
   ],
-  "updated": 1734316399656
+  "updated": 1734319225794
 }
