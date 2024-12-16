@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - leganes",
-      "teams": {
-        "home": "barcelona",
-        "away": "leganes"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "15/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tenerife - deportivo",
-      "teams": {
-        "home": "tenerife",
-        "away": "deportivo"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "15/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - final",
       "teams": {
         "home": null,
@@ -503,5 +473,5 @@
       "channels": []
     }
   ],
-  "updated": 1734305653872
+  "updated": 1734308512814
 }
