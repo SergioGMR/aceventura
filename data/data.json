@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "seahawks - packers",
-      "teams": {
-        "home": "seahawks",
-        "away": "packers"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "16/12/2024",
-        "time": "02:20",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "oklahoma c. thunder vs houston rockets",
-      "teams": {
-        "home": "oklahoma c. thunder vs houston rockets"
-      },
-      "sport": "soccer",
-      "competition": "nba cup semifinales",
-      "date": {
-        "day": "16/12/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "coviran granada vs baskonia",
       "teams": {
         "home": "coviran granada vs baskonia"
@@ -384,5 +355,5 @@
       "channels": []
     }
   ],
-  "updated": 1734325543639
+  "updated": 1734327450696
 }
