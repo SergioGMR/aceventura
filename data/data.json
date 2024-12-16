@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "pacers - pelicans",
-      "teams": {
-        "home": "pacers",
-        "away": "pelicans"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "15/12/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "red zone",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "15/12/2024",
-        "time": "23:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "semifinales vs a1 padel",
       "teams": {
         "home": null,
@@ -443,5 +413,5 @@
       "channels": []
     }
   ],
-  "updated": 1734312804154
+  "updated": 1734316399656
 }
