@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "master final - final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "a1 paddle",
-      "date": {
-        "day": "15/12/2024",
-        "time": "22:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "lions - bills",
-      "teams": {
-        "home": "lions",
-        "away": "bills"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "15/12/2024",
-        "time": "22:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "pacers - pelicans",
       "teams": {
         "home": "pacers",
@@ -473,5 +443,5 @@
       "channels": []
     }
   ],
-  "updated": 1734310156071
+  "updated": 1734312804154
 }
