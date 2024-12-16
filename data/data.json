@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "a. rocha vs r. curiel",
-      "teams": {
-        "home": "a. rocha vs r. curiel"
-      },
-      "sport": "soccer",
-      "competition": "velada peso welter",
-      "date": {
-        "day": "16/12/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "seahawks - packers",
       "teams": {
         "home": "seahawks",
@@ -398,5 +384,5 @@
       "channels": []
     }
   ],
-  "updated": 1734323905861
+  "updated": 1734325543639
 }
