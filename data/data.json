@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - chelsea",
-      "teams": {
-        "home": "real madrid",
-        "away": "chelsea"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "17/12/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "monaco - bayern",
-      "teams": {
-        "home": "monaco",
-        "away": "bayern"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "17/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "albacete - levante",
-      "teams": {
-        "home": "albacete",
-        "away": "levante"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "17/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "granada - cartagena",
-      "teams": {
-        "home": "granada",
-        "away": "cartagena"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "17/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "maccabi - baskonia",
       "teams": {
         "home": "maccabi",
@@ -1065,5 +1005,5 @@
       "channels": []
     }
   ],
-  "updated": 1734471249227
+  "updated": 1734473116583
 }
