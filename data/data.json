@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "pistons - heat",
-      "teams": {
-        "home": "pistons",
-        "away": "heat"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "17/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "raiders - falcons",
       "teams": {
         "home": "raiders",
@@ -45,5 +30,5 @@
       "channels": []
     }
   ],
-  "updated": 1734406902766
+  "updated": 1734408371294
 }
