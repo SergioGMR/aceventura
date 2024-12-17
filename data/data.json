@@ -1,19 +1,4 @@
 {
-  "data": [
-    {
-      "title": "bournemouth vs west ham",
-      "teams": {
-        "home": "bournemouth vs west ham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "17/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    }
-  ],
-  "updated": 1734431910888
+  "data": [],
+  "updated": 1734433470337
 }
