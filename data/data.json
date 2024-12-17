@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "bournemouth - west ham",
-      "teams": {
-        "home": "bournemouth",
-        "away": "west ham"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "16/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "pistons - heat",
       "teams": {
         "home": "pistons",
@@ -60,5 +45,5 @@
       "channels": []
     }
   ],
-  "updated": 1734392052697
+  "updated": 1734394828091
 }
