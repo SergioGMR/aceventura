@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "maccabi - baskonia",
-      "teams": {
-        "home": "maccabi",
-        "away": "baskonia"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "17/12/2024",
-        "time": "20:05",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "panathinaikos - olimpia milano",
-      "teams": {
-        "home": "panathinaikos",
-        "away": "olimpia milano"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "17/12/2024",
-        "time": "20:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barcelona - fenerbahce",
-      "teams": {
-        "home": "barcelona",
-        "away": "fenerbahce"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "17/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "alba - zalgiris",
       "teams": {
         "home": "alba",
@@ -1005,5 +960,5 @@
       "channels": []
     }
   ],
-  "updated": 1734476708430
+  "updated": 1734478448401
 }
