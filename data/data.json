@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "raiders - falcons",
-      "teams": {
-        "home": "raiders",
-        "away": "falcons"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "17/12/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bournemouth vs west ham",
       "teams": {
         "home": "bournemouth vs west ham"
@@ -30,5 +15,5 @@
       "channels": []
     }
   ],
-  "updated": 1734411919243
+  "updated": 1734413788670
 }
