@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "barcelona - manchester city",
-      "teams": {
-        "home": "barcelona",
-        "away": "manchester city"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "18/12/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "racing ferrol - almeria",
-      "teams": {
-        "home": "racing ferrol",
-        "away": "almeria"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "18/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "racing ferrol vs ud almería",
-      "teams": {
-        "home": "racing ferrol vs ud almería"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "18/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "olympiacos - bologna",
       "teams": {
         "home": "olympiacos",
@@ -894,5 +850,5 @@
       "channels": []
     }
   ],
-  "updated": 1734557642971
+  "updated": 1734559507836
 }
