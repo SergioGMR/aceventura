@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "shang - van assche",
-      "teams": {
-        "home": "shang",
-        "away": "van assche"
-      },
-      "sport": "tennis",
-      "competition": "next gen atp finals",
-      "date": {
-        "day": "18/12/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "j. shang vs l. van assche",
-      "teams": {
-        "home": "j. shang vs l. van assche"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "18/12/2024",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "michelsen - basavareddy",
       "teams": {
         "home": "michelsen",
@@ -1039,5 +1010,5 @@
       "channels": []
     }
   ],
-  "updated": 1734532636634
+  "updated": 1734534323651
 }
