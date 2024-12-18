@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "title": "alba - zalgiris",
-      "teams": {
-        "home": "alba",
-        "away": "zalgiris"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "17/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "partizan - asvel",
-      "teams": {
-        "home": "partizan",
-        "away": "asvel"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "17/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "lyon - wolfsburg",
-      "teams": {
-        "home": "lyon",
-        "away": "wolfsburg"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "17/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cordoba - eibar",
-      "teams": {
-        "home": "cordoba",
-        "away": "eibar"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "17/12/2024",
-        "time": "21:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real zaragoza - real oviedo",
-      "teams": {
-        "home": "real zaragoza",
-        "away": "real oviedo"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "17/12/2024",
-        "time": "21:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "bucks - thunder",
       "teams": {
         "home": "bucks",
@@ -960,5 +885,5 @@
       "channels": []
     }
   ],
-  "updated": 1734478448401
+  "updated": 1734481210974
 }
