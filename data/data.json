@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "mensik - tien",
-      "teams": {
-        "home": "mensik",
-        "away": "tien"
-      },
-      "sport": "tennis",
-      "competition": "next gen atp finals",
-      "date": {
-        "day": "18/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "j. mensik vs l. tien",
-      "teams": {
-        "home": "j. mensik vs l. tien"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "18/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - pachuca",
       "teams": {
         "home": "real madrid",
@@ -996,5 +967,5 @@
       "channels": []
     }
   ],
-  "updated": 1734550444561
+  "updated": 1734552358436
 }
