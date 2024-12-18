@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "bucks - thunder",
-      "teams": {
-        "home": "bucks",
-        "away": "thunder"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "18/12/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "shang - van assche",
       "teams": {
         "home": "shang",
@@ -885,5 +870,5 @@
       "channels": []
     }
   ],
-  "updated": 1734498343190
+  "updated": 1734500167237
 }
