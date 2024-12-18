@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - pachuca",
-      "teams": {
-        "home": "real madrid",
-        "away": "pachuca"
-      },
-      "sport": "soccer",
-      "competition": "international cup",
-      "date": {
-        "day": "18/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "anadolu - crvena",
       "teams": {
         "home": "anadolu",
@@ -967,5 +952,5 @@
       "channels": []
     }
   ],
-  "updated": 1734554142525
+  "updated": 1734555895739
 }
