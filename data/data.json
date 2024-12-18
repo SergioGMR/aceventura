@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "michelsen - basavareddy",
-      "teams": {
-        "home": "michelsen",
-        "away": "basavareddy"
-      },
-      "sport": "tennis",
-      "competition": "next gen atp finals",
-      "date": {
-        "day": "18/12/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "a. michelsen vs n. basavareddy",
-      "teams": {
-        "home": "a. michelsen vs n. basavareddy"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "18/12/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "mensik - tien",
       "teams": {
         "home": "mensik",
@@ -1010,5 +981,5 @@
       "channels": []
     }
   ],
-  "updated": 1734537974034
+  "updated": 1734539963224
 }
