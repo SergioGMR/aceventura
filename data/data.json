@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "paris - fenerbahce",
-      "teams": {
-        "home": "paris",
-        "away": "fenerbahce"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "19/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "real madrid - monaco",
       "teams": {
         "home": "real madrid",
@@ -2055,5 +2040,5 @@
       "channels": []
     }
   ],
-  "updated": 1734649572053
+  "updated": 1734651287887
 }
