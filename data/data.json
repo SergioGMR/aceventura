@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "arsenal - bayern",
-      "teams": {
-        "home": "arsenal",
-        "away": "bayern"
-      },
-      "sport": "soccer (w)",
-      "competition": "champions league",
-      "date": {
-        "day": "18/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "malaga - eldense",
-      "teams": {
-        "home": "malaga",
-        "away": "eldense"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "18/12/2024",
-        "time": "21:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "espanyol - valencia",
       "teams": {
         "home": "espanyol",
@@ -903,5 +873,5 @@
       "channels": []
     }
   ],
-  "updated": 1734564847966
+  "updated": 1734567626594
 }
