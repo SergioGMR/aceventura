@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "master final - men final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "19/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 final masculino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "master final",
-      "date": {
-        "day": "19/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "a. fils vs j. mensik",
       "teams": {
         "home": "a. fils vs j. mensik"
@@ -2102,5 +2072,5 @@
       "channels": []
     }
   ],
-  "updated": 1734633576375
+  "updated": 1734635212507
 }
