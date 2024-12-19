@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 1",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "afrasia bank mauritius open",
-      "date": {
-        "day": "19/12/2024",
-        "time": "11:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round robin",
       "teams": {
         "home": null,
@@ -832,5 +817,5 @@
       "channels": []
     }
   ],
-  "updated": 1734617108839
+  "updated": 1734619022615
 }
