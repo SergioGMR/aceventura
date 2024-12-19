@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round robin",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "next gen atp finals",
-      "date": {
-        "day": "19/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "a. michelsen vs l. van assche",
       "teams": {
         "home": "a. michelsen vs l. van assche"
@@ -2161,5 +2146,5 @@
       "channels": []
     }
   ],
-  "updated": 1734622596986
+  "updated": 1734624405211
 }
