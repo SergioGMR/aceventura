@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "l. tien vs j. fonseca",
-      "teams": {
-        "home": "l. tien vs j. fonseca"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "19/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "panathinaikos - baskonia",
       "teams": {
         "home": "panathinaikos",
@@ -2028,5 +2014,5 @@
       "channels": []
     }
   ],
-  "updated": 1734642338517
+  "updated": 1734644099667
 }
