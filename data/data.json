@@ -16,26 +16,27 @@
       "channels": []
     },
     {
-      "title": "j. shang vs l. van assche",
-      "teams": {
-        "home": "j. shang vs l. van assche"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "19/12/2024",
-        "time": "12:10",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "round robin",
       "teams": {
         "home": null,
         "away": null
       },
       "sport": "tennis",
+      "competition": "next gen atp finals",
+      "date": {
+        "day": "19/12/2024",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "round robin vs atp tennis tv",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
       "competition": "next gen atp finals",
       "date": {
         "day": "19/12/2024",
@@ -60,15 +61,16 @@
       "channels": []
     },
     {
-      "title": "a. michelsen vs n. basavareddy",
+      "title": "1/4 final femenino vs premier padel tour",
       "teams": {
-        "home": "a. michelsen vs n. basavareddy"
+        "home": null,
+        "away": null
       },
       "sport": "soccer",
-      "competition": "next gen atp finals round robin",
+      "competition": "master final",
       "date": {
         "day": "19/12/2024",
-        "time": "14:25",
+        "time": "14:00",
         "zone": "cet"
       },
       "channels": []
@@ -89,15 +91,16 @@
       "channels": []
     },
     {
-      "title": "j. mensik vs l. tien",
+      "title": "1/4 final masculino vs premier padel tour",
       "teams": {
-        "home": "j. mensik vs l. tien"
+        "home": null,
+        "away": null
       },
       "sport": "soccer",
-      "competition": "next gen atp finals round robin",
+      "competition": "master final",
       "date": {
         "day": "19/12/2024",
-        "time": "17:10",
+        "time": "16:00",
         "zone": "cet"
       },
       "channels": []
@@ -118,15 +121,16 @@
       "channels": []
     },
     {
-      "title": "anadolu efes istanbul vs crvena zvezda mts belgrade",
+      "title": "1/4 final femenino vs premier padel tour",
       "teams": {
-        "home": "anadolu efes istanbul vs crvena zvezda mts belgrade"
+        "home": null,
+        "away": null
       },
       "sport": "soccer",
-      "competition": "euroliga liga regular",
+      "competition": "master final",
       "date": {
         "day": "19/12/2024",
-        "time": "18:30",
+        "time": "18:00",
         "zone": "cet"
       },
       "channels": []
@@ -139,6 +143,20 @@
       },
       "sport": "basketball",
       "competition": "euroleague",
+      "date": {
+        "day": "19/12/2024",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "panathinaikos bc vs baskonia",
+      "teams": {
+        "home": "panathinaikos bc vs baskonia"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
       "date": {
         "day": "19/12/2024",
         "time": "18:45",
@@ -177,9 +195,9 @@
       "channels": []
     },
     {
-      "title": "racing ferrol vs ud almería",
+      "title": "cádiz cf vs burgos cf",
       "teams": {
-        "home": "racing ferrol vs ud almería"
+        "home": "cádiz cf vs burgos cf"
       },
       "sport": "soccer",
       "competition": "laliga hypermotion",
@@ -191,15 +209,29 @@
       "channels": []
     },
     {
-      "title": "a. fils vs j. fonseca",
+      "title": "elche vs racing santander",
       "teams": {
-        "home": "a. fils vs j. fonseca"
+        "home": "elche vs racing santander"
       },
       "sport": "soccer",
-      "competition": "next gen atp finals round robin",
+      "competition": "laliga hypermotion",
       "date": {
         "day": "19/12/2024",
-        "time": "19:50",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "gala de presentación vs edición 2025",
+      "teams": {
+        "home": "gala de presentación vs edición 2025"
+      },
+      "sport": "soccer",
+      "competition": "vuelta a españa",
+      "date": {
+        "day": "19/12/2024",
+        "time": "19:00",
         "zone": "cet"
       },
       "channels": []
@@ -220,15 +252,16 @@
       "channels": []
     },
     {
-      "title": "olympiacos piraeus vs virtus bologna",
+      "title": "1/4 final masculino vs premier padel tour",
       "teams": {
-        "home": "olympiacos piraeus vs virtus bologna"
+        "home": null,
+        "away": null
       },
       "sport": "soccer",
-      "competition": "euroliga liga regular",
+      "competition": "master final",
       "date": {
         "day": "19/12/2024",
-        "time": "20:15",
+        "time": "20:00",
         "zone": "cet"
       },
       "channels": []
@@ -249,13 +282,12 @@
       "channels": []
     },
     {
-      "title": "valencia basket vs u - bt cluj napoca",
+      "title": "paris basketball vs fenerbahce istanbul",
       "teams": {
-        "home": "valencia basket vs u",
-        "away": "bt cluj napoca"
+        "home": "paris basketball vs fenerbahce istanbul"
       },
       "sport": "soccer",
-      "competition": "eurocup liga regular",
+      "competition": "euroliga liga regular",
       "date": {
         "day": "19/12/2024",
         "time": "20:30",
@@ -271,6 +303,20 @@
       },
       "sport": "basketball",
       "competition": "euroleague",
+      "date": {
+        "day": "19/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid baloncesto vs as monaco basket",
+      "teams": {
+        "home": "real madrid baloncesto vs as monaco basket"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
       "date": {
         "day": "19/12/2024",
         "time": "20:45",
@@ -503,9 +549,9 @@
       "channels": []
     },
     {
-      "title": "mirandés vs sporting gijón",
+      "title": "deportivo vs cd castellón",
       "teams": {
-        "home": "mirandés vs sporting gijón"
+        "home": "deportivo vs cd castellón"
       },
       "sport": "soccer",
       "competition": "laliga hypermotion",
@@ -517,43 +563,15 @@
       "channels": []
     },
     {
-      "title": "málaga vs eldense",
+      "title": "huesca vs cd tenerife",
       "teams": {
-        "home": "málaga vs eldense"
+        "home": "huesca vs cd tenerife"
       },
       "sport": "soccer",
       "competition": "laliga hypermotion",
       "date": {
         "day": "19/12/2024",
         "time": "21:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "espanyol vs valencia cf",
-      "teams": {
-        "home": "espanyol vs valencia cf"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "19/12/2024",
-        "time": "21:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "villarreal vs rayo vallecano",
-      "teams": {
-        "home": "villarreal vs rayo vallecano"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "19/12/2024",
-        "time": "21:30",
         "zone": "cet"
       },
       "channels": []
@@ -814,5 +832,5 @@
       "channels": []
     }
   ],
-  "updated": 1734604703785
+  "updated": 1734606302037
 }
