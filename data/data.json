@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "a. michelsen vs l. van assche",
-      "teams": {
-        "home": "a. michelsen vs l. van assche"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "19/12/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "master final - women quarters",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "19/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 final femenino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "master final",
-      "date": {
-        "day": "19/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - men final",
       "teams": {
         "home": null,
@@ -2146,5 +2102,5 @@
       "channels": []
     }
   ],
-  "updated": 1734624405211
+  "updated": 1734627948387
 }
