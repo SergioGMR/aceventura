@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "milwaukee bucks vs oklahoma c. thunder",
-      "teams": {
-        "home": "milwaukee bucks vs oklahoma c. thunder"
-      },
-      "sport": "soccer",
-      "competition": "nba cup final",
-      "date": {
-        "day": "19/12/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 1",
       "teams": {
         "home": null,
@@ -828,5 +814,5 @@
       "channels": []
     }
   ],
-  "updated": 1734584744832
+  "updated": 1734586577498
 }
