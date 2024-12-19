@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "espanyol - valencia",
-      "teams": {
-        "home": "espanyol",
-        "away": "valencia"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "18/12/2024",
-        "time": "21:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "villarreal - rayo vallecano",
-      "teams": {
-        "home": "villarreal",
-        "away": "rayo vallecano"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "18/12/2024",
-        "time": "21:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "mirandes - sporting",
-      "teams": {
-        "home": "mirandes",
-        "away": "sporting"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "18/12/2024",
-        "time": "21:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "milwaukee bucks vs oklahoma c. thunder",
       "teams": {
         "home": "milwaukee bucks vs oklahoma c. thunder"
@@ -873,5 +828,5 @@
       "channels": []
     }
   ],
-  "updated": 1734567626594
+  "updated": 1734569358094
 }
