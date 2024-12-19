@@ -1,107 +1,6 @@
 {
   "data": [
     {
-      "title": "panathinaikos - baskonia",
-      "teams": {
-        "home": "panathinaikos",
-        "away": "baskonia"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "19/12/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "panathinaikos bc vs baskonia",
-      "teams": {
-        "home": "panathinaikos bc vs baskonia"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "19/12/2024",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cadiz - burgos",
-      "teams": {
-        "home": "cadiz",
-        "away": "burgos"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "19/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "elche - racing santander",
-      "teams": {
-        "home": "elche",
-        "away": "racing santander"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "19/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "cádiz cf vs burgos cf",
-      "teams": {
-        "home": "cádiz cf vs burgos cf"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "19/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "elche vs racing santander",
-      "teams": {
-        "home": "elche vs racing santander"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "19/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "gala de presentación vs edición 2025",
-      "teams": {
-        "home": "gala de presentación vs edición 2025"
-      },
-      "sport": "soccer",
-      "competition": "vuelta a españa",
-      "date": {
-        "day": "19/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - men quarters",
       "teams": {
         "home": null,
@@ -2014,5 +1913,5 @@
       "channels": []
     }
   ],
-  "updated": 1734644099667
+  "updated": 1734645937333
 }
