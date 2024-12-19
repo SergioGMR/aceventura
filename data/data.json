@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "a. fils vs j. mensik",
-      "teams": {
-        "home": "a. fils vs j. mensik"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "19/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - women final",
       "teams": {
         "home": null,
@@ -2072,5 +2058,5 @@
       "channels": []
     }
   ],
-  "updated": 1734636883067
+  "updated": 1734638794593
 }
