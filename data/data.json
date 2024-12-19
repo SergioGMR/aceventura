@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "master final - women final",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "19/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 final femenino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "master final",
-      "date": {
-        "day": "19/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "l. tien vs j. fonseca",
       "teams": {
         "home": "l. tien vs j. fonseca"
@@ -2058,5 +2028,5 @@
       "channels": []
     }
   ],
-  "updated": 1734640534271
+  "updated": 1734642338517
 }
