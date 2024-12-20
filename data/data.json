@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "round robin",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "next gen atp finals",
-      "date": {
-        "day": "20/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - women quarters",
       "teams": {
         "home": null,
@@ -1800,5 +1785,5 @@
       "channels": []
     }
   ],
-  "updated": 1734708912337
+  "updated": 1734710794473
 }
