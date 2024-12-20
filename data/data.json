@@ -373,7 +373,7 @@
         "home": "fc cartagena vs albacete"
       },
       "sport": "soccer",
-      "competition": "laliga hypermotion estadio municipal cartagonova, cartagena",
+      "competition": "laliga hypermotion",
       "date": {
         "day": "20/12/2024",
         "time": "20:30",
@@ -1800,5 +1800,5 @@
       "channels": []
     }
   ],
-  "updated": 1734705383299
+  "updated": 1734707142534
 }
