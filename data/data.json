@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "grizzlies - warriors",
-      "teams": {
-        "home": "grizzlies",
-        "away": "warriors"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "20/12/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 2",
       "teams": {
         "home": null,
@@ -1801,5 +1786,5 @@
       "channels": []
     }
   ],
-  "updated": 1734669453652
+  "updated": 1734671165394
 }
