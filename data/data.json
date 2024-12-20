@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "a. fils vs l. tien",
-      "teams": {
-        "home": "a. fils vs l. tien"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "20/12/2024",
-        "time": "17:10",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "1/4 final femenino vs premier padel tour",
       "teams": {
         "home": null,
@@ -1697,5 +1683,5 @@
       "channels": []
     }
   ],
-  "updated": 1734725186304
+  "updated": 1734726911618
 }
