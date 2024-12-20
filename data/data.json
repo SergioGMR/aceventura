@@ -1,31 +1,15 @@
 {
   "data": [
     {
-      "title": "master final - women final",
+      "title": "a. fils vs l. tien",
       "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "20/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 final masculino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
+        "home": "a. fils vs l. tien"
       },
       "sport": "soccer",
-      "competition": "master final",
+      "competition": "next gen atp finals round robin",
       "date": {
         "day": "20/12/2024",
-        "time": "16:00",
+        "time": "17:10",
         "zone": "cet"
       },
       "channels": []
@@ -75,6 +59,20 @@
       "channels": []
     },
     {
+      "title": "j. mensik vs j. fonseca",
+      "teams": {
+        "home": "j. mensik vs j. fonseca"
+      },
+      "sport": "soccer",
+      "competition": "next gen atp finals round robin",
+      "date": {
+        "day": "20/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "zalgiris - asvel",
       "teams": {
         "home": "zalgiris",
@@ -112,20 +110,6 @@
       },
       "sport": "soccer",
       "competition": "euroliga liga regular",
-      "date": {
-        "day": "20/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "a. fils vs l. tien",
-      "teams": {
-        "home": "a. fils vs l. tien"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
       "date": {
         "day": "20/12/2024",
         "time": "19:00",
@@ -301,20 +285,6 @@
       },
       "sport": "soccer",
       "competition": "laliga hypermotion",
-      "date": {
-        "day": "20/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "j. mensik vs j. fonseca",
-      "teams": {
-        "home": "j. mensik vs j. fonseca"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
       "date": {
         "day": "20/12/2024",
         "time": "20:30",
@@ -1727,5 +1697,5 @@
       "channels": []
     }
   ],
-  "updated": 1734719928804
+  "updated": 1734721525516
 }
