@@ -1,94 +1,6 @@
 {
   "data": [
     {
-      "title": "anadolu - partizan",
-      "teams": {
-        "home": "anadolu",
-        "away": "partizan"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "20/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "anadolu efes istanbul vs bc partizan beograd",
-      "teams": {
-        "home": "anadolu efes istanbul vs bc partizan beograd"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "20/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "j. mensik vs j. fonseca",
-      "teams": {
-        "home": "j. mensik vs j. fonseca"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "20/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "zalgiris - asvel",
-      "teams": {
-        "home": "zalgiris",
-        "away": "asvel"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "20/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "villarreal - real madrid",
-      "teams": {
-        "home": "villarreal",
-        "away": "real madrid"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish cup",
-      "date": {
-        "day": "20/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "zalgiris kaunas vs asvel lyon - villeurbanne",
-      "teams": {
-        "home": "zalgiris kaunas vs asvel lyon",
-        "away": "villeurbanne"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "20/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "virtus bologna - barcelona",
       "teams": {
         "home": "virtus bologna",
@@ -1668,5 +1580,5 @@
       "channels": []
     }
   ],
-  "updated": 1734728716298
+  "updated": 1734732332889
 }
