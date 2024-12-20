@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "l. van assche vs n. basavareddy",
-      "teams": {
-        "home": "l. van assche vs n. basavareddy"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "20/12/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - women final",
       "teams": {
         "home": null,
@@ -1741,5 +1727,5 @@
       "channels": []
     }
   ],
-  "updated": 1734718027860
+  "updated": 1734719928804
 }
