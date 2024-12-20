@@ -1,50 +1,6 @@
 {
   "data": [
     {
-      "title": "master final - women quarters",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier padel",
-      "date": {
-        "day": "20/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 final femenino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "master final",
-      "date": {
-        "day": "20/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "a. michelsen vs j. shang",
-      "teams": {
-        "home": "a. michelsen vs j. shang"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "20/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "l. van assche vs n. basavareddy",
       "teams": {
         "home": "l. van assche vs n. basavareddy"
@@ -1785,5 +1741,5 @@
       "channels": []
     }
   ],
-  "updated": 1734710794473
+  "updated": 1734714335212
 }
