@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "1/4 final femenino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "master final",
-      "date": {
-        "day": "20/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "anadolu - partizan",
       "teams": {
         "home": "anadolu",
@@ -1683,5 +1668,5 @@
       "channels": []
     }
   ],
-  "updated": 1734726911618
+  "updated": 1734728716298
 }
