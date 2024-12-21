@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "olimpia milano - bayern",
-      "teams": {
-        "home": "olimpia milano",
-        "away": "bayern"
-      },
-      "sport": "basketball",
-      "competition": "euroleague",
-      "date": {
-        "day": "20/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "girona - real valladolid",
-      "teams": {
-        "home": "girona",
-        "away": "real valladolid"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "20/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "76ers - hornets",
       "teams": {
         "home": "76ers",
@@ -1634,5 +1604,5 @@
       "channels": []
     }
   ],
-  "updated": 1734737668090
+  "updated": 1734740376176
 }
