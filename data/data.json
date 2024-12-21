@@ -10,21 +10,6 @@
       "competition": "premier paddle",
       "date": {
         "day": "21/12/2024",
-        "time": "11:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "master final - women semifinal",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "21/12/2024",
         "time": "13:00",
         "zone": "cet"
       },
@@ -1641,5 +1626,5 @@
       "channels": []
     }
   ],
-  "updated": 1734788065925
+  "updated": 1734789935220
 }
