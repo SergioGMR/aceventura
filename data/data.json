@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "aston villa - manchester city",
-      "teams": {
-        "home": "aston villa",
-        "away": "manchester city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "aston villa vs manchester city",
-      "teams": {
-        "home": "aston villa vs manchester city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "13:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "eibar - granada",
       "teams": {
         "home": "eibar",
@@ -1568,5 +1539,5 @@
       "channels": []
     }
   ],
-  "updated": 1734797142901
+  "updated": 1734799030183
 }
