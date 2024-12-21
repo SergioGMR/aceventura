@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "rio breogan - girona",
-      "teams": {
-        "home": "rio breogan",
-        "away": "girona"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "río breogán vs basquet girona",
-      "teams": {
-        "home": "río breogán vs basquet girona"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "21/12/2024",
-        "time": "18:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "crystal palace - arsenal",
       "teams": {
         "home": "crystal palace",
@@ -1291,5 +1262,5 @@
       "channels": []
     }
   ],
-  "updated": 1734813269709
+  "updated": 1734815114102
 }
