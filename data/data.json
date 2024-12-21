@@ -1,49 +1,6 @@
 {
   "data": [
     {
-      "title": "eibar - granada",
-      "teams": {
-        "home": "eibar",
-        "away": "granada"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "getafe vs mallorca",
-      "teams": {
-        "home": "getafe vs mallorca"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "21/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "eibar vs granada cf",
-      "teams": {
-        "home": "eibar vs granada cf"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "21/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "brentford - nottingham forest",
       "teams": {
         "home": "brentford",
@@ -1539,5 +1496,5 @@
       "channels": []
     }
   ],
-  "updated": 1734799030183
+  "updated": 1734800717957
 }
