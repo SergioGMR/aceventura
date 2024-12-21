@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "memphis grizzlies vs golden state warriors",
-      "teams": {
-        "home": "memphis grizzlies vs golden state warriors"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "21/12/2024",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 3",
       "teams": {
         "home": null,
@@ -1589,5 +1575,5 @@
       "channels": []
     }
   ],
-  "updated": 1734753984631
+  "updated": 1734757527956
 }
