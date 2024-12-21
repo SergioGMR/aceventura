@@ -31,20 +31,6 @@
       "channels": []
     },
     {
-      "title": "a. michelsen vs j. shang",
-      "teams": {
-        "home": "a. michelsen vs j. shang"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals round robin",
-      "date": {
-        "day": "21/12/2024",
-        "time": "12:10",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - women semifinal",
       "teams": {
         "home": null,
@@ -75,24 +61,24 @@
       "channels": []
     },
     {
-      "title": "l. van assche vs n. basavareddy",
+      "title": "aston villa - manchester city",
       "teams": {
-        "home": "l. van assche vs n. basavareddy"
+        "home": "aston villa",
+        "away": "manchester city"
       },
       "sport": "soccer",
-      "competition": "next gen atp finals round robin",
+      "competition": "premier league",
       "date": {
         "day": "21/12/2024",
-        "time": "13:10",
+        "time": "13:30",
         "zone": "cet"
       },
       "channels": []
     },
     {
-      "title": "aston villa - manchester city",
+      "title": "aston villa vs manchester city",
       "teams": {
-        "home": "aston villa",
-        "away": "manchester city"
+        "home": "aston villa vs manchester city"
       },
       "sport": "soccer",
       "competition": "premier league",
@@ -119,13 +105,26 @@
       "channels": []
     },
     {
-      "title": "1/4 final femenino vs premier padel tour",
+      "title": "getafe vs mallorca",
       "teams": {
-        "home": null,
-        "away": null
+        "home": "getafe vs mallorca"
       },
       "sport": "soccer",
-      "competition": "master final",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "21/12/2024",
+        "time": "14:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eibar vs granada cf",
+      "teams": {
+        "home": "eibar vs granada cf"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
       "date": {
         "day": "21/12/2024",
         "time": "14:00",
@@ -179,13 +178,40 @@
       "channels": []
     },
     {
-      "title": "1/4 final masculino vs premier padel tour",
+      "title": "brentford vs nottingham forest",
       "teams": {
-        "home": null,
-        "away": null
+        "home": "brentford vs nottingham forest"
       },
       "sport": "soccer",
-      "competition": "master final",
+      "competition": "premier league",
+      "date": {
+        "day": "21/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ipswich town vs newcastle",
+      "teams": {
+        "home": "ipswich town vs newcastle"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "21/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "west ham vs brighton",
+      "teams": {
+        "home": "west ham vs brighton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
       "date": {
         "day": "21/12/2024",
         "time": "16:00",
@@ -224,6 +250,34 @@
       "channels": []
     },
     {
+      "title": "celta vs real sociedad",
+      "teams": {
+        "home": "celta vs real sociedad"
+      },
+      "sport": "soccer",
+      "competition": "la liga ea sports",
+      "date": {
+        "day": "21/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real oviedo vs córdoba",
+      "teams": {
+        "home": "real oviedo vs córdoba"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "21/12/2024",
+        "time": "16:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "montpellier - racing 92",
       "teams": {
         "home": "montpellier",
@@ -231,6 +285,20 @@
       },
       "sport": "rugby",
       "competition": "top 14 rugby",
+      "date": {
+        "day": "21/12/2024",
+        "time": "16:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "o. usyk vs t. fury",
+      "teams": {
+        "home": "o. usyk vs t. fury"
+      },
+      "sport": "soccer",
+      "competition": "título mundial peso pesado",
       "date": {
         "day": "21/12/2024",
         "time": "16:30",
@@ -269,15 +337,30 @@
       "channels": []
     },
     {
-      "title": "a. fils vs l. tien",
+      "title": "semifinal masculina vs premier padel tour",
       "teams": {
-        "home": "a. fils vs l. tien"
+        "home": null,
+        "away": null
       },
       "sport": "soccer",
-      "competition": "next gen atp finals round robin",
+      "competition": "master final",
       "date": {
         "day": "21/12/2024",
-        "time": "17:10",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "a. michelsen vs l. tien",
+      "teams": {
+        "home": "a. michelsen vs l. tien"
+      },
+      "sport": "soccer",
+      "competition": "next gen atp finals semifinal 2",
+      "date": {
+        "day": "21/12/2024",
+        "time": "17:00",
         "zone": "cet"
       },
       "channels": []
@@ -298,13 +381,12 @@
       "channels": []
     },
     {
-      "title": "1/4 final femenino vs premier padel tour",
+      "title": "río breogán vs basquet girona",
       "teams": {
-        "home": null,
-        "away": null
+        "home": "río breogán vs basquet girona"
       },
       "sport": "soccer",
-      "competition": "master final",
+      "competition": "liga endesa liga regular",
       "date": {
         "day": "21/12/2024",
         "time": "18:00",
@@ -373,12 +455,12 @@
       "channels": []
     },
     {
-      "title": "anadolu efes istanbul vs bc partizan beograd",
+      "title": "osasuna vs athletic club",
       "teams": {
-        "home": "anadolu efes istanbul vs bc partizan beograd"
+        "home": "osasuna vs athletic club"
       },
       "sport": "soccer",
-      "competition": "euroliga liga regular",
+      "competition": "la liga ea sports",
       "date": {
         "day": "21/12/2024",
         "time": "18:30",
@@ -387,12 +469,40 @@
       "channels": []
     },
     {
-      "title": "j. mensik vs j. fonseca",
+      "title": "real zaragoza vs racing ferrol",
       "teams": {
-        "home": "j. mensik vs j. fonseca"
+        "home": "real zaragoza vs racing ferrol"
       },
       "sport": "soccer",
-      "competition": "next gen atp finals round robin",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "21/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sporting gijón vs málaga",
+      "teams": {
+        "home": "sporting gijón vs málaga"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "21/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "crystal palace vs arsenal",
+      "teams": {
+        "home": "crystal palace vs arsenal"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
       "date": {
         "day": "21/12/2024",
         "time": "18:30",
@@ -446,13 +556,41 @@
       "channels": []
     },
     {
-      "title": "zalgiris kaunas vs asvel lyon - villeurbanne",
+      "title": "semifinal masculina vs premier padel tour",
       "teams": {
-        "home": "zalgiris kaunas vs asvel lyon",
-        "away": "villeurbanne"
+        "home": null,
+        "away": null
       },
       "sport": "soccer",
-      "competition": "euroliga liga regular",
+      "competition": "master final",
+      "date": {
+        "day": "21/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "j. fonseca vs l. van assche",
+      "teams": {
+        "home": "j. fonseca vs l. van assche"
+      },
+      "sport": "soccer",
+      "competition": "next gen atp finals semifinal 1",
+      "date": {
+        "day": "21/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "uemc rv baloncesto vs movistar estudiantes",
+      "teams": {
+        "home": "uemc rv baloncesto vs movistar estudiantes"
+      },
+      "sport": "soccer",
+      "competition": "primera feb liga regular",
       "date": {
         "day": "21/12/2024",
         "time": "19:00",
@@ -476,86 +614,15 @@
       "channels": []
     },
     {
-      "title": "virtus bologna vs barça basket",
+      "title": "burela fs vs jimbee cartagena fs",
       "teams": {
-        "home": "virtus bologna vs barça basket"
+        "home": "burela fs vs jimbee cartagena fs"
       },
       "sport": "soccer",
-      "competition": "euroliga liga regular",
+      "competition": "primera federación futsal",
       "date": {
         "day": "21/12/2024",
         "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "1/4 final masculino vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "master final",
-      "date": {
-        "day": "21/12/2024",
-        "time": "20:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "olympiacos piraeus vs alba berlin",
-      "teams": {
-        "home": "olympiacos piraeus vs alba berlin"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "21/12/2024",
-        "time": "20:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "valencia basket vs lietkabelis panevezys",
-      "teams": {
-        "home": "valencia basket vs lietkabelis panevezys"
-      },
-      "sport": "soccer",
-      "competition": "eurocup liga regular",
-      "date": {
-        "day": "21/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "crvena zvezda mts belgrade vs maccabi tel aviv bc",
-      "teams": {
-        "home": "crvena zvezda mts belgrade vs maccabi tel aviv bc"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "21/12/2024",
-        "time": "20:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "fc cartagena vs albacete",
-      "teams": {
-        "home": "fc cartagena vs albacete"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "21/12/2024",
-        "time": "20:30",
         "zone": "cet"
       },
       "channels": []
@@ -591,6 +658,34 @@
       "channels": []
     },
     {
+      "title": "força lleida vs coviran granada",
+      "teams": {
+        "home": "força lleida vs coviran granada"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "21/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "la laguna tenerife vs ucam murcia cb",
+      "teams": {
+        "home": "la laguna tenerife vs ucam murcia cb"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "21/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "barcelona - atletico de madrid",
       "teams": {
         "home": "barcelona",
@@ -606,23 +701,9 @@
       "channels": []
     },
     {
-      "title": "ax olimpia milano vs fc bayern basketball",
+      "title": "fc barcelona vs at. madrid",
       "teams": {
-        "home": "ax olimpia milano vs fc bayern basketball"
-      },
-      "sport": "soccer",
-      "competition": "euroliga liga regular",
-      "date": {
-        "day": "21/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "girona vs real valladolid",
-      "teams": {
-        "home": "girona vs real valladolid"
+        "home": "fc barcelona vs at. madrid"
       },
       "sport": "soccer",
       "competition": "la liga ea sports",
@@ -1575,5 +1656,5 @@
       "channels": []
     }
   ],
-  "updated": 1734777355808
+  "updated": 1734779123461
 }
