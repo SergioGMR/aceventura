@@ -1,94 +1,6 @@
 {
   "data": [
     {
-      "title": "valladolid - estudiantes",
-      "teams": {
-        "home": "valladolid",
-        "away": "estudiantes"
-      },
-      "sport": "basketball",
-      "competition": "feb",
-      "date": {
-        "day": "21/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "master final - men semifinal",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "21/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "semifinal 2",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "tennis",
-      "competition": "next gen atp finals",
-      "date": {
-        "day": "21/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "semifinal masculina vs premier padel tour",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "soccer",
-      "competition": "master final",
-      "date": {
-        "day": "21/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "j. fonseca vs l. van assche",
-      "teams": {
-        "home": "j. fonseca vs l. van assche"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals semifinal 2",
-      "date": {
-        "day": "21/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "uemc rv baloncesto vs movistar estudiantes",
-      "teams": {
-        "home": "uemc rv baloncesto vs movistar estudiantes"
-      },
-      "sport": "soccer",
-      "competition": "primera feb liga regular",
-      "date": {
-        "day": "21/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 1",
       "teams": {
         "home": null,
@@ -1146,5 +1058,5 @@
       "channels": []
     }
   ],
-  "updated": 1734816870780
+  "updated": 1734818704867
 }
