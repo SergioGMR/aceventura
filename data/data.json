@@ -1,93 +1,6 @@
 {
   "data": [
     {
-      "title": "celta - real sociedad",
-      "teams": {
-        "home": "celta",
-        "away": "real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real oviedo - cordoba",
-      "teams": {
-        "home": "real oviedo",
-        "away": "cordoba"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "celta vs real sociedad",
-      "teams": {
-        "home": "celta vs real sociedad"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real oviedo vs córdoba",
-      "teams": {
-        "home": "real oviedo vs córdoba"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:15",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "montpellier - racing 92",
-      "teams": {
-        "home": "montpellier",
-        "away": "racing 92"
-      },
-      "sport": "rugby",
-      "competition": "top 14 rugby",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "o. usyk vs t. fury",
-      "teams": {
-        "home": "o. usyk vs t. fury"
-      },
-      "sport": "soccer",
-      "competition": "título mundial peso pesado",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - men semifinal",
       "teams": {
         "home": null,
@@ -1437,5 +1350,5 @@
       "channels": []
     }
   ],
-  "updated": 1734807905160
+  "updated": 1734809677273
 }
