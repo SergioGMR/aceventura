@@ -322,20 +322,6 @@
       "channels": []
     },
     {
-      "title": "a. michelsen vs l. tien",
-      "teams": {
-        "home": "a. michelsen vs l. tien"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals semifinal 2",
-      "date": {
-        "day": "21/12/2024",
-        "time": "17:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "rio breogan - girona",
       "teams": {
         "home": "rio breogan",
@@ -533,20 +519,6 @@
       },
       "sport": "soccer",
       "competition": "master final",
-      "date": {
-        "day": "21/12/2024",
-        "time": "19:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "j. fonseca vs l. van assche",
-      "teams": {
-        "home": "j. fonseca vs l. van assche"
-      },
-      "sport": "soccer",
-      "competition": "next gen atp finals semifinal 1",
       "date": {
         "day": "21/12/2024",
         "time": "19:00",
@@ -1626,5 +1598,5 @@
       "channels": []
     }
   ],
-  "updated": 1734791696072
+  "updated": 1734793520796
 }
