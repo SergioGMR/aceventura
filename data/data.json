@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "master final - women semifinal",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "21/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tenerife - barcelona",
-      "teams": {
-        "home": "tenerife",
-        "away": "barcelona"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish cup",
-      "date": {
-        "day": "21/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "aston villa - manchester city",
       "teams": {
         "home": "aston villa",
@@ -1598,5 +1568,5 @@
       "channels": []
     }
   ],
-  "updated": 1734795271677
+  "updated": 1734797142901
 }
