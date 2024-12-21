@@ -1,93 +1,6 @@
 {
   "data": [
     {
-      "title": "brentford - nottingham forest",
-      "teams": {
-        "home": "brentford",
-        "away": "nottingham forest"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ipswich town - newcastle",
-      "teams": {
-        "home": "ipswich town",
-        "away": "newcastle"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "west ham - brighton",
-      "teams": {
-        "home": "west ham",
-        "away": "brighton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "brentford vs nottingham forest",
-      "teams": {
-        "home": "brentford vs nottingham forest"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "ipswich town vs newcastle",
-      "teams": {
-        "home": "ipswich town vs newcastle"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "west ham vs brighton",
-      "teams": {
-        "home": "west ham vs brighton"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "16:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "celta - real sociedad",
       "teams": {
         "home": "celta",
@@ -212,6 +125,20 @@
       },
       "sport": "soccer",
       "competition": "master final",
+      "date": {
+        "day": "21/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "a. michelsen vs l. tien",
+      "teams": {
+        "home": "a. michelsen vs l. tien"
+      },
+      "sport": "soccer",
+      "competition": "next gen atp finals semifinal 1",
       "date": {
         "day": "21/12/2024",
         "time": "17:00",
@@ -417,6 +344,20 @@
       },
       "sport": "soccer",
       "competition": "master final",
+      "date": {
+        "day": "21/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "j. fonseca vs l. van assche",
+      "teams": {
+        "home": "j. fonseca vs l. van assche"
+      },
+      "sport": "soccer",
+      "competition": "next gen atp finals semifinal 2",
       "date": {
         "day": "21/12/2024",
         "time": "19:00",
@@ -1496,5 +1437,5 @@
       "channels": []
     }
   ],
-  "updated": 1734806245136
+  "updated": 1734807905160
 }
