@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "stage 3",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "golf",
-      "competition": "afrasia bank mauritius open",
-      "date": {
-        "day": "21/12/2024",
-        "time": "10:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "master final - women semifinal",
       "teams": {
         "home": null,
@@ -1656,5 +1641,5 @@
       "channels": []
     }
   ],
-  "updated": 1734786471295
+  "updated": 1734788065925
 }
