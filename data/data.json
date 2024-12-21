@@ -1,122 +1,6 @@
 {
   "data": [
     {
-      "title": "crystal palace - arsenal",
-      "teams": {
-        "home": "crystal palace",
-        "away": "arsenal"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "osasuna - athletic club",
-      "teams": {
-        "home": "osasuna",
-        "away": "athletic club"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real zaragoza - racing ferrol",
-      "teams": {
-        "home": "real zaragoza",
-        "away": "racing ferrol"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "21/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sporting - malaga",
-      "teams": {
-        "home": "sporting",
-        "away": "malaga"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "21/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "osasuna vs athletic club",
-      "teams": {
-        "home": "osasuna vs athletic club"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "21/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real zaragoza vs racing ferrol",
-      "teams": {
-        "home": "real zaragoza vs racing ferrol"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "21/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "sporting gijón vs málaga",
-      "teams": {
-        "home": "sporting gijón vs málaga"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "21/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "crystal palace vs arsenal",
-      "teams": {
-        "home": "crystal palace vs arsenal"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "18:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "valladolid - estudiantes",
       "teams": {
         "home": "valladolid",
@@ -1262,5 +1146,5 @@
       "channels": []
     }
   ],
-  "updated": 1734815114102
+  "updated": 1734816870780
 }
