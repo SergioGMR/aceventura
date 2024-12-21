@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "76ers - hornets",
-      "teams": {
-        "home": "76ers",
-        "away": "hornets"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "21/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "memphis grizzlies vs golden state warriors",
       "teams": {
         "home": "memphis grizzlies vs golden state warriors"
@@ -1604,5 +1589,5 @@
       "channels": []
     }
   ],
-  "updated": 1734752185350
+  "updated": 1734753984631
 }
