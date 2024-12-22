@@ -1,64 +1,6 @@
 {
   "data": [
     {
-      "title": "gran canaria - zaragoza",
-      "teams": {
-        "home": "gran canaria",
-        "away": "zaragoza"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "22/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "master final - men third place",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "22/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "dreamland gran canaria vs casademont zaragoza",
-      "teams": {
-        "home": "dreamland gran canaria vs casademont zaragoza"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "22/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "3er puesto masculino vs premier padel tour",
-      "teams": {
-        "home": "3er puesto masculino vs premier padel tour"
-      },
-      "sport": "soccer",
-      "competition": "master final",
-      "date": {
-        "day": "22/12/2024",
-        "time": "13:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "valencia - alaves",
       "teams": {
         "home": "valencia",
@@ -1190,5 +1132,5 @@
       "channels": []
     }
   ],
-  "updated": 1734881664009
+  "updated": 1734883544079
 }
