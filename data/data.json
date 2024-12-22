@@ -1,20 +1,6 @@
 {
   "data": [
     {
-      "title": "philadelphia 76ers vs charlotte hornets",
-      "teams": {
-        "home": "philadelphia 76ers vs charlotte hornets"
-      },
-      "sport": "soccer",
-      "competition": "nba liga regular",
-      "date": {
-        "day": "22/12/2024",
-        "time": "01:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "stage 4",
       "teams": {
         "home": null,
@@ -1265,5 +1251,5 @@
       "channels": []
     }
   ],
-  "updated": 1734838738440
+  "updated": 1734840375659
 }
