@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "kings - lakers",
-      "teams": {
-        "home": "kings",
-        "away": "lakers"
-      },
-      "sport": "basketball",
-      "competition": "usa nba",
-      "date": {
-        "day": "22/12/2024",
-        "time": "00:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "philadelphia 76ers vs charlotte hornets",
       "teams": {
         "home": "philadelphia 76ers vs charlotte hornets"
@@ -1280,5 +1265,5 @@
       "channels": []
     }
   ],
-  "updated": 1734836023702
+  "updated": 1734837162382
 }
