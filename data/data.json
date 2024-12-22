@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "master final - women third place",
-      "teams": {
-        "home": null,
-        "away": null
-      },
-      "sport": "paddle",
-      "competition": "premier paddle",
-      "date": {
-        "day": "22/12/2024",
-        "time": "11:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "3er puesto femenino vs premier padel tour",
-      "teams": {
-        "home": "3er puesto femenino vs premier padel tour"
-      },
-      "sport": "soccer",
-      "competition": "master final",
-      "date": {
-        "day": "22/12/2024",
-        "time": "11:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "baskonia - malaga",
       "teams": {
         "home": "baskonia",
@@ -1277,5 +1248,5 @@
       "channels": []
     }
   ],
-  "updated": 1734874458948
+  "updated": 1734876338726
 }
