@@ -1,51 +1,6 @@
 {
   "data": [
     {
-      "title": "lleida - granada",
-      "teams": {
-        "home": "lleida",
-        "away": "granada"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "tenerife - murcia",
-      "teams": {
-        "home": "tenerife",
-        "away": "murcia"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "20:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "barcelona - atletico de madrid",
-      "teams": {
-        "home": "barcelona",
-        "away": "atletico de madrid"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "21/12/2024",
-        "time": "21:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "kings - lakers",
       "teams": {
         "home": "kings",
@@ -1325,5 +1280,5 @@
       "channels": []
     }
   ],
-  "updated": 1734824071924
+  "updated": 1734826912776
 }
