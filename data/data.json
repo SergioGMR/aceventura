@@ -1,64 +1,6 @@
 {
   "data": [
     {
-      "title": "baskonia - malaga",
-      "teams": {
-        "home": "baskonia",
-        "away": "malaga"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "22/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "coruña - badalona",
-      "teams": {
-        "home": "coruña",
-        "away": "badalona"
-      },
-      "sport": "basketball",
-      "competition": "spanish league",
-      "date": {
-        "day": "22/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "baskonia vs unicaja málaga",
-      "teams": {
-        "home": "baskonia vs unicaja málaga"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "22/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "básquet coruña vs joventut badalona",
-      "teams": {
-        "home": "básquet coruña vs joventut badalona"
-      },
-      "sport": "soccer",
-      "competition": "liga endesa liga regular",
-      "date": {
-        "day": "22/12/2024",
-        "time": "12:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "gran canaria - zaragoza",
       "teams": {
         "home": "gran canaria",
@@ -1248,5 +1190,5 @@
       "channels": []
     }
   ],
-  "updated": 1734879923249
+  "updated": 1734881664009
 }
