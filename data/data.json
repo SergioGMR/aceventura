@@ -1,64 +1,6 @@
 {
   "data": [
     {
-      "title": "valencia - alaves",
-      "teams": {
-        "home": "valencia",
-        "away": "alaves"
-      },
-      "sport": "soccer",
-      "competition": "spanish league",
-      "date": {
-        "day": "22/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "burgos - tenerife",
-      "teams": {
-        "home": "burgos",
-        "away": "tenerife"
-      },
-      "sport": "soccer",
-      "competition": "spanish league 2",
-      "date": {
-        "day": "22/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "valencia cf vs alavés",
-      "teams": {
-        "home": "valencia cf vs alavés"
-      },
-      "sport": "soccer",
-      "competition": "la liga ea sports",
-      "date": {
-        "day": "22/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "burgos cf vs cd tenerife",
-      "teams": {
-        "home": "burgos cf vs cd tenerife"
-      },
-      "sport": "soccer",
-      "competition": "laliga hypermotion",
-      "date": {
-        "day": "22/12/2024",
-        "time": "14:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "fulham - southampton",
       "teams": {
         "home": "fulham",
@@ -1132,5 +1074,5 @@
       "channels": []
     }
   ],
-  "updated": 1734885414434
+  "updated": 1734887116567
 }
