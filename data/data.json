@@ -1,21 +1,6 @@
 {
   "data": [
     {
-      "title": "packers - saints",
-      "teams": {
-        "home": "packers",
-        "away": "saints"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "24/12/2024",
-        "time": "02:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "celtics - 76ers",
       "teams": {
         "home": "celtics",
@@ -432,5 +417,5 @@
       "channels": []
     }
   ],
-  "updated": 1735016738794
+  "updated": 1735018540302
 }
