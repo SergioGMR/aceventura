@@ -1,35 +1,6 @@
 {
   "data": [
     {
-      "title": "leiceter - manchester city",
-      "teams": {
-        "home": "leiceter",
-        "away": "manchester city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "29/12/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "leicester city vs manchester city",
-      "teams": {
-        "home": "leicester city vs manchester city"
-      },
-      "sport": "soccer",
-      "competition": "premier league",
-      "date": {
-        "day": "29/12/2024",
-        "time": "15:30",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "everton - nottingham forest",
       "teams": {
         "home": "everton",
@@ -413,5 +384,5 @@
       "channels": []
     }
   ],
-  "updated": 1735495526426
+  "updated": 1735497375759
 }
