@@ -1,4 +1,417 @@
 {
-  "data": [],
-  "updated": 1735493624687
+  "data": [
+    {
+      "title": "leiceter - manchester city",
+      "teams": {
+        "home": "leiceter",
+        "away": "manchester city"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "29/12/2024",
+        "time": "15:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "leicester city vs manchester city",
+      "teams": {
+        "home": "leicester city vs manchester city"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "29/12/2024",
+        "time": "15:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "everton - nottingham forest",
+      "teams": {
+        "home": "everton",
+        "away": "nottingham forest"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "29/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fulham - bournemouth",
+      "teams": {
+        "home": "fulham",
+        "away": "bournemouth"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "29/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tottenham - wolves",
+      "teams": {
+        "home": "tottenham",
+        "away": "wolves"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "29/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "everton vs nottingham forest",
+      "teams": {
+        "home": "everton vs nottingham forest"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "29/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fulham vs bournemouth",
+      "teams": {
+        "home": "fulham vs bournemouth"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "29/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tottenham vs wolverhampton",
+      "teams": {
+        "home": "tottenham vs wolverhampton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "29/12/2024",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baxi manresa vs baskonia",
+      "teams": {
+        "home": "baxi manresa vs baskonia"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "29/12/2024",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "perpignan - la rochelle",
+      "teams": {
+        "home": "perpignan",
+        "away": "la rochelle"
+      },
+      "sport": "rugby",
+      "competition": "top 14 rugby",
+      "date": {
+        "day": "29/12/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "3rd position",
+      "teams": {
+        "home": "3rd position"
+      },
+      "sport": "soccer",
+      "competition": "futures league",
+      "date": {
+        "day": "29/12/2024",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eagles - cowboys",
+      "teams": {
+        "home": "eagles",
+        "away": "cowboys"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "29/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red zone",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "29/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "futures league",
+      "date": {
+        "day": "29/12/2024",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - barcelona",
+      "teams": {
+        "home": "real madrid",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "29/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid baloncesto vs barça basket",
+      "teams": {
+        "home": "real madrid baloncesto vs barça basket"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "29/12/2024",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "magic - nets",
+      "teams": {
+        "home": "magic",
+        "away": "nets"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "29/12/2024",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "orlando magic vs brooklyn nets",
+      "teams": {
+        "home": "orlando magic vs brooklyn nets"
+      },
+      "sport": "soccer",
+      "competition": "nba liga regular",
+      "date": {
+        "day": "29/12/2024",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "vikings - packers",
+      "teams": {
+        "home": "vikings",
+        "away": "packers"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "29/12/2024",
+        "time": "22:25",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red zone",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "29/12/2024",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "commanders - falcons",
+      "teams": {
+        "home": "commanders",
+        "away": "falcons"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "30/12/2024",
+        "time": "02:20",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia - lleida",
+      "teams": {
+        "home": "valencia",
+        "away": "lleida"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "30/12/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "joventut - gran canaria",
+      "teams": {
+        "home": "joventut",
+        "away": "gran canaria"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "30/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "aston villa - brighton",
+      "teams": {
+        "home": "aston villa",
+        "away": "brighton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ipswich town - chelsea",
+      "teams": {
+        "home": "ipswich town",
+        "away": "chelsea"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester united - newcastle",
+      "teams": {
+        "home": "manchester united",
+        "away": "newcastle"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "wizards - knicks",
+      "teams": {
+        "home": "wizards",
+        "away": "knicks"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "31/12/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "49ers - lions",
+      "teams": {
+        "home": "49ers",
+        "away": "lions"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "31/12/2024",
+        "time": "02:15",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1735495526426
 }
