@@ -1,4 +1,165 @@
 {
-  "data": [],
-  "updated": 1735599871217
+  "data": [
+    {
+      "title": "joventut - gran canaria",
+      "teams": {
+        "home": "joventut",
+        "away": "gran canaria"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "30/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "aston villa - brighton",
+      "teams": {
+        "home": "aston villa",
+        "away": "brighton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ipswich town - chelsea",
+      "teams": {
+        "home": "ipswich town",
+        "away": "chelsea"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester united - newcastle",
+      "teams": {
+        "home": "manchester united",
+        "away": "newcastle"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "30/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "wizards - knicks",
+      "teams": {
+        "home": "wizards",
+        "away": "knicks"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "31/12/2024",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "49ers - lions",
+      "teams": {
+        "home": "49ers",
+        "away": "lions"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "31/12/2024",
+        "time": "02:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia basket vs força lleida",
+      "teams": {
+        "home": "valencia basket vs força lleida"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "31/12/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "joventut badalona vs dreamland gran canaria",
+      "teams": {
+        "home": "joventut badalona vs dreamland gran canaria"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "31/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "aston villa vs brighton",
+      "teams": {
+        "home": "aston villa vs brighton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "31/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ipswich town vs chelsea",
+      "teams": {
+        "home": "ipswich town vs chelsea"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "31/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester utd. vs newcastle",
+      "teams": {
+        "home": "manchester utd. vs newcastle"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "31/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1735601613910
 }
