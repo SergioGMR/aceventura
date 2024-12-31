@@ -1,4 +1,90 @@
 {
-  "data": [],
-  "updated": 1735616166123
+  "data": [
+    {
+      "title": "49ers - lions",
+      "teams": {
+        "home": "49ers",
+        "away": "lions"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "31/12/2024",
+        "time": "02:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia basket vs força lleida",
+      "teams": {
+        "home": "valencia basket vs força lleida"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "31/12/2024",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "joventut badalona vs dreamland gran canaria",
+      "teams": {
+        "home": "joventut badalona vs dreamland gran canaria"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "31/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "aston villa vs brighton",
+      "teams": {
+        "home": "aston villa vs brighton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "31/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ipswich town vs chelsea",
+      "teams": {
+        "home": "ipswich town vs chelsea"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "31/12/2024",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester utd. vs newcastle",
+      "teams": {
+        "home": "manchester utd. vs newcastle"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "31/12/2024",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1735617952007
 }
