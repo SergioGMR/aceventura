@@ -1,4 +1,490 @@
 {
-  "data": [],
-  "updated": 1735844655336
+  "data": [
+    {
+      "title": "bilbao - andorra",
+      "teams": {
+        "home": "bilbao",
+        "away": "andorra"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "02/01/2025",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bilbao basket vs morabanc andorra",
+      "teams": {
+        "home": "bilbao basket vs morabanc andorra"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "02/01/2025",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "zalgiris - olympiacos",
+      "teams": {
+        "home": "zalgiris",
+        "away": "olympiacos"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "02/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rio breogan - manresa",
+      "teams": {
+        "home": "rio breogan",
+        "away": "manresa"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "02/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "zalgiris kaunas vs olympiacos piraeus",
+      "teams": {
+        "home": "zalgiris kaunas vs olympiacos piraeus"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "02/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "río breogán vs baxi manresa",
+      "teams": {
+        "home": "río breogán vs baxi manresa"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "02/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "venice - valencia",
+      "teams": {
+        "home": "venice",
+        "away": "valencia"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "alba - monaco",
+      "teams": {
+        "home": "alba",
+        "away": "monaco"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "asvel:olimpia milano",
+      "teams": {
+        "home": "asvel:olimpia milano"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "inter - atalanta",
+      "teams": {
+        "home": "inter",
+        "away": "atalanta"
+      },
+      "sport": "soccer",
+      "competition": "italian supercup",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "umana reyer venice vs valencia basket",
+      "teams": {
+        "home": "umana reyer venice vs valencia basket"
+      },
+      "sport": "soccer",
+      "competition": "eurocup liga regular",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "alba berlin vs as monaco basket",
+      "teams": {
+        "home": "alba berlin vs as monaco basket"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "asvel lyon - villeurbanne vs ax olimpia milano",
+      "teams": {
+        "home": "asvel lyon",
+        "away": "villeurbanne vs ax olimpia milano"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "gran canaria - hapoel",
+      "teams": {
+        "home": "gran canaria",
+        "away": "hapoel"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baskonia - crvena zvezda",
+      "teams": {
+        "home": "baskonia",
+        "away": "crvena zvezda"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "murcia - unicaja",
+      "teams": {
+        "home": "murcia",
+        "away": "unicaja"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baskonia vs crvena zvezda mts belgrade",
+      "teams": {
+        "home": "baskonia vs crvena zvezda mts belgrade"
+      },
+      "sport": "soccer",
+      "competition": "euroliga liga regular",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ucam murcia cb vs unicaja málaga",
+      "teams": {
+        "home": "ucam murcia cb vs unicaja málaga"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "02/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dreamland gran canaria vs hapoel tel aviv bc",
+      "teams": {
+        "home": "dreamland gran canaria vs hapoel tel aviv bc"
+      },
+      "sport": "soccer",
+      "competition": "eurocup liga regular",
+      "date": {
+        "day": "02/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tenerife - zaragoza",
+      "teams": {
+        "home": "tenerife",
+        "away": "zaragoza"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "02/01/2025",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "la laguna tenerife vs casademont zaragoza",
+      "teams": {
+        "home": "la laguna tenerife vs casademont zaragoza"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "02/01/2025",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "thunder - clippers",
+      "teams": {
+        "home": "thunder",
+        "away": "clippers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "03/01/2025",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fenerbahce - anadolu",
+      "teams": {
+        "home": "fenerbahce",
+        "away": "anadolu"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "03/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "granada - getafe",
+      "teams": {
+        "home": "granada",
+        "away": "getafe"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "03/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "pontevedra - mallorca",
+      "teams": {
+        "home": "pontevedra",
+        "away": "mallorca"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "03/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "racing ferrol - -rayo vallecano",
+      "teams": {
+        "home": "racing ferrol",
+        "away": "-rayo vallecano"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "03/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "juventus - milan",
+      "teams": {
+        "home": "juventus",
+        "away": "milan"
+      },
+      "sport": "soccer",
+      "competition": "italian supercup",
+      "date": {
+        "day": "03/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "panathinaikos - virtus",
+      "teams": {
+        "home": "panathinaikos",
+        "away": "virtus"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "03/01/2025",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "paris - barcelona",
+      "teams": {
+        "home": "paris",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "03/01/2025",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "partizan - maccabi",
+      "teams": {
+        "home": "partizan",
+        "away": "maccabi"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "03/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - bayern",
+      "teams": {
+        "home": "real madrid",
+        "away": "bayern"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "03/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia - real madrid",
+      "teams": {
+        "home": "valencia",
+        "away": "real madrid"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "03/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rockets - celtics",
+      "teams": {
+        "home": "rockets",
+        "away": "celtics"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "04/01/2025",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1735846417913
 }
