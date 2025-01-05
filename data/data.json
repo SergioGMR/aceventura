@@ -1,4 +1,825 @@
 {
-  "data": [],
-  "updated": 1736046698714
+  "data": [
+    {
+      "title": "pacers - suns",
+      "teams": {
+        "home": "pacers",
+        "away": "suns"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "05/01/2025",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "houston rockets vs boston celtics",
+      "teams": {
+        "home": "houston rockets vs boston celtics"
+      },
+      "sport": "soccer",
+      "competition": "nba liga regular",
+      "date": {
+        "day": "05/01/2025",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "c. gauff vs k. muchova",
+      "teams": {
+        "home": "c. gauff vs k. muchova"
+      },
+      "sport": "soccer",
+      "competition": "united cup semifinal 2",
+      "date": {
+        "day": "05/01/2025",
+        "time": "07:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "t. fritz vs t. machac",
+      "teams": {
+        "home": "t. fritz vs t. machac"
+      },
+      "sport": "soccer",
+      "competition": "united cup semifinal 2",
+      "date": {
+        "day": "05/01/2025",
+        "time": "09:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "estados unidos vs república checa",
+      "teams": {
+        "home": "estados unidos vs república checa"
+      },
+      "sport": "soccer",
+      "competition": "united cup semifinal 2",
+      "date": {
+        "day": "05/01/2025",
+        "time": "10:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "elche - las palmas",
+      "teams": {
+        "home": "elche",
+        "away": "las palmas"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "05/01/2025",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ourense - real valladolid",
+      "teams": {
+        "home": "ourense",
+        "away": "real valladolid"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "05/01/2025",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "atletico de madrid - real madrid",
+      "teams": {
+        "home": "atletico de madrid",
+        "away": "real madrid"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "levante - valencia",
+      "teams": {
+        "home": "levante",
+        "away": "valencia"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "12:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "barcelona - joventut",
+      "teams": {
+        "home": "barcelona",
+        "away": "joventut"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "coruña - valencia",
+      "teams": {
+        "home": "coruña",
+        "away": "valencia"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "granada - gran canaria",
+      "teams": {
+        "home": "granada",
+        "away": "gran canaria"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real sociedad - barcelona",
+      "teams": {
+        "home": "real sociedad",
+        "away": "barcelona"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tottenham vs newcastle",
+      "teams": {
+        "home": "tottenham vs newcastle"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "13:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fulham - ipswich",
+      "teams": {
+        "home": "fulham",
+        "away": "ipswich"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "15:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cartagena - leganes",
+      "teams": {
+        "home": "cartagena",
+        "away": "leganes"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "05/01/2025",
+        "time": "15:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ponferradina - real sociedad",
+      "teams": {
+        "home": "ponferradina",
+        "away": "real sociedad"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "05/01/2025",
+        "time": "15:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "racing santander - celta",
+      "teams": {
+        "home": "racing santander",
+        "away": "celta"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "05/01/2025",
+        "time": "15:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "northampton - bath",
+      "teams": {
+        "home": "northampton",
+        "away": "bath"
+      },
+      "sport": "rugby",
+      "competition": "gallagher premiership rugby",
+      "date": {
+        "day": "05/01/2025",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "aston villa vs leicester city",
+      "teams": {
+        "home": "aston villa vs leicester city"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bournemouth vs everton",
+      "teams": {
+        "home": "bournemouth vs everton"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "crystal palace vs chelsea",
+      "teams": {
+        "home": "crystal palace vs chelsea"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester city vs west ham",
+      "teams": {
+        "home": "manchester city vs west ham"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "16:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cd tenerife vs osasuna",
+      "teams": {
+        "home": "cd tenerife vs osasuna"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 1/16 de final",
+      "date": {
+        "day": "05/01/2025",
+        "time": "16:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "elpozo murcia vs jimbee cartagena fs",
+      "teams": {
+        "home": "elpozo murcia vs jimbee cartagena fs"
+      },
+      "sport": "soccer",
+      "competition": "primera federación futsal",
+      "date": {
+        "day": "05/01/2025",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "liverpool - manchester united",
+      "teams": {
+        "home": "liverpool",
+        "away": "manchester united"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "17:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ud almería vs sevilla fc",
+      "teams": {
+        "home": "ud almería vs sevilla fc"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 1/16 de final",
+      "date": {
+        "day": "05/01/2025",
+        "time": "17:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baxi manresa vs ucam murcia cb",
+      "teams": {
+        "home": "baxi manresa vs ucam murcia cb"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "05/01/2025",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "força lleida vs basquet girona",
+      "teams": {
+        "home": "força lleida vs basquet girona"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "05/01/2025",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "brighton vs arsenal",
+      "teams": {
+        "home": "brighton vs arsenal"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "05/01/2025",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "buccaneers - saints",
+      "teams": {
+        "home": "buccaneers",
+        "away": "saints"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "05/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red zone - stage 18",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "05/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ga cantabria vs movistar estudiantes",
+      "teams": {
+        "home": "ga cantabria vs movistar estudiantes"
+      },
+      "sport": "soccer",
+      "competition": "primera feb liga regular",
+      "date": {
+        "day": "05/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "morabanc andorra vs río breogán",
+      "teams": {
+        "home": "morabanc andorra vs río breogán"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "05/01/2025",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "unicaja málaga vs casademont zaragoza",
+      "teams": {
+        "home": "unicaja málaga vs casademont zaragoza"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "05/01/2025",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "motor",
+      "competition": "dakkar rally",
+      "date": {
+        "day": "05/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "etapa 1 vs bisha › bisha (500 km - ss: 412 km)",
+      "teams": {
+        "home": "etapa 1 vs bisha › bisha (500 km",
+        "away": "ss: 412 km)"
+      },
+      "sport": "soccer",
+      "competition": "rally dakar",
+      "date": {
+        "day": "05/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "thunder - celtics",
+      "teams": {
+        "home": "thunder",
+        "away": "celtics"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "05/01/2025",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ud logroñés vs athletic club",
+      "teams": {
+        "home": "ud logroñés vs athletic club"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 1/16 de final",
+      "date": {
+        "day": "05/01/2025",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "la laguna tenerife vs bilbao basket",
+      "teams": {
+        "home": "la laguna tenerife vs bilbao basket"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "05/01/2025",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "broncos - chiefs",
+      "teams": {
+        "home": "broncos",
+        "away": "chiefs"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "05/01/2025",
+        "time": "22:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "red zone - stage 18",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "05/01/2025",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "lions - vikings",
+      "teams": {
+        "home": "lions",
+        "away": "vikings"
+      },
+      "sport": "football",
+      "competition": "usa nfl",
+      "date": {
+        "day": "06/01/2025",
+        "time": "02:20",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cd minera - real madrid",
+      "teams": {
+        "home": "cd minera",
+        "away": "real madrid"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "06/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baskonia - real madrid",
+      "teams": {
+        "home": "baskonia",
+        "away": "real madrid"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "06/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "motor",
+      "competition": "dakkar rally",
+      "date": {
+        "day": "06/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "wolves - nottingham forest",
+      "teams": {
+        "home": "wolves",
+        "away": "nottingham forest"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "06/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "grizzlies - mavericks",
+      "teams": {
+        "home": "grizzlies",
+        "away": "mavericks"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "07/01/2025",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ulm - gran canaria",
+      "teams": {
+        "home": "ulm",
+        "away": "gran canaria"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "07/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "osasuna - barcelona",
+      "teams": {
+        "home": "osasuna",
+        "away": "barcelona"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish cup",
+      "date": {
+        "day": "07/01/2025",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia - ankara",
+      "teams": {
+        "home": "valencia",
+        "away": "ankara"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "07/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "girona - barcelona",
+      "teams": {
+        "home": "girona",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "07/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "motor",
+      "competition": "dakkar rally",
+      "date": {
+        "day": "07/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eldense - valencia",
+      "teams": {
+        "home": "eldense",
+        "away": "valencia"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "07/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tenerife - levante",
+      "teams": {
+        "home": "tenerife",
+        "away": "levante"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "07/01/2025",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mavericks - lakers",
+      "teams": {
+        "home": "mavericks",
+        "away": "lakers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "08/01/2025",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1736048313256
 }
