@@ -1,4 +1,210 @@
 {
-  "data": [],
-  "updated": 1736246260793
+  "data": [
+    {
+      "title": "ulm - gran canaria",
+      "teams": {
+        "home": "ulm",
+        "away": "gran canaria"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "07/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ratiopharm ulm vs dreamland gran canaria",
+      "teams": {
+        "home": "ratiopharm ulm vs dreamland gran canaria"
+      },
+      "sport": "soccer",
+      "competition": "eurocup liga regular",
+      "date": {
+        "day": "07/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "osasuna - barcelona",
+      "teams": {
+        "home": "osasuna",
+        "away": "barcelona"
+      },
+      "sport": "soccer (w)",
+      "competition": "spanish cup",
+      "date": {
+        "day": "07/01/2025",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "osasuna magna vs barça fs",
+      "teams": {
+        "home": "osasuna magna vs barça fs"
+      },
+      "sport": "soccer",
+      "competition": "copa del rey 1/8 de final",
+      "date": {
+        "day": "07/01/2025",
+        "time": "19:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia - ankara",
+      "teams": {
+        "home": "valencia",
+        "away": "ankara"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "07/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "girona - barcelona",
+      "teams": {
+        "home": "girona",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "spanish league",
+      "date": {
+        "day": "07/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia basket vs türk telekom ankara",
+      "teams": {
+        "home": "valencia basket vs türk telekom ankara"
+      },
+      "sport": "soccer",
+      "competition": "eurocup liga regular",
+      "date": {
+        "day": "07/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "basquet girona vs barça basket",
+      "teams": {
+        "home": "basquet girona vs barça basket"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "07/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 3",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "motor",
+      "competition": "dakkar rally",
+      "date": {
+        "day": "07/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eldense - valencia",
+      "teams": {
+        "home": "eldense",
+        "away": "valencia"
+      },
+      "sport": "soccer",
+      "competition": "spanish cup",
+      "date": {
+        "day": "07/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "etapa 3 vs bisha › al henakiyah (845 km - ss: 496 km)",
+      "teams": {
+        "home": "etapa 3 vs bisha › al henakiyah (845 km",
+        "away": "ss: 496 km)"
+      },
+      "sport": "soccer",
+      "competition": "rally dakar",
+      "date": {
+        "day": "07/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "tenerife - levante",
+      "teams": {
+        "home": "tenerife",
+        "away": "levante"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "07/01/2025",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "cd tenerife vs levante",
+      "teams": {
+        "home": "cd tenerife vs levante"
+      },
+      "sport": "soccer",
+      "competition": "laliga hypermotion",
+      "date": {
+        "day": "07/01/2025",
+        "time": "21:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mavericks - lakers",
+      "teams": {
+        "home": "mavericks",
+        "away": "lakers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "08/01/2025",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1736247872537
 }
