@@ -1,4 +1,77 @@
 {
-  "data": [],
-  "updated": 1736341741912
+  "data": [
+    {
+      "title": "sorteo octavos de final vs m+ vamos (8 y 53)",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "copa del rey",
+      "date": {
+        "day": "08/01/2025",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baskonia vs básquet coruña",
+      "teams": {
+        "home": "baskonia vs básquet coruña"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "08/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "athletic club vs fc barcelona",
+      "teams": {
+        "home": "athletic club vs fc barcelona"
+      },
+      "sport": "soccer",
+      "competition": "supercopa de españa semifinales king abdullah sports city stadium, jeddah",
+      "date": {
+        "day": "08/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "coviran granada vs real madrid baloncesto",
+      "teams": {
+        "home": "coviran granada vs real madrid baloncesto"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "08/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "etapa 4 vs al henakiyah › alula (588 km - ss: 415 km)",
+      "teams": {
+        "home": "etapa 4 vs al henakiyah › alula (588 km",
+        "away": "ss: 415 km)"
+      },
+      "sport": "soccer",
+      "competition": "rally dakar",
+      "date": {
+        "day": "08/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1736343317640
 }
