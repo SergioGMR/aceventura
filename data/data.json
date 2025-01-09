@@ -1,4 +1,361 @@
 {
-  "data": [],
-  "updated": 1736390247675
+  "data": [
+    {
+      "title": "cavaliers - thunder",
+      "teams": {
+        "home": "cavaliers",
+        "away": "thunder"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "09/01/2025",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "dallas mavericks vs los angeles lakers",
+      "teams": {
+        "home": "dallas mavericks vs los angeles lakers"
+      },
+      "sport": "soccer",
+      "competition": "nba liga regular",
+      "date": {
+        "day": "09/01/2025",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sorteo octavos de final vs m+ vamos (8 y 53)",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "soccer",
+      "competition": "copa del rey",
+      "date": {
+        "day": "09/01/2025",
+        "time": "13:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fenerbahce - alba",
+      "teams": {
+        "home": "fenerbahce",
+        "away": "alba"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "09/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "monaco - barcelona",
+      "teams": {
+        "home": "monaco",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "09/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - mallorca",
+      "teams": {
+        "home": "real madrid",
+        "away": "mallorca"
+      },
+      "sport": "soccer",
+      "competition": "spanish supercup",
+      "date": {
+        "day": "09/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "baskonia vs básquet coruña",
+      "teams": {
+        "home": "baskonia vs básquet coruña"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "09/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "athletic club vs fc barcelona",
+      "teams": {
+        "home": "athletic club vs fc barcelona"
+      },
+      "sport": "soccer",
+      "competition": "supercopa de españa semifinales",
+      "date": {
+        "day": "09/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "maccabi - olimpia milano",
+      "teams": {
+        "home": "maccabi",
+        "away": "olimpia milano"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "09/01/2025",
+        "time": "20:05",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "panathinaikos - partizan",
+      "teams": {
+        "home": "panathinaikos",
+        "away": "partizan"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "09/01/2025",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "coviran granada vs real madrid baloncesto",
+      "teams": {
+        "home": "coviran granada vs real madrid baloncesto"
+      },
+      "sport": "soccer",
+      "competition": "liga endesa liga regular",
+      "date": {
+        "day": "09/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 5",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "motor",
+      "competition": "dakkar rally",
+      "date": {
+        "day": "09/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "etapa 4 vs al henakiyah › alula (588 km - ss: 415 km)",
+      "teams": {
+        "home": "etapa 4 vs al henakiyah › alula (588 km",
+        "away": "ss: 415 km)"
+      },
+      "sport": "soccer",
+      "competition": "rally dakar",
+      "date": {
+        "day": "09/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "magic - timberwolves",
+      "teams": {
+        "home": "magic",
+        "away": "timberwolves"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "10/01/2025",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "team cup",
+      "date": {
+        "day": "10/01/2025",
+        "time": "08:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 1",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "team cup",
+      "date": {
+        "day": "10/01/2025",
+        "time": "11:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "anadolu - asvel",
+      "teams": {
+        "home": "anadolu",
+        "away": "asvel"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "10/01/2025",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "zalgiris - ral madrid",
+      "teams": {
+        "home": "zalgiris",
+        "away": "ral madrid"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "10/01/2025",
+        "time": "19:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "crvena - paris",
+      "teams": {
+        "home": "crvena",
+        "away": "paris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "10/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "olympiacos - bayern",
+      "teams": {
+        "home": "olympiacos",
+        "away": "bayern"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "10/01/2025",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "granada - burgos",
+      "teams": {
+        "home": "granada",
+        "away": "burgos"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "10/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "bologna - baskonia",
+      "teams": {
+        "home": "bologna",
+        "away": "baskonia"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "10/01/2025",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rayo vallecano - celta",
+      "teams": {
+        "home": "rayo vallecano",
+        "away": "celta"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "10/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "76ers - pelicans",
+      "teams": {
+        "home": "76ers",
+        "away": "pelicans"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "11/01/2025",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1736392864849
 }
