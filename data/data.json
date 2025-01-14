@@ -7,51 +7,6 @@
         "away": "australia.webp\" vs title=\"open australia\" class=\"js-webp-default\""
       },
       "sport": "soccer",
-      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123414-australia.webp\"title=\"open australia\" class=\"js-webp-default\"m. deportes 6 1080eurosport 2 1080--",
-      "date": {
-        "day": "14/01/2025",
-        "time": "01:40",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123414 - australia.webp\" vs title=\"open australia\" class=\"js-webp-default\"",
-      "teams": {
-        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123414",
-        "away": "australia.webp\" vs title=\"open australia\" class=\"js-webp-default\""
-      },
-      "sport": "soccer",
-      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123414-australia.webp\"title=\"open australia\" class=\"js-webp-default\"m. deportes 5 1080eurosport 1 1080--",
-      "date": {
-        "day": "14/01/2025",
-        "time": "01:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "rams - vikings",
-      "teams": {
-        "home": "rams",
-        "away": "vikings"
-      },
-      "sport": "football",
-      "competition": "usa nfl",
-      "date": {
-        "day": "14/01/2025",
-        "time": "02:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123414 - australia.webp\" vs title=\"open australia\" class=\"js-webp-default\"",
-      "teams": {
-        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123414",
-        "away": "australia.webp\" vs title=\"open australia\" class=\"js-webp-default\""
-      },
-      "sport": "soccer",
       "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123414-australia.webp\"title=\"open australia\" class=\"js-webp-default\"m. deportes 5 1080eurosport 1 1080--",
       "date": {
         "day": "14/01/2025",
@@ -241,5 +196,5 @@
       "channels": []
     }
   ],
-  "updated": 1736829318382
+  "updated": 1736831090236
 }
