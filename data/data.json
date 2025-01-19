@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "title": "real madrid - eibar",
-      "teams": {
-        "home": "real madrid",
-        "away": "eibar"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/01/2025",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "real sociedad - espanyol",
-      "teams": {
-        "home": "real sociedad",
-        "away": "espanyol"
-      },
-      "sport": "soccer (w)",
-      "competition": "spanish league",
-      "date": {
-        "day": "19/01/2025",
-        "time": "12:00",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "granada - zaragoza",
       "teams": {
         "home": "granada",
@@ -53,6 +23,36 @@
       },
       "sport": "basketball",
       "competition": "spanish league",
+      "date": {
+        "day": "19/01/2025",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123206 - espana.webp\" vs title=\"liga endesa\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123206",
+        "away": "espana.webp\" vs title=\"liga endesa\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123206-espana.webp\"title=\"liga endesa\" class=\"js-webp-default\"m. deportes 2 1080",
+      "date": {
+        "day": "19/01/2025",
+        "time": "12:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123206 - espana.webp\" vs title=\"liga endesa\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123206",
+        "away": "espana.webp\" vs title=\"liga endesa\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123206-espana.webp\"title=\"liga endesa\" class=\"js-webp-default\"m. deportes 1080m. deportes 720",
       "date": {
         "day": "19/01/2025",
         "time": "12:30",
@@ -286,6 +286,21 @@
       "channels": []
     },
     {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123206 - espana.webp\" vs title=\"liga endesa\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123206",
+        "away": "espana.webp\" vs title=\"liga endesa\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123206-espana.webp\"title=\"liga endesa\" class=\"js-webp-default\"m. deportes 3 1080",
+      "date": {
+        "day": "19/01/2025",
+        "time": "17:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "ipswich - manchester city",
       "teams": {
         "home": "ipswich",
@@ -326,6 +341,21 @@
       "date": {
         "day": "19/01/2025",
         "time": "17:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123206 - espana.webp\" vs title=\"liga endesa\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123206",
+        "away": "espana.webp\" vs title=\"liga endesa\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123206-espana.webp\"title=\"liga endesa\" class=\"js-webp-default\"m. deportes 1080m. deportes 720",
+      "date": {
+        "day": "19/01/2025",
+        "time": "18:00",
         "zone": "cet"
       },
       "channels": []
@@ -451,6 +481,21 @@
       "channels": []
     },
     {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123206 - espana.webp\" vs title=\"liga endesa\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123206",
+        "away": "espana.webp\" vs title=\"liga endesa\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123206-espana.webp\"title=\"liga endesa\" class=\"js-webp-default\"m. deportes 2 1080",
+      "date": {
+        "day": "19/01/2025",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
       "title": "heat - spurs",
       "teams": {
         "home": "heat",
@@ -503,6 +548,21 @@
       },
       "sport": "soccer",
       "competition": "spanish league 2",
+      "date": {
+        "day": "19/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727120523 - eeuu.webp\" vs title=\"nba\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727120523",
+        "away": "eeuu.webp\" vs title=\"nba\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727120523-eeuu.webp\"title=\"nba\" class=\"js-webp-default\"m. deportes 1080m. deportes 720#vamos 1080#vamos 720",
       "date": {
         "day": "19/01/2025",
         "time": "21:00",
@@ -688,5 +748,5 @@
       "channels": []
     }
   ],
-  "updated": 1737297245698
+  "updated": 1737299122234
 }
