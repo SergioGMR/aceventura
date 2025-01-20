@@ -1,4 +1,153 @@
 {
-  "data": [],
-  "updated": 1737387241245
+  "data": [
+    {
+      "title": "mirandes - malaga",
+      "teams": {
+        "home": "mirandes",
+        "away": "malaga"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "20/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123206 - espana.webp\" vs title=\"laliga hypermotion\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123206",
+        "away": "espana.webp\" vs title=\"laliga hypermotion\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123206-espana.webp\"title=\"laliga hypermotion\" class=\"js-webp-default\"laliga smartbank 1080laliga smartbank 720dazn laliga 1080 multiaudiodazn laliga 1080 multiaudiodazn laliga 720",
+      "date": {
+        "day": "20/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "chelsea - wolves",
+      "teams": {
+        "home": "chelsea",
+        "away": "wolves"
+      },
+      "sport": "soccer",
+      "competition": "premier league",
+      "date": {
+        "day": "20/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "villarreal - mallorca",
+      "teams": {
+        "home": "villarreal",
+        "away": "mallorca"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "20/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123206 - espana.webp\" vs title=\"la liga ea sports\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123206",
+        "away": "espana.webp\" vs title=\"la liga ea sports\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123206-espana.webp\"title=\"la liga ea sports\" class=\"js-webp-default\"m. laliga 1080pm. laliga 1080 multiaudiom. laliga 1080 multiaudiom. laliga 720gol play",
+      "date": {
+        "day": "20/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20140605095816 - inglaterra.webp\" vs title=\"premier league\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20140605095816",
+        "away": "inglaterra.webp\" vs title=\"premier league\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20140605095816-inglaterra.webp\"title=\"premier league\" class=\"js-webp-default\"dazn 1 1080dazn 1 720",
+      "date": {
+        "day": "20/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "warriors - celtics",
+      "teams": {
+        "home": "warriors",
+        "away": "celtics"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "20/01/2025",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727120523 - eeuu.webp\" vs title=\"nba\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727120523",
+        "away": "eeuu.webp\" vs title=\"nba\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727120523-eeuu.webp\"title=\"nba\" class=\"js-webp-default\"m. deportes 1080m. deportes 720#vamos 1080#vamos 720",
+      "date": {
+        "day": "20/01/2025",
+        "time": "23:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters",
+      "teams": {
+        "home": "quarters"
+      },
+      "sport": "tennis",
+      "competition": "australia open",
+      "date": {
+        "day": "21/01/2025",
+        "time": "04:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "quarters",
+      "teams": {
+        "home": "quarters"
+      },
+      "sport": "tennis",
+      "competition": "australia open",
+      "date": {
+        "day": "21/01/2025",
+        "time": "09:00",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1737389129703
 }
