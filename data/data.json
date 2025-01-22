@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "title": "leipzig - sporting",
-      "teams": {
-        "home": "leipzig",
-        "away": "sporting"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "22/01/2025",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "shakhtar donetsk - stade bretois",
-      "teams": {
-        "home": "shakhtar donetsk",
-        "away": "stade bretois"
-      },
-      "sport": "soccer",
-      "competition": "uefa champions league",
-      "date": {
-        "day": "22/01/2025",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "src=\"https://static.futbolenlatv.com/img/32/20171009063756 - champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\"",
-      "teams": {
-        "home": "src=\"https://static.futbolenlatv.com/img/32/20171009063756",
-        "away": "champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\""
-      },
-      "sport": "soccer",
-      "competition": "src=\"https://static.futbolenlatv.com/img/32/20171009063756-champions-league.webp\"title=\"champions league\" class=\"js-webp-default\"m.l. campeones 1080 multiaudiom.l. campeones 1080 multiaudiom.l. campeones  1080pm.l. campeones 720m.l. campeones 2 1080m.l. campeones 2 720",
-      "date": {
-        "day": "22/01/2025",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
-      "title": "src=\"https://static.futbolenlatv.com/img/32/20171009063756 - champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\"",
-      "teams": {
-        "home": "src=\"https://static.futbolenlatv.com/img/32/20171009063756",
-        "away": "champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\""
-      },
-      "sport": "soccer",
-      "competition": "src=\"https://static.futbolenlatv.com/img/32/20171009063756-champions-league.webp\"title=\"champions league\" class=\"js-webp-default\"m.l. campeones 1080 multiaudiom.l. campeones 1080 multiaudiom.l. campeones  1080pm.l. campeones 720m.l. campeones 3 1080m.l. campeones 3 720",
-      "date": {
-        "day": "22/01/2025",
-        "time": "18:45",
-        "zone": "cet"
-      },
-      "channels": []
-    },
-    {
       "title": "valencia - aris",
       "teams": {
         "home": "valencia",
@@ -883,5 +823,5 @@
       "channels": []
     }
   ],
-  "updated": 1737581634146
+  "updated": 1737583490650
 }
