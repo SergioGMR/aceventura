@@ -1,4 +1,1037 @@
 {
-  "data": [],
-  "updated": 1737505128989
+  "data": [
+    {
+      "title": "keys - svitolina",
+      "teams": {
+        "home": "keys",
+        "away": "svitolina"
+      },
+      "sport": "tennis",
+      "competition": "australia open",
+      "date": {
+        "day": "22/01/2025",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "navarro - swiatek",
+      "teams": {
+        "home": "navarro",
+        "away": "swiatek"
+      },
+      "sport": "tennis",
+      "competition": "australia open",
+      "date": {
+        "day": "22/01/2025",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "shelton - sonego",
+      "teams": {
+        "home": "shelton",
+        "away": "sonego"
+      },
+      "sport": "tennis",
+      "competition": "australia open",
+      "date": {
+        "day": "22/01/2025",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sinner - de miñaur",
+      "teams": {
+        "home": "sinner",
+        "away": "de miñaur"
+      },
+      "sport": "tennis",
+      "competition": "australia open",
+      "date": {
+        "day": "22/01/2025",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "heat - blazzers",
+      "teams": {
+        "home": "heat",
+        "away": "blazzers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "22/01/2025",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123414 - australia.webp\" vs title=\"open australia\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123414",
+        "away": "australia.webp\" vs title=\"open australia\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123414-australia.webp\"title=\"open australia\" class=\"js-webp-default\"eurosport 1 1080--",
+      "date": {
+        "day": "22/01/2025",
+        "time": "01:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123414 - australia.webp\" vs title=\"open australia\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123414",
+        "away": "australia.webp\" vs title=\"open australia\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123414-australia.webp\"title=\"open australia\" class=\"js-webp-default\"eurosport 1 1080--",
+      "date": {
+        "day": "22/01/2025",
+        "time": "04:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123414 - australia.webp\" vs title=\"open australia\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123414",
+        "away": "australia.webp\" vs title=\"open australia\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123414-australia.webp\"title=\"open australia\" class=\"js-webp-default\"eurosport 1 1080--",
+      "date": {
+        "day": "22/01/2025",
+        "time": "09:05",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20130727123414 - australia.webp\" vs title=\"open australia\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20130727123414",
+        "away": "australia.webp\" vs title=\"open australia\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20130727123414-australia.webp\"title=\"open australia\" class=\"js-webp-default\"eurosport 1 1080--",
+      "date": {
+        "day": "22/01/2025",
+        "time": "11:20",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "besiktas - athletic club",
+      "teams": {
+        "home": "besiktas",
+        "away": "athletic club"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "22/01/2025",
+        "time": "16:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20231214134715 - europa-league.webp\" vs title=\"europa league\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20231214134715",
+        "away": "europa-league.webp\" vs title=\"europa league\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20231214134715-europa-league.webp\"title=\"europa league\" class=\"js-webp-default\"m.l. campeones 1080 multiaudiom.l. campeones 1080 multiaudiom.l. campeones  1080pm.l. campeones 720",
+      "date": {
+        "day": "22/01/2025",
+        "time": "16:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "wolves - gran canaria",
+      "teams": {
+        "home": "wolves",
+        "away": "gran canaria"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "22/01/2025",
+        "time": "18:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "leipzig - sporting",
+      "teams": {
+        "home": "leipzig",
+        "away": "sporting"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "22/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "shakhtar donetsk - stade bretois",
+      "teams": {
+        "home": "shakhtar donetsk",
+        "away": "stade bretois"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "22/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20171009063756 - champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20171009063756",
+        "away": "champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20171009063756-champions-league.webp\"title=\"champions league\" class=\"js-webp-default\"m.l. campeones 1080 multiaudiom.l. campeones 1080 multiaudiom.l. campeones  1080pm.l. campeones 720m.l. campeones 3 1080m.l. campeones 3 720",
+      "date": {
+        "day": "22/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20171009063756 - champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20171009063756",
+        "away": "champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20171009063756-champions-league.webp\"title=\"champions league\" class=\"js-webp-default\"m.l. campeones 1080 multiaudiom.l. campeones 1080 multiaudiom.l. campeones  1080pm.l. campeones 720m.l. campeones 2 1080m.l. campeones 2 720",
+      "date": {
+        "day": "22/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "valencia - aris",
+      "teams": {
+        "home": "valencia",
+        "away": "aris"
+      },
+      "sport": "basketball",
+      "competition": "eurocup",
+      "date": {
+        "day": "22/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "partizan - paris",
+      "teams": {
+        "home": "partizan",
+        "away": "paris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "22/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "arsenal - dinamo zagreb",
+      "teams": {
+        "home": "arsenal",
+        "away": "dinamo zagreb"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "celtic - young boys",
+      "teams": {
+        "home": "celtic",
+        "away": "young boys"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "feyenoord - bayern",
+      "teams": {
+        "home": "feyenoord",
+        "away": "bayern"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "milan - girona",
+      "teams": {
+        "home": "milan",
+        "away": "girona"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "psg - manchester city",
+      "teams": {
+        "home": "psg",
+        "away": "manchester city"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - salzburg",
+      "teams": {
+        "home": "real madrid",
+        "away": "salzburg"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "simulcast",
+      "teams": {
+        "home": "simulcast"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "sparta prague - inter",
+      "teams": {
+        "home": "sparta prague",
+        "away": "inter"
+      },
+      "sport": "soccer",
+      "competition": "uefa champions league",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20171009063756 - champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20171009063756",
+        "away": "champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20171009063756-champions-league.webp\"title=\"champions league\" class=\"js-webp-default\"m.l. campeones 1080 multiaudiom.l. campeones 1080 multiaudiom.l. campeones  1080pm.l. campeones 720m.l. campeones 2 1080m.l. campeones 2 720m.l. campeones 4 1080",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20171009063756 - champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20171009063756",
+        "away": "champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20171009063756-champions-league.webp\"title=\"champions league\" class=\"js-webp-default\"m.l. campeones 1080 multiaudiom.l. campeones 1080 multiaudiom.l. campeones  1080pm.l. campeones 720m.l. campeones 4 1080",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20171009063756 - champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20171009063756",
+        "away": "champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20171009063756-champions-league.webp\"title=\"champions league\" class=\"js-webp-default\"m.l. campeones 1080 multiaudiom.l. campeones 1080 multiaudiom.l. campeones  1080pm.l. campeones 720m.l. campeones 4 1080m.l. campeones 6 1080",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20171009063756 - champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20171009063756",
+        "away": "champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20171009063756-champions-league.webp\"title=\"champions league\" class=\"js-webp-default\"m.l. campeones 1080 multiaudiom.l. campeones 1080 multiaudiom.l. campeones  1080pm.l. campeones 720m.l. campeones 4 1080m.l. campeones 5 1080",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20171009063756 - champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20171009063756",
+        "away": "champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20171009063756-champions-league.webp\"title=\"champions league\" class=\"js-webp-default\"m.l. campeones 3 1080m.l. campeones 3 720m.l. campeones 4 1080",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20171009063756 - champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20171009063756",
+        "away": "champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20171009063756-champions-league.webp\"title=\"champions league\" class=\"js-webp-default\"m.l. campeones 1080 multiaudiom.l. campeones 1080 multiaudiom.l. campeones  1080pm.l. campeones 720m.l. campeones 4 1080",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "src=\"https://static.futbolenlatv.com/img/32/20171009063756 - champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\"",
+      "teams": {
+        "home": "src=\"https://static.futbolenlatv.com/img/32/20171009063756",
+        "away": "champions-league.webp\" vs title=\"champions league\" class=\"js-webp-default\""
+      },
+      "sport": "soccer",
+      "competition": "src=\"https://static.futbolenlatv.com/img/32/20171009063756-champions-league.webp\"title=\"champions league\" class=\"js-webp-default\"m.l. campeones 1080 multiaudiom.l. campeones 1080 multiaudiom.l. campeones  1080pm.l. campeones 720m.l. campeones 4 1080m.l. campeones 720--",
+      "date": {
+        "day": "22/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mavericks - timberwolves",
+      "teams": {
+        "home": "mavericks",
+        "away": "timberwolves"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "23/01/2025",
+        "time": "01:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "women semifinal",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "australia open",
+      "date": {
+        "day": "23/01/2025",
+        "time": "09:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "women semifinal",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "australia open",
+      "date": {
+        "day": "23/01/2025",
+        "time": "11:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "anadolu - milano",
+      "teams": {
+        "home": "anadolu",
+        "away": "milano"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "23/01/2025",
+        "time": "18:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "alkmaar - roma",
+      "teams": {
+        "home": "alkmaar",
+        "away": "roma"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "fenerbahce - lyon",
+      "teams": {
+        "home": "fenerbahce",
+        "away": "lyon"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "glimt - maccabi",
+      "teams": {
+        "home": "glimt",
+        "away": "maccabi"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "hoffenheim - tottenham",
+      "teams": {
+        "home": "hoffenheim",
+        "away": "tottenham"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "malmo - twente",
+      "teams": {
+        "home": "malmo",
+        "away": "twente"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "porto - olympiacos",
+      "teams": {
+        "home": "porto",
+        "away": "olympiacos"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "qarabag - fcsb",
+      "teams": {
+        "home": "qarabag",
+        "away": "fcsb"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "simultcast",
+      "teams": {
+        "home": "simultcast"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "viktoria - anderlecht",
+      "teams": {
+        "home": "viktoria",
+        "away": "anderlecht"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "18:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "pacers - spurs",
+      "teams": {
+        "home": "pacers",
+        "away": "spurs"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "23/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "maccabi - crvena",
+      "teams": {
+        "home": "maccabi",
+        "away": "crvena"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "23/01/2025",
+        "time": "20:05",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "panathinaikos - zalgiris",
+      "teams": {
+        "home": "panathinaikos",
+        "away": "zalgiris"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "23/01/2025",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "virtus - monaco",
+      "teams": {
+        "home": "virtus",
+        "away": "monaco"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "23/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "real madrid - baskonia",
+      "teams": {
+        "home": "real madrid",
+        "away": "baskonia"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "23/01/2025",
+        "time": "20:45",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "eintracht - ferencvaros",
+      "teams": {
+        "home": "eintracht",
+        "away": "ferencvaros"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "elfsborg - nice",
+      "teams": {
+        "home": "elfsborg",
+        "away": "nice"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "ludogorest - midtjylland",
+      "teams": {
+        "home": "ludogorest",
+        "away": "midtjylland"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "manchester united - rangers fc",
+      "teams": {
+        "home": "manchester united",
+        "away": "rangers fc"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "paok - slavia",
+      "teams": {
+        "home": "paok",
+        "away": "slavia"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "rfs riga - ajax",
+      "teams": {
+        "home": "rfs riga",
+        "away": "ajax"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "saint gilloise - braga",
+      "teams": {
+        "home": "saint gilloise",
+        "away": "braga"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "simulcast",
+      "teams": {
+        "home": "simulcast"
+      },
+      "sport": "soccer",
+      "competition": "uefa europe league",
+      "date": {
+        "day": "23/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "mixed doubles final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "australia gp",
+      "date": {
+        "day": "24/01/2025",
+        "time": "02:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "men semifinal",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "australia gp",
+      "date": {
+        "day": "24/01/2025",
+        "time": "04:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "men semifinal",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "australia gp",
+      "date": {
+        "day": "24/01/2025",
+        "time": "09:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "stage 2",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "golf",
+      "competition": "ras al khaimah championship",
+      "date": {
+        "day": "24/01/2025",
+        "time": "09:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "asvel - barcelona",
+      "teams": {
+        "home": "asvel",
+        "away": "barcelona"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "24/01/2025",
+        "time": "20:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "olympiacos - fenerbahce",
+      "teams": {
+        "home": "olympiacos",
+        "away": "fenerbahce"
+      },
+      "sport": "basketball",
+      "competition": "euroleague",
+      "date": {
+        "day": "24/01/2025",
+        "time": "20:15",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "elche - eibar",
+      "teams": {
+        "home": "elche",
+        "away": "eibar"
+      },
+      "sport": "soccer",
+      "competition": "spanish league 2",
+      "date": {
+        "day": "24/01/2025",
+        "time": "20:30",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "las palmas - osasuna",
+      "teams": {
+        "home": "las palmas",
+        "away": "osasuna"
+      },
+      "sport": "soccer",
+      "competition": "spanish league",
+      "date": {
+        "day": "24/01/2025",
+        "time": "21:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "hornets - blazzers",
+      "teams": {
+        "home": "hornets",
+        "away": "blazzers"
+      },
+      "sport": "basketball",
+      "competition": "usa nba",
+      "date": {
+        "day": "25/01/2025",
+        "time": "01:00",
+        "zone": "cet"
+      },
+      "channels": []
+    },
+    {
+      "title": "women final",
+      "teams": {
+        "home": null,
+        "away": null
+      },
+      "sport": "tennis",
+      "competition": "australia open",
+      "date": {
+        "day": "25/01/2025",
+        "time": "09:30",
+        "zone": "cet"
+      },
+      "channels": []
+    }
+  ],
+  "updated": 1737506945150
 }
